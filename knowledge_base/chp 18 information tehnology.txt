@@ -1,0 +1,506 @@
+Lecture- 1
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🎯 Introduction
+Aaj ka lecture previous topics ka continuation hai.
+Focus hai Internal Controls aur unka role financial reporting aur fraud prevention me.
+Auditor jab client ke paas audit karne jata hai to usse har jagah IT-based systems milte hain.
+🛡️ Risk Assessment & Controls
+Jab risk assessment start hota hai to auditor ko internal controls samajhne zaroori hote hain.
+Controls do types ke ho sakte hain:
+Manual Controls – Example: Payment ke liye invoice pe “Paid” ka stamp lagana.
+Automated Controls – Example: Vendor Management System (VMS).
+📝 Example of Manual Control
+Company me rule hai: Koi bhi payment invoice/supporting document ke bina nahi hogi.
+Salary → Salary sheet required.
+Purchases → Invoice required.
+Invoice pe Paid ka stamp lagana zaroori hai taake duplicate payment na ho.
+💻 Example of Automated Control (PTCL – Vendor Management System)
+Auditor ne PTCL se poocha: “How do you ensure ke double payment na ho?”
+PTCL ne bataya: hum use karte hain Vendor Management System (VMS).
+Process:
+Purchase Order (PO) raised – jab koi cheez/service kharidni hoti hai.
+Vendor ko approve list me add kiya jata hai.
+Vendor apni invoice system me upload karta hai (human intervention remove ho jati hai).
+System existence check lagata hai:
+Invoice → PO se match hoti hai ✅
+GRN (Goods Received Note) se verify hoti hai ✅
+Agar sab match ho jaye to system payment allow karega.
+Agar mismatch ho jaye → Payment block ho jati hai.
+🔄 Flow of Transactions (PTCL Case)
+Goods receive hote hi system me GRN (Goods Received Note) generate hota hai.
+Accounting entry:
+Dr. PPE (Asset)
+Cr. GR/IR (Goods Received/Invoice Received) Liability
+Jab actual invoice upload hoti hai aur PO se match hoti hai:
+GR/IR liability convert hoti hai actual liability me.
+Tabhi Bank Payment Voucher generate hota hai.
+CFO approval deta hai aur vendor ko payment release hoti hai.
+🧩 Separation of Duties
+Fraud avoid karne ke liye different departments responsible hote hain:
+Purchase Dept → PO banata hai.
+Stores/Inspection → Goods receive karke GRN banata hai.
+Finance Dept → Payment settlement karta hai.
+Is separation se fraud aur misstatement ka risk reduce hota hai.
+🔄 Automated Process Flow
+Auditor ne explain kiya ke system itna automatic design hota hai ke bina proper liability record kiye Bank Payment Voucher (BPV) generate hi nahi hota.
+Example: Invoice upload → match with Purchase Order (PO) ✅ → debit vendor table → phir hi BPV generate hoga.
+Agar liability exist nahi karti → system error throw karega (on-screen error message ❌).
+🧾 Invoice & PO Matching
+Invoice system me upload hoti hai → PO ke sath auto-match hoti hai.
+Agar vendor ne duplicate invoice dal di:
+System bolega: “Invoice number already exists” ⚠️
+Agar invoice amount > PO amount → system limit check karega 🚫
+Matlab system har jagah control laga raha hai:
+Existence Check
+Limit Check
+👨‍💼 CFO ka Role
+CFO ke paas BPV tabhi jayega jab sari checks clear ho chuki hongi ✔️
+Isliye CFO tension-free hota hai 😎
+🔐 Types of Controls in Process
+Existence Check → Duplicate invoice ya entry rokna.
+Limit Check → PO ke upar amount allow nahi hota.
+Matching Controls → PO, GRN (Goods Receipt Note) aur Invoice teeno ka match hona.
+Error Messages → Agar koi issue hai to system turant block kar deta hai.
+🏭 Real-World Example: PTCL SAP System
+PTCL audit me team ko pehle SAP ka pura model samjhaya gaya.
+Auditor ko IT expert nahi banna, lekin IT-based controls samajhna zaroori hai.
+System-based controls → prevent fraud & errors automatically 🔒
+🤝 Manual vs IT Controls
+Manual controls abhi bhi exist karte hain → jaise ek banda GRN aur liability reconcile kare.
+Lekin automated controls fraud detection aur prevention zyada strong bana dete hain.
+🔗 Fraud Linkage
+Fraud risk: “Payment has been made for goods not received” 🚚💸
+Automated controls prevent karte hain:
+Invoice bina GRN ke process nahi hoti.
+Related party transactions bhi isi system se pass hoti hain → sirf board approval ka extra step hota hai 📝.
+🔹 Controls ka concept:
+Agar process clear hoga tabhi control effective hoga ✅
+Example: PTCL aur Vendor case.
+Manual control: Invoice chipka dete thay — weak control.
+Automated control: System allow hi nahi karta jab tak PO match na ho 🖥️.
+🔹 Limit Check Control 💰:
+Payment process me lagta hai.
+Agar certain amount se upar ho jaye → system allow hi nahi karta 🚫.
+Preventive control: Pehle hi rok deta hai.
+Exception Report: Jab allow kar deta hai aur baad me report generate hoti hai 📑 (detective control).
+🔹 Invoice Upload Process 🧾:
+Invoice sirf management system portal pe upload hoti hai.
+System automatically PO aur Invoice match karta hai ✅.
+Agar mismatch ho jaye → upload hi nahi hoti ❌.
+🔹 Preventive vs Detective Controls ⚖️:
+Preventive: System upfront rok deta hai (e.g., amount > limit).
+Detective: Exception report generate hoti hai → baad me rectify karte hain.
+🔹 PTCL Case Study 📊:
+Auditor ne live test kiya invoice upload ka.
+Invoice me higher amount dala → system ne reject kar diya ✅.
+PO aur Invoice ka strict matching → Collusion avoid hoti hai.
+Every entry ka log maintain hota hai (kisne entry ki, kisne approve ki etc.) 📋.
+🔹 Limit Check ka aur ek Example:
+Credit Sales transaction me bhi lagta hai.
+Before sale → Credit Officer check karta hai ki customer limit ke andar hai ya nahi 🏦.
+Lecture- 2
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+📌 Recap from Last Class
+Last lecture me auditor ne samjhaya tha ke IT (Internal Controls) auditor ki zindagi me bohot important hote hain.
+Manual controls ka example diya tha: Duplicate payment ko stop karne ke liye invoice pe stamp lagana 📝.
+Lekin manual me issues hote hain → isliye ab automation aur system-based controls use kiye jate hain ⚙️.
+🏭 Vendor Management & Invoice Process
+Example: PTCL ka Vendor Management System.
+Process:
+Vendor portal pe login karta hai 🔑
+Apna PO number dalta hai 📄
+Invoice upload karta hai 📤
+System auto-match karta hai:
+PO ✅
+GRN (Goods Receipt Note) 📦
+Invoice 🧾
+Agar mismatch ho:
+Duplicate invoice → “Already exists” ⚠️
+Invoice amount > PO → Limit Check Error 🚫
+💳 Payment Process & Controls
+Jab PO aur Invoice match hote hain → Liability record hoti hai.
+Uske baad hi Bank Payment Voucher (BPV) generate hota hai 🏦.
+Agar invoice genuine nahi hai → BPV generate hi nahi hota ❌.
+Controls applied:
+Existence Check → Duplicate rokta hai
+Limit Check → Amount exceed na kare
+Matching Control → PO, GRN & Invoice 3-way match 🔗
+🔐 Physical & Logical Access Controls
+Sirf system ke andar hi nahi, physical controls bhi important hain:
+Physical Access: Kisi ko unauthorized entry se rokna (e.g., swipe card system, biometric, lock & key 🔑).
+Logical Access: Sirf authorized IDs ko data ya files access karne dena (e.g., cloud access, restricted drives ☁️).
+⚖️ Preventive vs Detective Controls
+Preventive Control → Problem hone se pehle hi stop kar deta hai ✅
+e.g., Duplicate invoice upload hi nahi hoti.
+Detective Control → Problem hone ke baad detect karta hai 🔎
+e.g., Exception report generate hoti hai.
+🌍 Real-World Link
+Auditor ko IT expert banna zaroori nahi, lekin IT-based controls samajhna must hai 📚.
+Automation se fraud aur errors prevent hote hain 💡.
+Example: PTCL SAP system → Har invoice & PO strictly system match karta hai.
+🏢 Internal Control Example (Access Control)
+Ek card aur thumb system ka example diya:
+Card kisi aur ko dia jaa sakta hai ✅
+Thumb (biometric) forward nahi kiya jaa sakta ❌
+Purpose: Prevent unauthorized access.
+Agar 802 employees andar aa rahe hain → additional chowkidar (compensating control) bitha dia jata hai 👮
+🧾 Bank Payment Voucher (BPV) Mechanism
+Manual system:
+Pre-numbered voucher banta hai → invoice & vendor detail mention hoti hai.
+Automated system:
+Voucher tabhi generate hoga jab vendor invoice upload karega.
+Preventive control → agar invoice upload na ho to process ruk jata hai 🚫
+Collusion prevention:
+Agar vendor aur staff collude karein to unke khud ke paise risk par lagte hain.
+🔐 Control Classification
+Preventive Control → Issue ko hone se pehle rokna.
+Example: Voucher invoice ke bagair generate na hona.
+Detective (Existence Check) Control → Verify karna ke jo entry ho rahi hai wo valid hai.
+Example: Petrol dalne se pehle system existence check lagata hai.
+Physical Access Control → Unauthorized entry rokna.
+Example: Thumb impression system.
+🌐 Two Types of Controls
+General Controls: Overall system ke liye → e.g., passwords, user access rights 🔑
+Application Controls: Specific application ke liye → e.g., bank loan management app me debt ratio check 📊
+📱 Daily Life Example
+Mobile Password (General Control) → Protects overall device.
+Facebook App Lock (Application Control) → Protects only specific app.
+🏦 Bank Example (Loan Application)
+Customer loan apply karta hai → system ke through assessment hoti hai:
+Past defaults check ✔️
+Other bank loans ✔️
+Debt-to-income ratio calculation ✔️
+Bank statement analysis ✔️
+Application Control ka role: Ensure only eligible customers get loan approval.
+🔑 Key Concept: Application vs General Controls
+Application Control: Specific ek application ke liye, jaise EasyPaisa ka loan management system.
+General Control: Overall system control, jo ensure karta hai ke application controls sahi se kaam kar rahe hain.
+Agar general control fail ho jaye → application control check karna meaningless ho jata hai ⚠️
+🛡️ Control Failures & Audit Implications
+Agar system me koi bhi user unauthorized access le sakta hai aur lock maintain nahi hai → limitation.
+Audit ka kaam: control failure identify karna, impact assess karna, aur alternative procedures suggest karna.
+Example: EasyPaisa credit assessment module:
+Developer rights properly control nahi → unauthorized change ka risk.
+Journal maintained hai, lekin access logs incomplete → accountability me issue.
+🔧 Developer & User Rights
+Developer Rights: Sirf zarurat ke liye assign kiye jate hain.
+Change Logging & Locking: Har change ka audit trail hona chahiye: kisne request ki, kisne approve ki, kisne implement ki.
+Agar general control sahi nahi → application control ke results unreliable ho jate hain.
+Multiple users changes kar rahe ho → role-based access & logging required hai.
+💻 Application Example: EasyPaisa Loan
+AI-driven credit scoring check karta hai user’s transaction history, balance, aur spending patterns.
+Normal cases me human intervention nahi → application control ensure karta hai correct processing.
+Audit steps:
+Pehle general controls test karo (user access, system security).
+Phir application controls test karo (loan amount validation, credit scoring rules).
+Agar general control fail → application control test results unreliable.
+🔑 Key Concept: General Control & Application Control
+General Control: System-wide control jahan har kisi ka access properly regulated ho. Agar kisi ko full access hai → he/she can do anything in the system.
+Application Control: Specific application ka control, jaise salary system ya payroll system.
+Physical Access Control: Example: Koi bhi banda survey documents utha ke na le jaaye.
+🛡️ Control Examples & Testing
+Developer vs ID Owner: Developer rights limited, ID owner changes ko approve karega.
+Input Validation & Processing Control: Time-out mechanisms, limit checks, exception reports.
+Preventive Controls: Errors ko process hone se pehle rokta hai.
+Detective Controls: Exception report ke zariye alert deta hai agar process me koi anomaly aaye.
+💻 Application Control Scenarios
+Salary System Example: Input validation for payroll, range checks, batch totals.
+Duplicate Invoice Payments: Preventive control lagana chahiye taake duplicate na ho, notification control active.
+PTCL / Zong Example: Jungle controls ke bina application controls reliable nahi; general control pehle test karna zaruri.
+Range & Limit Checks: Employee weekly hours ya salary ke liye, ensures fairness and prevents underpayment/overpayment.
+🔑 Key Concepts: Application & General Controls Continued
+Agar apko koi cheez change karwani ho employees ke data me, to application control use hota hai. Testing aur technology ke steps follow karne ke baad hi live hota hai.
+Deletion ya modification ki authority sirf ID ke paas honi chahiye, developer ke paas nahi.
+Example: Payroll system me salary change ya limit check ke liye head of sales ya authorized person ka access required.
+🛡️ Control Examples
+Input Authorization Control: Sales price ya salary input sirf authorized person kar sakta hai.
+Range Check: System me limit set hoti hai, jaise salary minimum aur maximum ke beech me ho.
+Back Total Control: Multiple items ka total verify karna jaise purchase orders (PO) me.
+Segregation of Duties: Developer aur user alag honi chahiye, training aur guidelines follow karni chahiye.
+Physical Access Control: Kisi ka laptop ya mobile sirf authorized user use kare.
+💻 Application Scenario
+Vendor management system me PO ke alag alag items ka control lagaya ja sakta hai.
+Payroll system me authorization, range check aur testing ke baad hi live entry hoti hai.
+System design ID standards aur security protocols ke hisaab se honi chahiye.
+Example: School portal me teachers ka access limited hona chahiye aur download/delete options track hone chahiye.
+🔧 Disaster Recovery & Backup
+Backup Management: Developer alag, user alag, proper recording aur continuous backup required.
+Service Level Agreement (SLA): Backup aur recovery ke liye clear SLA hone chahiye.
+Recovery Testing: Ensure ki delete ya change operations ke baad bhi data recoverable ho.
+Lecture- 3
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔑 Key Concept: Control Weakness & IT Control
+Pehle question ki requirement samjho: Control weaknesses identify karo aur unka potential impact assess karo.
+Example: Eco-friendly packaging aur government grant situation me controls lagana.
+Manual vs automated ID control:
+Manual: Approval by relevant person (jaise Head of Finance)
+Automated: System automatically access & posting rules enforce karega
+🛡️ Control Identification Steps
+Identify control weaknesses in current process.
+Assess potential impact.
+Determine jahan manual ID controls apply ho sakte hain.
+Specify relevant person for control (legal ya finance expert agar zarurat ho).
+Segregation of duties: Same person multiple sensitive tasks na kare.
+💻 Example Scenario: Government Grant Processing
+Grant application receive hui → legal expert ke through review aur sign hona chahiye.
+Financial monitoring → Head of Finance ensure kare compliance.
+System me grant entry record hota hai specific GL me taake misposting na ho.
+Limited access to grant GL ensures ID control aur errors prevent hote hain.
+Existence check control: Entry tabhi post hogi jab correct asset/project ke sath mapped ho.
+Result: Sirf authorized aur trained personnel hi grant record kar sakte hain, misstatements prevent hote hain.
+🔧 Application & Logic
+ID Control Logic: User access specific areas (GL, modules) tak limit karna → error/fraud kam hota hai.
+Check control example: Grant entry tabhi post hogi jab asset/project verify ho.
+Audit connection: Controls ensure karte hain ke income recognition aur grant conditions ka compliance sahi ho.
+Segregation: Admin routine entries handle kar sakta hai lekin system logic override nahi kar sakta.
+Benefit: Unauthorized ya incorrect entries prevent hoti hain, audit trail aur compliance maintain hota hai.
+🔑 Key Concept: ID Control & Application
+Idea ye hai ke ID control lagana hai system pe: kaunse areas me ID control use ho sakta hai.
+Input authorization clear honi chahiye: koi unauthorized person data input na kar sake.
+Default grant income ko financial statement me reflect karna according to system mapping.
+🛡️ ID Control Steps & Logic
+Limit check control apply karna: Agar asset ka balance nahi hai to grant appear nahi hogi.
+Best total control: System automatically calculate kare grant vs expenditure per asset.
+Segregation of duties:
+Ek person calculate kare
+Dusra review kare
+Existence check control: Entry tabhi post hogi jab asset/project verified ho.
+Application in reporting:
+Sales, local vs export, discount reports me control lag sakta hai.
+Automatic batch total generate kare, errors prevent kare.
+💻 Example Scenario: Grant vs Expenditure
+Check grant received vs expenditure incurred.
+Apply manual + automated ID control:
+Manual: Calculation by finance/admin staff
+Automated: System ensures totals match and no overposting
+Reporting: Monthly review, segregation of duties ensures accurate compliance.
+System prevents unauthorized changes and ensures audit trail.
+🔧 Application & Logic
+Purpose: Ensure grant utilization not exceeding allocated amount.
+Procedure:
+Retrieve grant schedule & bank statement.
+Map grant to correct GL (default + verified entries).
+Calculate and monitor expenditures.
+Check compliance with terms & conditions.
+Outcome: Only relevant personnel can record/report grant; automatic controls enforce accuracy.
+🔑 Key Concept: Focus, ID Controls & Application
+Tension nahi lene ka, focus learning pe rakhna.
+Sampling aur definition: Sirf marks ke liye 10% follow karo, rest automatically clear ho jata hai.
+Application pe tension mat lagao, bas procedure samajh lo.
+🛡️ ID Control System
+ID control system me functional grant receive check hona chahiye.
+Existence control: Grant income me tab post hoga jab asset/project tag ho aur asset received ho.
+Application control example:
+Depreciation calculation check control.
+General control me system check automatically hota hai.
+💻 Grant & Expenditure Scenario
+Multiple assets ke liye multiple expenditure entries.
+Best total calculation: System automatically grant ke against expenditure total calculate kare.
+Agar ek asset pe multiple expenditures hain, separate calculate karne ki zarurat hai, system match kare percentage-wise.
+Finance & Admin:
+Finance: Expenditure review.
+Admin: Routine data entry.
+Segregation of duties ensures accurate reporting.
+🔧 Application Control Logic
+System me ID control: Asset ke liye only authorized personnel can post grant income.
+Expenditure ke liye batch totals / limit checks: Grant ke against expenditure exceed na ho.
+Application control ensures:
+Correct posting of grant.
+Accurate reporting to government.
+Avoid misstatement or misuse of funds.
+🔑 Key Concept: Application Controls & Input/Output Authorization
+Application controls system ke andar operate hoti hain, jahan input aur processing dono stage pe controls lagte hain.
+Input stage: Data store hone se pehle control apply hona chahiye, jaise input authorization, login requirements, digital signature.
+Processing stage: Ensure correctness of data processing. Processing errors detect honi chahiye aur system me save properly ho.
+Example: Salary input ke liye range test control lagana jisse limit exceed na ho.
+🛡️ Input Authorization
+Har user ke liye authorization required.
+Controls lagaye jaate hain: password, digital signature, role-based access.
+System automatically unauthorized data ko reject kare.
+Example: National financial system me user input ke liye authorization aur validation rules implement kiye jaate hain.
+📊 Range Test & Limit Controls
+Input data ka range test lagaya jata hai jisse limit ke andar hi data enter ho.
+Example: Payroll me salary upper limit exceed nahi kar sakti.
+Exception record generate hota hai agar data range se bahar ho.
+System automatically alert generate karta hai.
+🏦 Inventory & Financial Controls
+Inventory management: Available stock se zyada issue na ho.
+Billing/credit: Customer limit check kiya jaye, agar limit exceed ho to order create nahi hoga.
+Aging reports: Balance monitoring ke liye 30/60/90 days ke basis pe alerts aur exception reports generate karna.
+🖥️ Output Controls
+Output ka bhi authorization aur validation hona chahiye.
+Input-output consistency check: jitna input, utna output hona chahiye.
+Example: Vending machine scenario - 50 ke note input, 50 ke note output. Input aur output match hone chahiye.
+Exception reporting: Agar mismatch ho to system alert de.
+Topic: Output Controls & Data Security in Applications
+Checkpoint (Check Point Controls)
+Ye control hota hai jo user ko allow karta hai data safe karne ke liye.
+Jaise game me checkpoints hote hain, waisa hi application me hota hai.
+Purpose: Ensure data save correctly, avoid loss.
+Output Controls
+Output processing ke baad har report ya result ko limited access me rakhna.
+Confidentiality maintain karni hai: sabko access nahi.
+Example: PTCL reports, Ufone subscribers data - only authorized person access kare.
+Output ko password-protected aur acknowledgement ke sath distribute karna.
+Processing & Readability
+Data processing readable aur understandable hona chahiye.
+Lock mechanism ensure kare ki koi unauthorized access na ho.
+Confidential info leak na ho: only authorized users hi data dekhein.
+Master Data Controls
+Output data ko store aur update karna zaroori hai (Live Update).
+Example: Bank deposit, loan info, check issuance - data real-time update hona chahiye.
+Application controls ensure: transaction delete na ho, balance check ho, limit exceed na ho.
+Exception & Comparison Controls
+Monthly data compare kare with previous months.
+Variations detect ho aur immediate investigation ho.
+Example: Payroll comparison, aging reports - automated checks lagaye jaye.
+Authorization & Limited Access
+Limited access based on roles.
+Output acknowledgement required.
+Example: Retail forms - only authorized view.
+Backup & Recovery
+Data process hone ke baad backup maintained ho.
+Ensure operational continuity aur prevent data loss.
+Lock Mechanism for Changes
+Track all changes.
+Lock implement kare for unauthorized changes.
+Compare request vs actual changes to detect anomalies.
+Integration with General Controls
+Application level output controls integrate ho with general IT controls.
+Example: Limited access, backup, exception reports - all connected.
+Lecture- 4
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔑 Key Concept: Control Application, Access & Electronic Data
+Pehle focus karo: control objective kya hai, control ka sirf naam ya application nahi.
+Example: Customer ke credit limit aur warehouse balance ke liye control lagana.
+🛡️ Access & Authorization Controls
+Ability to set access: Role-based access control lagana.
+Input authorization: sirf authorized users data enter karein.
+Passwords aur digital signatures zaroori.
+Example: System me user ko specific module access aur posting rights hi milein.
+📊 Range Test & Limit Check
+Input data pe range test lagao: salary, invoice, balance limits.
+Exception record agar limit exceed kare to alert generate ho.
+Batch total aur limit check: Multiple invoices same customer pe exceed na ho.
+Example: 15 din se zyada pending balance → automatic alert.
+💻 Automated vs Manual Checks
+Manual: Staff calculate/review kare, verify kare.
+Automated: System automatically calculate kare, exceptions alert kare.
+Segregation of duties ensure kare ki ek hi person error/misuse na kare.
+🖥️ Output & Exception Reporting
+Output controls: Reports limited access me ho, authorized personnel hi dekhein.
+Exception reports: Balance mismatches, limit exceed alerts.
+Example: Warehouse balance monitoring: System automatic alerts send kare management ko.
+🔧 Application & Control Logic
+Control objective: detect aur prevent errors/fraud, not sirf total match karna.
+Best practice: Batch totals, exception reports, automated alerts.
+System should integrate with general IT controls: backup, authorization, audit trail.
+Data accuracy aur security ensure karna: only correct data authorized hands me jaaye.
+🌐 Electronic Data Exchange (EDE)
+Historical perspective: Pehle manual letters aur memos; ab electronic communication zyada.
+Electronic Data Interchange (EDI): Secure, authorized data exchange.
+Risk: Data unauthorized hands me na jaye.
+Control examples:
+Data lock & track changes.
+Backup & recovery process.
+Stress testing system to ensure it handles load.
+🔑 Key Concept: Data Transmission & Encryption Controls
+Data Transmission Control: Jab bhi sensitive data share hota hai, ensure karo ke confidential rahe aur unauthorized access na ho.
+Methods of securing data:
+Password-protected files: Basic level of protection.
+Encryption: Convert data into unreadable format (1010 binary or coded language) → Only intended recipient can decrypt.
+🔐 Types of Encryption
+Symmetric Encryption:
+Single key/password for encryption & decryption.
+Example: Data send karo → Recipient ke paas same password → Data decrypt kare.
+Asymmetric Encryption:
+Alag keys for encryption & decryption.
+Sender encrypts with public key → Recipient decrypts with private key.
+Application: Different files can use different methods (some symmetric, some asymmetric) depending on sensitivity.
+🛡️ Data Transmission Scenarios
+Confidential financial data: e.g., payroll, bank transfers.
+Secure transfer requirement: Ensure data only reaches intended recipient.
+Authentication codes: Required to access data. Without code, recipient cannot read/receive data.
+Example: Mobile-based transaction code for rural areas (EasyPaisa, wallet). Sender provides code → Recipient verifies → Transaction completes.
+🖥️ Controls for Sensitive Data
+Access Control: Only authorized personnel can access data.
+Acknowledgement Code: Recipient must confirm receiving/reading data.
+Audit Trail: Sender can verify if recipient opened/read the email.
+Application in Payroll:
+Employee removal from payroll after leaving organization.
+Removal triggers an acknowledgement code for verification.
+Notification Systems: Inform sender when recipient reads the message/email.
+💻 Real-life Examples & Applications
+Email: Important confidential emails sent with encryption & acknowledgement code.
+Mobile Transaction (EasyPaisa): Transaction cannot proceed without entering authentication code.
+Tracking access: Sender can confirm if recipient opened/read the information.
+Integration with ID control: Authentication code acts as input authorization control.
+Topic: Data Transmission, Network Security, Program Control, Micro vs Inline Systems
+1️⃣ Data Security & Control Measures
+Network Security:
+Apne network ko secure rakhna zaroori hai, warna kisi ke paas password hoga to hacking ho sakti hai.
+Wi-Fi ya public network se connect hone se risk zyada hai.
+Personal devices ko organizational network se connect na karein bina authorization.
+Authentication & Encryption:
+Data ko encrypt karke aur authenticated codes ke saath transfer karein.
+Program control ensures data format consistency.
+Real-time monitoring aur update check zaroori hai.
+Program Control:
+Data transfer ka program control lagana zaruri hai.
+Data ka format check hota hai aur sender & receiver ke versions match hone chahiye.
+Authentication codes use kar ke ensure kiya jata hai ki data correct aur secure hai.
+2️⃣ Payroll & Transaction Example
+Example of controlling sensitive payroll data:
+Employee resigns → removal from department & payroll.
+Acknowledgment codes ensure that the receiving person has actually received and read the information.
+Helps prevent errors and unauthorized access.
+Lesson:
+Controlled data transmission ensures no financial loss and proper tracking.
+3️⃣ Micro Systems vs Inline (Integrated) Systems
+Micro (Non-Integrated) Systems:
+Not centralized; branch-wise independent.
+Example: State Life Insurance – each branch had separate ledgers; consolidation at head office.
+Issues: version mismatch, incomplete data, more chances of error.
+Inline / Integrated Systems:
+Centralized & real-time.
+All branches work on same version; data immediately reflects in head office.
+Pros: accurate, consistent, timely.
+Cons: expensive, requires high-end training.
+Real-Life Example:
+Bank loans and income book: prior suspension → reversal per new regulation.
+Micro system: reconciliation issues, delays.
+Integrated system: real-time, fewer errors.
+4️⃣ Password & Logical Security
+Password change reminder: every 15 days to prevent unauthorized access.
+Logical security ensures that confidential data is safe even if someone sees the physical environment.
+Automated notifications to users for compliance.
+1. Old vs New System Analysis
+Purani system centralized nahi thi, har branch apni records maintain karti thi.
+Naya system centralized hai, better control, real-time feedback aur data accuracy ⚡.
+Microcomputer system expensive 💰, require training aur downtime risk ⚠️.
+2. Data Management & Controls
+Internal Order Department: yearly branch visits for verification 🏢.
+Importance of backup, antivirus 🛡️, and secure software.
+Program controls ensure data translation, authentication & encryption 🔒.
+3. Analytical Procedures
+Agriculture loans data from 2019-2024 analyzed using analytical tools 📊.
+System identifies active portfolio, overdue days, maturity dates 🗓️.
+Efficient handling: 6 lakh loans, 5 years, single process using computer assistant technique 💻.
+4. System Interaction
+Client-side control: client manages the system 🧑‍💼.
+Global monitoring system for audit compliance & quality checks ✅.
+Real-time interactive system gives feedback based on user inputs ⚡.
+Independence check & documentation review integrated 📝.
+5. Audit & Reporting
+Check portfolio for overdue loans, provisioning, and write-offs.
+Ensure financial & non-financial information connection 🔗.
+Reports prepared using computer tools for large datasets 💻.
+Interactive system compares firm’s data with industry data for performance check 📊.
+6. AI & Intelligent Systems Usage
+AI assists in analysis, reduces manual effort 🤖.
+System can calculate ratios, detect errors, and auto-generate outputs ⚡.
+Both AI and interactive systems ensure accountability & efficiency ✅.

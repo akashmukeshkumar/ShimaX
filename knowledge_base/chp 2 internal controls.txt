@@ -1,0 +1,2841 @@
+Lecture- 1
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔑 Topic: Internal Control
+➡️ Internal control ka basic matlab hai:
+Policies & Procedures (قاعدے قوانین) ✅
+Organization banata hai apne objectives achieve karne ke liye
+Objectives: fraud avoid karna, error minimize karna, assets safe rakhna 💡
+📌 Core Definition:
+Internal Control = Policies + Procedures jo ensure karte hain:
+Fraud na ho ❌
+Error na ho ❌
+Cheezen properly manage hon ✅
+🧩 Example (Receivables & Bad Debts):
+Objective: Avoid Bad Debts 🛑
+Control: Credit policies banaana
+Naye customer ko check karna ✔️
+Uski financial health assess karna 💳
+Guarantee lena dusre party se 🔒
+➡️ Agar ye control na ho → har kisi ko udhaar de dena = risk of bad debts ⚠️
+🔑 Internal Control – Receivables
+➡️ Controls on Receivables:
+Credit Limit ✅
+New customer ko limit assign hoti hai (e.g., 5 lakh).
+Agar 4 lakh already le chuka hai → sirf 1 lakh ka udhaar allowed.
+Aging Report 📊
+Report batati hai har invoice kitne din purani hai.
+Example: 1 Jan ko sale hui, 30 days ka credit → 30 Jan due.
+Agar June tak outstanding hai → aging report me months ke hisaab se show hoga.
+Purpose: Identify karo kitni invoices overdue hain aur kab se.
+Recovery Officer 👨‍💼
+Sirf aging report banana kaafi nahi.
+Recovery officer appoint hota hai jo overdue payments collect kare.
+📌 Control Objective
+Har policy/procedure ka ek objective hota hai.
+Example: Credit limit, aging report, recovery → objective = avoid bad debts & ensure timely recovery.
+🧐 Auditor’s Responsibility
+Auditor ki duty hai design of controls ko samajhna.
+Do cheezen check karni hoti hain:
+Kya control exist karta hai ya nahi ❓
+Agar exist karta hai to design effective hai ya nahi ✅
+➡️ Example:
+Agar credit limit set karne ka control hai lekin sales rep sirf apna bonus achieve karne ke liye ignore kar raha hai → design effective nahi.
+Independent recovery officer hona chahiye jo ensure kare ke limit aur recovery properly follow ho.
+🔑 Aging Report & Control Design
+Aging report agar sirf month-end pe update hoti hai → issue ⚠️
+Example: Credit period 30 days hai.
+Lekin update month-end pe → effectively 60 days ban jata hai.
+Result: Customer extra time le leta hai → recovery risk ↑
+➡️ Solution: Aging report daily update honi chahiye ✅
+📌 Recovery Issues
+Credit Limit Check fail ho sakta hai agar data timely update nahi.
+Result: Goods sell ho jati hain un-creditworthy customers ko.
+➡️ Bad debts ka major reason = ineffective control design ⚠️
+🏦 Example: Microfinance Bank Audit
+Recovery officers = sales officers.
+Problem: Recovery karte waqt extra kharche (car rent, food, etc.) kar lete the.
+Example: 40k loan recovery → 30k kharch.
+Net loss → bad debts aur zyada ho gaye.
+Action taken:
+Pre-approval from Head of Recovery mandatory.
+Ek hi car use hogi poore region ke liye → cost control ✅
+🧐 Control vs. Control Design
+Control hona aur control ka design effective hona → dono alag.
+Example:
+Recovery officer = sales director ❌
+Sales director kabhi apne customer relation kharab nahi karega.
+Result: Recovery ineffective.
+➡️ Right design = Independent recovery department
+🔑 Key Concepts
+Control existence → Pehle check karo control hai bhi ya nahi. Agar hai hi nahi to design check karne ka faida nahi.
+Design effectiveness → Agar control exist karta hai, tabhi uska design check hoga (e.g., camera warehouse pe laga hai? kis angle pe?).
+Operation of control → Sirf design hona kafi nahi, check karo kya control actually operate ho raha hai ya sirf naam ka hai.
+📊 3 Levels of Control Check
+Existence – Control hai ya nahi?
+Design – Jo hona chahiye wo design correct hai ya flawed?
+Operation – Practical life me control implement ho raha hai ya bas formality?
+🏭 Example (Warehouse/Receivables)
+Warehouse Example: Camera laga hi nahi → control exist hi nahi → test possible nahi.
+Credit Officer Example:
+Credit officer hona chahiye (control exist karta hai ✅).
+Credit limit design ki gayi (design correct ✅).
+Lekin practice me majority cases me credit limit set kiye bina maal issue ho gaya (operation ❌).
+👉 Yahan se samajh aya: Design aur Operation dono alag cheezein hain.
+🔹 Audit Start karne se pehle:
+Dekhna hota hai controls exist karte hain ya nahi ✅
+Agar exist karte hain → check karna ke operate ho rahe hain ya nahi ⚙️
+Ye decide karega ke auditor ko aage zyada kaam karna hai ya kam.
+🔹 Example 1: Camera Control
+Camera exist karta hai lekin wall ki taraf hai → design sahi nahi 🚫
+Agar camera sahi jagah hai but band hai → exist karta hai lekin operate nahi kar raha ❌
+Matlab: Control hona, design theek hona, aur operate karna – teenon alag cheezein hain.
+🔹 Example 2: Credit Officer
+Policy: Credit officer limit assign karta hai.
+Reality: Officer 2 months se absent tha → control exist karta hai but operate nahi kar raha.
+Result: Auditor ko zyada verification karni padegi 📑
+🔹 Important Clarification:
+Auditor jab control test karta hai → wo sirf activity check karta hai, amount ki asal verification alag se hoti hai.
+⚠️ Inherent Limitation of Controls:
+Agar staff jaan bujh ke involve ho jaye aur collusion ho (e.g., mil ke camera off kar dena, chori karna) → phir controls fail ho jate hain.
+Isi wajah se audit hamesha karna zaroori hai 🔍
+Lecture- 2
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔑 Who Implements & Monitors Controls?
+➡️ Controls Implement:
+Implement karta hai Management 👨‍💼
+Objective: fraud aur errors ko avoid karna, financial statements sahi banana.
+➡️ Example Objectives & Controls:
+Receivables ki limit set karna → bad debts avoid karna ✅
+Inventory ke liye camera aur security guard lagana → theft avoid karna ✅
+📌 Monitoring of Control
+TCWG moniter krty ha.
+Agar implementation aur monitoring dono management hi kare → issue ⚠️
+Kyun? Jo implement kar raha hai, wahi apna kaam monitor karega → errors/frauds detect nahi honge.
+🏢 Internal Audit Department
+Team hoti hai jisme accounting/finance background ke log hote hain.
+Kaam: Company ke processes & controls ko monitor/Test karna.
+Report banakar submit karte hain Audit Committee ko.
+➡️ Audit Committee:
+Board of Directors ki banai hui committee.
+Chairman hamesha independent hota hai.
+Internal Audit Department kaam poora saal karta hai aur report karta hai Audit Committee ko.
+Internal Auditors check karte hain ke policies aur procedures follow ho rahe hain ya nahi.
+Lekin final assurance shareholders ko External Auditor deta hai.
+🔑 Testing of Controls
+Agar controls effectively operate kar rahe hain → auditor apna detailed work kam kar deta hai ✅
+Agar controls weak hain → zyada verification karni padegi ❌
+➡️ Is stage pe auditor sirf activities check karta hai, koi amounts verify nahi karta.
+“Yahan maine ek bhi figure check nahi ki, sirf dekha ke activity perform ho rahi hai ya nahi.”
+🏛️ Governance vs. Management
+Directors = part of governance, na ke daily management.
+Unka role: business chalane ke liye nahi, balki governance aur monitoring ke liye hai.
+⚖️ Role of External Auditor
+Internal audit aur audit committee ke kaam ke bawajood, external auditor required hai.
+External auditor:
+Controls ki design & operation ko samajhta hai.
+Jo issues internal audit report me miss ho jayein → unko detect karta hai.
+🔹 Revenue Controls & Assertions
+Management ka daawa (assertion):
+Revenue properly valued hai ✔️
+Revenue accurately recorded hai ✔️
+Revenue actually occurred (genuine) hai ✔️
+Revenue completeness maintain hai ✔️
+🔹 Key Controls in Pricing & Revenue Recording
+Avoid Bad Debts & Wrong Discounts → Objective clear.
+Predetermined Price List →
+Example: 21,000 → live discount → 18,000.
+System mein fixed hota hai (barcode scanning, Imtiaz example).
+Limited excess of system → user price change ni kr skta.
+Automatic discount apply hota hai.
+Risk in Valuation →
+Agar price control hata dia jaye → koi bhi record kr skta hai.
+Misstatement ka risk: Over/Under valuation.
+🔹 Occurrence Assertion
+Revenue tabhi record hoga jab service/product deliver hogi.
+Control: Segregation of Duties (SOD) →
+Jo fee slip bana raha hai, wohi portal access issue nahi krta.
+Different persons handle → fraud risk kam.
+👉 Risk: Agar slip ke baghair access de diya jaye → Fake revenue record ho skta hai ❌.
+🔹 Completeness Assertion
+Har slip ke against access hona chahiye.
+Agar slips aur access ka proper reconciliation nahi hoga → completeness risk.
+🔹 Revenue Recording & Risks
+Agar slip issue hui but access na mila → revenue miss ho sakta hai (understatement risk ⚠️).
+Agar 60 slips record hui lekin actually issue hui 50 → overstatement risk ⚠️.
+Agar 40 record hui lekin issue hui 50 → understatement risk ⚠️.
+Solution: Reconciliation between slips issued & access granted.
+👉 Control: Reconciliation kisi aur se banwayi jati hai (independent check) → fraud/ error detect.
+🔹 Sales Cycle Start
+Customer se Purchase Order (PO) milta hai.
+Sales order department process karta hai.
+Important: Credit limit check hona chahiye before sales.
+Agar new customer hai → unique customer code assign hota hai.
+Example: Credit limit set = Rs. 800,000.
+System control: Limit Check Control → ensure customer ki credit worthiness check ho.
+Credit Limit Control (Limit Check Control)
+Purchase order aata hai → system check karta hai against credit limit.
+Example: Customer ne 6 lakh ka already purchase kia, limit 8 lakh hai → agar 4 lakh ka aur invoice dalenge toh system auto reject karega ❌.
+Isko kehte hain Limit Check Control / Validity Control ✅.
+Authorization & Responsibility
+Credit Officer: credit limit set karta hai aur check karta hai.
+Sales representative ke paas authority nahi hoti limit change karne ki.
+Input Authorization / Limited Access Control 🔒
+Sales rep order banata hai, but system auto picks values (e.g., quantity, price) from approved records.
+Usko modify/change karne ka option nahi hota → Limited Access Control.
+Pricing Control 💲
+Prices must come from approved price list.
+Agar sales rep khud price dal de → control weakness ⚠️.
+Correct design: Discount/price approval specific authority ke through hota hai.
+Gate Pass Analogy 🚪
+Jaise warehouse se bina parchi ke maal nahi ja sakta, waise hi sales order ke bina inventory release nahi hogi.
+Sales Order Numbering (Pre-numbering Control) 🔢
+Sales order automatically system me number assign hota hai.
+Purpose:
+Koi order miss na ho.
+Tracking aur completeness ensure karna.
+Objectives of Sales Order 📋
+Inventory company ke warehouse se bina authorization bahar na jaye.
+Customer order proper track ho (no unfulfilled orders).
+Source of Quantity & Price
+Quantity → customer purchase order se.
+Price → approved price list se.
+Sales Order Copies 🗂️
+Ek order banne ke baad multiple copies banti hain:
+Customer copy 🧾
+Warehouse copy 🏭
+Finance copy 💰
+Important Point
+Sales order ban gaya ≠ Sale record ho gayi.
+Sale tabhi record hogi jab goods deliver honge ✅.
+✅ Assertions Mentioned:
+Completeness Assertion → Pre-numbering ensures no order missing.
+Occurrence Assertion → Sale record tab hogi jab actual delivery hogi.
+Lecture- 3
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔑 Main Concepts Discussed:
+Segregation of Duties (SoD)
+Sales transaction bina process ke record nahi hoti.
+Finance ko delivery note ke bina record karne ki ijazat nahi.
+Warehouse ko mal bina document ke release karna mana hai.
+👉 Is se ensure hota hai ke unauthorized inventory release na ho.
+Purpose of Controls
+Bad debts avoid karna.
+Sales valuation sahi rakhna.
+Unauthorized discount avoid karna.
+Customer satisfaction maintain karna (tracking & numbering system).
+Approved Price List
+Pricing sirf approved price list se honi chahiye.
+Access control lagaya jata hai ke koi unauthorized banda price list change na kare.
+👉 Agar control na ho → risk of wrong valuation of sales.
+Sales Order Tracking
+Sales orders ko unique free number assign karna zaroori hai.
+Purpose: tracking aur pehle order ko pehle fulfill karna (FIFO approach).
+👉 Agar missing ho to customer dissatisfaction aur order tracking issue hoga.
+Quality & Quantity Check before Dispatch
+Goods dispatch se pehle quality aur quantity check honi chahiye.
+👉 Agar na ho:
+Risk of Sales Returns (defected goods).
+Risk of Understatement/Overstatement of Sales agar returns properly record na hon.
+Example: Laptop shop → defective mouse pad deliver, return karna pada.
+⚖️ Assertions Mentioned: - Valuation assertion → Approved price list ensure karti hai ke sales value correct ho.
+- Existence & Completeness assertion → Warehouse bina delivery note ke inventory release nahi karega.
+- Cut-off assertion → Tracking number ensure karega ke orders proper sequence me fulfill hon.
+⚠️ Risks Highlighted: - ❌ Unauthorized sales pricing → Wrong valuation in audit.
+- ❌ No order tracking → Customer dissatisfaction.
+- ❌ No quality check → Sales returns & misstated sales records.
+🔑 Main Concepts Discussed:
+Sales Returns & No Return Policy
+Agar company ki no return policy hai → customer khud check karega before taking goods.
+Otherwise, defective goods return honge → risk of over/understatement of sales.
+Goods Dispatch Note (GDN)
+Bohat important control document.
+GDN ke andar hota hai:
+Quantity supplied 📦
+Sales Order number 📝
+Date 🗓️
+Kisne count aur quality check kiya ✔️
+Signatures of warehouse incharge + receiver ✍️
+Purpose: Proof ke kitni quantity deliver hui aur kis order ke against.
+Multiple GDNs per Sales Order
+Ek sales order (e.g., 50,000 units) ke against multiple GDNs ban sakti hain (10,000 + 5,000 + etc.).
+Tracking easy hoti hai ke kitna fulfill hua aur kitna pending hai.
+Matching & Verification
+Customer jo sales order leke aaye usko company records ke sales order se match karna hoga.
+Verification ke bina fake/edited documents ka risk hota hai.
+Acknowledgement by Customer
+Dispatch ke waqt customer ke signature lena lazmi hai.
+Agar acknowledgement (sign) missing ho → risk: customer falsely claim kar sakta hai ke goods receive nahi hue.
+Ye failure → business loss + audit risk (inventory overstated).
+Audit Implication
+GDN evidence hai ke goods inventory se legally issue hue.
+Without GDN → no proof, audit me issue hoga (existence/rights assertion fail).
+⚖️ Assertions Mentioned:
+Existence & Rights assertion → GDN confirm karta hai ke inventory legally aur actually dispatch hui.
+Completeness assertion → Har dispatch ka record GDN me hona chahiye.
+⚠️ Risks Highlighted:
+❌ No return policy missing → Over/understatement of sales.
+❌ No GDN prepared → Inventory falsely overstated.
+❌ No customer acknowledgement → Customer falsely claim kar sakta hai goods receive nahi hue → business loss.
+🔹 GDN (Goods Dispatch Note) mey required details:
+Supplier ka naam (jis ne mal dia)
+Warehouse wala naam (receiver)
+Counter ka naam (jis ne count kia)
+College inspector ka naam (inspection proof)
+Quantity mention (mal kitna deliver hua)
+Signature required ✅
+✨ Control point:
+GDN pe sign hone ka matlab: supplier aur receiver dono ne confirm kia ke quantity sahi hai.
+False claim ka risk kam ho jata hai (customer claim kare ke mal aya hi nahi).
+Entry ke waqt employee card ki copy bhi record hoti hai.
+🔹 Sales process & GDN relation:
+Purchase order ki copy customer service/warehouse ke pass hoti hai 📄
+GDN + Sales order ki matching hoti hai → issi basis pe sales record hoti hai.
+Half copy sales order department ke pass jati hai (proof ke order fulfill hua).
+Agar claim aye to proof present kia ja sakta hai.
+✅ Point: GDN ≠ Sales record → Sales record alag se maintain hota hai.
+🔹 Risk Discussion (Inventory & Claims):
+Fake country entries → final statement me misstated balances ka risk.
+Insurance companies me bhi claim recording ka risk hota hai (Completeness assertion).
+Example: EFU Insurance – countrywide claims → risk ke sare claims record na hon (intentional ya error).
+📌 Assertion: Completeness (risk ke kuch claims record nahi hue).
+📌 Risk: Understatement of claims (claims exist karte hain but GL me record nahi hue).
+🔹 Audit procedure (Completeness test):
+Client se poocha: tumhare pass kya mechanism hai ke sare claims record hue?
+Call center reporting ☎️
+Web portal reporting 💻
+Designated emails 📧
+Direct branch reporting 🏢
+Auditor check karega ke report → record tak flow complete hai ya missing.
+Agar koi “reconciliation / dukan” (control) nahi banta → high risk of understatement.
+🔹 Use of Excel in Audit (CAATs – Computer Assisted Audit Techniques):
+Claims file (customer codes) vs GL file ko Excel VLOOKUP se match kiya 🔎
+Jo codes GL me nahi mile → highlight red 🚨
+Jo match hue → highlight green ✅
+Result: ~2.5 billion worth claims record nahi hue ❌
+🔍 Audit Targeting & Controls
+Auditor ka kaam hota hai risk identify karna aur phir check karna k control exist karte hain ya nahi.
+Yahaan risk tha: Claims complete record nahi hue.
+Client ka jawab: "Next period me record karenge" ❌ – par matching concept ke hisaab se same period me record hona chahiye.
+Impact: Profit 3.5B → sirf 1B reh gaya (understatement due to incomplete recording).
+⚖️ Assertion Focus
+Completeness: Claim hona chahiye tha par record nahi hua.
+Occurrence ulta case hai: Record ho gaya jabke hona nahi tha.
+Yahaan sirf Completeness risk ka discussion tha.
+📦 Sales Order aur GDN (Goods Dispatch Note)
+Objective: Ensure jitne orders receive hue, unki fulfilment properly record ho.
+Control: Daily reconciliation between Sales Order & GDN.
+Agar control na ho → Goodwill damage aur Impairment risk.
+🧾 Sales Order vs GDN Numbering System
+Sales Order No. aur GDN No. → hamesha separate sequence honi chahiye.
+Example:
+Sales Order: 1023
+GDN: apna unique seq (e.g. 2342, 2343, etc.)
+Agar GDN no. ko Sales Order no. bana diya →
+Tracking impossible ❌
+Double sales booking ka risk ✅
+💡 Key Control
+Finance system me Data Validation lagta hai → ek hi GDN pe ek hi sale book hogi.
+GDN par hamesha apna unique sequence + reference to Sales Order No. likhna chahiye.
+📦 Sales Process Flow Recap
+Documents involved:
+Sales Order 📝
+GDN (Goods Dispatch Note) 🚚
+Invoice 💵
+Purpose:
+Sales Order = Customer ka demand.
+GDN = Proof of dispatch & correct quantity.
+Invoice = Sales recording (basis: SO + GDN).
+⚠️ Risk in Invoicing
+Agar Invoice quantity wrong pick hui →
+From Sales Order (instead of GDN) ❌ → Over/Understatement risk.
+Correct Basis: Quantity from GDN ✅, Price from Sales Order ✅.
+📌 Assertion at risk:
+Accuracy / Valuation (amounts correctly calculated?).
+Occurrence (sale recorded but goods dispatched nahi hue).
+🔍 Examiner’s Trap
+Statement: Finance personnel prepares invoice using Sales Order.
+Student sochta hai correct hai → but actually risk hai ⚠️.
+Invoice should always rely on GDN for quantity.
+📑 Inquiry as Audit Procedure
+Auditor client se inquiring karega: “Tumhari invoicing process kya hai?”
+Agar client bole: “Quantity SO se pick karte hain, price bhi wahi se” → red flag 🚨.
+Internal control testing ke liye inquiries powerful tool hain:
+Objective se related question pucho.
+Example: “What controls ensure all orders are genuine?” → Answer should reference GDN signatures.
+💡 Audit Technique (Inquiry & Benchmarking):
+Client se process poochho (Invoice kaise banti hai, Sales/Lease accounting kaise hoti hai).
+Uske jawab ko noting down karo aur check karo ke controls exist karte hain ya nahi.
+Wrong answer bhi evidence hai → agar control missing hai toh wahi auditor ka focus ban jata hai 🎯.
+📊 Lease Accounting Example (Side Note):
+Client ne bataya: “Same rate use karte hain har lease pe.” ❌
+Reality: Har lease ke time ka apna market rate hota hai.
+Result: Poori lease accounting galat thi → FS misstatement.
+📌 Assertion Risk: Valuation/Accuracy (lease rate incorrect).
+🔹 Invoicing Risks
+Invoice ban sakti hai galat tariqe se:
+Quantity wrong source se li → SO instead of GDN ❌
+Price galat uthaya → agar system me update na ho.
+Risk: Understatement / Overstatement of Sales.
+Example: 400 GDN issued but sirf 350 invoices bani → completeness issue (understatement). 📉
+🔹 Invoice Recording & General Ledger (GL)
+Invoices banne ke baad → record GL me hota hai.
+Risks:
+Invoice hi na bani → GL me miss hogi (completeness). ⚠️
+Invoice wrong amount se record ho → misstatement (existence/accuracy).
+Control: Reconciliation b/w GDN, Invoices & GL entries 🔄
+🔹 Key Controls in Invoicing System
+Existence Check Control 🛡️
+Finance staff jab SO no. dalta hai → system verify karega ke SO exist karta hai ya nahi.
+Agar SO missing → invoice ban hi nahi sakti ❌
+Duplicate Check Control 🔁
+Prevents multiple invoices against same SO / GDN.
+System auto-block karega duplicate entry.
+Limit Check Control 📏
+Har SO ke liye quantity ka cap hota hai.
+Agar poori quantity invoice ho chuki hai → system aur invoices banne nahi dega.
+🔹 Audit Objective 🎯
+Ensure:
+All invoices issued (completeness).
+Invoices recorded correctly (accuracy).
+Sales not overstated/understated (validity).
+Procedures:
+Inquiry with client (process understanding).
+Observation of controls in action.
+Reconciliation testing.
+🔑 Key Concepts:
+Future Orders & Numbering
+Sales order numbers never end → numbering system ensures uniqueness 🔢
+Duplicate control ≠ limit check → alag cheez hai ✅
+Internal Control Weakness (ICW)
+Definition: Jab control design sahi nahi hai ya exist hi nahi karta ⚠️
+Auditor ka kaam: Identify → Understand → Note down → Report.
+Applications of ICW
+Audit Implication: More work for auditor, higher risk of misstatement.
+Management Implication: Business risk (loss, errors, fraud).
+Communication
+Weaknesses likh ke Management letter me record hoti hain 📩
+Report Management + Those Charged with Governance (TCWG) dono ko.
+Not an extra task, yeh auditor ke normal kaam ka hissa hai ✔️
+Drafting Technique (Exam focus)
+Exam me 15–20 marks ka question aata hai:
+Identify Weakness (Deficiency) ❌
+Explain Impact (Risk/Implication) ⚡
+Suggest Recommendation (Control fix) ✅
+Shortcut Writing Formula
+Deficiency → “Control missing / wrongly designed”
+Implication → “May lead to misstatement / fraud / inefficiency”
+Recommendation → “Control should be designed / implemented / checked”
+Examples Given
+Credit limit not set →
+Deficiency: “Credit limit not set by independent person.”
+Implication: “Risk of bad debts / over-crediting customers.”
+Recommendation: “Credit limits should be set & approved by independent authority.”
+Invoice based on SO instead of GDN →
+Deficiency: “Invoices prepared using Sales Order only.”
+Implication: “Risk of overstated sales / wrong quantity billed.”
+Recommendation: “Invoice should use Quantity from GDN & Price from SO.”
+Lecture- 4
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🌟 Intro
+Exam me approach:
+Missing / flawed control identify karo ✍️
+Us ka FS pe impact likho ⚡
+Recommendation do ✅
+🛠️ Walkthrough Concept
+Walkthrough = transaction ko practically trace karna → pehle kya hota hai, baad me kya hota hai.
+Purpose: Samajhna ke control exist karta hai ya nahi, aur iska FS par kya impact hai.
+🏭 Case: SPL (Production & Marketing of Tech)
+Sales Rep (Aslam) → customers dhoondta hai (yeh theek hai ✅).
+Customer order deta hai → us order me credit limit likhi hoti hai.
+Sales Rep credit limit confirm karta hai verbally director operations se 📞.
+❌ Problems
+Verbal Confirmation of credit limit (no written proof).
+Risk: dispute ho sakta hai → later deny kar diya jaye.
+Segregation of Duties issue
+Sales Rep khud sales bhi kar raha hai + credit limit confirm bhi kar raha hai.
+Risk: Sales Rep zyada credit dilwa ke apna sales target achieve kar sakta hai → bad debts ka risk 💸.
+📌 Impact
+Sales ho sakti hai un customers ko jo pay na karein.
+Receivables badh jayenge → doubtful debts risk ⚠️.
+✅ Recommendation
+Credit limit ka written documentation ho (email/signed approval).
+Credit approval independent person kare.
+Proper segregation of duties maintain ho.
+👤 Performer Qualification
+Control check karte waqt yeh dekhna hota hai → jo banda perform kar raha hai kya wo qualified & experienced hai bhi ya nahi ✅.
+Agar banda unqualified hai → control ka design flawed hai ⚠️.
+📦 Dispatch Process
+Supervisor warehouse se goods dispatch karta hai.
+Delivery note banata hai (multiple copies).
+Issues:
+No quality & quantity check before dispatch 🚫.
+Risk → wrong / damaged goods deliver ho sakte hain → customer complaints + goodwill damage.
+Customer acknowledgement (sign) missing ✍️.
+Risk → customer deny kar dega → loss of inventory risk.
+Unfulfilled orders track nahi hote → partial supply issue → goodwill damage.
+📑 Pre-numbering of Docs
+Delivery notes (GDN) pre-numbered hone chahiye 🔢.
+Manual pre-numbering bhi acceptable hai (jaise invoice books, carbon copies, bakery slips, bank deposit slips) → agar sequence maintain ho raha hai to ok.
+Risk tab hai agar numbering hi na ho → missing records, fraud chances.
+🔄 Copies Distribution
+Delivery note ki copy Sales Order Dept. ko jani chahiye.
+Purpose → record maintain karna ke kaunse orders fulfill hue / pending hain.
+Agar copy nahi jati → incomplete records → risk of disputes & wrong outstanding balances.
+🧾 Invoicing Process
+Factory accountant manual invoice prepare karta hai.
+Issues:
+Invoice prepared using Sales Order (not GDN) ❌.
+Risk → Invoice quantity ≠ actual dispatched quantity → misstatement of sales & receivables ⚠️.
+Pre-numbering of invoices essential 🔢 → taake reconciliation aur settlement possible ho.
+📌 Impact
+Wrong / duplicate billing → misstated revenue & receivables.
+Loss of inventory (if no acknowledgement).
+Customer dissatisfaction → goodwill damage 😕.
+✅ Recommendations
+Proper quality & quantity checks before dispatch.
+Customer ka acknowledgement/signature lena.
+Pre-numbered delivery notes & invoices maintain karna (manual or system-based).
+Invoicing based on GDN, not sales order.
+Copy of GDN → Sales Order Dept. ko bhejna for reconciliation.
+🧾 Invoicing Issues
+Invoice preparation factory accountant karta hai → sab kuch Sales Order se uthata hai (quantity + price) ❌.
+Sahi process → Quantity from GDN ✅, Price from Sales Order ✅.
+Risk → Revenue record ho jata hai bina goods deliver kiye → misstatement ⚠️.
+Invoice banane wale ko extra kaam diya gaya (credit limit check karna) → ye uska role hi nahi hai 🚫.
+💳 Credit Limit Control
+Current design → Credit limit check ho rahi hai invoice banate waqt ❌.
+Sahi design → Credit limit check honi chahiye order receive karte waqt ✅.
+Risk:
+Goods deliver ho jate hain non-creditworthy customers ko.
+Bad debts ka risk ↑ ⚠️.
+📌 Impact
+Incorrect revenue recognition (invoice ≠ actual dispatch).
+Credit sales to unworthy customers → bad debts.
+Control ka design flawed hai.
+✅ Recommendations
+Invoice should be prepared using GDN for quantity and Sales Order for price.
+Credit limit should be checked at time of order acceptance, not invoicing.
+Segregation of duties → Invoice preparer ≠ Credit checker.
+🕒 Timely Invoicing
+Sometimes invoices delayed in sending to customer 📩.
+Risk →
+Working capital cycle disturb hota hai ⏳.
+Payment delays → finance cost ↑ (interest on borrowings).
+Recommendation → Invoices should be sent timely along with delivery note.
+💻 Recording & Aging
+Invoices entered weekly / monthly in computer.
+Issue → Aging analysis delayed / incomplete ⚠️.
+Risk → Management ko timely pata nahi chalta kitna receivable outstanding hai.
+Recommendation → Records update daily / real-time.
+🔒 Missing Controls
+GDN not matched with original purchase order → incomplete verification 🚫.
+Customer acknowledgement (sign on GDN) missing ✍️.
+Impact → risk of disputes, loss of inventory.
+Recommendation → GDN should be matched with customer PO & signed copy retained.
+🎯 Exam Technique Insights
+Definition → always lift from case (e.g., “credit limit checked after new order”).
+Impact → explain link with risk (e.g., bad debts, misstated revenue).
+Recommendation → simple, practical fix (e.g., check limit before accepting order).
+Lecture- 5
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🏭 Inventory & Warehouse Controls
+Sales record hone se pehle process ke through guzarta hai → us process me multiple controls hote hain ✅.
+Har control kisi specific objective ke liye hota hai (e.g., error ya fraud avoid karna).
+Example: Agar quality check missing ho → false claims, inventory disputes, sales returns ↑ ⚠️.
+🎯 Control Objective
+Controls ka purpose = ensure financial statement assertions sahi hain.
+Assertions relevant for inventory:
+Completeness → sari cheezein record hui hain 📑.
+Existence → jo inventory dikha rahe hain wo waqai maujood hai 📦.
+Valuation → inventory sahi value pe record hui hai 💲.
+🧾 Inventory Cycle
+Financial statements me inventory = Closing Inventory.
+Formula:
+Quantity × Rate = Closing Inventory Value.
+Quantity ka verification sabse critical hai → auditor ka main focus yahin hota hai 👀.
+👓 Auditor’s Focus
+Auditor concerned with Existence of Inventory.
+Management ka claim: “Inventory exists.”
+Auditor test karega by attending year-end inventory count (e.g., 31st Dec) 📅.
+🗂️ Inventory Count
+Auditor observes physical counting at warehouse.
+Verify karta hai ki:
+Jo items 31 Dec tak purchase hue hain → include ✔️.
+Jo items 31 Dec ke baad purchase hue → exclude ❌.
+Jo items 31 Dec tak sold hue → exclude ❌.
+Jo items 31 Dec ke baad sold hue → include ✔️.
+Isko kehte hain Cut-off test ✂️.
+⚠️ Risks if Control Weak
+Inventory over/under stated → Balance Sheet misstatement.
+Profit impact (through COGS).
+Customer disputes agar false claims aaye.
+✅ Recommendations
+Year-end physical count supervise karna auditor ka zaroori role hai 👨‍💼.
+Cut-off procedures sahi implement karna.
+Proper documentation maintain karna (signed count sheets, reconciliations).
+🔹 Inventory Count – Cut-off Issue
+31 Dec ki inventory → Quantity sahi report honi chahiye ✅.
+Auditor 1st Jan ko pohchta hai (raat 12 baje ja nahi sakte) aur dekhta hai ke:
+Kuch maal aa raha hai 📦.
+Kuch maal ja raha hai 🚚.
+Saath hi counting ho rahi hai.
+Risk → Agar movement continue ho rahi hai to Dec 31 ka balance galat report hoga.
+After-purchase bhi include ho sakti hai (galti se).
+After-sale bhi exclude ho sakti hai (galti se).
+Control: Movement should be stopped ⛔ during count → Warna cut-off issue ajayega.
+🔹 Cut-off Example
+Dec 31 tak ka maal hi count hona chahiye.
+Agar delivery note / GDN bana hai Dec 31 pe → sale consider hogi, chahe maal physically baad me nikla ho.
+Agar sirf order place hua hai (maal aya hi nahi) → usse inventory me include nahi karna ❌.
+Prepayment ≠ Purchase of inventory → Sirf jab maal receive hoga tabhi record hoga.
+🔹 Auditor’s Observation – Controls
+Stop Movement: Inventory ki movement band honi chahiye count ke waqt.
+Independent Staff: Count un logon se karwana jo warehouse ke khud zimmedar na ho → warna apni galtiyan chhupa sakte hain 🙈.
+Experienced Staff: Counting sirf trained aur experienced staff kare → taake expiry, damage, aur actual quantities theek se verify ho saken 🔍.
+🔑 Main Concepts
+Accountability & Independence in Count
+Inventory counting staff should be:
+Independent (not the same people who handle stock daily).
+Permanent staff (not temporary/shak employees).
+Experienced staff (jo properly counting karna jantay ho).
+Accountability ensures ke agar koi error ya fraud hoga, responsibility fix ho sakay.
+Proper Count Instructions
+Clear area-wise allocation (konsa staff konsi inventory count karega).
+Har counted item pe mark/tag lagana → taake double counting na ho.
+Count sheets should be pre-numbered → missing sheet identify ho jaye.
+Risks if Instructions Missing
+Double counting (ek hi item bar bar count ho sakta hai).
+Items missed (agar marking/tagging na ho to).
+Manipulation risk if sheets are not pre-numbered.
+Recording Method
+Pencil use not allowed → easy erasure & manipulation risk.
+Pen use required → permanent record.
+Count sheets must be signed by counters → accountability fix.
+Observation by Auditor
+Auditor ensures counting ho rahi hai properly.
+Auditor randomly inspects cartons/boxes (e.g., ek carton khulwa ke check karna ke andar quantity match hai ya nahi).
+Auditor ka focus hota hai → existence assertion.
+Common Weaknesses Identified
+Supervisor reports directly to production manager (not independent).
+Counting staff inexperienced → leads to improper counts.
+Count sheets not reconciled with inventory ledger.
+Some inventory items not counted at all.
+No proper area allocation → leads to overlap/double count.
+Lack of signatures on completed sheets → accountability missing.
+Lecture- 6
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔑 Main Concepts
+Segregation of Duties ⚠️
+Weakness: Warehouse incharge supervising own stock count.
+Assertion: Existence
+Risk: Fraud concealment, missing stock undetected.
+Application: Management ko batana → “Inventory may not be detected properly, fraud/errors hidden.”
+Temporary/Untrained Staff 📦
+Weakness: Due to ongoing projects, temporary staff hired for stock count.
+Assertion: Accuracy / Completeness
+Risk: Staff not experienced → may not follow instructions.
+Application: “Stock count may not be reliable, instructions ignored, bundles missed.”
+Pre-recorded Balance on Count Sheets ✍️
+Weakness: Count sheets already contained balances.
+Assertion: Existence
+Risk: Counter may just tick/mark without actual counting.
+Application: “Risk of negligence → marking as counted while actual count not performed.”
+Reporting Style (Audit vs Management) 📝
+Sir ka point: Audit report ke liye auditor apna issue highlight karega (existence not verified).
+Management ko batana → unka business problem (“Inventory count not proper, missing stock won’t be detected”).
+Professional language me likhna zaroori hai, direct blame nahi.
+Common Instruction Weaknesses 🔄
+Weakness: No clear segregation → double counting or missed items.
+Assertion: Completeness
+Risk: Double count or missed items → unreliable results.
+1️⃣ Lack of Specific Instructions
+Definition: Specific written instructions for stock count not given, only verbal guidance ⚠️
+Implication: May lead to ❌ double counting of inventory OR omission of some areas.
+Assertion: Existence & Completeness
+Risk: Misstatement due to duplicate/omitted inventory counts 📊
+💡 Example phrasing: "Since no specific instruction was given, some areas may be double-counted or not counted at all."
+2️⃣ Count Sheets Not Signed by Person Performing the Count
+Definition: Sheets were signed by admin head instead of the person who actually performed the count 📝
+Implication: No accountability → staff can deny responsibility.
+Assertion: Existence & Rights & Obligations
+Risk: Fraud/Errors may not be traced back to responsible individual 🔍
+💡 Example phrasing: "Since sheets are not signed by the actual counter, accountability issue arises; no clear evidence of who counted."
+3️⃣ Accountability Issues
+Definition: Lack of signatures/evidence of involvement.
+Implication: Responsibility unclear → difficult to fix errors or investigate fraud.
+Assertion: Completeness
+Risk: Inventory may remain misstated without ownership.
+💡 Example phrasing: "Person performing count not held accountable → accountability issues."
+🔹 Link with Sales Process
+Jese sales process me control check krte the (order → GDN → invoice → record), wesa hi payroll me bhi ek pura mechanism hota hai.
+Purpose: Ensure financial statements assertions meet properly.
+Payroll Accounting Flow 👇
+Entry in FS: Salary Payable (credit) + Salary Expense (debit).
+Is entry tk pohchnay ke liye ek pura process hota hai → allowance, deductions, attendance, approvals.
+Controls ensure ke sirf genuine employees ko pay mile.
+Auditor ka Role 🔍
+Design of Controls check krta hai → Kya controls proper design hue hain?
+Operating Effectiveness test krta hai → Kya ye controls operate bhi ho rahe hain?
+Agar controls effective hain ✅ → Substantive testing reduce hoti hai.
+Agar controls weak ❌ → Zyada testing karni hogi.
+⚖️ Assertion: Accuracy & Occurrence (Salary expense properly recorded, sirf genuine employees ko pay hua).
+⚠️ Risk: Ghost employees ko salary mil jana ya wrong calculation ki wajah se misstated expense.
+Focus of Audit 🧭
+Jahan controls mazboot hain → kam test karna.
+Jahan controls missing/weak hain → wahin pe zyada focus hoga.
+Logic: Jahan pe “opportunity” milegi fraud/mistake ki → wahi risk zyada hoga.
+Payroll Example 👨‍💼
+Org ke 2500 employees listed, but payment 2700 ko ho rahi hai → 200 ghost employees.
+Control Objective: Pay sirf usko mile jo company ka employee hai.
+Control: HR master record aur payroll list reconcile karna.
+⚖️ Assertion: Existence (Employee exist karta hai aur usi ko salary mil rahi hai).
+⚠️ Risk: Salary non-existent/ghost employees ko issue ho jana.
+Topic: Payroll Controls, HR Recruitment Process, Password Controls, and Risks 👥💰🔐
+Key Concepts:
+➡️ Payroll Accuracy Objective:
+Salary only pay honi chahiye actual employees ko ✅
+Absent / ghost employee ko salary dena = ❌
+Control: Attendance aur HR approval ke baghair payroll process nahi hoga ⏳
+📌 Assertion: Completeness & Accuracy
+📌 Risk: Ghost employees ko salary issue ho sakti hai ya actual employee ki salary miss ho sakti hai.
+➡️ Recruitment Process & HR Controls:
+New employee hire karne ka process:
+Requisition raise hoti hai 📑
+Approval HR Head se hota hai 👨‍💼
+Advertisement, Interview, Documentation ✅
+Only approved employees HR system me enter hote hain ⚙️
+Agar employee list me nahi hai ➝ salary process nahi hogi 🚫
+📌 Assertion: Existence
+📌 Risk: Unauthorized hiring se payroll expenses inflate ho sakte hain.
+➡️ Payroll System Entry & Access Control:
+HR system me entry karne ka right limited logon ke pass hota hai 🔑
+Har employee ka unique code, NIC & bank account recorded hota hai 📊
+Month end par sheet generate hoti hai aur finance ko bheji jati hai 📑
+Independent review hota hai to ensure correctness ✔️
+📌 Assertion: Accuracy, Completeness
+📌 Risk: Unauthorized entries ya changes salary records distort kar sakte hain.
+➡️ Password Controls:
+Example from HBL: Weak password "mini" (cat ka naam) rakha gaya tha 🐱
+Risk: Easy guess ➝ koi bhi unauthorized banda payroll system me salary change kar sakta hai ⚠️
+Recommended Control:
+Strong password policy 🔐
+Frequent password change (7–15 days) 🔄
+No personal names (pets, spouse, etc.) 🚫
+📌 Assertion: Accuracy & Authorization
+📌 Risk: Unauthorized salary changes, fraud.
+➡️ System Logs & Audit Trails:
+Payroll system maintain karta hai logs: kisne kab change kiya 🕒
+Auditor verification: Changes ka documentary evidence match karna ✔️
+Directional testing: Changes ➝ documents se match hone chahiye, warna misstatement risk ⚠️
+📌 Assertion: Completeness, Accuracy
+📌 Risk: Agar logs ya documents verify na ho ➝ salary misstatements possible.
+Lecture- 7
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+👉 Topic: Payroll Process & Controls
+🔹 Payroll Process Basics
+Salary entry = Salary Expense (Dr) & Salary Payable (Cr)
+Lekin yeh entry simple nahi hoti, iske peeche poora mechanism / process hota hai.
+Agar loop holes ho → Expense & Liability dono galat record ho sakte hain ❌
+🔹 Objectives of Payroll System
+Salary sirf employee ko mile jo company ka employee ho. 👤
+Employee ko utna hi pay ho jitna usne kaam kiya ho. ⏱️
+Absent → us din ka paisa nahi.
+Overtime → extra payment.
+Bonus → sirf approved amount.
+🔹 Input Authorization Controls (IT Controls in Payroll)
+Password Requirement 🔑 → sirf authorized log entry kar saken.
+Authentication Codes (OTP, verification codes) 📲 → jaise banks me OTP.
+Lock Controls / Change Logs 🔒 → agar koi changes ho, system automatically log banata hai (kis ne, kab, kis type ki change ki).
+Requisition & Approval 📝 → employee entry system me tabhi hogi jab HR process complete hoga (interview, designation, pay setup, etc).
+🔹 Importance of Controls
+Unauthorized person payroll me enter nahi kar sakta.
+Agar 500–600 employees bhi ho, system inhi controls ki wajah se secure hota hai.
+Salary fixation → HR data fix hota hai, unauthorized change possible nahi (multi-level authentication: password, face recognition, OTP).
+🔹 Payroll Calculation Logic
+HR defines Basic Pay.
+System design: total working hours × pay rate.
+Example:
+9 AM to 6 PM job → 9 hours − 1 hr break = 8 working hours/day.
+Monthly salary divided by total working days → daily rate.
+Salary auto-calculated = daily rate × actual worked days.
+Allowances, bonuses → separately added.
+🔹 Automatic Attendance Controls
+Clock Card System / Swipe Card 🪪
+Employee card swipe karega → entry/exit record hoga.
+Entry without card = ❌ not possible.
+System auto count karega working hours.
+Face Recognition / Thumb Impression 📸🖐️
+Unique biometric verification.
+Prevents proxy attendance (dusra banda card swipe nahi kar sakta).
+Camera Surveillance 🎥
+Cross-check karne ke liye ke employee physically aya tha ya nahi.
+🔹 Purpose of Attendance Controls
+Ensure accountability: employee jitna time work karega utni salary milegi ⏱️💰
+Prevent fraud: absent ya early exit wale employees ko salary na mile.
+Automatic record ban jata hai (entry & exit logs).
+🔹 Link with Payroll
+System: Total working hours × Daily Rate = Salary.
+Wage workers (factory staff) → attendance directly linked to per-day wages.
+Office staff → salary portion bhi attendance se linked.
+🔹 Manual vs Automatic Mechanism
+Automatic System → clock card, biometric, camera; accurate but costly ⚡
+Manual System → attendance register, supervisor verification; cheap but less reliable 📋
+Cost-Benefit Analysis 💹 → agar system cost > expected fraud loss, to controls avoid karte hain.
+Example: small office me 20–25 employees → expensive biometric system ka benefit low.
+Kabhi kabhi choti cheez (stationery etc.) ke liye control na lagana better hota hai.
+🔹 Problems in Manual Attendance
+Employee apna time khud likhta hai ⏱️✍️
+Example: 9:00 likha but asal me 12:00 aya.
+Fraud → salary claim bina kaam kiye.
+Self-signing attendance
+Dusra banda bhi attendance mark kar sakta hai.
+Reliability ❌
+No proper monitoring 👀
+CFO ya supervisor check hi nahi karte → loopholes.
+🔹 Corrective Measures
+Independent Recording
+Attendance khud employee na likhe.
+Ek independent banda record kare.
+Manual + Independent Verification
+Factory labour → supervisor mark kare.
+Office staff → HR/account staff monitor kare.
+Overtime Approval
+Overtime tabhi pay hoga jab boss approve kare ✅
+Without approval = no extra pay.
+🔹 Key Controls for Overtime
+Limit Check Control 🚦
+Normal hours se zyada kaam hoga → system flag kare.
+Example: 26 ghante record hua → exception report generate.
+Exception Report ⚠️
+Normal se hatke record → system auto-report kare.
+Report directly department head ko jati hai.
+Prevents fake overtime.
+Range Test Control 📊
+Minimum aur maximum limits set hoti hain.
+Example: Daily 8 hrs → agar 5 hrs se kam ya 12 hrs se zyada hoga → exception report.
+Lecture- 8
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🌟 Concept Breakdown
+MCQ Discussion → Focus tha management vs auditor claims pe.
+Claim ka nature → Management apna right/ownership claim karti hai, auditor verify karta hai.
+Example: Sales order aur invoices:
+Agar 5000 quantity sell hui but order 15000 ka tha → misstatement ho sakti hai.
+Misstatement mainly due to aqal (logic) aur valuation issue.
+⚡ Assertions Hit
+Existence → Cheez physically hai ya nahi.
+Rights & Obligations → Ownership legally company ki hai ya nahi.
+Completeness → Sare records/invoices included hain ya nahi.
+Valuation → Sahi amount pe record hua ya nahi.
+Classification → Expense/asset correct category me hai ya misclassify ho gaya.
+🚨 Risk Identified
+Overstatement of sales (agar orders aur invoices mismatch ho jayein).
+Ownership ka dispute (investment property jisme title documents clear nahi).
+Incomplete recording (invoices banni par GL me record na ho).
+Misclassification risk (expenses galat jagah record karna).
+🔎 Classification & Valuation Discussion
+Classification Risk: Jab expenses galat jagah record ho (e.g., admin ko sales me dalna) → misclassification risk.
+Valuation Risk: Sales bina quality check ke record ho sakti hain → risk ke wapas aa jaye aur properly value na hui ho.
+Sales perspective: risk ke returns record na huwe → overstatement.
+Returns perspective: risk ke complaints record na huwe → understatement.
+⚖️ Assertions check:
+Classification ✅
+Valuation ✅
+Completeness bhi indirectly check hui.
+📦 Inventory Dispatch Example
+Issue: Invoice ko sales order ke hisaab se banaya, jab ke GDN (Goods Dispatch Note) follow karna tha.
+Error source: Agar quantity aur quality properly verify nahi hui to:
+Overstatement of revenue.
+Misvaluation (kyunke revenue tab recognize hoga jab performance obligation complete ho).
+➡️ High-level risk: Revenue recognition before settlement of performance obligation.
+🧾 Payroll & HR Cycle Controls
+Employee Setup:
+HR system me employee ko enter karna (after recruitment, offer letter, etc.).
+Access controls: limited access, passwords, OTPs, audit trail of changes.
+Recording Salaries:
+Salary calculation → attendance system (clock-in/out, biometric, face recognition).
+Independent verification of time records.
+Overtime: proper approval, automated limits, exception reports.
+Bonuses: require management approval before processing.
+Calculation & Validation:
+Gross pay = basic pay + allowances + approved bonuses.
+System auto-calculates in most cases (small orgs may use Excel).
+Finance Manager/CFO should verify calculation (re-perform sample check).
+Risk: manipulation of formula (e.g., multiply ×1.2 → salaries inflated).
+📲 Real-world Analogy: Easypaisa Loan System
+Loan eligibility based on transaction history & frequency (AI-based credit scoring).
+Risk: Agar system manipulation ya wrong credit history → wrong disbursement.
+Example: Customer ko ₹1000 milna tha but ₹2000 mil gaya → repayment na kar paya → bad debt.
+💸 Loan & CFO Recheck Discussion
+Scenario: Easypaisa loan product → limit setting & misuse.
+Management ne claim kia ek hi loan tha, auditor ne prove kia multiple large withdrawals hue.
+Learning: CFO ko finalization se pehle manual recheck karna hota hai → system calculations blindly trust nahi karni.
+Risk: Agar CFO recheck na kare to overstatement of disbursements ya fraud ho sakta hai.
+➡️ Assertion focus: Valuation & Completeness
+🛡️ IT-based Controls (Payroll)
+Batch Totals:
+Managers salaries ka total vs Workers salaries ka total → agar deviation ho to exception report generate kare.
+Individual Pay Limits:
+Har designation ki ek max slab hoti hai.
+Agar salary slab ke upar jaye → system auto-report kare.
+Allowances Misuse:
+Example: Call allowance unnecessarily salary inflate kar rahi thi.
+Control: ID-based exception report highlight kare.
+➡️ Assertion: Accuracy & Classification
+📊 Limit Check Control
+Salary aur payroll ke liye Limit Check Control lagana zaroori hai.
+Purpose: Agar koi employee apni slab se upar salary ya allowance le raha ho to system alert generate kare.
+CFO ya HR manually check kar sakein ke salary structure me galat adjustment to nahi.
+➡️ Assertion: Valuation & Authorization
+🧾 Tax Deduction (Payroll)
+Law Requirement: Employer ki zimmedari hai employee ki salary se tax deduct karke government ko jama karwana.
+Process:
+Payroll system salary record karta hai.
+Sheet finance → tax department ke paas jati hai.
+Tax dept har employee ka slab calculate karta hai.
+Either:
+Automated system: Slab ke hisaab se auto deduction.
+Manual: Ek banda calculate karega, doosra approve karega (maker-checker principle).
+Risk: Agar system/functional setup na ho → wrong tax deduction.
+Control: Approval + reconciliation ke saath hi deduction process chale.
+➡️ Assertions: Accuracy, Completeness, Authorization
+🔄 Payroll Sheet Verification
+Final payroll sheet finance ko jati hai.
+Finance verify kare:
+HR records ke saath employee list match kare → ensure koi unauthorized addition na ho.
+Final sheet = HR + Finance data match ✅
+Automated system ho to manipulation ka chance nahi hota.
+➡️ Assertion: Completeness, Occurrence
+💰 Salary & Tax Withholding
+Salary expense record hota hai gross amount (salary + tax).
+Tax withheld liability banti hai (Payable to govt).
+Concept: Employer deducts tax on behalf of employee (Withholding Tax).
+Risk:
+Agar withholding galat hui → penalties company pe.
+Agar time (15 days) me govt ko deposit na hua → penalty + interest.
+➡️ Assertion: Accuracy, Completeness, Compliance
+🏦 Bank Advice & Payment
+CFO approve karta hai payroll → bank ko advice letter bhejta hai.
+Bank advice = list of employees + their account numbers + net payable amount.
+Bank transfer karega sirf CFO signed instruction pe.
+Control: Amount in payroll sheet = amount in bank advice → reconciliation zaroori.
+➡️ Assertion: Occurrence, Accuracy, Authorization
+📝 Evidence & Invoices
+Rule: No payment without supporting evidence.
+Salary: payroll sheet signed by CFO.
+Purchases: invoice required.
+CFO signs cheque only if supporting evidence present.
+➡️ Assertion: Authorization, Accuracy
+💵 Cash Payments (Exception Case)
+Agar kisi employee ko cash me salary di jaye → check employee card (ID, code, name).
+Control: Employee identification mandatory.
+➡️ Assertion: Occurrence, Authorization
+⚖️ Key Control Objectives (Wages System)
+Occurrence → Salary goes to genuine employees only.
+Completeness → No employee left unpaid.
+Accuracy → Right amount calculated (with tax & allowances).
+Authorization → Payment only after approval + evidence.
+Lecture- 9
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🏭 Topic: Control Weaknesses in Time & Attendance System (Factory Example)
+🔹 Scenario Overview:
+Company: Black Specialist Motor Vehicle Company
+System: Uses mix of robots & manual labor for vehicle assembly.
+Working pattern: Employees work in 8-hour shifts ⏰; overtime allowed depending on workload.
+⚙️ Control Process Description:
+Workers log in/out using an electronic ID card system 🎫.
+Each employee has a unique ID number for attendance tracking.
+Once logged in, system considers the employee “at work.”
+However, login process is not monitored — meaning koi bhi kisi aur ke card se login kar sakta hai 😬.
+⚠️ Identified Weaknesses:
+Login not monitored — koi independent verification nahi hai ke card kis ne swipe kiya.
+Supervisor does not verify physically if employees are actually present.
+Overtime approval system weak hai — koi proper mechanism nahi ke overtime genuinely kaam hua ya sirf claim kiya gaya.
+Shift foreman overtime hours verify nahi karta, sirf assumes ke sab correct hai.
+💡 Application / Risk:
+Risk 1: Employee falsely claim overtime ⏳ without actually working.
+Risk 2: Ghost attendance – kisi aur ne login kiya ho. 👻
+Risk 3: Payroll cost increase due to fake overtime claims 💸.
+🧩 Assertion Affected:
+Occurrence: Recorded working hours may not have actually occurred.
+Accuracy & Completeness: Incorrect or overstated overtime recorded in payroll.
+🔧 Suggested Controls / Recommendations:
+✅ 1. Supervisory Monitoring:
+Supervisor ko physically verify karna chahiye who logged in.
+Compare attendance sheet with real-time factory presence list. 👀
+✅ 2. CCTV / Independent Verification:
+Install CCTV cameras 🎥 near entry points to ensure genuine login.
+Independent person (security staff) monitor kare logins.
+✅ 3. Exception Reporting:
+Generate exception report for all employees claiming overtime.
+Each claim should require approval from Department Head (not CFO). 📑
+✅ 4. ID & System Integration:
+Introduce biometric / facial scan login 🔐 instead of simple card tap.
+Cross-check login data with actual shift records.
+📊 Impact on Financial Statements:
+If system flaws persist:
+Wages & Salaries Expense may be overstated 💰.
+Leads to inefficient cost control & misrepresentation in FS (false labor cost).
+🔹 Scenario Recap:
+In continuation, yahan discussion supervisor aur department head ki responsibility par hai — particularly overtime approval process ke control design aur review mechanism ke perspective se.
+⚙️ Key Discussion Points:
+Supervisor’s Role:
+Supervisor ko har employee ka performance aur overtime working monitor karna chahiye 👀.
+Agar koi employee normally kaam nahi karta aur overtime claim karta hai — supervisor must reject unjustified claims ❌.
+Example: Ek employee ne overtime mark kiya lekin actual me time-out log nahi hua. Supervisor ne HR ko bataya ke “main approve nahi karunga kyunke kaam hua hi nahi” ✅.
+HR & Department Head Review:
+HR system automatically overtime calculate karta hai, lekin final responsibility department head ki hoti hai.
+CFO ya partner approve nahi karte — wo sirf final sheet review karte hain, par actual verification department head karta hai.
+Yeh ensure karta hai ke only genuine overtime hi approve ho.
+Control Purpose 🎯:
+Ensure karein ke jitna kaam hua hai, utna hi expense book ho.
+Prevent karein false claims ya inflated payroll expenses.
+⚠️ Risk (if Control Removed):
+Overstatement of Expense:
+Agar control remove kar diya jaye to Wages & Salaries Expense overstate ho sakta hai 💸.
+Occurrence Assertion Violation:
+Recorded overtime may not have actually occurred.
+Authorization Risk:
+Without review, unapproved payments process ho sakte hain 🚨.
+📚 Assertions Affected:
+Occurrence: Recorded work may not have happened.
+Accuracy: Overtime amount incorrect record ho sakta hai.
+Authorization: Payments processed without proper approval.
+💡 Recommended Controls / Suggestions:
+✅ 1. Multi-Level Authorization:
+Overtime sheet pe signature required from Supervisor + Department Head before payroll processing. 🖋️
+✅ 2. Exception Reporting:
+System should auto-generate report for all rejected or abnormal overtime claims 📊.
+This improves transparency and control evaluation.
+✅ 3. Periodic Review:
+Department head should periodically review overtime patterns to identify misuse or inefficiency. 🔍
+✅ 4. Training & Awareness:
+Supervisors and HR staff should understand control objectives clearly. 🎓
+💻 Topic: Payroll System Controls & Segregation of Duties
+🔹 Scenario Overview:
+This part explains the authorization and verification controls in payroll processing — particularly focusing on how passwords, system access, and segregation of duties impact internal control efficiency and fraud prevention ⚙️.
+⚙️ Key Control Procedures:
+System Authorization:
+Payroll data (like working hours and overtime) automatically transfer hoti hai from time recording system to the payroll software 💾.
+This process is controlled by a password or authorization code 🔐 — only authorized users can transfer or modify payroll data.
+Password Control:
+Har department ek specific code word (authorization password) use karta hai — for example, “domestic cat” 🐱 code name for payroll file.
+Problem: Yeh code sab ko pata hai 😬 — means any staff member can access and alter payroll data.
+Weakness: Shared passwords reduce system confidentiality and allow unauthorized changes.
+Payroll Calculation & Data Flow:
+System automatically computes gross wages, overtime, and deductions.
+Final net pay list is sent to the accounts department 🏢.
+Accounts clerk then verifies bank details before salaries are transferred to employee accounts.
+Segregation of Duties (SOD):
+Problem: Same clerk verifies and authorizes payroll payments 😐.
+This is a clear violation of segregation of duties principle.
+⚠️ Control Weaknesses:
+Shared Passwords: Unauthorized persons can change or tamper payroll data 🧾.
+Lack of Independent Authorization: Same person verifying and approving payroll = risk of manipulation 💣.
+System Access Not Restricted: Absence of user-level access control exposes payroll data to fraud.
+💡 Applications / Risks:
+Risk 1: Payroll tampering or salary transfers to fake accounts 💸.
+Risk 2: Unauthorized overtime addition.
+Risk 3: Payroll expense overstatement in FS 📊.
+Risk 4: Violation of internal control objective — accuracy, authorization & safeguarding of assets 🔒.
+📚 Assertions Affected:
+Authorization: Payments without proper approval.
+Accuracy: Incorrect payroll calculations.
+Occurrence: Non-existent (ghost) employees paid.
+🔧 Recommendations / Suggested Controls:
+✅ 1. Strong Password Policy:
+Passwords should be unique, complex, and confidential. 🔐
+Change regularly and restrict access to authorized staff only. 🔄
+✅ 2. Independent Review:
+Payroll authorization should be by Department Head or Senior Manager, not the same clerk who prepares it. 👨‍💼
+✅ 3. Access Control System:
+Implement user-level access with audit trails 📜.
+Record all modifications in the system log.
+✅ 4. Dual Authorization for Payroll Transfer:
+Two signatures required before payment release (Maker–Checker principle) 🖊️✅.
+✅ 5. Segregation of Duties Enforcement:
+Separate roles for data input, verification, and authorization.
+This prevents fraud and error.
+🧾 Topic: Payroll Controls, Email Acknowledgment, and Employee Termination Process
+🔹 Scenario Overview:
+This lecture continues the payroll internal control discussion — focusing on authorization timing, acknowledgment controls, and employee termination 🧩. It explains how weak coordination between HR, payroll, and accounts can lead to salary overstatements or unauthorized payments.
+⚙️ Key Control Concepts:
+Timing of Review:
+Financial accountant verifies total wages after few weeks — which is too late. ⏰
+Ideally, review should occur before payment, not after.
+Control Objective: detect errors before money leaves the company 💰.
+✅ Recommendation:
+“Review of wage amount should be done before payment, not weeks later.”
+Segregation of Duties:
+Same person preparing, verifying, and paying salaries ❌.
+Duties should be segregated: preparation → verification → authorization (by senior or independent official).
+Without segregation, risk of fraud or error increases.
+👥 Employee Termination Process:
+Current Process:
+When an employee leaves, HR sends an email to payroll department notifying termination 📩.
+Payroll team must stop salary from next cycle.
+Weakness: HR sends email, but no confirmation (acknowledgment) that payroll received or acted on it.
+Technology Control:
+Introduce email acknowledgment receipt system 📨 — ensures HR knows payroll has seen the message.
+In organizations like EY, this is standard practice — sender receives auto-confirmation once email is opened. ✅
+Purpose of Control:
+Prevent salary payments to ex-employees 🏦.
+Ensure records updated immediately upon termination.
+If Control Missing:
+Payroll might continue paying ex-employees = salary overstatement risk ⚠️.
+Unnecessary expense recorded → financial misstatement.
+💡 Application / Risks:
+Risk 1: Salary paid to terminated staff (ghost employees).
+Risk 2: Payroll expense overstated 💸.
+Risk 3: Weak monitoring → loss of funds + accountability issues.
+📚 Assertions Affected:
+Occurrence: Payments made to non-existing (ex) employees.
+Completeness: Some terminations not recorded in payroll.
+Accuracy: Payroll expense figures incorrect.
+🔧 Recommendations:
+✅ 1. Acknowledgment Control:
+Implement auto-confirmation email receipts for HR → Payroll communication.
+Ensure payroll staff must acknowledge receipt before changes take effect.
+✅ 2. Termination Checklist:
+HR must follow structured checklist to confirm:
+Employee removed from payroll list.
+Final settlement approved.
+✅ 3. Pre-Payment Verification:
+Finance or audit team should verify any large or unusual payroll variances before release. 📊
+✅ 4. Access Control:
+Remove system access (logins, cards, IDs) of terminated employees immediately 🔐.
+🧠 Audit Insight (Directional Testing):
+When performing audit testing, focus on directional testing — check where the risk originates.
+Example: Auditor checks employees who left the company, then verifies if their salaries stopped.
+If any ex-employee still received payment → indicates control failure + overstatement risk 🚨.
+Lecture- 10
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Inventory Process Overview
+Inventory ek asset hoti hai jo balance sheet me show hoti hai. 🧾
+Jab hum inventory purchase karte hain to entry banti hai:
+Inventory (Debit) → Trade Payable (Credit)
+Matlab humne maal khareeda, asset badh gaya aur liability create ho gayi.
+🔹 Objective of Inventory Process
+Objective ye hai ke sirf zaroori inventory order ki jaye. ✅
+Do main reasons:
+Holding cost zyada na ho (extra maal rakhne se cost barhti hai).
+Over-purchase loss se bachna (agar demand kam ho to price gir jati hai).
+🔹 Controls in Inventory Process
+Management lagati hai controls taake unnecessary order na ho.
+Auditor check karta hai ke process properly follow ho raha hai ya nahi.
+Auditor ka main kaam: inventory purchase process ko understand aur verify karna.
+🔹 Auditor ka Perspective
+Auditor yeh dekhta hai ke organization ka inventory system controlled aur documented hai.
+Wo check karega ke proper authorization aur evidence maujood hain ya nahi.
+🔹 Inventory Debit / Payable Credit Timing
+Sir ne bola: “Inventory Debit aur Payable Credit to baad me hota hai, pehle decide hota hai ke order karni hai ya nahi.”
+Pehla step hota hai Decision to Order — yeh depend karta hai Re-order Level par.
+🔹 Re-order Level Concept
+Re-order level ka matlab hai wo point jahan quantity itni kam ho jaye ke naya order dena zaroori ho jaye.
+Example: Agar company ka re-order level 5,000 units hai — jaise hi inventory 5,000 tak girti hai, system automatically order initiate kar deta hai.
+Re-order level depend karta hai:
+Product ki demand par 📊
+Delivery time (kitna time lagta hai nayi inventory aane me)
+🔹 Automatic Controls
+Re-order level ke liye automatic controls lagaye ja sakte hain:
+Limit Check Control: Jab inventory minimum level se neeche jaye to system alert kare ya exception report generate kare ⚠️
+Just-in-Time (JIT) Arrangement: System dusre system se linked hota hai, aur jaise hi re-order point aata hai, automatically purchase order generate ho jata hai 🔁
+🔹 Purchase Order Generation
+Jab hum khareed rahe hote hain to hum Purchase Order (PO) banate hain.
+Ye PO supplier ko bheja jata hai taake wo goods deliver kare.
+Is se pehle sirf order decide hota hai, PO create hone ke baad hi purchase process formally start hoti hai.
+🔹 Control for Avoiding Holding Cost
+Control lagaya jata hai taake unnecessary inventory hold na ho.
+Control ke examples:
+Re-order level setting
+Limit check control
+Just-in-Time arrangement
+🔹 Risks / Implications
+Agar re-order level set na ho to:
+Inventory zyada order ho sakti hai → Holding cost increase 💸
+Ya kam order ho sakti hai → Stock-out risk ⚠️
+Agar control missing ho, to NRV losses bhi ho sakte hain (jab inventory ka market value cost se neeche chala jaye).
+🔹 Determining Order Size
+Re-order level set karne ke baad decide hota hai ke kitna order karna hai.
+Factors:
+Demand quantity (sales orders pending kitne hain)
+Available stock (warehouse me kitna maal hai)
+Buffer stock (safety margin rakha jata hai future demand ke liye)
+🔹 Demand & Supply Link
+Sales orders aur warehouse stock ka link hona zaroori hai.
+Agar linkage missing ho to:
+Wrong quantity order ho sakti hai (zyada ya kam dono).
+Control linkage: Sales Order ↔️ GDN (Goods Dispatch Note)
+Agar yeh link missing ho, to record incomplete hoga aur ordering me error ho sakta hai.
+🔹 System Automation Insight
+Advanced systems me yeh poora process automated hota hai:
+Sales order system se link hota hai,
+GDN automatic generate hoti hai,
+Re-order level check hota hai,
+JIT system ke zariye purchase order auto create ho jata hai.
+🔹 Sales Order aur GDN Linkage
+Agar ek Sales Order (e.g., #1024) ke multiple GDNs (Goods Dispatch Notes) ban jayein aur phir bhi kuch quantity deliver na ho, to wo system me Remaining Quantity ke form me record hoti hai.
+System me ek Limit Check Control hota hai jo ye ensure karta hai ke agar unfulfilled quantity minimum level se zyada ho jaye to auto order place ho jaye (Just-in-Time system ke zariye).
+🔹 Manual System (Non-Automated Environment)
+Agar company fully automated nahi hai (jaise Pakistan me aam hai), to process manual hota hai.
+Example:
+Demand = 50,000 units
+Available stock = 2,000 units
+Required = 48,000 units
+Sales aur warehouse department milke ye identify karte hain ke kitni quantity order karni hai.
+🔹 Purchase Requisition (PR)
+Jab demand aur available stock ka difference nikalta hai, to Purchase Department ko inform kiya jata hai.
+Ye information Requisition Form ke zariye hoti hai — jise Purchase Requisition (PR) kehte hain.
+PR ka matlab: Request to purchase goods.
+🔹 Buffer Stock Concept
+Buffer stock wo quantity hoti hai jo demand fulfill hone tak backup ke liye rakhi jati hai.
+Example:
+Agar lead time (delivery ka time) 5 days hai aur 3,000 units roz consume ho rahe hain, to buffer stock ≈ 15,000 units rakha jata hai.
+Purpose: Jab tak naya maal nahi aata, operation continue rahe.
+🔹 Purchase Department Controls
+Purchase department tab tak Purchase Order (PO) generate nahi karega jab tak:
+Re-order level cross na ho jaye 📉
+Proper requisition document receive na ho 📄
+Demand aur buffer stock verify na ho jaye ✅
+Ye control ensure karta hai ke Unnecessary Inventory Purchase na ho.
+🔹 Segregation of Duties
+Sales Department: Demand identify karta hai.
+Purchase Department: Purchase initiate karta hai.
+Purpose: Fraud aur over-ordering se bachna.
+Sales wala apni taraf se directly purchase nahi kar sakta.
+🔹 Practical Example (Fixed Asset Purchase Analogy)
+Jaise agar kisi employee ko mobile chahiye, wo directly khareed nahi sakta.
+Pehle Requisition raise karega → Manager approve karega → Purchase department process karega.
+Yani har purchase ke liye proper approval chain honi chahiye.
+🔹 Approved List of Suppliers (ALS)
+Purchase department ke paas ek Approved List of Suppliers hoti hai.
+Jab requisition aati hai, purchase officer:
+Quotations mangwata hai from multiple approved suppliers.
+Compare karta hai pricing aur quality.
+Select karta hai best supplier (lowest price + good quality).
+🔹 Purpose of Quotation Process
+Fraud aur favoritism avoid karna.
+Ensure karna ke:
+Price fair ho 💰
+Quality acceptable ho ✅
+Company ke funds misuse na hon 💼
+🔹 Head of Purchase Responsibility
+Head of Purchase final approval deta hai.
+Uska kaam hai:
+Lowest price aur good quality supplier select karna.
+Final Purchase Order (PO) issue karna.
+🔹 Responsibility for Quotations & Purchasing
+Quotation mangwana: Purchase department ko hi responsibility di jati hai — wo approved suppliers se quotations lete hain.
+Koi bhi employee apni marzi se purchase nahi kar sakta; approved process follow karna zaroori hai.
+Agar kisi specific vendor ka exclusive right ho (e.g., telecom towers), to quotations limited vendors se li ja sakti hain (policy based).
+🔹 Approved List of Suppliers (ALS)
+Company ka Approved List of Suppliers hota hai — sirf inhi se quotations aur purchases recommended hote hain.
+ALS se suppliers ko select karne se quality aur pricing control hota hai.
+🔹 Quotation Evaluation & Approval
+Purchase officer multiple quotations (usually 3+) le kar price + quality compare karta hai.
+Lowest price + acceptable quality select karna standard practice hai.
+Agar deviation chahiye (higher price ya non-approved supplier), to additional approval (e.g., CEO/MD) required hoti hai.
+🔹 Segregation of Duties / Governance
+Segregation of duties: Sales, Purchase, Receiving, Accounts alag teams hongi. Kisi ek bande ke paas poora control nahi hona chahiye.
+Internal Audit aur Audit Committee governance ko monitor karte hain.
+Audit Committee ka chairman independent director hota hai — wo CEO se bhi findings report karta hai.
+🔹 Internal Audit Role / Monitoring
+Internal audit purchase process, approvals, supplier selection, aur quotations verify karta hai.
+Audit ka kaam hai controls ka verification — na keval documents dekhna, balki activity bhi verify karna.
+🔹 Fraud Red Flags (Common Issues)
+Price/Value mismatch: Invoice value market price se zyada ho (valuation issue).
+Pay for goods not received (“Pay for the goods not actually purchased”) — major fraud sign.
+Single-person procurement without quotations or approvals.
+Use of non-approved suppliers or favoritism in selection.
+🔹 Controls to Prevent Fraud
+Require multiple quotations and maintain comparison sheet.
+Use Approved Supplier List and restrict purchases to ALS unless higher approval.
+Purchase Requisition (PR) must be supported with demand documents (sales orders, GDNs) and approved before PO.
+PO Numbering and multiple copies: copies for Purchase, Finance, Warehouse (for delivery matching).
+Goods receipt required before inventory recording and payment processing.
+🔹 Document Flow & Recording
+Sales/Consumption → Demand identified.
+Requisition (PR) raised with supporting docs.
+Quotations from approved suppliers.
+Quotation evaluation → Approval by Head of Purchase.
+Purchase Order (PO) generated (with PO number, qty, price, supplier, date).
+Goods Receipt / GRN → Warehouse receives and issues GRN.
+Invoice & GRN match → Finance records liability and processes payment only after verification.
+🔹 Practical Controls & Workflow Notes
+PO alone = no inventory entry. Inventory recorded only on receipt (GRN) and matching invoice.
+Maintain three/four copies of PO: Purchase, Supplier, Warehouse, Finance.
+Head of Purchase ensures lowest price + quality; he approves final PO.
+For high value or exceptional purchases, additional higher-level approval mandatory.
+🔹 Audit Verification Tips
+Auditor checks: quotations, ALS, PR → PO → GRN → Invoice → Payment chain.
+Look for inconsistencies: missing quotations, incorrect valuation, PO without PR, invoice > PO, payment before receipt.
+Focus on controls effectiveness, not just presence of documents.
+Lecture- 11
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Quick Recap of Inventory Process
+Risk: Company bila wajah maal order na kare.
+Control: Re-order Level aur JIT Arrangement lagaye jate hain.
+Purchase tab tak nahi hoti jab tak:
+Re-order Level na arrive kare,
+Requisition create na ho,
+Demand confirm na ho.
+🔹 Demand Creation Concept
+Business me demand ka idea Sales Orders aur Available Stock ke comparison se aata hai.
+Formula: Sales Orders − Available Stock = Quantity to be Ordered 📊
+🔹 Requisition Process
+Ye Warehouse ya Sales Department dono me se koi initiate kar sakta hai.
+Requisition banne ke baad wo Purchase Department ke paas jati hai.
+Purchase Department ka role: Purchase initiate tab kare jab need confirm ho.
+🔹 Quotations & Approved Supplier List
+Purchase Department Approved List of Suppliers (ALS) se hi quotation mangwata hai.
+Purpose: Kisi non-approved ya unreliable vendor se goods order na ho.
+Example Control: “Pay for the goods not actually ordered” risk avoid karna.
+Agar koi item 100 Rs ki hai to system ensure kare ke 200 Rs ka payment na ho.
+🔹 Controls Example (Manual & Automatic)
+Manual Control: Purchase Order manually banate waqt supplier aur price manually likhe jaate hain (quotation ke base par).
+Automatic Control: System me Access Rights aur Limit Checks lage hote hain jisse supplier list change na ho sakti.
+🔹 System-Based Procurement Example (e.g., PTCL)
+Purchase portal pe employee order tabhi kar sakta hai jab:
+Requisition received ho,
+Supplier list fixed ho,
+Access Rights restricted hon.
+User “Send to Order” click kare to system auto-email karta hai approved suppliers ko.
+Agar koi supplier approved list me nahi hai, system usko block kar deta hai.
+🔹 Control Objectives
+Unapproved Vendor se purchase avoid karna 🛑
+Control: Approved List of Suppliers + Access Restriction.
+Overpricing se bachna 💸
+Control: Quotation process + Price comparison sheet.
+🔹 Purchase Order (PO) Creation
+PO banate waqt system automatically:
+Quantity pick karta hai requisition se,
+Price pick karta hai quotations se.
+Har PO ka unique number hota hai taake tracking ho sake (for audit trail).
+PO copies multiple departments ko milti hain:
+Supplier, Finance, Warehouse, aur Self Copy.
+🔹 Goods Receiving Stage
+Jab goods warehouse me aate hain, receiving clerk check karta hai:
+PO number ke against delivery match hoti hai ya nahi.
+Agar PO missing hai → goods accept nahi honge 🚫
+Is step me control ye ensure karta hai ke excess ya unauthorized goods receive na ho.
+🔹 Quality Check & Impact on Financials
+Quality check compulsory hai ✅
+Agar quality check nahi hoti to risk hota hai:
+Inventory value overstated ho jati hai,
+Ya defective goods record ho jate hain.
+Audit Perspective: Ye Existence assertion ka risk hai (goods physically exist nahi karte ya acceptable condition me nahi hote).
+🔹 Quality Check & Its Impact
+Agar Quality Check nahi hoti to inventory me problem aata hai ❌
+Sir ne bola: “Quality check nahi hui to inventory me issue aayega, apko ye yaad rakhna hai.”
+Reason: Quality check na hone se recorded quantity aur actual quantity mismatch hoti hai.
+🔹 Affected Audit Assertions
+Completeness – Transaction properly record nahi hui ho sakti.
+Valuation – Wrong value record hone ka risk hota hai.
+Existence – Inventory physically exist nahi karti lekin books me record ho jati hai.
+🔹 Understanding the Risk (Existence Risk)
+Management ka claim hota hai ke transaction hui hai — lekin auditor verify karega ke actually hui bhi hai ya nahi.
+Example:
+Purchase entry: Inventory Dr → Payable Cr.
+Lekin agar goods physically aaye hi nahi, to transaction record karna false existence risk hai ⚠️
+Result: Overstatement of Inventory due to recording items that don’t exist physically.
+🔹 Explanation with Example
+Suppose 10,000 units record kiye gaye hain, lekin actual me 5,000 aaye hain.
+To recorded figure zyada ho gaya — ye Existence assertion ka violation hai.
+Risk statement: > “Inventory might be overstated due to goods recorded but not physically received.”
+🔹 Why This Happens
+Jab Quantity Check Control missing hota hai, tab recording without verification hoti hai.
+Transaction record ho jati hai bina physical check ke.
+Is se management ka claim galat ho jata hai — ke goods exist karte hain.
+🔹 Auditor’s Assessment
+Auditor control test karega: kya quantity properly check hoti hai? ✅
+Agar control absent hai, auditor conclude karega: > “Risk of Overstatement in Inventory due to lack of quantity verification.”
+🔹 Correct Drafting for Exam
+Risk likhne ka sahi tariqa: > “If quantity is not checked before recording, inventory may be overstated as goods may not actually exist.”
+🔹 Key Learning
+Existence Assertion = Physical presence verify karna.
+Completeness Assertion = Koi transaction chhuti na ho.
+Valuation Assertion = Correct value par record karna.
+🔹 Completeness vs. Existence Difference
+Agar 5,000 units hone chahiye the lekin 10,000 record kar diye gaye — iska matlab Overstatement hua 📈
+Agar kuch goods record nahi hue jabke aaye the — to Completeness ka issue hai 📉
+Yani:
+Existence issue: Record kiya hua maal physically exist nahi karta.
+Completeness issue: Physical maal aya, par record hi nahi hua.
+🔹 GRN (Goods Received Note)
+Jab goods receive hote hain to GRN banayi jati hai.
+GRN ek proof document hota hai ke maal physically aaya hai.
+GRN me likha hota hai:
+Date of receipt
+Quantity received
+Supplier name
+PO (Purchase Order) reference number
+GRN par Receiver aur Supplier dono ke sign hote hain ✍️
+🔹 Purpose of GRN
+GRN ensures ke sirf wahi maal record ho jo actually deliver hua hai.
+Isse duplicate ya fake recording avoid hoti hai.
+Jab tak GRN nahi banti, purchase entry (Inventory Dr → Payable Cr) record nahi hoti.
+🔹 Linking GRN with PO
+GRN hamesha Purchase Order (PO) ke reference se match hoti hai.
+Agar GRN PO se zyada quantity show kare to system alert karega ⚠️
+Ye control prevent karta hai ke excess quantity record na ho.
+🔹 Updating Inventory Sheet
+Jaise hi GRN ban jaye, warehouse inventory sheet update hoti hai.
+Agar sheet update nahi hui, to next time Sales Department ko lagega maal kam hai.
+Wo phir naya order karega → unnecessary holding cost aur NRV losses 💸
+🔹 Example
+Pehle 5,000 units the, 10,000 aur aagaye → total 15,000 ho gaye.
+Agar record update nahi hua aur sales wale ko lagta hai abhi bhi 5,000 hain, to wo aur order kar dega.
+Result: Over-purchase, holding cost, aur NRV loss.
+🔹 Quality vs. Quantity Check
+Quantity Check: Kitni goods aayi hain — Existence assertion se link.
+Quality Check: Goods sahi condition me hain ya nahi — Valuation assertion se link.
+Dono controls missing honge to:
+Quantity mismatch → Overstatement / Existence risk.
+Quality issue → NRV losses, valuation risk.
+🔹 Auditor’s Focus
+Auditor verify karega:
+GRN properly prepared hai? ✅
+GRN aur PO quantities match karte hain? 🔍
+Quality inspection reports maintain hui hain? 🧾
+Missing control = potential misstatement in Existence, Completeness, or Valuation.
+🔹 Valuation & NRV Impact
+Agar defective goods receive ho gaye aur quality check nahi hui, to:
+Inventory value inflate ho jati hai.
+Later sale me NRV loss aata hai (sell karni padti hai cheap rate par).
+Example: > “If goods are not inspected for quality at the time of receipt, inventory may be overstated, leading to NRV losses or future sales returns.”
+🔹 Government Grant Misclassification Example
+Sir ne ek example discuss kiya jahan grant received for construction of an asset ko galti se income me record kar diya gaya tha ❌
+Correct treatment: Agar grant asset ke construction ke liye hai to usay deferred income ke taur pe treat karte hain, aur asset ke useful life ke sath amortize karte hain.
+Misclassification ka risk tab hota hai jab grant direct income me record ho jaye.
+Risk: Misstatement due to misclassification of capital grant as revenue income.
+🔹 Capitalization vs. Expense Understanding
+Agar grant ya borrowing asset financing ke liye hai, to related cost capitalized hoti hai.
+Agar operating expense ke liye use hui hai, to P&L expense ke taur pe treat hoti hai.
+Wrong classification → valuation aur matching concept ka violation ⚠️
+🔹 Single Supplier Risk
+Jab ek hi supplier se regularly purchase hoti hai (Single Supplier Dependency), to risk ye hota hai ke:
+Supplier apni pricing control kare 🧾
+Company ko poor quality accept karni pade 😬
+Fraud ya overpayment ho sakta hai.
+Control Definition: > “Company should not rely on a single supplier; alternate quotations or backup suppliers must be maintained.”
+🔹 Salary Control Example
+Example: Agar salary prepare karte waqt purani salary slips se comparison kar rahe ho, to ye galat approach hai ❌
+Correct control: HR records aur attendance system se verify karo.
+Reason: Ho sakta hai koi employee resign kar gaya ho ya terminate hua ho — purani slip se compare karne se error hoga.
+Risk: Overstatement of salary expense due to outdated employee data.
+🔹 Invoicing & Recording Concept
+Jab goods deliver ho jaate hain aur invoice supplier se receive hoti hai, tab purchase entry record hoti hai.
+Entry: Inventory Dr → Trade Payable Cr
+Lekin agar invoice delay ho jaye to inventory aur payable dono record late honge.
+Proper control: Three-way matching system 🔍
+Purchase Order (PO)
+Goods Received Note (GRN)
+Supplier Invoice
+🔹 Matching Process Explanation
+Jab supplier invoice aati hai, finance department usay verify karta hai:
+Price → PO se match kare
+Quantity → GRN se match kare
+Quality → Inspection report se verify kare
+Agar sab match hota hai tabhi liability record hoti hai ✅
+Risk: If invoice is recorded without matching PO and GRN, overstatement of expenses or payables may occur.
+🔹 GRN to GL Flow
+Jab GRN banti hai, tab inventory sheet update hoti hai — not the General Ledger (GL).
+GL entry tab hoti hai jab invoice verify aur match ho jati hai.
+Iss se ensure hota hai ke sirf valid aur verified purchases hi financials me record hon.
+🔹 Recording Inventory at Time of Invoice
+Agar finance team inventory ko record karti hai invoice receive hone par, to ye Completeness risk create karta hai ⚠️
+Reason: Goods warehouse me aa chuki hoti hain (exist karti hain) lekin abhi record nahi hui.
+Result: Financial statements me understatement of inventory and liabilities ho sakta hai.
+Risk: If inventory is recorded at the time of invoice receipt instead of actual receipt, completeness assertion may be violated.
+🔹 Completeness Assertion Clarified
+Existence: Record me item hai, par physically nahi — overstatement.
+Completeness: Item physically hai, par record nahi — understatement.
+Agar GRN (Goods Received Note) ban chuki hai lekin invoice delay ho gaya hai → Completeness issue.
+🔹 Financial Statement Impact
+Agar goods receive hue hain par invoice nahi aayi →
+Inventory physically exist karti hai ✅
+Record nahi hua ❌ → Completeness issue.
+Iska impact:
+Inventory understated
+Liability understated
+Financial statements inaccurate ho jati hain.
+🔹 Control: Three-Way Matching
+Finance department ko invoice record karte waqt ye 3 cheezein match karni chahiye:
+Purchase Order (PO) – Quantity & price reference.
+Goods Received Note (GRN) – Quantity actually received.
+Invoice – Supplier billing confirmation.
+Control Objective: Ensure every recorded purchase is valid, complete, and correctly valued.
+🔹 Invoicing and Payment Controls
+Invoice ka use hota hai payment process me, na ke recording ke liye.
+Payment tab tak nahi hoti jab tak CFO verify na kare ke:
+PO, GRN, aur Invoice teeno attached hain 📎
+Quantities aur prices match kar rahe hain ✅
+Supplier approval aur authorization maujood hai ✍️
+After approval → Entry: Payable Dr → Bank Cr
+Control: Payment vouchers should reference invoice numbers to avoid duplicate payments.
+🔹 Duplicate Payment Risk
+Agar system me duplicate invoice number check nahi hai to same invoice multiple times pay ho sakti hai 💸
+Control:
+Automated duplicate check formula or system flag ⚙️
+Payment voucher generation restricted to unique invoice numbers.
+🔹 Practical Audit Example
+Real case me auditor ne duplicate payment detect ki:
+250 duplicate transactions identified by matching invoice numbers.
+Reason: System me duplicate prevention control missing tha.
+Recommendation: Implement automated duplicate detection before payment processing.
+🔹 Supplier Statement Reconciliation
+Supplier apni statement of account bhejta hai (list of invoices aur outstanding balances).
+Auditor compare karta hai:
+Supplier statement vs. company’s sub-ledger (individual supplier accounts).
+Purpose:
+Identify unrecorded invoices, timing differences, or errors.
+Note: Supplier statement ko sub-ledger se reconcile karna effective control hai; control account se comparison less useful hota hai.
+Lecture- 12
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+1. Internal Controls Recap
+Internal Controls ka purpose hota hai ensure karna ke organization ke har process efficiently aur accurately chale. Controls har important area jaise inventory count, inventory system, aur authorization points par lage hote hain.
+2. Focus on Risk Areas
+Auditor har jagah test nahi karta — uska focus sirf un areas par hota hai jahan risk of misstatement zyada hoti hai. Risk identify karne ke liye auditor ko entity aur internal control environment samajhna zaroori hai.
+3. Understanding Entity & Controls
+Entity ko samajhne ke liye auditor inquiry, observation, aur procedures use karta hai. In tools se auditor risk identify karta hai aur determine karta hai ke organization ke internal controls effective hain ya nahi.
+4. Purpose of Documentation
+Har document ka specific purpose hota hai. For example: - Invoices aur GRNs (Goods Received Notes) ka role hota hai ensure karna ke transactions completely aur accurately record hui hain. - Agar koi invoice record nahi hoti to completeness risk arise hota hai.
+5. Control Accounts & Ledgers
+Har customer aur supplier ka apna subsidiary ledger hota hai.
+Ye sab mil kar control account mein reflect hotay hain, jo phir General Ledger (GL) mein jata hai.
+Agar subsidiary ledger galat hai to GL bhi galat hoga → ultimately financial statements bhi incorrect hongi.
+6. Reconciliation Concept
+Supplier statement ko match karte waqt auditor control account ke sath reconciliation karta hai, na ke individual ledgers ke sath. Ye process data accuracy aur completeness confirm karta hai.
+7. GRN (Goods Received Note) Controls
+Har GRN ka ek unique number hota hai.
+GRN tabhi generate hoti hai jab uske against purchase order (PO) exist karta ho.
+Ye ek existence control hai.
+System mein limit check control bhi ho sakta hai taake unauthorized GRN create na ho.
+8. Purchase Recording Risk
+Agar purchases invoice ke basis par record ho rahi hain to completeness issue ho sakta hai. Example: - Goods December mein receive hue lekin invoice January mein mili → transaction incomplete record hui.
+9. Directional Testing (Audit Process)
+Auditor jab process samajhta hai to identify karta hai ke system mein recording kis direction mein ho rahi hai — upward (overstatement) ya downward (understatement). Ye analysis help karta hai assertion-wise risk samajhne mein.
+Assertions Linked
+Completeness: Invoice-based recording se incomplete data risk.
+Accuracy: GRN aur invoice mismatch hone par incorrect values.
+Existence: GRN ka verification purchase order se hota hai.
+Risks Identified
+Completeness Risk: Invoice delay hone se purchase incomplete record ho sakti hai.
+Accuracy Risk: Invoice aur GRN mismatch se wrong amount record ho sakta hai.
+Existence Risk: GRN bina PO ke banne se fake entry ka chance hota hai.
+🧠 Concept 1: Invoice Recording & Cut-off Issue
+Scenario: Sir ne example di ke aik invoice December 2024 ki thi lekin record January 2025 mein hui. Matlab expense aur liability dono galat period mein record hue — yeh Cut-off Issue hai.
+Key Point: Agar invoice delay se record ho to previous year ka profit zyada show hota hai kyunke expense wrong period mein chala gaya.
+💡 Example: Ek company ne December ki electricity bill January mein record ki — December ka profit zyada show hua. Yeh Cut-off aur Completeness dono assertions ka risk hai.
+Assertion Hit: Completeness ⚠️
+🧠 Concept 2: Auditor’s Experience & Missing Controls
+Explanation: Auditor ka experience use hota hai jab koi control missing ho. Agar purchases invoice ke base par record ho rahe hain, to auditor ko automatically samajh aata hai ke completeness issue ho sakta hai.
+Important Line: “Auditor ko har missing control ka impact samajhna chahiye.”
+💰 Concept 3: Financial Statement Impact
+Effect: Invoice delay hone se:
+COGS (Cost of Goods Sold) aur Closing Stock dono impact hotay hain.
+Profit aur EPS (Earnings per Share) bhi affect hotay hain.
+💡 Example: December ka stock receive hua, invoice January mein record hui → December expenses kam, January zyada → profit manipulation ka chance.
+Risk Identified: Misstatement due to timing difference.
+🧩 Concept 4: Test of Controls (TOC)
+Definition: Test of Control ka matlab hai dekhna ke controls sirf design mein nahi, balki operation mein bhi effective hain.
+Steps:
+Design Check: Kya control theoretically effective hai?
+Operating Effectiveness: Kya control practically follow ho raha hai?
+💡 Example: GRN tabhi banegi jab Purchase Order exist kare — auditor verify karega ke har GRN ke liye PO available tha.
+Assertion: Existence ✅
+⚙️ Concept 5: Design vs Operating Effectiveness
+Difference:
+Design: Control paper pe effective hai?
+Operation: Kya control actual mein sahi operate kar raha hai?
+💡 Example: Policy kehta hai “2 signatures ke bagair payment nahi hogi.” Lekin auditor ne dekha single signature se payment ho gayi → Design Effective, Operation Ineffective.
+Risk: Control Override ⚠️
+🧾 Concept 6: Using Internal Audit Work
+Explanation: Auditor internal audit report ka review karta hai taake apni testing efficient bana sake.
+Internal audit ne jahan issues highlight kiye, wahan auditor detailed testing karta hai.
+💡 Example: Internal audit ne cash disbursement mein irregularity batayi → external auditor wahi area deeply test karega.
+Assertion: Accuracy ✅
+🎓 Concept 7: Purpose of Testing Controls
+Objective: Auditor confirm karta hai ke controls:
+Properly designed hain.
+Effectively operate kar rahe hain.
+Risk ko mitigate kar rahe hain.
+Integrated Note: Agar dono sahi hain (design + operation), auditor reliance strategy apply karega aur substantive testing kam hogi.
+Assertion Hit: Control Reliance 🔍
+📝 Concept 8: Documentation of Controls
+Explanation: Har organization ke paas documented policies hoti hain:
+Kaun kya karega.
+Kis authorization pe kaam hoga.
+Kis document ke against transaction record hogi.
+Auditor likhta hai — “Design Effective” ya “Design Ineffective.”
+💡 Example: Purchase policy clearly define karti hai ke “GRN tabhi banegi jab PO exist kare.” Auditor check karega policy follow ho rahi hai ya nahi.
+🚫 Concept 9: Design Ineffectiveness Example
+Scenario: Manual mein likha tha “Purchases are recorded based on POs.” Lekin reality mein purchases invoice ke basis pe record ho rahi thi → Design Ineffective.
+Risk: Completeness aur Cut-off dono impact hue.
+Important Line: “Design sirf likhne se nahi, apply hone se effective hota hai.”
+🧠 Concept 1: Testing Controls ka Real Meaning
+Explanation: Sir ne kaha ke jab auditor kehta hai “maine control test kiya,” iska matlab hota hai ke usne verify kiya ke control actually operate kar raha hai — na ke bas document pe likha hai.
+Auditor ke paas proper evidence hona chahiye ke usne test perform kiya.
+⚠️ Important Line: “Agar auditor ke paas proof nahi hai ke control test hua, to regulator penalty laga sakta hai.”
+💡 Example: Credit limit system mein likha tha “limit is set and checked by authority.” Auditor ne likh diya “checked,” lekin proof nahi diya ke check kaise hua — ye documentation error hai.
+📋 Concept 2: Control Attributes (Attributes of a Control)
+Meaning: “Control attributes” ka matlab hai control ki particular qualities ya characteristics jinko test karna zaroori hota hai.
+Example: Agar control hai “Credit limit must be set by authorized person,” to auditor ko check karna hoga:
+Limit document pe likhi hui hai ya nahi.
+Authorized person ke signature maujood hain ya nahi.
+Approval date mentioned hai ya nahi.
+🎯 Objective: Ye verify karna ke control practical level pe follow ho raha hai.
+💰 Concept 3: Credit Limit Control Testing (Revenue Cycle Example)
+Scenario: Revenue cycle mein control tha “Credit limit is set and checked.”
+Sir ne samjhaya ke test karte waqt auditor ko ye dekhna hota hai ke credit limit actually set hui thi ya nahi, aur kya proper authorization hua.
+Steps to Perform:
+Select Sample of New Credit Customers – Purane nahi, kyunke unki limit pehle se set hoti hai.
+Inspect Documentation – Check karo ke limit likhi hui hai, approval signatures hain, aur relevant authority ne authorize kiya.
+Evaluate Result – Agar koi customer without approval mila → control fail.
+💬 Common Mistake: Students aur auditors kabhi kabhi already approved credit limits test karte hain — ye galat hai. Objective hai new customers par control operation check karna.
+Assertion: Authorization ✅
+⚙️ Concept 4: Correct Direction of Testing
+Explanation: Testing hamesha us direction mein honi chahiye jahan control failure ka chance ho.
+Agar auditor un customers ko test kare jinki limits already approved hain, to testing meaningless hai.
+Right Direction: New customers → unki limits verify karo ke properly set hui thi ya nahi.
+Example: Agar 70 new customers hain, auditor randomly unka data check kare aur verify kare ke har ek ki credit limit approved thi ya nahi.
+🧾 Concept 5: Electronic vs Manual Evidence
+Manual System:
+Credit limits paper pe likhi hoti hain.
+Approval signatures physically maujood hotay hain.
+Electronic System:
+Auditor system log extract karta hai.
+Dekhta hai kis user ne, kis date pe credit limit enter ki.
+Ye electronic audit trail proof hota hai.
+💡 Example: Customer X ki limit 10 Jan ko Mr. Y ne system mein enter ki → system log se ye verify hota hai ke control operated.
+🎯 Concept 6: Timing of Control Testing
+Explanation: Control testing hamesha us audit period ke liye hoti hai jahan controls operate kar rahe the.
+Mistake to Avoid: Agar testing audit ke baad ki dates pe hui (e.g., January/February after year-end), to wo valid nahi hai.
+Testing ka evidence audit period (1 Jan – 31 Dec) ka hona chahiye.
+Example: Agar auditor ne 5 January ko test kiya to ye evidence audit period ka nahi — post-period evidence hai, jo invalid mana jata hai.
+Assertion: Occurrence / Timing ⚠️
+🧩 Concept 7: Live Checking & On-site Observation
+Definition: Jab auditor audit period ke dauran physically jaake process observe karta hai, use Live Checking kehte hain.
+Purpose: Confirm karna ke control real time mein operate ho raha hai, sirf documents mein nahi likha.
+Example: Audit team November mein site visit karti hai aur dekhti hai ke credit limits real-time set ho rahi hain — ye valid live testing evidence hota hai.
+💬 Concept 8: Manual Approval Example
+Scenario: A student ne poocha ke manual approval kaise hoti hai?
+Sir ne kaha agar koi customer financially weak hai, aur usne certificate dikhaya (e.g., low-income proof) to auditor manually approve kar sakta hai — jaise teacher ne student ko discount diya.
+💡 Analogy: “Credit limit set karna” = “Fee discount dena with signature.”
+Agar signature nahi hai → unauthorized limit → control failure.
+Assertion: Authorization & Accuracy ✅
+Lecture- 13
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔍 Test of Control ka Flow
+🧩 Objective Before Testing Controls
+Pehle Design of Control samajhna hoga 🛠️
+Phir decide karna hai: Reliance karni hai ya nahi
+Reliance ka decision Design + Operating Effectiveness dono check kar ke hoga
+🧪 Sampling & Population Understanding
+🔹 Sampling Step:
+“Select a sample of ________” – yeh format follow karna hai
+📦 What is Population?
+Population = Jis area ya data source se sample uthao ge 📊
+Agar population hi galat choose ki to pure test ki direction wrong ❌
+Example: “Approved Credit Limits” se sample lena galat direction hai
+Kyun? Kyun ke unko already approval mil chuka hai
+Test to yeh check karna hai ke kya approval process tha bhi ya nahi
+➡️ Correct Approach: Sample lo before approval, jahan check karna hai ke approval tha bhi ya nahi
+🏗️ Control Test Design – Credit Limit Approval
+✅ Control:
+“Credit limit is set by a valid authority”
+🔍 Test:
+Select a sample of newly created credit customers
+Check karo:
+Kya credit limit set hui?
+Kis ne sign kiya?
+Uski designation kya thi?
+📌 Important Point:
+Sirf “Amount check kar lena” nahi chalega ❌
+Signatures & Approval Authority check honi chahiye ✅
+♻️ Repeat Customer Check – Another Embedded Control
+✅ Control:
+“Before selling goods to repeat customers, it is checked whether they are within their credit limit”
+🔍 Test:
+Select a sample of repeat customer transactions
+Check karo:
+Unka credit limit exceed to nahi hua?
+Sales order amount aur assigned credit limit ka comparison
+⚠️ Note:
+Yeh manual control hai
+Dummy transaction dal ke test nahi kiya ja sakta
+Real transaction hi observe karni hogi
+🔹 Topic: Credit Limit Control Test
+🔸 Objective:
+Customer ko sirf tabhi maal dena jab:
+Credit limit assign hui ho ✅
+Aur us limit ke andar hi maal diya gaya ho ✅
+🧪 Test of Control Design:
+✅ Step-by-Step Approach:
+Select sample of any credit customer
+Sales order ke base pe sample lo
+Inspect the sales order
+Check karo: Order amount
+Assigned credit limit kitni thi
+Us din ka Receivable Balance kitna tha
+Compare karo:
+Order Amount + Receivable Balance ≤ Credit Limit
+Agar exceed kar gaya ➤ Control FAIL ❌
+✍️ Sample Statement:
+“Select a sample of any credit customer sales order and inspect whether the order amount along with outstanding receivable balance does not exceed the assigned credit limit.”
+📦 Important Logic:
+Sirf order aur limit compare karna galat hai ❌
+Hamesha Receivable balance bhi consider karo
+Example:
+Limit = 10,000
+Order = 5,000
+Outstanding = 3,000
+➤ Total = 8,000 ✅ (allowed)
+Agar outstanding 7,000 hota ➤ Total = 12,000 ❌ (not allowed)
+🔎 Audit Reality:
+Audit me aksar sirf signature check hota hai, but:
+Sirf signature dekhna effective testing nahi hai
+Yeh ensure karo ke checker ne waqai limit & receivable dono dekhe
+🧠 Thought Process:
+Control ka maksad samjho:
+Customer limit breach na kare
+Agar breach hoti hai to maal na jaye
+Test design bhi wahi hona chahiye jo control ka design hai
+Signature ≠ Proof ke control laga
+Proper working dikhni chahiye test me
+🔹 Topic: Sales Cycle Control – GDN vs Sales Order Reconciliation
+🎯 Objective of Control:
+Ensure that:
+Har delivery (GDN) ka proper Sales Order ho 🧾
+Unfulfilled orders properly tracked ho
+🔍 Control:
+“Reconciliation is prepared between GDN and Sales Order to track any unfulfilled deliveries.”
+🧪 Test of Control Design:
+✅ Step-by-Step:
+Select sample of any day during the year
+Random day pick karo (based on frequency of control)
+E.g. Control agar fortnightly hota hai to ~24 times a year
+Inspect the reconciliation file
+Dekho:
+GDN aur Sales Order ka comparison hua?
+Reconciliation properly banayi gayi?
+Kya woh approve hui thi kisi responsible person se?
+✍️ Sample Statement:
+“Select a sample of any day for which reconciliation is to be prepared. Inspect whether a comparison between GDN and Sales Orders has been made and appropriately approved by responsible authority.”
+🧠 Important Concepts:
+Test of Control ka maksad yeh hota hai:
+Confirm karo ke control perform bhi hua ya nahi
+Only saying ‘Reconciliation banayi thi’ is not enough
+Test hona chahiye ke file exist karti thi
+Comparison properly hua tha
+Responsible person ne sign bhi kiya tha
+🔍 Audit Thinking:
+Control ko test karne ka matlab:
+Sirf kaam exist karta hai ya nahi yeh check karna nahi
+Yeh dekhna ke actual objective achieve ho raha tha ya nahi
+⚠️ Common Mistakes by Students:
+Sirf “Reconciliation ho rahi thi” likhna – vague ❌
+Control ka objective nahi samajhna ❌
+Population ya sample define na karna ❌
+✅ How to Think:
+Control samjho pehle (objective kya hai?)
+Population identify karo (kis din ki reconciliation check karni hai?)
+Sample lo (e.g. koi bhi random date)
+Evidence inspect karo (document, sign, approval, match, etc.)
+Lecture- 14
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION
+🎯 Class Theme aur Objective
+Aaj ka focus yeh hai ke hum Test of Controls sahi tareeqe se samjhein.
+Agar testing galat hui to aapka conclusion aur decision bhi galat hoga.
+Is liye testing ka sahi hona bohot important hai.
+🏢 Process Select Kiya Gaya: Payroll Process
+Example: Payroll (Salary) Process
+Salary ka basic formula: > Basic Pay × Number of Days Worked
+Days worked check karne ke liye Time In & Time Out mechanism use hota hai.
+🔐 Control
+Har Employee jab office aata hai to Time In karta hai, aur jab jata hai to Time Out karta hai.
+Yeh system Automatic Clock / Card Punch System se record hota hai.
+🎯 Objective
+Objective yeh hai ke Employee jitna kaam kar raha hai, utni hi salary mil rahi ho.
+Attendance aur working hours sahi tarah se record hon.
+🧪 Test of Control
+Ab hume test karna hai ke yeh Time In-Time Out System sahi kaam kar raha hai ya nahi.
+Steps:
+Kisi random working day ka sample lo.
+Us din ka System Log nikalo.
+Dekho ke har employee ka Time In aur Time Out record hua ya nahi.
+Confirm karo ke System Lock properly maintain hua hai.
+⚠️ Sir ka Important Point
+Kuch students ne yeh galti ki ke unhone Payroll Sheet ko Attendance se match kar diya.
+❌ Yeh galat hai — kyunke yeh test sirf yeh check kar raha hai ke Time System operate ho raha hai ya nahi, salary check nahi kar raha.
+✅ Pehle yeh verify karo ke Time Mechanism sahi kaam kar raha hai.
+Baad me jab Payroll verify karoge to Salary aur Attendance dono match karoge.
+🧭 Step-by-Step Logic
+Control identify karo: Employee time in/out karta hai.
+Objective samjho: Attendance sahi record ho.
+Test design karo: System logs se verify karo.
+Sample lo: Random day aur employees check karo.
+Evaluate karo: Kya control effective hai ya nahi.
+🎯 Concept Focus
+Is lecture me emphasis tha Payroll Process ke Control Testing par.
+Objective yeh samajhna tha ke payroll formation me jo data use hota hai, wo Time In aur Time Out System se accurately pick ho raha hai ya nahi.
+🧩 Step 1: Understanding the Process Link
+Pehle test me humne verify kiya tha ke Time In aur Time Out mechanism properly operate kar raha hai.
+Ab is part me hum check kar rahe hain ke Payroll Sheet me jo data hai, wo usi time log se uthaya gaya hai.
+Matlab: Attendance record aur payroll data ka source same hona chahiye.
+🧪 Test of Control – Payroll Linkage
+Objective: Ensure ke payroll sheet me working hours / attendance data Clock Log System se hi pick hua ho.
+Steps:
+Kisi random month ki Payroll Sheet select karo.
+Us month ke System Time Logs se compare karo.
+Verify karo ke Payroll Sheet me dikhaye gaye working hours aur logs match karte hain.
+Agar match ho → Control Effective ✅
+Agar mismatch ho → Control Failure ❌
+⚙️ Purpose of This Test
+Yeh test ensure karta hai ke payroll data authentic aur system-based hai.
+Agar Time System functional nahi hoga, to payroll calculation bhi inaccurate hogi.
+Dono tests (Time Log aur Payroll Sheet) independent hain lekin interconnected.
+🔐 Additional Control – Overtime Approval
+Payroll process me ek aur important control hota hai: Overtime ka approval.
+Control: Overtime payments tabhi process hongi jab Department Head ya CFO se approval mil jaye.
+Objective: Unauthorized ya fake overtime payments se bachna.
+Testing Steps:
+Ek Overtime Sheet select karo jahan extra hours record hain.
+Dekho ke sheet par Department Head ka signature / approval maujood hai.
+Agar approval hai → Control Effective ✅
+Agar nahi hai → Control Failure ❌
+⚠️ Risk Agar Control Fail Ho Jaye
+Agar overtime approval nahi hai aur payment process ho gayi, to unauthorized expense record ho sakta hai.
+Is se audit risk barhta hai aur organization ke control environment me weakness reflect hoti hai.
+🧭 Final Understanding
+Payroll testing ke 3 main control areas:
+Attendance Mechanism: Time In/Out system working properly.
+Payroll Linkage: Payroll data system logs se pick ho raha hai.
+Overtime Authorization: Extra payments approved hain.
+Har control alag test hota hai, lekin teeno mil kar Payroll Process ki reliability define karte hain.
+🎯 Concept Focus
+Is lecture me focus tha Authorization aur Verification Controls ke practical testing par.
+Aim: Yeh samajhna ke management (specially CFO aur supervisor) ka role audit ke control testing me kaise verify kiya jata hai.
+🧩 1. CFO Review and Authorization Control
+Control: CFO (Chief Financial Officer) reviews payroll sheet on a sample basis before final approval.
+Objective: Ensure payroll calculations are accurate and properly authorized before processing.
+Testing Steps:
+Kisi random payroll sheet ka sample select karo.
+Dekho kya us par CFO ka signature maujood hai.
+Signature evidence hai ke CFO ne sheet verify kar li aur approval diya.
+Agar signature nahi hai → Control failed (unauthorized payroll).
+Understanding:
+CFO ka sign = verification evidence.
+Signature ka matlab hai ke CFO ne sheet review aur confirm ki.
+Agar CFO sign nahi karta, iska matlab control perform nahi hua.
+⚙️ 2. Supervisor Verification for Time Records
+Control: Supervisor verifies attendance or time sheets daily.
+Objective: Ensure working hours aur attendance records valid hain.
+Testing Steps:
+Attendance Sheet / Time Sheet ka sample select karo.
+Dekho kya sheet par Supervisor ka signature hai.
+Signature evidence hai ke supervisor ne attendance verify ki.
+Agar signature missing hai → control ineffective.
+Design vs. Operation:
+Agar supervisor manually timing likhta hai aur sahi verify nahi karta, to design control theek hai lekin operating effectiveness weak hai.
+Auditor ko yeh note karna chahiye ke control design functional hai, par operation me risk hai.
+🧾 3. Manual vs. Automated Systems
+Automated System (Clock Card / Biometric):
+Attendance automatically record hoti hai.
+Risk of manipulation kam hota hai.
+Manual System:
+Attendance supervisor likhta hai.
+Risk of error aur manipulation zyada hota hai.
+Auditor ko yeh evaluate karna hota hai ke manual control reliable hai ya nahi.
+🧪 4. Sequential Check – GDN (Goods Dispatch Note)
+Control: All GDNs should be sequentially numbered to prevent omission or duplication.
+Objective: Ensure transaction completeness and validity.
+Testing Steps:
+Block sample of GDNs select karo for any specific date.
+Verify whether numbering is in proper sequence.
+Agar koi missing or duplicate number milta hai → potential control weakness.
+Agar sequence proper hai → control operating effectively.
+Purpose:
+Sequence check ensures no fake or skipped transaction.
+Yeh test evidence deta hai ke control at that time operational tha.
+🧠 Overall Understanding
+Authorization Controls: Verify signatures aur approvals (CFO, supervisor).
+Operational Controls: Verify attendance aur payroll linkage.
+Sequence Controls: Verify transaction completeness (e.g., GDN numbering).
+Lecture- 6
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🎯 Class Focus
+Aaj ka topic hai Internal Controls ka continuation — specially un controls par jo Purchase aur Capital Expenditure (PPE) ke process me apply hote hain.
+Objective yeh samajhna ke ek organization apne resources ko protect karne ke liye kaun kaun se control mechanisms use karti hai.
+🧩 Internal Control ka Purpose
+Internal control ka main aim hai:
+Assets ki safeguarding.
+Authorized spending aur valid purchases ensure karna.
+Unnecessary ya duplicate purchases avoid karna.
+Accurate recording aur completeness maintain karna.
+Auditor ka kaam hota hai check karna ke:
+“Jahan control missing ho, wahan risk zyada hota hai.”
+🏢 Example: PPE Purchase Process
+Example: Company ne Laptop ya Equipment purchase karna hai.
+Related journal entry hoti hai: > PPE (Debit) and Payables (Credit)
+Is entry ke peeche multiple internal controls operate karte hain:
+Need identification (Requirement ka justification).
+Budget check (Departmental limit ke andar hai ya nahi).
+Authorization (Department Head aur Budget Department ki approval).
+Procurement control (Purchase requisition aur vendor verification).
+🔐 1. Need-Based Purchase Control
+Purpose: Ensure ke koi bhi asset bina zarurat ke na khareedi jaye.
+Example:
+Payroll department me laptop kharab ho gaya → replacement justified.
+New employee join hua → new laptop required.
+Control: Purchase tabhi allow hoti hai jab genuine need exist karti ho.
+💰 2. Budgetary Control
+Har department ko annual budget allocate hota hai.
+Control ensure karta hai ke koi department apni limit se zyada expense na kare.
+Agar budget exceed ho jaye:
+Request Budget Department ke paas jati hai.
+Phir CEO / CFO approval ke baad hi purchase possible hoti hai.
+Example:
+PTCL jesi companies me Limit Check Control laga hota hai.
+Agar department ka 1 million budget hai aur 700,000 spend ho chuka hai → 300,000 se zyada purchase systematically block ho jati hai.
+⚙️ 3. Purchase Requisition and Approval Process
+Step-by-step mechanism:
+Department head Purchase Requisition (PR) raise karta hai.
+PR verify hoti hai against available budget.
+Agar within limit hai → approval milta hai.
+Agar budget exceed karta hai → request return hoti hai Budget Team ke paas for revision.
+Purpose:
+Ye control prevent karta hai unnecessary aur unauthorized purchase requests.
+System me purchase tabhi proceed hoti hai jab approvals aur budgets dono aligned hon.
+🧠 4. Role of Department Head aur Budget Department
+Department Head:
+Justify karta hai need aur approve karta hai requisition.
+Ensure karta hai ke department ka budget exceed na ho.
+Budget Department:
+Monitor karta hai overall company expenditure.
+Agar koi request over limit ho, to revise ya reject karta hai.
+💡 5. Risk & Importance of Budgetary Control
+Without budgetary control:
+Unnecessary assets procure ho sakte hain.
+Company ke funds waste ho sakte hain.
+Assets unused reh jaate hain → depreciation aur losses badhte hain.
+With strong control:
+Har purchase justified aur recorded hoti hai.
+Overspending aur misuse prevent hota hai.
+🧩 1. Budgetary Control – Limitation & Monitoring
+Purpose: Employees ko apne authorized spending limit ke andar rakhna.
+Logic: Jab budget limit fix hoti hai, har employee ya manager apne expense me disciplined rehta hai.
+Control Effect:
+Limit cross hone par system automatic block kar deta hai.
+Expense tabhi process hota hai jab higher authority approval (Partner/Director) milti hai.
+Example:
+Agar kisi firm ka budget $20,000 hai, system 50% se zyada kharch par alert trigger karta hai.
+Portal automatically manager se justification mangta hai (e.g., travel, stay, or business meeting expense).
+💡 Practical Understanding of Budgetary Control
+Preventive Nature: Yeh control excess aur unnecessary expenditure ko rokta hai.
+Behavioral Impact: Employees apni limit ke andar expenses manage karte hain kyun ke unhe pata hota hai system approval ke bagair transaction block kar dega.
+Audit Viewpoint: Budgetary control ensure karta hai ke har transaction authorized aur justified hai.
+⚙️ 2. Purchase Requisition & Approval Flow
+Flow of Purchase:
+Department Head purchase ki need identify karta hai.
+Purchase Requisition (PR) raise karta hai.
+Requisition Admin / Procurement Department ke paas jati hai.
+Procurement team verifies:
+Budget availability ✅
+Vendor approval ✅
+Quotation comparison ✅
+🔐 3. Approved Supplier Control
+Control: Purchase sirf approved vendor list se hi ki jati hai.
+Objective: Fraud aur collusion risk kam karna.
+Mechanism:
+Admin Department maintain karta hai approved supplier list.
+Only listed vendors ko quotation request send hoti hai.
+Unauthorized vendors system se block ho jate hain.
+🧾 4. Quotation & Comparison Process
+Steps:
+Approved vendors ko quotation request send hoti hai.
+Vendors apni price bids portal par submit karte hain.
+System automatically lowest quote highlight karta hai.
+Department Head quotation review karke approval sign karta hai.
+Tab jaake Purchase Order (PO) generate hota hai.
+Control Checks:
+Vendor list → pre-approved.
+Quotation → system verified.
+Selection → lowest bid + quality consideration.
+🧮 5. Purchase Order (PO) Controls
+Purpose: Ensure ke har PO valid aur traceable ho.
+Features:
+Pre-numbered hota hai (tracking ke liye).
+Har PO ek specific Purchase Requisition (PR) se linked hota hai.
+PR number system me mandatory field hoti hai — bina valid PR ke PO generate nahi hota.
+Duplicate PR number enter karne par error message (Duplicate Check Control) aata hai.
+Control Impact:
+Unauthorized or fake orders prevent hote hain.
+Har PO ke saath audit trail maintain hoti hai.
+🧠 6. Automated vs Manual Purchase Control
+Automated Systems: (e.g., PTCL, corporate ERP)
+Real-time validation aur control checks.
+Duplicate aur over-limit transactions automatic block hoti hain.
+Manual Systems:
+Human error ka risk zyada hota hai.
+Physical approvals aur document verification required hoti hai.
+💡 7. Key Control Types Discussed
+🧩 1. Purchase Order (PO) Creation Controls
+Purpose: Ensure ke har PO valid, traceable aur properly authorized ho.
+Process:
+PO tabhi generate hota hai jab valid Purchase Requisition (PR) aur Quotation dono exist karte hain.
+System demand karta hai ke PO banate waqt:
+Purchase Requisition Number (PR) enter kiya jaye ✅
+Quotation Number bhi tag kiya jaye ✅
+Agar quotation exist nahi karti → System PO generate hi nahi hone deta.
+Control Type: Existence Check Control ⚙️
+System verify karta hai ke PR aur quotation dono available hain.
+PO tabhi allow hota hai jab dono documents valid aur linked hon.
+🔐 2. Linkage Between PR, Quotation & PO
+Har PO ek specific PR aur Quotation ke sath linked hota hai.
+Yeh linkage ensure karta hai:
+Unauthorized ya duplicate PO na bane.
+Purchase traceable rahe from requisition → quotation → order.
+System Behavior:
+Agar duplicate PR number enter kiya jaye → Error message trigger hota hai.
+Isse system prevent karta hai duplicate aur fake purchase.
+⚙️ 3. Automatic vs Manual PO Authorization
+Automatic System:
+PO generation ke liye system automatically verify karta hai ke quotation aur PR exist karte hain.
+Agar koi missing data hai → system block kar deta hai.
+Manual System:
+Verification aur sign-off manually hota hai.
+PO sign karta hai Head of Admin / Procurement as authorization proof.
+🧾 4. Supplier Approval & Change Control
+Control: Vendor list me supplier tabhi add hota hai jab Head of Admin approve kare.
+Purpose: Prevent unauthorized supplier inclusion.
+Example:
+Agar kisi new supplier se item purchase karni ho, pehle supplier ko approval list me add karna hota hai.
+Sirf approved vendors se hi PO generate hota hai.
+📦 5. Goods Receiving Process
+Jab goods deliver hoti hain, receiving department verify karta hai ke delivery valid hai ya nahi.
+Steps:
+Delivery challan ya goods document receive hota hai.
+Usse PO ke sath match kiya jata hai.
+Verification items:
+Quantity ✔️
+Description ✔️
+Specification ✔️
+Vendor name ✔️
+Agar sab match kare → goods accept hoti hain ✅
+Agar mismatch ho → goods reject ya hold hoti hain ❌
+🧮 6. Quality & Quantity Verification
+Control Objective: Ensure ke jo goods aaye hain woh same quality aur quantity ki hain jo PO me order ki gayi thi.
+Process:
+Receiving team count perform karti hai (physical verification).
+Agar 50 laptops order kiye the aur 40 aaye, to issue raise hota hai.
+Over-supply ya under-supply dono me exception log banta hai.
+Key Control Phrase:
+“Goods should not be paid for until they are received and matched with Purchase Order.”
+⚠️ 7. Control Purpose & Audit Relevance
+Yeh controls ensure karte hain:
+Unauthorized purchases prevent ho.
+Non-existent ya fake assets books me record na ho.
+Purchase process audit trail ke through fully traceable ho.
+Auditor verify karta hai:
+PR, Quotation, aur PO linkage properly maintained hai.
+Delivery evidence aur physical verification exist karti hai.
+🧩 1. Goods Receiving & GRN (Goods Received Note)
+Jab supplier goods deliver karta hai, receiving department issue karta hai:
+GRN – Goods Received Note
+GRN ka purpose: Proof ke goods physically receive ho gaye hain.
+Details included in GRN:
+Purchase Order (PO) Number
+Quotation Number
+Description & Quantity of items
+Supplier details
+Date of receipt
+Copies of GRN:
+Admin Department – for records
+Finance Department – for payment & accounting entry
+Supplier – as acknowledgment
+Department Head / Requester – as delivery confirmation
+⚙️ 2. Quality & Quantity Verification
+Control: Quality aur Quantity dono verify karna zaroori hai before accepting goods.
+Steps:
+Physical counting perform karo (e.g., 50 laptops ordered, 50 received?).
+Specification aur model verify karo (same as PO?).
+Defective ya wrong item ko reject karo.
+Accept karne ke baad GRN sign karwao.
+Purpose:
+Agar defective goods accept ho gaye, to future me impairment loss create hoga.
+Quality check control prevent karta hai incorrect asset capitalization.
+🔍 3. Accounting Impact of Quality Control
+Valuation Impact:
+Poor-quality assets → early impairment → financial loss.
+Existence Impact:
+GRN ke bina record karna = fictitious / unverified asset.
+Audit Objective: Ensure ke only verified goods record hue hain.
+🧾 4. Acknowledgment & Responsibility Transfer
+Jab item (e.g., laptop) deliver hota hai:
+Admin Department item ko respective Department Head ke paas bhejta hai.
+Department Head sign karta hai Acknowledgment Copy as evidence ke asset deliver ho chuka hai.
+Admin ki responsibility yahan tak hoti hai.
+Purpose:
+Responsibility transfer ka documented proof maintain hota hai.
+Agar asset baad me lost ya misplaced ho, accountability trace ki ja sakti hai.
+🧠 5. Asset Tagging System
+Har asset ko ek Unique Asset Code / Tag Number assign hota hai.
+Format Example:
+Laptop Code: 50001 → assigned to Mr. A
+LCD Code: 50002 → assigned to Mr. B
+Purpose:
+Asset identification & tracking.
+Prevent unauthorized swapping or removal.
+Process:
+Admin tag chipkata hai asset par.
+Tag number maintain hota hai Asset Register (Excel/ERP) me.
+Department Head se sign karwa kar acknowledgment li jati hai.
+📋 6. Asset Register & Accounting Entry
+Jab GRN aur acknowledgment dono complete ho jaye:
+Finance department record karta hai entry: > Dr: PPE (e.g., Computer Equipment)
+> Cr: Payables / Vendor
+Asset Register Fields:
+Asset Code
+Description
+Department / Employee
+Location
+Cost
+Date of Purchase
+Tag Number
+Purpose:
+Maintain traceability aur ownership record.
+Facilitate future reconciliation between books aur physical verification.
+⚙️ 7. Existence & Completeness Assurance
+Existence: Asset physically organization me hai (verified via tag & acknowledgment).
+Completeness: Har received item properly record hui hai (no omission).
+Control Summary:
+GRN → Proof of Receipt.
+Quality Check → Prevent impairment.
+Acknowledgment → Responsibility Transfer.
+Tagging → Identification & Tracking.
+Asset Register → Accounting Record.
+🧾 1. Recording in Fixed Asset Register (FAR)
+Jab asset GRN aur acknowledgment ke baad record ke liye ready hota hai, to use FAR me enter kiya jata hai.
+Fields in FAR:
+Asset Code / Tag Number
+Description (e.g., Laptop, LCD)
+Purchase Order (PO) Number
+Vendor / Supplier Name
+Date of Receipt (from GRN)
+Value / Cost (from PO)
+Department / Employee Assigned
+Location
+Purpose:
+Har asset individually identifiable aur traceable ho.
+FAR ek centralized record hota hai jahan se audit verification aur financial reporting dono hoti hain.
+💡 2. Source of Value & Date
+Date: GRN (Goods Received Note) se li jati hai — jab asset actually receive hua.
+Value: PO se li jati hai — agreed purchase value.
+Agar wrong date use ho → incorrect depreciation calculation.
+Correct Rule: > “Depreciation tabhi start hoti hai jab asset available for use ho.” ✅
+🧮 3. Individual Asset Entry & Valuation
+Har PO me multiple assets ho sakte hain (e.g., 3 laptops, 2 LCDs).
+Finance team unhe individually record karti hai FAR me:
+Laptop 1 → Rs. 80,000
+LCD → Rs. 20,000
+Printer → Rs. 100,000
+Total Entry in GL: Rs. 200,000 (aggregated under PPE).
+Purpose: Individual recording se valuation aur depreciation accurate rehta hai.
+🧭 4. Depreciation & Asset Life Control
+Har asset ki useful life alag hoti hai (policy-based).
+Example:
+Laptop → 2 years (EY Policy)
+LCD → 1 year
+Vehicle → 4 years
+Depreciation calculation system me automatically hoti hai once asset FAR me correctly recorded ho.
+⚙️ 5. Control Risks Identified
+🧠 6. Control Applied – Four-Eyes Principle 👀👀
+Definition: Every FAR entry is verified by two independent persons.
+Roles:
+Maker: Data entry person who inputs asset details (date, cost, tag number, PO, GRN).
+Checker: Reviewer who validates entry correctness before posting.
+System Behavior:
+Entry remain pending until approved by checker.
+Once verified → entry becomes active and updates FAR.
+Purpose:
+Eliminate posting errors.
+Ensure accurate value and correct date of capitalization.
+🧾 7. GL (General Ledger) Integration Control
+FAR data post hota hai General Ledger (GL) me:
+Dr: PPE (e.g., Computer Equipment)
+Cr: Payables / Vendor
+Maker-Checker Control in GL:
+Maker → prepares entry (records value).
+Checker (Senior Finance Manager) → approves posting.
+Entry activate hoti hai after dual authorization.
+Purpose: Ensure ke PPE aur Payables dono correct values pe record hon.
+📘 8. Reconciliation Control (FAR vs GL)
+Control Objective: Verify ke FAR me listed assets = GL balance.
+Steps:
+Total PPE value from FAR compare karo GL ke PPE ledger se.
+Difference agar aaye → reconciliation perform karo.
+Common causes: rounding, wrong date, missed entry, or duplication.
+🧾 9. Periodic Physical Verification
+Admin department periodically physical count perform karta hai:
+Verify existence of each asset physically present hai ya nahi.
+Match asset tag numbers with FAR records.
+Assertion Tested: Existence ✅
+Lecture- 16
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Topic: Cash Cycle – From Collection to Deposit
+🔸 Objective:
+Ensure:
+Cash exists ✅
+Cash is completely recorded ✅
+Cash is securely handled & deposited ✅
+🏦 Understanding the Cash Cycle
+🔁 Cash Inflows kahan se aate hain?
+Cash Sales 🛒
+Recovery from Debtors (Receivables) 💳
+Disposal of Assets 🏚️
+💸 Cash Outflows kahan jate hain?
+Payments (vendors, salaries, etc.)
+Deposits into bank accounts
+🔍 Step-by-Step Cash Control Mapping
+✅ Step 1: Cash Received Against Sale
+Har sale ke against cash receipt voucher ya invoice generate hoti hai
+Invoice number = Unique (Pre-numbered system)
+No manual tampering possible — ensures authenticity 🔐
+✅ Step 2: Matching Control
+At end of day or interval (e.g., 3 hours):
+Compare:
+Cash in hand 🖐️
+Cash receipt vouchers 🧾
+Ensure full tally/reconciliation
+✅ Step 3: Cash Recording in Books
+2 possibilities:
+Automated system:
+System auto-entries: Cash Dr / Sales Cr
+Manual entry:
+Based on vouchers, entries are passed manually
+Principle of segregation:
+Maker ≠ Checker (Entry and Approval by different people) 🔄
+✅ Step 4: Physical Security of Cash
+Cash should be moved to secure location every few hours
+Example: Safe box or locked drawer
+Prevents theft/fraud 🔒
+✅ Step 5: End-of-Day Reconciliation
+Match:
+Total Cash received (from vouchers)
+Total Cash counted (physical)
+Purpose: Ensure completeness + existence of cash ✅
+🏦 Cash Deposit & Bank Controls
+🔄 Cash should be deposited ASAP into bank
+Delay = High fraud risk ⚠️
+Cash must not stay idle (esp. weekends, holidays)
+🏪 Example: Retail Chains (e.g., Khaadi, Imtiaz)
+Use Cash Management Services (CMS) by banks
+Secure vans (e.g., M.I. Driving etc.) collect cash regularly
+Fee-based service, not free 💰
+🔹 Topic: Cash Handling – From Store to Bank
+🔸 Objective:
+Ensure:
+Cash is safely handed over ✅
+Cash is properly recorded at every stage ✅
+Bank deposits are real & timely ✅
+🏦 Cash Management System (CMS) – Process Overview
+✅ Step-by-Step Cash Deposit Process:
+End-of-interval cash counting:
+CMS sheet banai jati hai (note-wise breakdown)
+Designated person signs off 💼
+Cash handover to CMS van:
+Sealed packets handover kiye jate hain 🔐
+Security guards + CMS official confirm contents
+At the bank:
+Packets are reopened ➤ Cash recounted
+Bank staff verifies & acknowledges receipt (signed slip)
+One copy retained by bank, one returned as Deposit Slip 🧾
+Return to store:
+Store receives deposit slip
+Used as evidence for money actually deposited ✅
+🔁 Book Entries & Timing Differences
+🔸 GL vs Bank Statement:
+When store hands over cash ➤ Entry passed:
+Bank A/c Dr
+Cash A/c Cr
+But: Actual bank update occurs later
+🔍 Dual Control Entries:
+Some companies use:
+Transit A/c (e.g., Cash in Transit)
+Track karne ke liye jab tak actual bank reflection na aaye
+🔐 Controls to Ensure Security & Accuracy
+✅ Control 1: Cash Receipt Voucher
+Har cash transaction pe voucher generated 🧾
+Used to ensure completeness & existence
+✅ Control 2: Cash vs Voucher Reconciliation
+End of shift/day ➤ Verify:
+Voucher amount = Physical cash count
+✅ Control 3: Limited Custody
+Cash ki custody sirf designated personnel ke paas honi chahiye
+Prevent unauthorized handling ❌
+✅ Control 4: Deposit Acknowledgment
+Deposit karwane wale person se acknowledgment slip li jati hai
+Shows amount, date & time of handover ⏱️
+✅ Control 5: Bank Reconciliation Statement (BRS)
+Daily basis pe verify:
+GL bank balance = Bank Statement balance
+Ensures cash actually reached bank
+🧠 Audit-Relevant Risks Addressed:
+📦 Real-Life Examples:
+Khaadi: CMS vans, sealed packets, deposit slips
+Bakeries: Cash token system ➤ proof before delivery
+Manual Systems: Shahid-type example – local hand delivery with acknowledgment & verification
+🔹 Topic: Bank Book, Classification & Online Deposits
+🎯 Objective:
+Ensure:
+Bank deposits are timely recorded ✅
+Cash is correctly classified (Cash vs Bank) 📘
+Online deposits are traceable and complete 📥
+🧾 Bank Book Update – Kab Honi Chahiye?
+Jab cash bank ko handover ho jaye ➤ Bank Book update karo
+Chahe bank statement me clearing baad me aaye
+❗ Galti:
+“Bank Book tab update karo jab bank clear kare”
+❌ Wrong classification
+❌ Completeness ka risk
+✅ Sahi Tareeqa:
+Bank Book update at the time of handover
+Clearing ka match BRS se hoga
+🧩 Classification Logic:
+📊 Controls for Accuracy:
+✅ Control 1: Daily Bank Book Update
+Cash handover ke time pe entry pass karo:
+Bank Dr / Cash Cr
+✅ Control 2: Bank Reconciliation Statement (BRS)
+Daily prepare karo
+Compare karo:
+GL bank balance vs. Bank Statement balance
+💻 Online Deposits – Special Deposit Slip System
+🧾 Example: ICAP Exam Fee Deposit
+Bank me fee deposit hoti hai using Special Deposit Slip
+Slip contains:
+Name, CRN
+Subjects
+Amount (words + figures)
+🔁 Process:
+Student deposits fee at bank
+Bank enters data in MIS (Excel system)
+End of day ➤ Bank sends MIS to ICAP
+ICAP records:
+Bank Dr / Fee Income Cr
+🧠 Key Logic:
+MIS = Evidence for ICAP to record revenue
+Jab tak MIS nahi milti ➤ Revenue record nahi hota
+Ensures:
+Completeness
+Accuracy
+Proper control over recognition timing
+🔐 Supporting Controls:
+Lecture- 17
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Concept of Internal Control
+Internal Control wo process hai jo organization ke operations aur reporting accuracy ensure karta hai.
+Sir ne clarify kiya ke multiple cycles jese Fixed Assets aur Inventory Cycle me controls test kiye jaate hain.
+Purpose: Safeguard assets, ensure reliability of records, aur detect irregularities on time.
+💰 Cash Cycle Controls
+Process of Cash Handling:
+Har cash transaction ke sath Cash Receipt Voucher (CRV) banana must hai.
+Day-end par sari receipts ko summarize karke Bank me deposit karni hoti hai.
+Deposit Slip ko Bank Statement ke sath match karna hota hai.
+Jo amount bank me reflect nahi hoti, wo Reconciling Item ban jati hai.
+Control Objective: Ensure karna ke cash exist karta hai aur uska proper record maintain hua hai.
+🧾 Maker-Checker Principle
+Definition: A dual control system jahan ek person entry karta hai (Maker) aur doosra verify karta hai (Checker).
+Mechanism:
+Maker: Creates debit entry.
+Checker: Approves aur authorizes posting.
+Ye control unauthorized entries aur fraud se protect karta hai.
+Purpose: Maintain accuracy, segregation of duties, aur control over financial postings.
+💸 Sales Cycle & Receivables
+Step-by-Step Process:
+Goods Delivery Note (GDN) banti hai → Sale record hoti hai.
+Invoice create hoti hai aur General Ledger (GL) se match hoti hai.
+Ye confirm karta hai ke sari sales proper record hui hain.
+Modes of Customer Payment:
+Cash Payment: CRV banta hai aur deposit hota hai.
+Online Transfer: Trace hoti hai via bank statement.
+Advance Payment: Liability tab tak rehti hai jab tak goods deliver nahi hotay.
+Control Objective: Ensure completeness of revenue aur timely recognition.
+🏦 Bank Transactions & Completeness Control
+Reporting Mechanism:
+Ek designated person har din Emails aur Calls ke zariye received payments confirm karta hai.
+Register Maintain hota hai jisme har confirmation record hoti hai.
+Purpose: Ensure karna ke jitne funds receive hue, wo sab system me record hue hain.
+Example:
+Agar 1000 transactions hui aur 980 record hui, to 20 missing transactions completeness issue ko indicate karti hain.
+Completeness Test:
+Bank Statement vs MIS Report → Consistency check.
+Bank Statement vs GL → Reconciliation test.
+⚙️ Accounting Entries in Control Testing
+When Cash is Received:
+Debit: Bank Account
+Credit: Depends on source:
+Customer Recovery → Accounts Receivable
+Advance Payment → Liability Account
+Unknown Source → Suspense Account
+Objective: Ensure ke transaction nature ke mutabiq correct posting hui ho.
+🧠 Existence vs Completeness
+💱 Exchange Rate Discussion
+Company jab foreign currency me purchases karti hai, to exchange rate difference ek major risk hota hai.
+Steps:
+Foreign vendors identify karo aur unki currencies note karo.
+Purchase date ke spot rate check karo.
+Actual aur recorded rate ka difference nikal kar exchange gain/loss calculate hota hai.
+Example: Pichle saal loss tha 55 million, is saal 1 million.
+Sales aur purchases dono zyada hui hain, to logically loss zyada hona chahiye tha — kam nahi.
+Iska matlab hai data ya calculation me koi issue hai.
+⚖️ Risk Assessment
+Auditor compare karta hai:
+Current year vs previous year.
+Rate movement aur transaction volume.
+Agar logic match nahi karta, to auditor usko further investigate karta hai.
+Point: Audit sirf numbers verify karna nahi — business samajhna bhi zaroori hai.
+🔍 Analytical Review Example
+Ek company ka research fund pichle saal record hua, is saal nahi hua.
+Management ne bataya ke unke drug manufacturing license surrender ho chuke the, isliye expense book nahi hua.
+Auditor ne verify kiya ke ye reason business logic ke mutabiq sahi hai.
+Lesson: Analytical review me har difference ka logical reason samajhna chahiye.
+🧾 Suspense Account
+Suspense Account ek temporary account hota hai jahan uncertain entries rakhi jati hain.
+Example: Ek company ke suspense account me Rs. 2.7 billion balance tha.
+Auditor ne verify karke sari entries clear kar di.
+Point: Suspense account kabhi permanent nahi hona chahiye. Har entry ka source aur reason clear hona chahiye.
+⚙️ Balancing Control
+Balancing Control wo hota hai jo ensure karta hai ke debit aur credit dono complete hon tabhi entry post ho.
+Purpose:
+Incomplete entry system me process nahi hoti.
+Suspense account ki zarurat kam ho jati hai.
+Example: Jahan balancing control hai, wahan suspense account ka concept nahi hota, kyunki system unbalanced entry ko allow hi nahi karta.
+💳 Bank Payment Voucher (BPV)
+Company jab supplier ko payment karti hai, to Bank Payment Voucher (BPV) banaya jata hai.
+Ye ek internal document hota hai jo payment authorization aur record keeping dono ke liye use hota hai.
+BPV me likha hota hai:
+Kis invoice ke against payment ho rahi hai.
+Invoice number aur PO (Purchase Order) number.
+Payment mode (Bank/Check).
+Supporting documents attach hote hain (Invoice, PO, Approval Sheets, etc.).
+Control:
+BPV tabhi banega jab payable record ho chuka ho.
+CFO approve karta hai payment amount aur details verify karta hai.
+CFO ke signature se pehle saari supporting documents verify hoti hain.
+🧾 Authorization & Approval Controls
+CFO ek limit tak khud sign kar sakta hai (e.g., up to 1 million).
+Is limit se upar payment ke liye dual signatures required hote hain.
+Ye control unauthorized aur excess payments se protect karta hai.
+Purpose: Ensure karna ke har payment genuine aur approved invoices ke against ho.
+⚙️ Step-by-Step Payment Flow
+Accounts Officer BPV banata hai aur relevant invoices attach karta hai.
+Finance Manager/CFO documents verify karta hai.
+CFO payment approve kar ke check sign karta hai.
+Payment ke baad BPV par Paid Stamp lagayi jati hai.
+Original check dispatch hota hai aur BPV office record me reh jata hai.
+Result:
+Every payment traceable hoti hai invoice aur PO ke basis par.
+Duplicate payment ka chance khatam ho jata hai.
+🧩 Preventive Controls
+System-Based Controls:
+Duplicate invoice number enter nahi ho sakta.
+Same supplier ke liye double BPV generate nahi hota.
+Drop-down menus me sirf registered suppliers dikhte hain.
+Agar supplier system me nahi hai, payment initiate hi nahi hoti.
+Purpose: System khud prevent karta hai errors aur duplicate entries ko.
+🏦 Reconciliation Process
+Bank Reconciliation Statement (BRS) banayi jati hai taake ensure ho sake ke jitni payments record hui hain, wo bank statement me bhi reflect ho rahi hain.
+Use:
+Identify karna uncleared checks (jo issue hue lekin bank se clear nahi hue).
+Detect karna fake or unauthorized payments (agar bank statement me aisi entry mile jo record me nahi hai).
+Confirm karna ke bank balance aur ledger balance match karte hain.
+Example:
+Agar koi check issue hua lekin abhi tak cash nahi hua, to wo unpresented check kehlata hai.
+BRS me is difference ko adjust kiya jata hai.
+💼 Payment Completeness Control
+BPV aur bank statement ka reconciliation ensure karta hai ke saari payments properly record hui hain.
+Agar koi payment bank statement me hai lekin GL me nahi, to wo completeness issue show karta hai.
+Point:
+“BRS se auditor ko ye samajh aata hai ke koi fake ya missing payment to nahi hui.”
+Lecture- 18
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🧩 Fix Asset Confirmation Process – Discussion
+✅ Control Objective:
+Purpose yeh dekhna tha ke:
+“Asset physically exist karta hai ya nahi?”
+Kya yeh PP (Property, Plant) mein exist karta hai?
+Aur inventory/warehouse mein verify ho raha hai ya nahi?
+➡️ Control Objective: Ensure physical existence of asset aligns with what’s in GL (General Ledger).
+🧱 Identified Deficiency (Definition C):
+🚨 Deficiency Statement (Incorrect Example):
+“Asset confirmation is sent by the person in charge of the asset to the Admin Department on an annual basis.”
+📌 Issue:
+Yeh statement weak hai — self-confirmation is not a strong internal control.
+Jis ke paas asset hai, wohi confirm karey? This lacks independent validation.
+📎 Correct Deficiency Statement Should Be:
+“Fix asset confirmation is performed by the person in charge of the asset, rather than an independent party.”
+🧠 Logic:
+GL mein jo exist karta hai, woh shayad physically na ho.
+Independent party chahiye jo verify kare, warna insider misstatement ka risk hai.
+🛠️ Application (Practical Impact):
+Agar confirmation by asset holder hoti hai:
+Insider bias ho sakta hai 🤐
+GL aur physical asset mismatch ka risk ⚠️
+💡 True Application:
+“If confirmation is performed by the same person who controls the asset, they may confirm incorrect info, resulting in overstatement in GL.”
+📢 Correct Recommendation:
+Recommendation:
+“Fix asset confirmation should be performed by an independent person who physically verifies the asset and sends the report to the Admin Department.”
+Frequency:
+Annual basis preferred ✅ (unless risk level suggests more frequent checks).
+Sir ne bataya ke usually annually hi hoti hai — aur yeh acceptable hai.
+💬 Key Insights from Sir:
+Wrong practice: Same person (asset holder) confirms asset — highly flawed.
+Correct practice:
+Independent person jaaye physically verify kare ✅
+GL entries ko validate kare with actual existence
+Why?
+Because this eliminates bias & ensures accurate reporting 🧾
+Sir ne emphasis diya ke:
+Deficiency define karo → uska impact samjhao → phr recommendation do ✔️
+“Recommendation doge, to samjhao ke karne se hoga kya. Sirf likhna nahi, logic bhi dena hai.”
+✅ Clarified Understanding of Control Deficiency
+❌ Weak Design (Recalled from Part 1):
+Confirmation is sent by the same person in charge of the asset ➡️ Biased / unreliable
+✅ Deficiency Statement:
+Lack of segregation of duties — same person confirms the asset who is responsible for it.
+💡 Impact:
+Asset exists in GL, but may not exist physically.
+Misrepresentation ho sakta hai — control is flawed.
+🛠️ Recommendation:
+An independent person should physically verify the asset and send confirmation to Admin department.
+👀 Important Insight:
+Sir ne clarify kiya: Application aur recommendation ka logic zaroori hai.
+Sirf bolna nahi ke “ye hona chahiye” — batana bhi hoga kyun hona chahiye.
+📦 Duplicate Purchase Order Control Case
+🧩 Scenario Given:
+System allows generation of multiple POs against the same Purchase Requisition (PR).
+❌ Deficiency Statement:
+“System allows creation of duplicate POs against a single purchase requisition.”
+🔥 Impact:
+“This might lead to ordering goods that are not required, causing NRV loss or unnecessary inventory.”
+➡️ Iska matlab: Organization ke resources waste ho sakte hain.
+✅ Recommendation:
+“System should implement a duplicate check control that prevents creation of more than one PO against the same PR.”
+💡 Control Type:
+If automated: Apply ID-based check within system (unique PR identifier)
+If manual: PR marked as “PO Created” after first use to prevent repetition
+🔁 Clarification on ‘Routine Basis’ vs. ‘Frequency’
+Sir ne yeh misconception clear kiya:
+🔄 Routine basis ≠ daily — har company ki routine frequency alag hoti hai (monthly, yearly, etc.)
+✅ “Routine” ka matlab: “As per company’s set frequency” — e.g., annually, quarterly
+🗣️ Example:
+“Our company counts assets annually — that is our routine.”
+📌 Lesson:
+“Routine basis” ka matlab samajhna zaroori hai — usko “daily” assume mat karo ❗
+🧾 Additional Control Case: Purchase Order Repetition
+🧩 System Issue:
+System allows multiple POs against same PR
+💣 Impact:
+Leads to excess ordering, inventory bloat, or NRV loss
+Example: Same item ordered twice unknowingly — wastes company resources
+🛠️ Recommendation:
+“System should automatically restrict duplicate PO generation by using unique PR tags or flags.”
+➡️ Whether automated or manual, duplicate prevention must exist:
+Manual → Mark PR as “used” after first PO
+Automated → PR number can’t be reused
+🧾 PO Generation & Prevention Control
+🔍 Scenario:
+User ne PR banaya jisme kuch items missing hain.
+System ne assistant ko restrict kiya ke duplicate PO na banaye.
+✅ Correct Control:
+“System should prevent PO generation against same PR by implementing ID-based check or flag after PO is created.”
+🛠️ If automated: Use unique PR number to lock further PO creation. 🛠️ If manual: Stamp PR as “PO Created” once used.
+📌 Purpose: Prevent unintentional reordering and financial mismanagement.
+🧱 Finance Dept. Budget Check – Control Evaluation
+❌ Deficiency:
+Finance department budget check ho raha hai after asset received.
+⚠️ Issue:
+Control too late — PO ban chuka hota hai.
+Budget check at this stage is detective, not preventive.
+✅ Correct Control Point:
+Budget check should happen at PR or PO creation stage.
+📌 Logic:
+Asset purchase must align with department’s approved budget before ordering.
+💡 Impact of Missing Budget Control:
+Department may purchase in excess of its budget limit 💸
+Leads to:
+Over-procurement
+Waste of resources
+NRV losses
+🧠 Valuation Risk Triggered:
+Excess assets beyond need = Impairment risk
+Asset may become obsolete or underutilized
+🔍 Audit Focus – What to Observe?
+👀 When auditing:
+Focus on process gaps
+Identify where controls are missing or ineffective
+Recognize risks arising from poor controls
+📌 Example:
+If asset is purchased beyond need or budget, it could impair valuation.
+Lecture- 19
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🧱 Fixed Asset Recording Process
+Jab organization fixed assets acquire karti hai, to unka recording process aur control design accurately maintain karna zaroori hota hai.
+Recording Flow:
+Jab asset receive hota hai → Goods Received Note (GRN) banti hai.
+GRN ke basis par asset Fixed Asset Register (FAR) me record hota hai.
+Invoice receive hone par liability aur valuation finalize hoti hai.
+General Ledger (GL) me entry tab hoti hai jab invoice mil jati hai.
+⚠️ Completeness Issue
+Agar company asset ko tab tak record nahi karti jab tak invoice na mile, to problem hoti hai:
+Asset physically exist karta hai lekin GL me record nahi hota.
+Ye completeness issue create karta hai, kyunki FAR me asset hai lekin GL me missing hai.
+Example: Asset deliver ho gaya lekin invoice late aayi, to GL entry delay hui. Is se asset record incomplete ho gaya.
+Impact:
+Asset record incomplete rehta hai.
+Financial statements understate hoti hain.
+Audit testing me missing entries samne aati hain.
+🧩 Control Weakness
+Process me fault ye hai ke asset tab tak GL me record nahi hota jab tak invoice na mile.
+Is wajah se FAR aur GL me synchronization break hoti hai.
+Result:
+Asset physically maujood hota hai par books me record nahi hota.
+✅ Recommended Control
+Improvement:
+Asset ko FAR me record karna chahiye jab GRN generate ho. Invoice ka wait nahi karna chahiye.
+Baad me reconciliation perform karni chahiye FAR aur GL ke beech.
+Recommendation:
+Reconciliation prepare ki jaye between Fixed Asset Register (FAR) and General Ledger (GL) to ensure completeness.
+📦 Inventory Recording Issue
+Organization advance payment ke waqt hi inventory record kar leti thi jab ke goods physically receive nahi hue hote.
+Is practice se inventory overstate hoti hai aur existence issue create hota hai.
+Problem:
+Payment ke time inventory record ho jati hai.
+Goods receive hone ke baad GRN banne ke bajaye pehle hi entry pass hoti hai.
+System me inventory ka balance zyada dikhai deta hai, jab ke physical count kam hota hai.
+Example:
+Advance payment ki base par goods record hue lekin warehouse me physically available nahi.
+Result: Inventory books me zyada, actual me kam.
+⚠️ Impact on Financial Statements
+Existence Issue: Inventory record hui lekin physically exist nahi karti.
+Classification Error: Advance payment ko Inventory me record kar diya gaya jab ke use Advance to Supplier me record hona chahiye tha.
+COGS Distortion: Jab goods deliver nahi hue phir bhi record kiye gaye, to Cost of Goods Sold (COGS) wrong calculate hota hai.
+Overstatement Risk: Financial statements me inventory balance overstate hota hai.
+🧾 Correction & Classification Adjustment
+Correct Treatment:
+Advance payment ko Advance to Supplier account me record kiya jaye.
+Inventory tab record ho jab GRN (Goods Received Note) ban jaye.
+Jab goods receive ho jayein, tab advance amount adjust ki jaye.
+Example:
+Advance payment 5 million ki thi. Goods abhi tak receive nahi hue.
+Ye amount “Advance to Supplier” me dikhni chahiye, na ke “Inventory” me.
+🧩 Recommended Control
+Control Steps:
+System me control lagaya jaye ke inventory entry sirf GRN ke generate hone par hi ho.
+Advance payments ko Inventory module me record karne ki permission disable ho.
+Periodic reconciliation ki jaye between Advance Accounts aur Inventory Records.
+Purpose:
+Ensure karna ke sirf physically received goods hi inventory me record hon.
+🧱 Asset Removal Policy
+Asset ko Fixed Asset Register (FAR) se tabhi remove karna chahiye jab actual disposal ho jaye.
+Disposal ka matlab: asset sold, scrapped, ya damaged beyond use ho chuka ho — aur proper approval mil chuki ho.
+Sirf zero WDV (Written Down Value) hone ka matlab nahi ke asset remove kar diya jaye.
+⚠️ Issue Identified
+Company prematurely assets ko FAR se remove kar rahi thi bina disposal ke.
+Result: Asset physically exist karta tha lekin FAR me record nahi hota tha.
+Problem Points:
+Existence issue: Record me nahi, par ground par asset maujood.
+Misappropriation risk: Tracking remove hone se asset chori hone ka khatra badhta hai.
+Reconciliation problem: FAR aur physical verification match nahi hoti.
+✅ Correct Control Design
+FAR se removal tabhi ho jab disposal transaction authorized aur documented ho.
+Tagging system maintain rakha jaye — har asset ka tag aur custodian updated ho.
+Zero WDV assets ko remove na karein, unko status “Idle” ya “To Dispose” mark karein.
+Physical verification regular basis par ki jaye — annual aur surprise checks dono.
+Reconciliation between FAR aur physical count sheets compulsory ho.
+🧾 Proper Disposal Workflow
+Initiation: Concerned department disposal request raise kare.
+Verification: Asset ka tag, location, aur status verify kiya jaye.
+Approval: CFO ya Asset Committee se disposal approval li jaye.
+Documentation: Sale invoice, scrap note, ya damage report attach ki jaye.
+Accounting Entry: Disposal entry record ho aur gain/loss recognize ho.
+FAR Update: Disposal date aur supporting docs FAR me record hon, phir asset remove ho.
+🧮 Accounting Example
+On Disposal:
+Dr. Bank / Scrap Proceeds
+Dr. Accumulated Depreciation
+Cr. Asset Cost
+Dr./Cr. Gain or Loss on Disposal (balancing figure)
+🧠 Auditor’s Focus
+Check karein ke koi asset FAR se prematurely remove na hua ho.
+Zero value assets ke physical presence verify karein.
+Annual count aur reconciliation reports review karein.
+🧩 Asset Recovery & Tracking
+Jab employee resign karta hai ya transfer hota hai, uske paas allocated assets ka handover karna mandatory hota hai.
+Company HR/Administration department asset recovery ko monitor karta hai.
+Control Objective: Ensure karna ke assigned assets (e.g., laptops, devices) return ho jayein before clearance.
+Process:
+Asset allocation record maintain hota hai (with employee name & branch).
+On exit, HR/Admin calls & verifies handover status.
+Supporting documents (allocation slips, tags) trace kiye jaate hain.
+Missing items report kiye jaate hain aur responsible person se recovery hoti hai.
+Risk: Agar tracking proper na ho to high-value assets (e.g., bank laptops worth lakhs) misuse ya theft ka risk badhta hai.
+🏦 Governance & Clean Records
+Kuch institutions FAR se assets remove karte hain taake register “clean” lage — lekin yahi approach control weakness create karti hai.
+Clean FAR ≠ Accurate FAR.
+Agar asset FAR se delete ho gaya lekin physically exist karta hai, to reconciliation aur tracking impossible ho jati hai.
+Auditor’s View: Real control tab hai jab record aur physical existence dono sync me hon.
+📦 Inventory & Bin Card Update
+Problem: Bin Cards warehouse me timely update nahi ho rahe.
+Concept:
+Bin Card = warehouse record of quantity available per item.
+Jab Goods Delivery Note (GDN) banti hai, tabhi Bin Card update hona chahiye.
+If Not Updated:
+Inventory record wrong rahega.
+Warehouse staff samjhega ke stock available hai jab ke actually sell ho chuka hoga.
+Leads to over commitment & stock-out risk.
+Example:
+System me 50 units dikh rahe hain lekin physical count 40 hai — Bin Card update delay ke wajah se.
+⚙️ Control Recommendations
+Immediate Bin Card Update: GDN ke saath hi inventory record update ho.
+Reorder Triggers: System automatically alert kare jab stock threshold cross kare.
+Warehouse & GL Reconciliation: Periodically match warehouse quantity aur system record.
+Employee Exit Protocol: HR clearance tab tak na de jab tak asset handover confirm na ho.
+Documentation: Every handover/disposal ka proper acknowledgment maintain ho.
+Lec-20 – Petty Cash Cycle
+💸 Petty Cash System 💼💵📌
+🧾 Definition:
+Petty Cash ek choti cash amount hoti hai jo daily office expenses ke liye use hoti hai (e.g., tea/snacks, local conveyance). 💬🗂️🧾
+⚙️ Process:
+Organization petty cash ki daily requirement define karti hai (e.g., 25,000 – 30,000 limit).
+Employee petty cash withdrawal ke liye request raise karta hai.
+Cash Payment Voucher (CPV) prepare hota hai with supporting bills.
+CFO/Admin se approval liya jaata hai.
+Available cash balance check hota hai.
+CFO signed cheque ke zariye petty cash withdraw hota hai.
+Cash secure safe ya lockbox mein rakha jaata hai.
+🔍 Practical Insight:
+Agar petty cash requirement 30,000 hai, aur already 5,000 available hai, toh sirf 25,000 ka cheque sign hoga. 💡🧾✅
+⚠️ Risk:
+Agar petty cash ki defined limit se zyada cash rakha gaya to: - Cash chori hone ka risk barhta hai. - Policy violation hoti hai. - Zyada withdrawal ka misuse ya unauthorized use ho sakta hai. 🚨💸📉
+💬 Assertions:
+Existence: Agar cash physically maujood nahi hai, to record fake ho sakta hai.
+Valuation: Cash amount accurately recorded hona chahiye.
+Rights: Sirf authorized log petty cash ka use karein. 📊📋📌
+📟 CPV Approval System 🖋️📄✅
+🧾 Definition:
+Cash Payment Voucher (CPV) petty cash spending ko document karta hai. Ismein approval aur relevant supporting documents lagte hain. 📑📝🧾
+⚙️ Process:
+Employee petty expense ke liye CPV initiate karta hai.
+Admin assistant CPV fill karta hai.
+Supporting bills (e.g., receipts, chits) attach kiye jaate hain.
+CFO ya Admin Head se approval liya jaata hai.
+Approved CPV ke basis par petty cash release hota hai.
+⚠️ Risk:
+Agar CPV approval process follow nahi kiya gaya to: - Unauthorized log personal use ke liye cash nikaal sakte hain. - Duplicate vouchers issue ho sakte hain. ⚠️📛🔒
+💬 Assertions:
+Occurrence: Agar transaction actually hui nahi aur record mein dikh rahi ho to woh fake entry hogi.
+Authorization: Agar CPV approved nahi hai, to transaction valid nahi hai. 📎🛡️📜
+🔍 Example:
+Admin Head ki approval limit 10,000 hai. Agar koi CPV 9,800 ka hai, to woh Admin Head approve karega. 10,001 se zyada amount ke liye CFO ka sign zaroori hai. 🧾🖊️📌
+🔁 Cash Reconciliation 📊💵🧮
+🧾 Definition:
+Cash reconciliation ka matlab hai petty cash ka actual balance match karna with vouchers aur system record (GL entries). 🧾📈📚
+⚙️ Process:
+Day-end par CPVs collect kiye jaate hain.
+GL entries ke sath CPVs match kiye jaate hain.
+Physical cash count hoti hai.
+Agar difference mile to woh record kiya jaata hai aur investigate hota hai.
+Reconciliation independent person karta hai (segregation of duties). ✅
+⚠️ Risk:
+Agar reconciliation timely aur accurately nahi hui to: - Over ya under reporting ho sakti hai. - Cash fraud ya error detect nahi ho paayega. ⚠️📉🚨
+💬 Assertions:
+Completeness: Agar koi CPV miss ho gaya, to records incomplete honge.
+Existence: Agar cash record mein hai par physically nahi mila, to woh existence assertion fail karega. ✅📌📋
+🔍 Example:
+GL amount: 10,000 Recorded vouchers: 9,000 → 1,000 ka farq = fraud ya galti ki possibility 📊🔍📉
+📌 Surprise Cash Count 🕵️‍♂️💰📅
+🧾 Definition:
+Surprise cash count ek sudden branch visit hota hai jahan actual petty cash verify kiya jaata hai. 🧾📋🔍
+⚙️ Process:
+Opening balance note kiya jaata hai.
+Us duration ke vouchers subtract kiye jaate hain.
+Jo closing balance expected hai usse compare kiya jaata hai actual cash se.
+Agar difference ho to uska investigation hota hai.
+⚠️ Risk:
+Agar branch ko pehle se pata ho: - Toh woh advance adjustment karke fraud hide kar sakti hai. - Actual cash shortfall detect nahi hoga. ⚠️🚫🕳️
+💬 Assertions:
+Existence: Jo cash record mein hai woh physically hona chahiye.
+Rights & Access: Cash sirf authorized person ke access mein ho. 🔐📍🛡️
+🔍 Example:
+Expected: 18,000 Actual: 15,000 → 3,000 shortfall = issue logged 📉🚨🔍
+🏦 Bank & Cheque Controls 💳📁🔐
+🧾 Definition:
+Bank aur cheque controls ensure karte hain ke cheques sirf approved transactions ke liye issue hon, aur access secure ho. 🏦📑✅
+⚙️ Process:
+Cheques sirf approved vouchers par issue hon.
+No pre-signed cheques.
+Checkbook limited access mein ho.
+Passwords strong aur regularly change hon.
+OTP/Dual approval bank transaction ke liye.
+⚠️ Risk:
+Agar passwords ya cheques sab ke paas hon to: - Unauthorized withdrawal ho sakta hai. - Pre-signed cheque misuse ho sakta hai. 🔓⚠️🚨
+💬 Assertions:
+Authorization: Har cheque authorized person ke signature se hi nikle.
+Occurrence: Har transaction real aur documented honi chahiye. 📋🧾✅
+🔍 Example:
+System alert deta hai: “Invoice pehle pay ho chuki hai – dobaara mat karo.” ⚠️🔁🚨
+🧠 Preventive, Detective & Authorization Controls Summary
+🔐 Preventive Control:
+Woh control jo pehle se hi galti ya fraud ko hone se roke. - Example: Limited access to checkbooks, approval before CPV
+🔎 Detective Control:
+Woh control jo galti hone ke baad usay identify karta hai. - Example: Daily reconciliation, system alerts
+✅ Authorization:
+Kisi bhi transaction ke valid hone ke liye uska authorized hona zaroori hai. - Example: CFO or Admin signature before payment approval
+🔐 Call-Out: Never compromise segregation — same person shouldn’t own the entire cycle. This ensures transparency and fraud prevention. 🛡️🔍📌
+Lec-21 – Internal Control Elements
+📚 Reference: Book Pages 42–44
+📐 Five Elements of Internal Control
+Control Environment – Yeh woh mahol hai jahan controls operate karte hain. Agar top management ethical aur responsible ho, toh neeche tak discipline maintain rehta hai.
+Example: Company mein har choti chori pe action hota hai, jisse deterrence create hota hai 🛑
+Entity’s Risk Assessment – Organization khud assess karti hai ke kaun se business risks uske objectives ko affect kar sakte hain, aur kya un risks ke liye controls design kiye gaye hain.
+Example: Agar company credit sales karti hai, toh bad debts ka risk assess karna zaroori hai 📉
+Information System Relevant to FS – Financial reporting tak ka pura data flow system. Jaise PO generate hua, GRN bana, invoice receive hui, aur payment process hui – yeh sab traceable hona chahiye.
+Example: Payment sirf tab ho jab GRN aur invoice dono available hon 📑
+Control Activities – Yeh woh daily actions hain jisse risks mitigate hote hain, jaise approvals, maker-checker roles, reconciliations.
+Example: Petty cash voucher approve hone ke baad hi cash issue hota hai ✅
+Monitoring of Controls – Yeh ensure karta hai ke controls sahi kaam kar rahe hain. Internal audit ya management review ke through monitoring hoti hai.
+Example: Internal audit team quarterly testing karti hai aur Audit Committee ko report karti hai 🔍
+🔐 Whistleblowing & Code of Conduct
+Whistleblowing: Confidential reporting system jahan employee unethical act ko anonymously report kar sakta hai.
+Code of Conduct: Har employee ko diya jata hai – acceptable aur unacceptable behavior define karta hai.
+Example: EY mein quarterly Code of Conduct email aata tha, jisme likha hota tha: “yeh karna allowed hai, yeh nahi.”
+Risk: Agar Code of Conduct (CoC) issue nahi kiya gaya ya employees tak formally nahi pohnchaya gaya, toh fraud hone ke chances barh jate hain, kyunki logon ko acceptable aur unacceptable behavior ka structure samajh nahi aata. 🔒
+Control: Signed acknowledgment of CoC + Disciplinary policy
+📊 KPI-Linked Performance Risks
+Concept: KPI (Key Performance Indicator) agar performance-based ho to motivate karta hai—but agar galat cheez pe incentive mile toh fraud hoga.
+Examples: ✅ HR ko bonus: agar employee turnover kam ho
+❌ HR ko bonus: jitne zyada penal actions lene
+Risk: Agar KPIs galat cheezon se linked hon (jaise zyada penal actions lena), toh toxic culture develop hota hai jahan log jaan bujh kar colleagues ko punish karte hain taake apna bonus le saken.
+Control: Performance KPIs should be ethical and conflict-free, jismein employee development, teamwork, aur genuine improvement ko reward kiya jaye.

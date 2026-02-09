@@ -1,0 +1,67 @@
+Lecture- 1
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Intro to Materiality
+Sir ne start kiya with: Materiality ek judgmental concept hai. ⚖️
+Auditor decide karta hai kaunsa information itna important hai ke uska FS users ke decisions pe effect ho sakta hai. 🧠
+Matlab: “Koi bhi chhoti chhoti galti matter nahi karti jab tak wo users ke decision ko affect na kare.”
+📖 Definition (ISA 320)
+Misstatements material hain agar wo FS users ke economic decisions ko influence karen jo wo FS pe rely karke lete hain. 💹
+🏷️ Key Points Sir ne Highlight kiye
+Materiality = Relative concept (depends on size & nature of misstatement). 📊
+Ek misstatement chhoti ho sakti hai lekin agar wo law/regulation break kare → material ban jaati hai. ⚠️
+Judgment ka role bohot zyada hai (auditor ki experience pe depend karta hai). 👨‍💼
+Lecture- 2
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Types of Materiality
+Sir ne teen main types discuss ki:
+Overall Materiality (Financial Statements level)
+FS ke liye ek overall threshold set hota hai. 📊
+Agar misstatements is threshold se zyada ho → FS unreliable ho jati hain. 🚨
+Performance Materiality(tolerable error)
+Overall materiality se lower amount rakha jata hai.
+Kyun? Taake chance kam ho ke aggregate misstatements overall threshold cross kar jayein. ⚖️
+Example: Agar overall materiality = 10 million → performance materiality ≈ 7 million.
+Specific Materiality
+Jab particular area/accounts zyada sensitive ho (e.g. related party transactions, directors’ remuneration). 💼
+Unke liye specific materiality set karte hain (jo overall se alag hoti hai).
+⚠️ Sir ka Note
+Materiality fix number nahi hota, circumstances change hoti hain to adjust karna parta hai. 🔄
+Example: Company ka profit decline kare → materiality ka level bhi adjust karna parta hai.
+Lecture- 3
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Factors Affecting Materiality
+Sir ne bataya ke auditor materiality decide karte waqt kuch factors consider karta hai:
+Size of Entity (Quantitative factor)
+Badi company → higher materiality
+Chhoti company → lower materiality
+Example: 5 lakh ka misstatement ek small company ke liye huge hai, lekin ek multinational ke liye negligible. 📊
+Nature of Item (Qualitative factor)
+Kuch cheezein chhoti amount ke bawajood material ho sakti hain.
+Eg: Fraud, related party transactions, law/regulation violations. 🚨
+Circumstances of Entity
+Agar company loss me hai → materiality zyada strict rakhi jati hai. ⚖️
+Agar stable aur profitable hai → materiality relatively higher ho sakti hai.
+Needs of FS Users
+Users ko sabse zyada kahan interest hai (profit, revenue, assets, etc.) auditor ye bhi dekhta hai. 👀
+📝 Sir ka Example
+Agar ek small NGO ka audit ho raha hai → even small misstatements material ho sakte hain kyunke public trust ka issue hai. 🙌
+🔹 How to Determine Materiality (Methods)
+Sir ne bataya ke materiality mostly benchmarks pe based hoti hai:
+Profit Before Tax (PBT)
+Common benchmark → % of PBT.
+Usually 5% – 10% of PBT liya jata hai. 💰
+Revenue
+Jab profit stable nahi hota (loss-making co.) → % of revenue use karte hain.
+Normally 0.5% – 1% of revenue. 📈
+Total Assets
+Specially asset-based companies (e.g. investment co., banks).
+1% – 2% of total assets. 🏦
+Equity
+Sometimes materiality set hoti hai as a % of equity.
+Example: 1% – 2% of equity. 📊
+📝 Sir ka Note
+Koi fixed rule nahi hai. Auditor apni judgment + firm policy use karta hai. ⚖️
+Risk zyada ho → conservative (lower) materiality set karte hain.

@@ -1,0 +1,1656 @@
+lecture – 1
+📚 Reference: Book Pages 154
+📚 LECTURE FULL EXPLANATION:
+📘 Overview of Audit Report
+Misstatement: Iska matlab hai ke auditor ko koi material galti milti hai jo management ko batane ke bawajood bhi correct nahi ki gayi. Jab client galti ko theek nahi karta, toh auditor apni report mein is issue ko highlight karta hai.
+Evidence Obtained – No Issue Identified: Jab auditor ko koi issue milta hai aur woh client ko kehta hai ke usay correct kare — aur client sach mein correct kar deta hai — toh audit report mein yeh likha jata hai ke “no issue identified”. Yeh phrase indicate karta hai ke ab koi further issue pending nahi hai.
+Modified Opinion: Jab management ne misstatement ko theek nahi kiya hota, toh auditor modified opinion deta hai.
+Unmodified Opinion: Jab auditor ko tamam zaroori audit evidence mil jata hai aur financial statements mein koi material galti nahi hoti, toh auditor unmodified (clean) opinion deta hai.
+Audit report: iska format pury duniya mey aik jesa hta ha takeh shareholder easily samjh saky.
+Lecture - 2
+📚 Reference: Book Pages 154
+📚 LECTURE FULL EXPLANATION:
+Opinion and Basis for Opinion
+📌 Opinion Paragraph
+📌 Basis for Opinion Paragraph
+📌 Effect on Opinion
+Material Uncertainty Related to Going Concern
+📌 Definition
+Yeh conditional paragraph hai jo Basis for Opinion ke baad aata hai.
+Yeh tab use hota hai jab company technically “Going Concern” hai (agle 12 months tak operations continue karegi), lekin kuch specific conditions ya events ki wajah se doubt create ho raha hai ke yeh future mein bhi isi situation mein aa sakti hai. Aur iska disclosure financial statements mein management ne proper tariqay se kiya ho.(phr ap material uncertainty wla para bhy add krty hu ky wha ja kr dekhu yeh msla ha ur agr management ny discluose hy ni kia ju unky duty thy krna to yeh opnion waly para mey modified opnion hu ga not true and fair ur phr basis for modified opnion mey nature of misstatement mey bta do ga kia glty to phr alag sy material uncertainty wla para add krny ky need ni ha )
+📌 Examples of Doubts
+🔸 Major customer ka loss hona
+🔸 Negative cash flows consistently hona
+🔸 Loan payments par default karna
+📌 Impact on Auditor’s Opinion
+✅ Agar management ne proper disclosure kiya hai, toh auditor ka opinion modify nahi hoga. Sirf ek separate paragraph (Material Uncertainty wala) add hoga.
+❌ Agar management ne adequate disclosure nahi kiya, toh auditor ka opinion modify hoga (pr phr yeh alag sy para ni ai ga).
+📌 Management Responsibility
+Company ki 12 months survival capability ko assess karna zaruri hai.
+Doubt hone par, financial statements mein clearly disclosure provide karna management ki responsibility hai.
+📌 Auditor Responsibility
+Relevant evidence (budgets, liquidity, forecasts) collect aur analyze karna.
+Decide karna ke kya doubt hai ya nahi, aur accordingly Material Uncertainty paragraph ko report mein include karna hai.
+Lecture- 3
+📚 Reference: Book Pages 162
+📚 LECTURE FULL EXPLANATION:
+🔶 EMPHASIS OF MATTER (EOM) PARAGRAPH 📌🧐📄
+Definition: EOM para bhy conditional hta yeh tb ata hai jab auditor ko lgy koi important matter ho jo user ke understanding(f/s ko ley kr) ke liye fundamental ho — lekin uski wajah se opinion modify nahi hota.
+Condition:
+Matter is adequately disclosed in F/S.
+Auditor is not required to modify opinion because of that matter.
+Matter is not a key audit matter.
+🔶 PTCL Pension Case Example – EOM ya Modified Opinion? 🏢⚖️📊
+Scenario:
+PTCL privatize hui, jiske baad 500 se zyada employees ne pension ka legal case file kiya.
+Government pension increase announce karti thi, PTCL ne adopt nahi kiya
+Dispute filed: “Hum bhi government employees hain, hume bhi increment chahiye” Key Issue:
+FS mein disclosure tha, lekin agar expected liability ka amount disclose nahi kiya gaya, to facts incomplete samjhe jayenge — jiska matlab hoga ke FS true and fair view nahi de rahi.
+Auditor sochta hai: “Disclosure incomplete hai, is wajah se opinion effect ho raha hai” 👉 Result: ab EOM ka para nahi aayega, modified opinion diya jaye ga (because basis of modified opinion mein nature of misstatement explain kar diya jaye ga ke kya ghalti thi — e.g. amount disclose nahi kiya gaya — toh phir ek hi jagah explain kar diya gaya hai, isliye dubara EOM wala para nahi aayega.) 📉📘🛑
+🔶 Material Uncertainty(relating to going concern) vs Emphasis of Matter 📑🔍🧾
+Material uncertainty upar ka maamla hota hai (yani content mein 5th paragraph ke around hota hai), isliye usay alag se upar disclose karte hain. Baaki isky ilawa jitne bhi fundamental matters hote hain jin par auditor ko lagta hai ke user ka attention dena zaroori hai, wo sab yahan neeche EOM paragraph mein disclose kiye jaate hain.
+Lecture- 4
+📚 Reference: Book Pages 168
+📚 LECTURE FULL EXPLANATION:
+📌 Key Audit Matters (KAM) - Intro
+Definition Start:
+Jab auditor audit karta hai, kuch areas aise hote hain jahan zyada attention deni parti hai.
+Yehi areas auditor ke liye Key Audit Matters (KAM) ban jaate hain.
+Applicable To:
+Listed Companies Only
+📍 Private companies mein shareholders aur users kam hote hain, isliye KAM ki requirement nahi hoti.
+⚙️ Why KAM Is Important?
+Listed companies mein public ka paisa involve hota hai.
+Auditor jab 2 mahine ka detailed audit karta hai to kuch areas mein zyada involvement hoti hai.
+Jahan auditor ka zyada focus ho, wohi KAM banta hai.
+Example Given:
+Auditor ne bank audit kiya.
+Operating country mein inflation high thi.
+Iss wajah se loans, credit quality, aur customer repayments risky ho gaye.
+Control systems bhi ineffective the.
+➡️ Auditor ko yeh sab cheezein assess karni padti hain aur jahan zyada kaam kiya ho, usay KAM consider kiya jata hai.
+📘 KAM Definition (as per standard)
+“KAM are those matters that, in the auditor’s professional judgment, were of most significance in the audit of the financial statements.”
+🧪 Identification Criteria of KAM
+Significant Auditor Attention:
+Jahan auditor ne zyada time spend kiya ho.
+Auditor ne jahan zyada procedures apply kiye ho.
+Complexity Involved:
+High risk areas.
+Complex calculations or judgments.
+Subjective Judgments:
+Auditor ko significant judgment apply karna para ho.
+🔍 Topic: Auditor ke kaam ka relation with KAM (Key Audit Matters)
+📌 Example: PTCL Revenue System
+PTCL ka revenue system complex hai, kyunke:
+Multiple sources of income hain: landline, mobile, internet, leased lines waghera.
+Har ek ka separate data system hai.
+Revenue estimation complicated hai due to prepaid/postpaid models.
+👨‍💼 Auditor ka Kaam:
+Auditor ne PTCL ka revenue system audit karte waqt:
+Controls ko test kiya.
+Reasonableness of estimates check ki.
+System-generated reports analyze ki.
+Data analytics apply ki to verify trends aur mismatches.
+🚨 Risk:
+Revenue recognition mein material misstatement ka risk high tha.
+Complex systems aur estimation uncertainty ki wajah se fraud ya error ka chance barh gaya tha.
+🔑 KAM Banna:
+Auditor ne conclude kiya ke yeh area (PTCL revenue) KAM hai, kyunke:
+High estimation uncertainty.
+Complex systems.
+Significant auditor efforts required.
+Frequent system changes aur multiple billing models involved thay.
+📢 Communication with Those Charged with Governance (TCWG)
+Kabhi-kabhi auditor ko client se response ya cooperation nahi milti.
+Jaise: “6 baje tak banda aya hi nahi meeting mein.”
+Auditor phir issue ko TCWG (e.g. Board) ke sath raise karta hai.
+Auditor ne communicate kiya:
+Yeh issue sirf report mein nahi likhna hota.
+Auditor batata hai: “Hum ne yeh matter observe kiya.”
+🎯 Key Audit Matter Banane Ki Wajah
+KAM sirf is wajah se nahi banta ke error mila.
+KAM tab banta hai jab:
+Auditor ko zyada effort laga.
+Judgement involved thi.
+Users ke liye matter fundamental tha.
+Important Point:
+KAM mein auditor yeh nahi likhta ke unhone kya findings ki.
+Sirf yeh likhta hai ke auditor ne kis area pe kaam zyada kiya aur kyun.
+⚡ Case Example: Electricity Company & NTDC
+🌀 Simple Setup:
+Ek company electricity produce karti hai.
+Sirf ek customer hai: NTDC (Transmission Company)
+Electricity generate hoti hai → meter record karta hai → NTDC ko deliver.
+🧮 Complexity Added:
+Agreement ke hisaab se agar:
+Electricity waste hoti hai, toh uska % bear karna hota hai.
+Plant band hota hai, phir bhi paisay miltay hain (as per contract).
+Peak/Non-Peak hours ke rates alag hain.
+📊 Auditor’s Work:
+Auditor ne:
+Agreement ke parameters samjhe.
+Whole-year data collect kiya.
+Plant shutdown ki timings verify ki.
+Complex revenue calculation test ki.
+🧠 Key Insight:
+Agreement + plant shutdown + waste electricity = complex revenue model
+Iss wajah se auditor ka kaam bada → KAM ban gaya.
+🧾 Audit Judgment vs Standard Cases
+Simple revenue model = low risk = no KAM
+Complex contract + estimation + control dependency = High risk → KAM
+🔄 Controls Achay Hon Tab Bhi Kaam Karna Parega
+Controls achay hain to bhi auditor ka kaam eliminate nahi hota.
+Auditor phir bhi focus karta hai aur test karta hai.
+⚖️ Audit Certificate vs Audit Opinion
+Certificate: Specific confirmation e.g., tax, loan certs
+Opinion: Overall view on FS (financial statements)
+Dono alag concepts hain – confuse nahi karna.
+📌 Conclusion: Jab revenue ya koi aur area complex ho, agreements tricky hon, estimation heavy ho, ya client dependent data ho → auditor ka kaam barhta hai. Yehi cheezein KAM ko define karti hain. Error milna zaroori nahi — zyada judgment aur user impact ka hona zaroori hai.
+Lecture- 5
+📚 Reference: Book Pages 163
+📚 LECTURE FULL EXPLANATION:
+✍️ Concept Breakdown:
+“Other Information” kya hoti hai?
+Woh tamam information jo financial statements ke ilawa hoti hai, lekin annual report ka part hoti hai — e.g. Directors’ Report.
+Ye information auditor ne audit nahi ki hoti, lekin usay read karna zaroori hota hai aur agar koi inconsistency ho FS ke comparison me, to usay identify karna hota hai.
+⭐ Important Lines:
+“Other Information ka matlab: financial statements ke ilawa wali published information (e.g. directors’ report).”
+“Auditor ka kaam: read karna, match karna FS se, agar inconsistency ho to highlight karna.”
+“Opinion nahi dete Other Information par.”
+“Agar sab kuch theek ho to: ‘We have nothing to report.’ likha jata hai.”
+⚠️ Risk (Mentioned):
+Agar FS aur other information (e.g. revenue growth) me contradiction ho jaye — to auditor ko dekhna hoga kahin FS hi galat to nahi?
+📒 Example :
+“PTCL example”: Revenue growth directors report me kuch aur likhi hai, FS me kuch aur. Auditor ne comparison kiya, phir confirmation ke liye pricing evidence bhi check ki.
+🧰 Additional Key Points:
+Other information kab applicable hoti hai? Jab company legally annual report publish karti hai.
+Agar company annual report banati hi nahi — to yeh part auditor ke liye applicable nahi hota.
+Auditor ne likhna hota hai ke:
+“We have read other information.”
+“No material inconsistencies found.”
+“We do not express an opinion on it.”
+Fundamental for understanding FS: Agar koi info user ke liye zaroori hai FS samajhne ke liye, to usay bhi cover karna hota hai.
+Lecture- 6
+📚 Reference: Book Pages 164
+📚 LECTURE FULL EXPLANATION:
+🧾 Responsibility Clarification in Audit Report
+🔹 Auditor’s Signature & Shareholder Misunderstanding
+Auditor apni report me shareholder ko clear karta hai:
+“Yeh mat samajhna ke financial statements maine banaye hain.”
+“Yeh mat samajhna ke internal controls maine lagaye hain.”
+Clarification: Yeh sab responsibility management ki hoti hai.
+🔹 Going Concern Assessment
+Auditor directly yeh nahi kehta ke company 12 months tak chalegi ya nahi.
+Going concern assess karna management ki zimmedari hai.
+Auditor sirf yeh check karta hai ke:
+Management ne assessment ki ya nahi.
+Assessment realistic hai ya bas hawa me ki gayi hai.
+Agar koi signal mile (e.g. ek hi customer hai, uska contract khatam hone wala hai), auditor sawal uthata hai.
+💬 Example:
+Ek company ka sirf 1 customer tha.
+Uska contract renew nahi hua tha.
+Auditor ne management se poocha:
+“Aapne going concern assess kiya?”
+Management: “Renewal ho jayega.”
+Auditor: “Abhi tak hua to nahi!”
+🔎 Auditor ka kaam: Situations ko dekh kar signals uthana, aur management se poochhna ke unhone assessment ki ya nahi. Auditor khud judgement nahi deta — warna self-review ho jata.
+🏢 EasyPaisa & Telenor Network Example
+EasyPaisa ka apna retail network nahi → Telenor ka network lease par use karta hai.
+Auditor ne poocha: “Agar Telenor network chhod de, to EasyPaisa kya karega?”
+Business continuity ka risk → Going Concern Issue?
+Later pata chala agreement 10 saal ke liye renew ho chuka hai ✅
+Risk khatam ho gaya.
+🧠 Auditor’s Objective
+🔹 Definition
+Audit ka objective: “To obtain reasonable assurance that FS are free from material misstatement”
+🔹 Assurance Kese Milega?
+Audit Evidence
+All opinion ka base = Audit evidence
+Without evidence, opinion nahi di ja sakti.
+Sampling Basis
+Auditor pura data nahi check karta — sampling basis pe kaam hota hai.
+Reason: Time limitation, cost, practicality
+Multiple Judgments Involved
+Audit is not black-and-white
+Har jagah judgment hoti hai — jese architecture ka kaam, har jagah suitability check karni padti hai
+🧱 Example for Judgment:
+Ek banda building banwana chahta hai, kisi local mason se karwa deta hai bina qualification ke
+Bad me architect aata hai, check karta hai space, safety, suitability
+Same auditor: Har cheez ko inspect karne se pehle assess karta hai kahan detailed checking chahiye
+🛠️ Audit Timeframe & Practicality
+🔹 Constraints:
+Pura mahina ka data 24 ghante me check nahi ho sakta
+Millions of transactions (e.g. PTCL) → auditor ko monthly ya selective period basis pe dekhna padta hai
+📊 Data Connectivity & Audit Evidence
+🔹 Real Case: Submarine Cables & Data Transfer
+Client claim: System auto-shows where data is transferred (e.g., from Pakistan to USA via submarine cable).
+Auditor: “How can I verify this?”
+Answer: System evidence (connectivity logs, data paths) → ✅ reliable if secure & verifiable.
+🔹 Key Concept
+Auditor cannot verify each transaction daily (time/volume constraint)
+Hence, system-based evidence can be used where practical
+🧠 Judgments in Financial Reporting
+🔹 Judgments Start With Management
+Financial statements require management judgment at many levels:
+Revenue recognition
+Allocation of transaction price
+Future assumptions (e.g., inflation, demand)
+🔹 Example: Ufone Super Card Revenue Allocation
+1 card = services (voice, SMS, data)
+How much revenue to allocate to each service?
+No paper trail → needs reasonable estimation
+Based on usage data, historical patterns
+🔹 Example: Shift in Usage Pattern
+Last year: voice revenue > data
+This year: data usage ↑, voice ↓
+Need to revise revenue policy accordingly
+Auditor checks if management adjusted based on realistic patterns
+📌 Link to Audit Standards – ISA 200
+🔹 What ISA 200 Says
+Audit has inherent limitations
+Auditor gives reasonable assurance, not absolute
+Auditor doesn’t re-perform management’s work — he evaluates
+📉 Misuse of Judgment Risk
+🔹 Manipulating Financial Results
+If company wants to look good before IPO, they may:
+Overstate revenue
+Understate liabilities
+🔹 Auditor’s Role
+Evaluate if judgments are:
+Based on logical, consistent methodology
+Supported by data or market trends
+Not just for window dressing
+🔹 Judgment Indicators
+Look at industry trends
+Compare past vs. present data
+Analyze usage patterns
+Lecture- 7
+📚 Reference: Book Pages 142
+📚 LECTURE FULL EXPLANATION:
+Main Concept: Judgment & Materiality in Audit ✍️📘🧠
+1. Auditor’s Responsibility & Judgment: ✏️📌🧐
+Auditor ki judgment har jagah audit mein involve hoti hai.
+Audit ke decisions fixed nahi hote; circumstances ke according change ho sakte hain.
+Auditor absolute assurance nahi deta — sirf reasonable assurance.
+Judgment kabhi absolute proof nahi hoti, sirf evidence base pe evaluate ki jati hai.
+2. Example of System Change: 🖥️🔄📂
+Ek company ne new IT system implement kiya.
+Purana data naye system mein migrate hua.
+Auditor ne multiple checks kiye:
+Data demand par check kiya.
+Past records cross-check kiye.
+Industry data ko bhi analyze kiya.
+Phir bhi 100% accuracy ka assurance nahi diya ja sakta.
+3. Auditor’s Conclusion & Management Representation: 📄✍️✅
+Audit ke end pe auditor management (CFO, CEO) se written representation letter sign karwata hai.
+Statement ye hoti hai: “FS humari responsibility hai.”
+Auditor ye letter future mein evidence ke liye use karta hai.
+Example: CEO agar baad mein mana kare to auditor ke paas yeh letter hota hai jo proof deta hai.
+4. Materiality ka Role: 💰📊⚖️
+Audit mein materiality judgment based hoti hai:
+Ek item kisi shareholder ke liye material ho sakti hai, dusre ke liye nahi.
+Director agar close ho matter se, to usko value ka estimate hota hai.
+Auditor ko yeh dekhna hota hai ke:
+Kya amount material hai?
+Agar hai, to kya isse FS modify karni chahiye?
+5. Re-checking Based on Circumstances: 🔁🔍📝
+Kabhi kabhi audit ke baad bhi kuch errors milti hain:
+Auditor phir se test karta hai.
+Previous threshold revise karta hai.
+Additional evidence gather karta hai.
+Isay “Re-evaluation due to triggering events” kehte hain.
+6. Audit Planning & Capability: 🧾📈👥
+Jab audit plan hota hai:
+Client ka size dekha jata hai.
+Risk zyada ho to zyada log assign kiye jate hain.
+Team ki capability matter karti hai:
+Agar firm ke paas qualified log nahi hain, to audit ka objective achieve nahi hoga.
+–> Example:
+Ek firm ke paas 500 employees hain but time nahi — client serve nahi ho raha.
+What is Materiality? 🧠💡✅
+Materiality = Any information that can influence the economic decision of a reasonable user.
+1. Materiality Example: PTCL Case 🏢📊💬
+PTCL ka revenue 115 billion hai. Agar apne is client ko sirf 5 lakh ki audit fee di hai, to yeh disproportionate lagta hai. 🤨📉⚠️ Auditor ko kaam ki quality bhi deliver karni hai — aur uske liye paisa bhi quality hona chahiye. Jab client bada ho, to kaam bhi zyada hota hai — iska matlab zyada resources aur zyada staff chahiye hote hain. Yeh sab planning phase mein assess hona chahiye.
+2. Material Difference & Modified Opinion 📈✍️❗
+Agar FS mein 5% se zyada ka difference ho (profit before tax se compare), to yeh material misstatement ho sakta hai. Is case mein auditor ko:
+CFO ki sign leni hoti hai ✅
+CEO ko inform karna padta hai 📢
+Zarurat ho to modified opinion bhi deni padti hai 📃
+Agar management sath nahi de rahi, ya document sign nahi kar rahi, to yeh bhi risk ka indication hai.
+3. Balance Sheet Specific Line Item Check 📊🔍🧾
+Agar kisi ek line item (e.g. inventory) mein unusual balance ho, to auditor usko separately check kar sakta hai. Is process ko bolte hain specific item focus. Auditor ye dekhta hai:
+Internal controls effective hain ya nahi
+Agar controls weak hain, to checking zyada hoti hai
+Yani jahan risk ho, wahan checking bhi zyada hoti hai.
+4. What is Material to User? 👨‍💼💭📉
+Materiality ka base hota hai user ka focus. 🤔🔎📈 Har user ka focus alag hota hai — NGO ka user expenses pe focus karega, investor profit pe.
+Example: NGO ke case mein, har choti cheez bhi material ho sakti hai kyunke unka scale chhota hota hai. Is liye auditor ko yeh dekhna hota hai ke:
+User ka concern kya hai
+Kis cheez se unka decision influence ho sakta hai
+5. Changing Threshold for Testing 📉🔁🔬
+Agar aap threshold kam kar dete ho (e.g. 5 lakh se 4 lakh), to sample size badh jata hai.
+Zyada invoices check hoti hain
+Zyada misstatements detect hone ka chance hota hai
+Yeh sample size change hota hai risk ke base pe, aur auditor ki judgement pe depend karta hai.
+6. Auditor’s Objective in Materiality 🎯📃🧠
+Auditor ka core objective hota hai “to obtain reasonable assurance that FS are free from material misstatement.” Yeh definition practical knowledge ke through samjhni hoti hai:
+Audit ek judgement-based process hai
+User ke liye kya material hai, wo samjhna auditor ki zimmedari hai
+Agar koi misstatement user ke decision ko influence kare — to wo material hai.
+7. Material Misstatement Examples 🧾📌🚨
+Example 1: Ek employee ne company pe case kiya for 2 lakh salary deduction. Lekin agar company ka turnover billion ka hai, to yeh material nahi hoga.
+Example 2: PTCL ka pension case — agar 80 billion ka impact ho sakta hai aur disclose nahi kiya gaya, to yeh material hai.
+Yani auditor yeh assess karta hai:
+Kya disclosure hona chahiye tha?
+Agar nahi hua, to kya user ka decision change hota?
+Main Concept: Material Misstatement & User Decision Impact 🧠📊📉
+1. Misstatement Material Kab Hoti Hai? 📌⚠️💬
+Agar koi galti aisi ho jo user ke economic decision ko impact kare, toh wo misstatement material kehlati hai.
+Sirf yeh kehna ke galti choti thi kafi nahi — user point of view matter karta hai.
+Example: Agar State Bank ko galat picture dikh rahi ho, toh wo material hai.
+2. Practical Example - AGF & Reporting Conflict: 🧾🤝📄
+Auditor ne AGF mein audit kiya, proper standards ke according.
+Lekin client ne report reject kar di: “Tum kaun hote ho report karne wale?”
+Agreement mein likha tha ke auditor harmful statement nahi change karega.
+Auditor ka kaam hai material errors identify karna, not every minor mistake.
+3. Materiality Statement Explanation: 💡🧾🧐
+Auditor yeh keh sakta hai: “Ho sakta hai choti moti errors hoon, lekin wo material nahi hongi.”
+Financial Statements mein minor errors allowed hain, lekin threshold cross hone par opinion modify hoga.
+Numerical Materiality Threshold Calculation: 🧮📈📊
+8. General Rule:
+Auditor Profit Before Tax ka 5% threshold rakhta hai materiality judge karne ke liye.
+Example: Agar PBT = 1 million, toh 5% = 50,000.
+Is limit se zyada ka impact material hoga.
+9. Application on Audit Areas: 📊📋🔍
+Balance Sheet check karte waqt: PP&E, Inventory, Cash waghera.
+Example: Agar PP&E mein 500 laptops purchase kiye gaye worth 5 lakh — each invoice verify ki jati hai.
+Jo bhi head 5 lakh se upar hai, testing mein zaroori hota hai.
+10. Allowable Error & Audit Testing: ⚙️📉✅
+5 lakh tak ka error — tolerable.
+Us se upar — verify & reportable.
+Jitne bhi individual assets 5 lakh se upar hain — 100% testing.
+11. Relevance of Sampling: 🎯🧪📊
+Neeche wale amounts sampling se check honge.
+Upar wale amounts full verification ke under aayenge.
+Main Concept: Inventory, Sampling & Misstatement Impact 📦📑📊
+1. High-Value Inventory Verification: 🏷️🔍📈
+Example: Inventory ka balance 300 million hai.
+50 invoices aisi hain jo 5 lakh se upar hain.
+In invoices mein se ek bhi galat hui, toh wo misstatement material level tak ja sakti hai.
+Is liye, high-value items ko individually verify karna hota hai.
+2. Low-Value Items & Equal Sampling Chance: 🎲🧾📉
+Jo 5 lakh se neeche hain unka selection sampling basis pe hoga.
+Har item ka selection ka chance equal hota hai.
+Sampling ka objective yeh hai ke errors ko detect kiya jaye bina har choti item ko check kiye.
+3. Sampling & Risk Balance: ⚖️📋📌
+High risk ya zyada value ke items ko full testing.
+Low risk items pe sampling apply hoti hai.
+Auditor ko logical reasoning se decide karna hota hai kitni testing required hai.
+4. Accumulated Misstatements Summary: 📚➕🧠
+Har galti jo detect hoti hai (choti ya badi), auditor usay accumulate karta hai.
+Iska naam hai: “Summary of Uncorrected Misstatements.”
+Baad mein yeh summary check hoti hai — kya yeh total milkar material threshold cross kar rahi hai?
+Lecture- 8
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Main Concept: Written Representation from Management
+🔶 Auditor management se written representation leta hai:
+Ke kisi bhi material misstatement ka unko pata nahi.
+Agar koi galti hui bhi thi, to usay rectify kar diya gaya hai.
+Yeh bhi likhwa leta hai: “Agar koi aur material misstatement hoti jo sahi honi chahiye thi, wo bhi batayein.”
+📌 Must Remember: Written representation ka matlab yeh nahi ke auditor ka kaam khatam.
+Important Line:
+“Written representation is not a sole evidence, it is a supporting evidence.”
+Example (Bank Audit Case):
+🔎 Auditor ne MIS data me dekha:
+Loan discuss hua tha 15 Jan ko
+Agreement dikhaya gaya 5 Jan ka
+Interest charge hua extra (5 Jan se)
+📌 Yeh situation auditor ko doubt me dalti hai ke management ne material information chhupai ho sakti hai.
+Main Concept: Power of Written Representation
+🔶 Jab koi banda written me sign karta hai, to us par zimmedari aa jati hai:
+Future me agar koi issue aata hai to uska accountable wo sign karne wala hoga.
+Auditor ye representation le kar apni zimmedari limit kar leta hai.
+📌 Written representation lena auditor ki risk management strategy ka hissa hai.
+Concept Clarification:
+Auditor management ke hidden collusion tak nahi pohanch sakta.
+Is liye jo bhi us ke control me ho, wo karta hai: email check, confirmations, written representation lena.
+Agar written na le to future me blame auditor pe aa sakta hai.
+Example (Collusion & Evidence Support):
+Auditor ne ek area audit kiya, client keh raha tha: “hum kuch nahi chhupa rahe.”
+Auditor ne sirf itna likhwa liya: “iske ilawa koi aur email nahi hai.”
+Jab likhne se mana kya gaya, auditor ko doubt hua — yahan kuch toh chhupaya ja raha hai.
+Is doubt ne auditor ko force kiya ke wo supporting evidence collect kare.
+Example (Existence of Assets):
+Auditor ne dekha company kai regions me operate kar rahi hai.
+Asset physically verify nahi hue.
+Management ne bola: “Woh available hain, books me hain.”
+Auditor ne kaha: verify karwana zaroori hai —
+📌 Jab verification ki request ki gayi, toh legal ya admin ne likhne se mana kar diya — Auditor ne kaha: agar sach bol rahe ho, likhne me kya issue hai?
+Important Line:
+“Auditor exercises professional judgment throughout the audit.”
+Main Concept: Professional Judgment in Audit
+🔷 Auditor har jagah professional judgment apply karta hai:
+Sample size kitna lena hai
+Kya error material hai ya nahi
+Kis procedure ko perform karna hai
+Kya management ki explanation accept karni hai ya challenge karni hai
+📌 Professional judgment ka matlab: audit ka critical thinking part — Sirf checklist follow nahi karni.
+Example (Sampling Judgment):
+❓ Kya ho sakta hai ke sample kaafi bara ho, phir bhi error na mile? ➡️ Bilkul ho sakta hai — isliye auditor blindly rely nahi karta, wo judgment use karta hai.
+Example (Management Judgment):
+👔 Management bhi apni performance judgments leti hai:
+Kya koi activity active hai ya nahi
+Asset useful life kya hogi
+Credit risk ka estimation
+📌 Auditor management ke judgments ko:
+Sirf accept nahi karta
+Challenge karta hai jab zarurat ho
+Concept Clarification: Professional Judgment vs. Experience
+🎓 Auditor ka judgment experience se strong hota hai:
+Senior manager ya partner ne agar similar audits kiye hain (e.g., telecom sector)
+To unka judgment zyada refined hota hai
+📌 Isliye audit team ka selection bhi judgment based hota hai:
+Kitne log chahiyein?
+Kis skill level ke chahiyein?
+Understanding Internal Controls (IC):
+🛠 Auditor kehta hai:
+“Main internal control ki understanding loonga taake main audit procedures design kar sakun.”
+Jaahan control kamzor hon, wahan auditor focused testing karega
+Ye bhi judgment ka part hai:
+Kis area me focus karna hai?
+Kaunsa procedure design karna hai?
+📌 Note: Auditor internal controls pe opinion nahi deta — wo sirf unko samajhta hai taake better audit plan bana sake.
+Example (Receivables):
+Audit me pata chala: Receivables ke liye credit limit define hi nahi hoti
+Auditor ne usko target kiya
+Procedure design kiya to check internal weakness
+➡️ Ye bhi judgment ka application hai
+Going Concern (GC) Judgment:
+🏢 Management assesses: Kya company next 12 months operate kar sakti hai?
+Auditor is assessment ko:
+Challenge karega agar doubt ho
+Verify karega through procedures
+📌 Agar GC ka doubt hai to responsibility hoti hai management ki to correct it — auditor sirf evaluate karta hai.
+Communication with Those Charged with Governance (TCWG):
+📣 Auditor jo bhi significant matters dekhay ga — ➡️ Unko governance walon ko communicate karega:
+Internal control weaknesses
+Future threats (e.g. pension liability)
+Fundamental doubts (e.g. GC risk)
+👥 Governance walay hotay hain: Shareholder representatives, Directors, Audit Committee
+📌 Auditor judgment use karta hai:
+Kis matter ko significant samjha jaye
+Kaise communicate kiya jaye (oral, written, formal meeting)
+Auditor’s Independence Declaration
+🟩 Auditor ki zimmedari hai ke wo declare kare:
+“We have complied with ethical requirements and maintained independence throughout the audit.”
+Agar during audit koi close relative wahan kaam karta mila — toh independence breach ho sakta hai.
+📌 Independence is not just a statement — it must be backed by facts and verification.
+Listed vs. Private Companies: Auditor Responsibilities
+📌 Listed companies me auditor responsibilities compulsory hoti hain:
+Audit report me clearly define karna hota hai auditor ka role.
+Example: Auditor ka role opinion dena hai, procedures design karna hai — lekin misstatements prevent karna management ka kaam hai.
+Private companies me ye disclosures zaruri nahi, but recommended hote hain.
+Location of Auditor’s Responsibilities in Audit Report
+Option 1: Report me heading dal kar sari responsibilities likh do.
+Option 2: Sirf heading dal kar link de do (e.g., SECP website ya IFAC guidelines).
+📌 Best Practice: Full responsibilities likhna zyada transparent hai.
+Lecture- 9
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Concept Breakdown (Simple Explanation)
+1. SCAP = Securities and Exchange Commission of Pakistan
+Ye regulator hai jo har registered company ko monitor karta hai.
+Ye kehta hai: “Apne Books of Accounts properly maintain karo.”
+2. Books of Accounts kya hoti hain?
+Internal Records (jaise Salary Expense ki Entry: Salary Expense Dr. to Salary Payable)
+Har transaction ka proper record + documentation maintain hona chahiye:
+Employee name
+Employee code
+Over time details
+Approvals with signature
+3. Purpose of Books:
+Yehi books se banta hai:
+Journal → Trial Balance → Financial Statements (FS)
+4. Control Account Example:
+Company ke paas ek Control Account hota hai: “Total Receivables”
+Iske peeche hote hain:
+Customer 1
+Customer 2
+…etc
+Har sale ka record + payment ka record maintain hona chahiye.
+5. SECP ka Resource Issue:
+SECP har jagah jakar verify nahi kar sakta.
+Is liye auditor ko bola gaya: “Aap kuch extra cheezon pr bhi report karo (beyond just FS).”
+🔹 True & Fair View ka matlab kya hota hai?
+Jab auditor keh raha hota hai ke FS “true and fair” hain, iska matlab:
+FS facts ke mutabiq hain (true)
+FS kisi misleading presentation se paak hain (fair)
+🔹 Example samjho:
+FS mein ek building ki value likhi hai Rs. 10 crore
+Jab ke uski market value sirf 2 crore hai
+Toh kya true hai? ✅ Yes, agar us building ki book value 10 crore hi honi chahiye under accounting policy
+Par fair nahi hai ❌, kyunke yeh reader ko mislead kar sakti hai
+🔹 True & Fair kis framework pe based hota hai?
+Jo applicable financial reporting framework company follow kar rahi hoti hai (e.g., IFRS, Companies Act etc.)
+Auditor usi base par FS evaluate karta hai
+🔹 Audit ka maqsad kya hota hai?
+FS ko evaluate karna under applicable financial reporting framework
+Aur phir ek audit report issue karna jisme likha hota hai:
+FS true & fair hain ya nahi
+🔹 Agar FS true & fair nahi hain toh?
+Auditor apni audit report mein modification karega
+Type of modification depend karegi situation par (disclaimer, qualified, adverse)
+🔹 Applicable Financial Reporting Framework (AFRF) kya hota hai?
+Jab bhi auditor kisi company ka audit karta hai, sabse pehle yeh check karta hai ke:
+Financial Statements kis framework ke under prepare kiye gaye hain?
+Yeh framework hoga auditor ke liye base jis par woh FS evaluate karega.
+🔹 Examples of AFRF:
+IFRS (International)
+Companies Act 2017 (Pakistan specific)
+SECP Regulations (specific disclosures)
+Aksar companies likhti hain FS ke start mein: “These financial statements have been prepared in accordance with applicable financial reporting framework including IFRS and Companies Act.”
+🔹 IFRS aur Companies Act mein Conflict ho toh?
+Agar dono frameworks mein contradiction ho:
+Pakistani law (Companies Act 2017) supersede karega IFRS ko.
+Example:
+IFRS disclosure required nahi karta kisi asset ka area/location
+Lekin Companies Act kehta hai asset ka location batana zaroori hai 👉 Toh auditor ensure karega ke yeh disclosure ho rahi hai, warna modification aayega
+🔹 Application of AFRF in Audit Opinion
+Audit opinion mein likha hota hai:
+“…prepared in accordance with applicable financial reporting framework…”
+Agar FS AFRF ke mutabiq nahi banay gaye, toh auditor opinion modify karega
+🔹 Audit ka Starting Point kya hai?
+Auditor pehla kaam yeh karta hai: Identify the Applicable Financial Reporting Framework
+Uske baad sari checking hoti hai isi base pe
+🔹 Auditor’s Objective
+Auditor ka maksad hota hai: > “To obtain reasonable assurance that financial statements are free from material misstatement.”
+Agar auditor ko lage k framework hi incorrect apply hua hai, woh zaroor bataye ga
+🔹 Types of Frameworks
+General Purpose Framework (GPFR)
+GPFR = Framework jo wide range of users k liye banaya gaya ho
+Example: Shareholders, SECP, investors
+Common example in Pakistan: IFRS
+Key Line:
+GPFR ka matlab hota hai: “Jo framework zyada population ke liye generally acceptable ho.”
+Special Purpose Framework (SPFR)
+SPFR = Sirf kisi specific user ya specific purpose k liye banaya gaya framework
+Example: Parent company ka additional info lena, ya joint venture k liye financials banana
+Example:
+PPL (Pakistan Petroleum Limited): Joint venture mein apni partner company k saath accounting kar raha hai
+Special agreement: Cash accounting + machinery cost as cash out
+Yeh accounting public users ke liye nahi hoti, sirf internal partners ke liye
+🔹 Expenditure Verification (Real-Life Audit Case)
+Scenario:
+Company ne 120 million ka addition dikhaya (e.g. solar panels)
+Auditor ne on-ground inspection nahi kiya → Student ne bataya, roof pe gaya but kuch bhi nahi tha
+Audit Concern Raised:
+Asset install bhi hua? Ya paisa misuse hua?
+Kahin new business toh nahi start kiya jo disclose nahi kiya?
+Kya director ko asset gift kiya gaya bina record ke?
+Auditor’s Action:
+Check if:
+Expense was business-related
+Disclosure hua ya nahi
+Tax treatment sahi hai ya nahi (e.g., director ko diya gaya toh taxable benefit treat karo)
+🔹 Zakat Deduction (Company Dividend Case)
+Law Point:
+Under Zakat & Ushr Ordinance, agar company dividend deti hai toh zakat deduct karni hoti hai
+Case 1: Dividend paid
+Zakat deduct karo @ specified rate → deposit in Central Zakat Fund
+Case 2: No dividend paid
+Zakat not applicable → report: “No zakat was deductible at source”
+Auditor’s Role:
+Verify whether zakat deduction & deposit required
+If not applicable, clearly state it (no extra commentary)
+Lecture- 10
+📚 Reference: Book Pages 163
+📚 LECTURE FULL EXPLANATION:
+Topic: Other Matter Paragraph (OMP)
+Other Matter Paragraph ka kaam:
+Jab auditor ko lagta hai ke user ki understanding ke liye koi extra baat batana zaroori hai jo FS se directly related nahi hai, lekin audit report se related hai.
+Example: FS special purpose framework pe bane hain, ya auditor ne koi aur audit report issue ki hai jo is se mix na ki jaye.
+📌 OMP dene ke main points:
+Going Concern / Incident Related
+Agar pehle hi going concern ke liye paragraph diya hai to dobara OMP ki zarurat nahi hoti — unless koi aur alag cheez ho.
+Material
+OMP tab hi dena jab matter fundamental ho user ki FS understanding ke liye.
+Agar matter fundamental nahi → OMP nahi dena.
+Auditor’s Judgment
+Auditor apni judgment use karega decide karne ke liye ke OMP dena hai ya nahi.
+Sirf wohi baat include kare jo user ki audit report samajhne ke liye zaroori ho.
+🎯 Example Scenarios:
+Special Purpose FS
+FS general purpose ke bajaye special purpose pe bane hue hain.
+User ko lag sakta hai yeh normal FS hain → confusion door karne ke liye OMP me bataya jata hai.
+Wording: batana ke yeh FS special purpose ke liye bane hain, normal nahi hain.
+Another Audit Report Issued
+Auditor ne ek aur audit report issue ki hai (general purpose FS pe).
+OMP me clearly likhna:
+Wo alag report hai.
+Uski date mention.
+Dono ko mix na karein.
+📌 Special Purpose vs General Purpose Reports
+Agar Special Purpose report General Purpose ke baad issue hota hai, EOM me sirf tab reference dena jab user ki FS understanding ke liye essential ho.
+EOM me clarify karna ke:
+FS special purpose ke liye bane hain.
+Additional audit report confusion door karne ke liye hai.
+Agar dono reports same FS ke liye hain → mention justified.
+📌 Referencing Other Audit Reports
+Dusre auditor ki report ka reference tab tak na do jab tak standards allow na karein.
+Har report apne scope, date, aur responsibility ke sath independent hoti hai.
+GPFS audit aur SPFS audit alag auditors ne ki ho to cross-reference nahi karna unless standards permit.
+📌 Event Dates and Reporting
+Responsibility Period: FS date → Report date.
+FS date ke baad aur report date se pehle koi event ho to auditor ko evaluate karna hoga.
+Example:
+FS Date: 31 Dec 2023
+Event: 28 Mar 2024 → Agar FS relevant ho to address karo.
+📌 After Report Date
+Report date ke baad auditor ka responsibility nahi hota, except agar standards ke mutabiq reissue karna pade.
+Prior year ka audit prior auditor ki responsibility hota hai.
+Example: 2023 FS audited by KPMG (report date 15 Mar 2024) → Current auditor ka responsibility is date se pehle ke events tak nahi.
+📌 Practical Cases
+Case 1: SP audit after GP audit → Mention in EOM if crucial.
+Case 2: Prior year different auditor → Mention date & opinion.
+Case 3: Event after FS date, before report date → Address karo.
+📌 Report Date vs Signature Date
+Report Date: Jab audit kaam complete hua.
+Signature Date: Jab report sign hui (aksar same hoti hai).
+Responsibility report date tak hoti hai, uske baad nahi.
+📌 Auditor ka Review Period
+Auditor ka kaam: FS date (e.g., 31 Dec) se report sign hone tak ke events ka review.
+Sign karne se pehle ensure karo ke:
+Saare adjusting entries record ho chuke hain.
+Disclosure ki requirement puri ho chuki hai.
+Agar koi material subsequent event mile → pehle adjust/disclose karvao, phir sign karo.
+📌 Example 1 – Inventory Price Drop
+FS date: 31 Dec, inventory recorded @ Rs. 25/unit.
+5 Jan: Sale hua @ Rs. 18/unit (loss evidence).
+Auditor ka action:
+Material impact → adjustment required.
+Management agar refuse kare → report modify karo.
+📌 Example 2 – Post Year-End Flood
+31 Dec: Inventory perfect condition.
+Jan: Flood damage → non-adjusting event (event occurred after year-end).
+Impact:
+Agar material hai → disclosure required.
+No adjustment to 31 Dec figures.
+📌 Example 3 – Debtor Insolvency
+FS date: 31 Dec.
+Jan: Major customer bankrupt, but condition existed at year-end.
+Impact:
+Evidence existed before year-end → adjusting event.
+Provision for bad debts required.
+📌 Practical Notes
+Auditor should perform specific procedures before signing:
+Legal confirmations.
+Management inquiries.
+Reviewing subsequent transactions.
+Partner involvement critical for material cases.
+Report date fix tab hoti hai jab saara audit evidence mil jata hai.
+📌 Key Takeaways
+IAS 10 guide karta hai:
+Adjusting → condition existed at FS date.
+Non-adjusting → condition arose after FS date.
+Disclosure ka decision materiality pe depend karta hai.
+📌 Example 4 – Bank Collapse After Year-End
+FS date: 31 Dec.
+Entity ne Rs. 1.2 billion ka loan diya tha bank ko.
+Audit partner ko report sign se pehle pata chala bank bankrupt ho gaya.
+Condition: Financial trouble existed pre year-end → Adjusting event.
+Action:
+Advance ko impair karo (bad debt provision).
+Sign tab karo jab adjustment ho jaye.
+📌 Example 5 – Major Lawsuit Settlement
+FS date: 31 Dec.
+Jan me lawsuit settle hua, aur outcome confirm hua ke obligation year-end pe exist karta tha.
+Impact:
+Adjusting event → liability recognize karo.
+📌 Example 6 – Post Year-End Natural Disaster
+Event hua Feb me, inventory destroy ho gayi.
+Condition: Event after year-end, unrelated to prior conditions.
+Action:
+Non-adjusting event.
+Agar material → disclose in notes.
+📌 Auditor Procedures Before Report Date
+Legal letters obtain karna.
+Management se updated info lena.
+Significant subsequent transactions review karna.
+Partner ka specific queries list banana (material cases me).
+Reminder: Report date wahi hogi jab saara audit evidence complete ho, aur partner satisfied ho ke sab material subsequent events handle ho gaye.
+Lecture- 11
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Engagement Partner Name in Audit Reports ✍️
+Signing Procedure:
+Signature firm k naam se hoti hai, na ke partner k personal name se.
+Signature k neeche partner ka naam likha jata hai (e.g., “Umer Chughtai”).
+Purpose → identify karna Engagement Partner jo audit ka zimmedar hai.
+Appointment Context:
+AGM / shareholders firm appoint karte hain, individual partner ko nahi.
+Records me partner ka naam Quality B form me maintain hota hai.
+Listed Companies in Pakistan:
+Har audit report (listed ya unlisted) me engagement partner ka naam zaroor likhna hota hai.
+Pakistan me koi exception nahi — life safety issues ho ya na ho.
+International Standard Perspective:
+General rule → Engagement partner ka naam disclose hoga.
+Kuch countries me high-risk (life-threatening) audits me exception hoti hai — Pakistan me nahi.
+Standards ka aim → transparency, public comfort nahi.
+Why Partner’s Name is Disclosed:
+Accountability — pata chale kaun responsible hai.
+Damage control — penalty ya reputation ka impact firm pe aata hai, partner pe sirf jab personal liability ho.
+News me usually firm ka naam aata hai (e.g., KPMG fined).
+Practical Points:
+Signature line → firm ka naam.
+Neeche → engagement partner ka naam.
+Pakistan me risk conditions ho ya na ho, naam aayega.
+Key Term:
+Engagement Partner → wo partner jo specific audit engagement ka zimmedar hai.
+Subsequent Events & Report Date ⏰
+Report Date ka Importance:
+Auditor ki responsibility report date tak hoti hai.
+Report date ke baad hone wale events auditor ki zimmedari me nahi aate.
+Adjusting vs Non-adjusting Events:
+Adjusting events = wo jo reporting date se pehle ke conditions ko reflect karte hain.
+Auditor check karta hai ki adjusting events adjust hue hain ya nahi.
+Procedure Before Signing:
+Financial statements approve hone chahiye directors ya management ke by.
+Auditor sign sirf tab kare jab saare subsequent events consider kar liye hon.
+Report date = sign date hoti hai.
+Management Responsibility:
+Agar directors ne FS approve nahi ki, to auditor sign nahi karega.
+Approval ke baad hi auditor ka opinion valid hota hai.
+Auditor Actions:
+Audit complete hone ke baad director ko cover letter / board letter bhejna.
+Management ko kahna ke FS approve karein after adjustments.
+Agar adjustments baad me required ho to dobara approve karwana.
+Evidence Collection:
+Auditor apne evidence collect karega (e.g., legal confirmation, management representation letter).
+Management representation letter me likha hota hai: humne sari relevant information auditor ko de di hai.
+Risk:
+Agar koi material event report date se pehle hua aur auditor ko pata na chala to accountability ka risk hota hai.
+Auditor ka opinion us information par based hota hai jo uske paas report date tak available thi.
+Extensions:
+Listed companies me max 1 month extension milti hai (Commission approval se).
+Private companies me zyada extension possible hoti hai (case by case).
+Key Point:
+Report date = limit of auditor’s responsibility for subsequent events.
+Auditor’s Responsibility for Subsequent Events till Report Date ⏳
+Core Principle:
+Auditor ki responsibility sirf report date tak ke subsequent events cover karti hai.
+Report date ke baad ke events auditor ki liability me nahi hote — except agar auditor ko pata chale ke report me material misstatement ho sakta hai.
+If Event Occurs Before  Report Date:
+Auditor must evaluate → adjusting ya non-adjusting.
+Adjusting → FS change karo.
+Non-adjusting → disclosure karo agar material ho.
+If Event Occurs After Report Date But Before Issuance:
+Auditor ko evaluate karna hoga → kya report update karni chahiye.
+FS aur auditor report me amendment possible.
+If Event Occurs After Issuance:
+Auditor ki koi proactive responsibility nahi — unless:
+Us event ka knowledge auditor ko mil jaye.
+Wo event materially FS ko affect karta ho.
+In that case → management se discuss karke action lena (e.g., re-issue FS).
+Practical Steps for SE Review: 🛠
+Management representation letter lena.
+Board minutes review karna.
+Legal confirmation (lawsuits, penalties, etc.).
+Post-BS date transactions ka review.
+Key Risk:
+Agar SE ignore ho jaye → opinion galat ho sakta hai → auditor legal action face kar sakta hai.
+Example Scenario:
+BS date: 31 Dec 2024.
+Report date: 15 Mar 2025.
+Feb 2025 me client ka major customer bankrupt ho gaya → Adjusting event (agar condition BS date se exist karti thi).
+Lecture- 12
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+📌 Main Concepts
+Misstatement & Qualified Opinion
+Agar error material hai lekin pervasive nahi → Qualified opinion.
+Qualified ka matlab: “Humari opinion me, except for this issue, baaki sab theek hai”.
+Misstatement ka example: COGS ya Balance Sheet wrong book hui ho.
+Pervasive Effect
+Jab ek se zyada jagah problem ho aur uska impact poore FS pe ho → Pervasive.
+Materiality amount bahut zyada ho → Materiality se upar chala jaye to bhi pervasive ho sakta hai.
+Scope Limitation
+Auditor ko required audit evidence nahi mil raha.
+Confined → ek jagah ka issue.
+Not confined → multiple jagah effect.
+Agar missing evidence ka impact material hai → Qualified opinion.
+Agar missing evidence ka impact material + pervasive hai → Disclaimer of opinion.
+Disclaimer of Opinion
+Jab auditor ko itna significant scope limitation ho ki opinion dena possible nahi.
+Example: PTCL ka 60% balance sheet portion verify nahi ho paya.
+Heading change hoti hai: “Opinion” → “Disclaimer of Opinion”.
+“Basis for Opinion” → “Basis for Disclaimer of Opinion”.
+Modified Opinion Types Recap
+Qualified → Material misstatement OR scope limitation (material, not pervasive).
+Adverse → Material misstatement + pervasive.
+Disclaimer → Scope limitation + material + pervasive.
+Examples
+Inventory ka kuch hissa verify nahi ho paya (material, not pervasive) → Qualified.
+PTCL case jahan 60% portion ka evidence missing → Disclaimer.
+📝 Flow Reminder
+Identify issue → Misstatement ya Scope limitation?
+Measure materiality.
+Check pervasive hai ya nahi.
+Decide opinion type accordingly → Qualified, Adverse, ya Disclaimer.
+📌 Main Concepts
+Going Concern
+Auditor assess karega ki entity 12 months tak operations continue kar paayegi ya nahi.
+Agar substantial doubt hai → Management se plans pooche jaate hain.
+Evidence kaafi nahi mila aur doubt material + pervasive hai → Disclaimer ho sakta hai.
+Example – Bank Confirmation Missing
+Auditor bank se confirmation lena chahta tha, lekin company ne allow nahi kiya.
+Ye scope limitation hai.
+Agar bank balance material + pervasive → Disclaimer.
+Agar material lekin pervasive nahi → Qualified opinion.
+Difference Recap
+Qualified: Material misstatement ya scope limitation (not pervasive).
+Adverse: Material misstatement + pervasive.
+Disclaimer: Scope limitation + material + pervasive.
+Report Wording Changes
+Disclaimer case me opinion paragraph ka title change ho jata hai.
+“Basis for Opinion” → “Basis for Disclaimer of Opinion”.
+Wording me opinion express nahi ki jaati.
+🔹 Going Concern Assessment
+Main issue: Management ne Going Concern ka evidence provide nahi kiya.
+Scenario:
+Management ne apni ability to continue operations ka proof nahi diya.
+Loan repayment plans ka koi saboot nahi.
+Yeh scope limitation create karta hai → jo le jata hai Disclaimer of Opinion par.
+🔹 Correct Approach
+Issue identify karein → jaise going concern ke evidence ki kami.
+Impact link karein → assessment possible nahi → scope limitation.
+Opinion → Disclaimer of opinion.
+🔹 Common Mistakes to Avoid
+“Material uncertainty” likhne se pehle proof hona chahiye.
+Irrelevant standards (jaise disclosure) ke sath link na karein.
+“Payment missed” tabhi likhein jab verify ho.
+🔹 Ideal Answer Flow
+Events & conditions jo going concern pe doubt create karte hain unko state karein.
+Management ka evidence provide na karna mention karein.
+Conclude karein → scope limitation → disclaimer of opinion.
+🔹 Examiner’s Expectation
+Events & conditions clear likhe hon.
+Logical link ho issue → assessment → opinion.
+Simple aur precise language use karein.
+✅ Final Opinion in Scenario: Disclaimer of opinion due to inability to obtain sufficient appropriate audit evidence (scope limitation).
+Lecture- 14
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Main Concept:
+Materiality ka concept — quantitative vs qualitative — aur kaise chhote se chhote misstatements bhi material ho sakte hain agar wo users ke economic decision ko influence karein. 💡
+Example – Performance & Bonus Link
+Supervisor: 3 adjustments accept, 2 reject.
+Question: 2 kyun reject? 🤔
+Investigation:
+Performance Plan tha — profit certain level pe hota to bonus milta.
+Agar 2 adjustments accept hoti → profit kam hota → bonus nahi milta.
+Management ne apne bonus bachane ke liye adjustments reject ki. ⚠️
+Materiality Analysis
+Quantitative materiality = 75 million.
+Total misstatements = 150 million → clearly material.
+Lekin sir ne bataya: Agar sirf 10 million ka effect hota lekin bonus trigger change hota → ye bhi material hai (qualitative reason).
+Kyun? Kyunki yeh users ke economic decision (bonus dena/na dena) ko affect karta hai. 📈
+Key Point ⭐
+“Even if quantitative threshold se neeche hai, agar wo users ke decision ko impact kare, to wo material hai.”
+Audit Perspective
+Auditor ko dekhna hoga:
+Sirf numbers nahi, context bhi.
+Bonus, covenants, contracts ka link.
+Qualitative factors ke basis pe bhi misstatement material ho sakta hai.
+Entity ki understanding weak ho → important issues miss ho sakte hain → regulator penalty.
+Real-life Impact
+Example: 3,500 employees ko 4× salary ka bonus.
+Small adjustment se bonus eligibility badal sakti hai → huge monetary impact.
+Main Concepts Covered
+Material Misstatement Types
+Quantitative (Amount-based) → e.g., misstatement in figures.
+Qualitative (Nature-based) → even small amount but impacts regulatory ratios, licenses, covenants, etc.
+When Misstatement is Material
+Agar Material Representation ka correction management refuse kare → Opinion Modify karna.
+Agar clear ho jaye ke misstatement immaterial hai → no impact on opinion.
+Key Example – Bank Audit & Capital Adequacy Ratio (CAR)
+CAR requirement = 15% minimum.
+Case:
+Total Capital Adequacy after error correction → 14.5% hota.
+Error = 100 million misstatement.
+Agar record hota → ratio meet hota. Agar na hota → ratio fail hota → license condition breach.
+Conclusion: Small amount qualitatively material because it impacts license compliance.
+Link to Going Concern
+Agar ratio breach ho jaye → Regulatory authority (State Bank) can suspend/restrict license.
+Management ke future plans & actions evaluate karne hote hain to assess Going Concern.
+Qualitative Materiality ka Core
+Amount chhota ho sakta hai but agar uska impact user ke economic decision change kare → Material considered.
+Lecture- 15
+📚 Reference: Book Pages 164
+📚 LECTURE FULL EXPLANATION:
+📌 Opinion Area ke baad – Going Concern
+Opinion ke area ke baad ek paragraph aata hai – Going Concern ka.
+Material Uncertainty ka matlab: Company going concern hai, lekin uske assessment me kuch doubts hain.
+ISA 570 ka reference – Going Concern assessment ka standard.
+📌 Framework ka Role
+Audit start karne se pehle dekhna hota hai ke FS kis framework pe banaye gaye hain.
+General Purpose Framework
+Wide range of users ke liye.
+Example: Pakistan me IFRS + Companies Act 2017 → Pakistani framework.
+Special Purpose Framework
+Har kisi ke kaam ka nahi.
+Example: Joint venture contract based accounting, sirf involved parties ko samajh aayegi.
+Tax basis accounting bhi special purpose me aati hai.
+📌 General Purpose vs Special Purpose – Key Difference
+General purpose: Public users ke liye acceptable.
+Special purpose: Specific users (contract, bank, tax authority).
+Framework decide karta hai audit ka approach.
+Agar framework galat ho ya unclear ho → scope limitation ho sakti hai.
+📌 Practical Examples
+Joint Venture: Parties apne agreed method se accounting kar rahi hain → special purpose.
+Tax Accounting: Measurement tax law ke hisaab se hoti hai, jo general purpose users ke liye acceptable nahi hoti.
+Bank-specific reporting: Bank ke requirement ke liye banaye gaye accounts → special purpose.
+📌 Auditor’s Role
+Auditor hi special purpose ya general purpose dono ka audit karta hai.
+Acceptance stage me framework verify karna zaroori.
+Wrong framework → Misleading FS ka risk.
+📌 ISA 570 & IAS 1 Connection
+ISA 570 ke baad IAS 1 me likha hai: FS banate waqt going concern ka disclosure required hai.
+Management claim karti hai ke FS going concern basis pe bane hain.
+Auditor verify karta hai – yeh management ki responsibility hai, auditor ka kaam assessment ko evaluate karna hai.
+⚠ Risk (Lecture me mentioned)
+Galat framework ka use → FS misleading ban sakte hain.
+Framework decide na karna → scope limitation.
+📌 Auditor’s Responsibility for Framework
+Auditor ko framework samajhna aur uska compliance check karna hota hai.
+Agar framework law/regulation me defined hai → auditor ko ensure karna hota hai ke FS usi ke mutabiq bane ho.
+Agar framework law me defined nahi → auditor ko dekhna hota hai ke framework acceptable hai ya nahi (ISA ke principles ke mutabiq).
+📌 Acceptable Framework Criteria
+FS fair presentation dete ho.
+Generally recognized standards pe based ho.
+Users ki needs meet kare.
+Complete set of FS cover kare.
+Measurement, presentation, disclosure ke clear guidelines ho.
+📌 Responsibilities – Law Defined Framework
+Law-defined → auditor ka kaam limited to compliance check.
+Agar framework outdated / misleading ho, auditor fir bhi highlight karega (Emphasis of Matter / Modified Opinion).
+📌 Responsibilities – Non-Law Defined Framework
+Auditor evaluate karega:
+Framework relevant hai?
+FS faithful representation dete hain?
+Measurement & disclosure reasonable hai?
+Agar acceptable nahi → engagement accept na kare.
+📌 Examples – Acceptable Framework
+IFRS (International)
+IPSAS (Public sector)
+National GAAP (if aligned with fair presentation)
+📌 Special Purpose Framework – Audit Approach
+Auditor ko samajhna hota hai ki framework ka scope sirf specific users ke liye hai.
+Opinion me clearly mention hota hai ke FS special purpose ke liye bane hain.
+ISA 800: Special purpose frameworks ke audit ka standard.
+📌 Special Purpose Framework Examples
+Cash basis accounting (e.g., NGOs ke liye grant reporting)
+Tax basis accounting
+Regulatory basis (banking regulators ke liye)
+Contractual basis (joint venture agreement)
+📌 Reporting Differences
+Auditor opinion ke paragraph me framework ka naam specify karta hai.
+Agar FS special purpose framework pe bane hain → auditor explanatory paragraph include karega.
+FS ka distribution restricted ho sakta hai (sirf intended users).
+Lecture- 16
+📚 Reference: Book Pages 164
+📚 LECTURE FULL EXPLANATION:
+Going Concern – Assessment Process 🏢
+Concept:
+Auditor ka kaam hota hai check karna ke company Going Concern hai ya nahi.
+Agar financial statements by default going concern assume kar ke banayi gayi hain, auditor ko assess karna hoga ke yeh sahi hai ya nahi.
+Assessment ke liye management se poochna hota hai: “Kya aapne Going Concern assessment ki hai?”
+Agar haan ➡ plan aur evidence verify karo.
+Agar nahi ➡ disclaimer of opinion de sakte ho.
+Indicators ke example:
+Cash ki kami / bank payments due but unable to pay.
+Customer contracts na milna.
+Bank se additional financing ka arrangement chal raha ho.
+Case Example:
+Management ka plan: Dusre bank se negotiation chal rahi hai paisa arrange karne ke liye.
+Auditor ka kaam:
+Inspect kare bank ka agreement / terms.
+Direct confirmation le new bank se – likh kar poochna ke loan approve hoga ya nahi.
+Check quality of evidence – sirf photocopy of agreement quality evidence nahi hota; direct bank reply zyada reliable hai.
+Board of Directors ke meeting minutes review karna – approve hua hai ya nahi.
+Material Uncertainty point:
+Agar paisa receive hone ka agreement hai aur payment due se pehle paisa aajata hai ➡ material uncertainty nahi.
+Agar bank ne conditions rakhi hain jo fulfill karni mushkil hain ➡ material uncertainty ho sakti hai.
+Auditor ka next step:
+Cash flow projections verify karna:
+Monthly sales inflow estimate
+Monthly expenses estimate
+Net cash balance calculate karke dekho ke loan instalment pay ho sakti hai ya nahi.
+Projection Verification:
+Management se projected cash flows lo.
+Check karo:
+Sales forecast realistic hai?
+Expenses understate toh nahi kiye?
+Bank statement aur agreements se reconcile karo.
+Going Concern – Sales-Based Cash Flow Support 📊
+Scenario:
+Client kehta hai: “Bank se loan nahi lenge, hum apni sales generate karke cash flows banayenge”.
+Auditor ka kaam: is self-generated cash flow plan ko verify karna.
+Step 1 – Quantity-based Sales Projection Test
+Management ka plan sales quantity par based hai.
+Auditor ne:
+Historical quantity data check kiya – pichle saal XYZ customers ko kitna quantity supply hua.
+Us growth ko compare kiya budgeted/projected quantity growth se.
+Dekhna hai kya projection mein jo growth hai wo historical trend ke mutabiq hai ya unrealistic hai.
+Example:
+Agar last year se 5% growth thi, lekin projection me 30% growth dikhai gai hai ➡ reason mangna hoga.
+Step 2 – New Customers Impact
+Management ka kehna: “Is saal naye orders aur naye customers onboard hue hain”.
+Auditor ka kaam:
+New orders ka documentary evidence lena.
+Verify karna ke ye orders budget mein include hue hain.
+Agar nahi, toh separately consider karna.
+Step 3 – Production Capacity Limit Check ⚙️
+Auditor ne projected quantities ko company ki actual production capacity se compare kiya.
+Agar projection capacity se zyada hai ➡ plan unrealistic.
+Example:
+Company ki max capacity: 15 million meters.
+Projection: 18 million meters ➡ not feasible.
+Step 4 – Internal Consistency of Plan
+Projection ke andar logical alignment check karna:
+Sales quantity feasible hai?
+Production capacity ke andar hai?
+New orders documented hain?
+Step 5 – Auditor ka Conclusion Process
+Har projection element verify karna (historical comparison, capacity limit, new orders evidence).
+Management ka plan realistic hai ya nahi decide karna.
+Agar unrealistic ➡ material uncertainty on going concern ho sakti hai.
+Going Concern – Capacity & Feasibility Check 🏭
+Scenario Extension:
+Ab auditor capacity ke limitation aur internal constraints ka detailed review kar raha hai.
+Focus: Quantity-based projections realistic hain ya nahi.
+Step 6 – Maximum Capacity Constraint
+Compare budgeted quantities with maximum achievable production capacity.
+Example:
+Capacity = 15 million meters
+Budget projection = 18 million meters ❌
+If projection > capacity → Unrealistic unless management proves capacity expansion.
+Step 7 – Internal & External Constraints
+Internal factors:
+Raw material availability
+Workforce limits
+Machine utilization rates
+External factors:
+Market demand
+Regulatory restrictions
+Auditor needs to verify both before accepting projections.
+Step 8 – Management’s Justification
+Management claim: “Naye customers onboard hue hain” ✅
+Auditor action:
+Verify contracts/orders.
+Check inclusion in budget.
+Separate new customers from recurring customer base.
+Step 9 – Linking Capacity to Cash Flow
+Quantity projection → Sales revenue → Cash inflow.
+If capacity limit breached → Cash flow projection unreliable.
+Example: Overstated quantity inflates revenue & hides going concern risks.
+Step 10 – Final Auditor Evaluation
+Align quantity projections with:
+Historical performance 📈
+Capacity constraints ⚙️
+Documented new orders 📄
+If any mismatch → raise as audit concern under going concern assessment.
+Lecture- 18
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Key Audit Matters (KAM)
+KAM woh matters hote hain jo auditor ki judgement me sabse zyada significant hain.
+Sir ne bataya: “Tension zyada gayi to matter hai.”
+KAM ka selection un matters me se hota hai jo governance ko communicate kiye gaye hote hain.
+Likelihood vs Magnitude
+Likelihood = hone ke chances kitne hain.
+Magnitude = hone par impact kitna hoga.
+Sir ne flood aur bank industry ka example diya:
+Flood se bank ki lending capacity effect hui → high magnitude, high likelihood.
+Stationery theft example: High likelihood, low magnitude.
+Risk Assessment
+Risk identify karte waqt dono factors dekhne hote hain:
+Likelihood
+Magnitude
+Example: Bank me cash chori → high likelihood, high magnitude.
+🌟 Core Concepts & Discussion
+Audit Marking aur Control Understanding
+“Marking” ka matlab hai audit mein jis cheez ko highlight karna.
+Sir ne kaha, agar tumne control achi tarah nahi dekha to mark karna bekaar hai.
+Control dekhna bohot zaruri hai, jaise bank ke case mein “three insurance limits” jo control hote hain.
+Kisi safe mein koi bina bataye enter nahi kar sakta, ye control ka part hai.
+Likelihood aur Risk
+Likelihood ka matlab hota hai kitne chances hain kisi cheez ke hone ke.
+Agar history strong hai to chance zyada hote hain.
+Example diya gaya cash chori ka, jo ek inherent risk hai.
+Likelihood aur magnitude dono ko samajhna bohot zaruri hai.
+Bank Audit Example
+Agar bank ka audit kar rahe ho to blindly koi signature mark nahi karenge.
+Pehle controls ko samjho, phir apni testing karo.
+Har line ka kaam alag hota hai, sabko alag angle se audit karna padta hai.
+Telecom Company Audit Example
+Saudi Arabia aur Dubai ki companies mein 5G ka use ho raha hai, Pakistan mein abhi nahi.
+5G ka introduction ek risk factor hai jo impact karta hai asset impairment pe.
+Future projections important hain: customers ka shift hona, present value ka kam hona, etc.
+Expertise ki Zarurat
+Kabhi kabhi audit mein apni knowledge kaafi nahi hoti.
+Telecom sector jaisa complex sector ho to expert hire karna zaruri hai.
+Expert ki research aur vision se audit quality improve hoti hai.
+Merger Aur System Change Impact
+Companies ka merger ho jana, jaise UBL aur Silk Bank ka example.
+System change se data transfer errors, duplicate deposits, wrong receiver, etc. ho sakte hain.
+Aise mein governance ko alert karna part hota hai audit ka.
+Audit Metrics & Communication
+Audit mein metrics select karne hote hain jin par focus karna hai.
+Governance ko communication dena zaruri hota hai jis par auditor ka signature ho.
+High risk aur judgment wali cheezen zyada focus hoti hain.
+Case Study
+PTCL case jahan signature time consume hota hai.
+Property valuation case jahan expert ko bulaya gaya to valuation confirm karne ke liye.
+Judge karna hota hai ki valuation realistic hai ya nahi.
+🌟 Core Concepts & Discussion
+Audit Metrics (Data Mining & Significance)
+Audit mein data mining se wo metrics nikalte hain jin par focus karna hota hai.
+“Significant risk” (signee risk) wo hote hain jahan high judgement aur transactions hoti hain.
+Audit attention wo jagah hoti hai jahan auditor ki signature lagti hai.
+Communication to Governance
+Audit metrics jo governance ko communicate kiye jate hain unmein se key points chune jate hain.
+Ye depend karta hai situation, paper, aur real life scenario par.
+Governance ko wo cheezen batai jati hain jahan auditor ki zyada attention lagi ho.
+Materiality & User Understanding
+Materiality ka matlab hai wo cheezen jo financial statements ke users ke liye important hain.
+Auditor ko yeh samajhna hota hai ki kaunse matters users ki understanding ke liye fundamental hain.
+Example: MP3 file ki importance, user ko pata hona chahiye, waise hi audit metrics ki importance samajhni hoti hai.
+Expertise and Judgement
+Kabhi kabhi auditor apne knowledge se exceed karta hai, toh expert ki zarurat parti hai.
+Example: Property valuation dispute mein expert ka opinion lena zaruri hota hai.
+Expert ke bina auditor ko khud judgement leni mushkil hoti hai.
+Audit Focus on Transactions
+Har transaction ko detail se dekhna padta hai, jahan significant signatures aur judgements ho.
+Audit mein focus un transactions par hota hai jinke impact se financial statements pe farq padta hai.
+Risk Factors & Situations
+Company ke controls aur nature ko samajhna bohot zaruri hota hai.
+Different companies aur situations ke hisab se audit ka approach change hota hai.
+Example: Telecom sector mein data consumption aur pricing ko samajhna zaruri hota hai.
+Legal & Tax Cases & Expert Involvement
+Company ke legal aur tax cases complex ho sakte hain.
+Har case ke liye experts ko hire karna padta hai, jo us case ka detail analysis karte hain.
+Expert opinion se hi audit judgement strong hoti hai.
+🌟 Core Ideas & Discussions
+Expert Involvement & Case Reviews
+Har complex case ke liye expert hire karna zaroori hota hai.
+Case documentation se pata chalta hai kya issue hai aur kya audit matter hai.
+Experts se consultation hoti hai accounting treatments aur transactions ko samajhne ke liye.
+Example: Related party transactions mein expert opinion lena common hai.
+Related Party Transactions & Accounting Treatment
+Related parties ke beech transactions ko detail se audit karna hota hai.
+Bahut si companies mein subsidiaries aur parent companies ke beech transactions hote hain jo complex hote hain.
+Misstatement ya fake entries detect karna zaruri hai.
+Transactions course of normal business se bahar ho to auditor ki attention aur bhi zyada hoti hai.
+Importance of Business Understanding
+Auditor ko company ka business model, asset values, aur industry ki knowledge honi chahiye.
+Yeh knowledge auditor ko fake ya suspicious transactions pe focus karne mein madad karti hai.
+Example: Plant ya asset purchase mein market value aur actual transaction amount mein difference samajhna.
+Consultation & Professional Judgement
+Auditor agar khud kisi accounting treatment ya judgement pe confident na ho to partner ya external consultant se advice leta hai.
+Audit report mein “Consultant following partner” ya aise notes likhna padta hai.
+Proper consultation se audit ki quality improve hoti hai.
+Audit Reporting & Documentation
+Audit reports mein experts, consultants, aur partner ke naam mention karna hota hai.
+Documentation mein clear likhna chahiye ke kis ne kya advise diya.
+Transparency aur accountability maintain karna zaroori hai.
+Materiality & Legal/Litigation Cases
+Har legal case material ho sakta hai financial statements ke liye.
+Auditor ko har case ki nature samajhni hoti hai aur uska impact evaluate karna hota hai.
+Material cases ki details governance ko communicate karni chahiye.
+Timing & Certification of Expert Work
+Expert reports aur certifications ko timely lena zaruri hai.
+Agar expert report time par na mile to audit opinion delay ho sakta hai.
+Material Misstatement, Audit Matters & Qualified Opinion Discussion
+1. Materiality kya hoti hai?
+Materiality wo cheez hai jo FS (Financial Statements) ke user ki understanding ya decision ko affect kare.
+Example: Agar chhota masla ho aur total amount company ke size ke mutabiq negligible ho, to wo material nahi hota.
+Fundamental issue wo hota hai jo FS ki bunyaad ko affect karta ho, jaise breach of capital ratio waghera.
+2. Audit Matters (Important points):
+Agar koi misstatement ho jo material ho, to management se wo correct karwaya jata hai.
+Example: Agar company ne breach of capital ratio sahi tarah disclose nahi kiya, to wo material issue hai.
+Auditor apni professional judgment se decide karta hai ke issue material hai ya nahi.
+3. Extension of audit period ka example:
+Kuch cases mein extension milti hai (3 saal ki), jo audit opinion par bhi effect karti hai.
+Auditor ko pata hona chahiye ki extension milne ke bawajood kya impact hoga opinion pe.
+4. Insurance company aur flood damage example:
+Flood aane par damage ka amount nikalne mein time lagta hai, isliye verification important hai.
+Communication aur situation ke hisaab se decision liya jata hai.
+User understanding ke liye fundamental matters clear hon.
+5. Related parties / Associated companies:
+Agar ek shareholder apni personal investment se 2-3 companies chalata hai, to wo companies ek dusre ki related parties hoti hain.
+Example: Agar ek banda 4 companies chalata hai jo ek dusre se related hain, to wo associated parties kehlati hain.
+6. Audit materiality ki definition:
+Audit materiality wo hota hai jisme auditor ko pata chale ke kya cheez FS ko affect karti hai.
+Listed companies mein General Purpose FS par materiality kaafi important hoti hai.
+Agar FS incomplete ya special purpose ke liye hain to materiality aur bhi closely judge karni padti hai.
+7. Complete set of FS ka matlab:
+Full set wo hota hai jisme sare documents aur disclosures hon jo law require karta hai.
+Agar sirf sales audit karwana hai, to wo complete set nahi hota, sirf ek part hota hai.
+8. Audit opinion dene ka tariqa:
+Agar FS material misstatement ke saath hain to qualified opinion dena hota hai.
+Agar opinion modify karna ho to wo ya to qualified hoga, ya adverse, ya disclaimer.
+Auditor ko wording mein bhi careful rehna hota hai ke wo contradictory na lage.
+9. Qualified opinion aur adverse opinion mein farq:
+Qualified opinion ka matlab hota hai "except for" kuch specific issue.
+Adverse opinion ka matlab hota hai "FS overall inaccurate hain".
+Auditor ko har cheez ko properly explain karna hota hai apni report mein.
+10. Auditor ki professional judgment:
+Auditor apni professional judgment se decide karta hai ke kya material hai, kya opinion dena hai, aur kaise wording likhni hai.
+Agar upper portion mein qualified opinion di hai, to neeche contradictory words use nahi karne chahiye.
+Wording consistent honi chahiye report ke andar.
+11. No interaction ka matlab:
+Agar upper portion mein koi qualified ya material issue nahi, to neeche no interaction ya no comment likha jata hai.
+Yeh important hai taake confusion na ho report mein.
+12. Audit report likhne ka proper tariqa:
+Heading mein likhna hota hai ke ye qualified opinion hai.
+Phir definition aur audit matters explain karne hote hain.
+Reference properly dena hota hai "In addition to the matters described in basis for qualified opinion...".
+Lecture- 19
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Audit Matter (audit matter) ka recap
+Hum ne pehle kant of order report mein seekha tha, aaj ziada detail mein discuss kiya gaya.
+✔️ Ye ziada tar listed companies pe apply hota hai.
+Audit Matter ki definition:
+Ye aik important issue hota hai jo users ki samajh ko affect karta hai.
+Kabhi kabhi expert knowledge bhi use karte hain evidence ke liye.
+Agar regulator koi restriction lagata hai ya public investigation disturb ho sakti hai to reporting pe farq padta hai.
+Qualified Opinion aur Audit Matter:
+Agar qualified opinion hai to audit matter ka description clear hona chahiye.
+Agar material misstatement ya qualification nahi hai to audit matter report dena zaroori nahi.
+Example:
+Fraud ka case jisme food industry wali company involved thi.
+Transactions bohat complex thi, investigation bhi hui.
+Agar ye sab public mein aa gaya to investigation effect ho sakti thi.
+Regulator ne auditors ko kaha disclosure mat karo taake investigation safe rahe.
+Auditors ko transparency aur investigation ke beech balance rakhna parta hai. ⚖️
+Regulator ka role:
+Regulator auditors ko guide karta hai ke kab audit matter disclose karna hai ya nahi.
+Disclosure se legal aur procedural problems ho sakti hain.
+Isliye regulator ke saath communication bohat important hai.
+NEB aur Investigation:
+NEB (National Accountability Bureau) investigation karta hai.
+Sensitive info ko jaldi public nahi karna chahiye.
+Auditors authorities ke saath coordinate karte hain reporting ke liye.
+Reporting pe asar:
+Agar audit matter hai magar disclosure investigation ya public interest ke khilaf hai to report limited hogi.
+Warna clearly report karna zaroori hai.
+Opinion ka importance
+Agar opinion perfect ho tab conclusion pe baat karni chahiye.
+Agar pages ya data sahi ho, to report banti hai, warna nahi.
+Disclosure aur regulator ka role
+Public disclosure mana hai jab tak regulator allow na kare.
+Agar paise wapas aa gaye ya accounting sahi ho gayi to case khatam samjho.
+Lekin agar regulator mana kare, to disclosure nahi karna chahiye. 🚫
+Related party transactions
+Complex related party transactions jo signatures lagte hain, un pe consultation hota hai.
+Disclosure mein sirf itna likhna hai ke ye related party transactions hain, zyada detail nahi.
+Pilot license aur control concept
+Example diya gaya pilot license ka — agar pilot qualified nahi, to penalty ya regulatory issue ho sakta hai.
+Auditor ko pata hona chahiye regulatory penalties ya demands ki.
+Management disclosure ka effect
+Agar management ne koi penalty disclose nahi ki, to auditor ka opinion affected ho sakta hai.
+Multiple penalties ya qualified opinions aa sakti hain.
+Revenue recognition aur transaction complexity
+Revenue streams complex ho sakti hain, jaise PTCL ki example.
+Auditor ko specific transactions pe kaam karna padta hai, jahan risk hota hai.
+Controls ka role
+Controls jaise ke billing systems aur recovery processes ka auditor ko pata hona chahiye.
+Agar controls weak hain, to fraud ya misstatement ka risk hota hai. ⚠️
+Regulator aur investigation impact
+Auditor ko pata hona chahiye ke disclosure se investigation ya public interest pe kya asar padega.
+Agar damage zyada ho aur benefit kam, to disclosure nahi karni chahiye.
+Audit matter ki disclosure restriction
+Auditor ko regulator ke instructions ko follow karna hota hai, takay investigation effect na ho.
+Public interest ka balance maintain karna zaroori hai.
+English difficult lag sakti hai, lekin concept clear hona chahiye
+Auditor ko complicated english ko samajhna aur apply karna hota hai.
+Sir ne is part mein specific assertion ya risk ka zikr nahi kiya.
+Pension Case & PTCL Background
+Pehle pension case ki discussion, jo 90 se pehle employees ke related thi.
+1995 tak Pakistan Telecommunication Corporation (PTC) government owned thi, abhi tak PTCL company nahi bani thi.
+2007 ya 2005 mein PTCL limited company bani, aur control wahan transfer hua.
+Employees ko pension increase chahiye tha, government ke norms ke mutabiq.
+Company kehti thi ke itna paisa nahi de sakti, pension increase se company ka loss ho jayega.
+Government employees ke pension rules alag hain, lekin PTCL ab private company hai, toh rules alag lagte hain.
+Voluntary Separation Scheme (VSS)
+VSS scheme launch hui jisme pensioners ko lump sum payment di jati hai.
+Pensioners ko yeh paisa future value ke hisaab se discount karke diya jata hai.
+Kuch log ne apni VSS update kar li, jo pension amount ko adjust karta hai.
+Supreme Court ne is case mein decision diya, jisme pensioners ki claim ko lekar complexity thi.
+Accounting & Provisioning
+PTCL ne apne accounts mein provision book kiya, jisme future pension payments cover ho.
+Auditor ne provision ki calculation ko verify kiya, uska record rakhna zaroori tha.
+Court ke samne auditor ne apni position clear ki, evidence dena tha proof ke liye.
+Accounting standards (IAS 37) allow karte hain ke kuch disclosures na ki jayein agar woh company ke against ho.
+Disclosure & Public Interest
+Disclosure se agar company ko nuksan hota hai toh auditor disclosure restrict kar sakta hai.
+Public interest ka balance maintain karna zaroori hota hai.
+Agar company ne public mein apni position already communicate kar di hai, toh auditor ke liye disclosure ka burden kam ho jata hai.
+Lecture- 20
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Key topic: Audit report mein Key Audit Matters (KAM) kab dena hota hai aur kab nahi.
+Agar law ya regulation KAM dene se rokta hai, to KAM nahi dena. 🚫
+Agar law ya regulation rokta nahi, aur matter auditor ka apna discretion hai, to KAM dena zaroori hai. ✔️
+Jab auditor apni report mein Audit Matters ka alag section banata hai, uski heading hoti hai Key Audit Matters.
+Auditor ko batana hota hai ki yeh matters unke nazdeek audit me kyu important hain.
+KAM define karte waqt likhna hota hai ke:
+KAM kya hai? (definition)
+Auditor is par koi alag opinion nahi deta (matlab shareholder ko yeh na lage ke yeh koi alag opinion hai).
+Auditor ka opinion financial statements (FS) ke baare mein hota hai, KAM par nahi.
+Auditor ko yeh clarify karna hota hai ke KAM par koi separate opinion nahi diya ja raha.
+Yeh zaroori hai taake confusion na ho ke auditor ne KAM ke liye alag se opinion diya ho.
+KAM ka relation financial statements se hota hai, lekin KAM khud FS ka hissa nahi hai.
+Auditor ka responsibility audit report aur auditor’s report tak limited hota hai, FS ke alawa nahi.
+Agar auditor apni report me KAM mention karta hai, to wo yeh bhi likhta hai ke:
+“I am not providing a separate opinion on this matter.”
+Opinion on FS is not modified. ✅
+Agar KAM dena zaroori nahi, to report me KAM section nahi hota.
+Agar KAM dena hai, to uski clear definition aur explanation honi chahiye.
+Auditor ko apni report me disclaimer bhi dena padta hai ke KAM ke ilawa koi alag opinion nahi hai.
+Yeh isliye taake shareholders ko pata ho ke audit ka overall opinion FS pe hai, KAM pe nahi.
+Jab auditor koi matter important samjhta hai to wo usse KAM declare karta hai, lekin uska matlab ye nahi ke wo us matter par alag se audit opinion de raha ho.
+Audit Matters (KAM) likhne ka tareeqa:
+Sabse pehle KAM ko define karo — kya hai, kyun important hai.
+Apne professional judgement se batana hota hai ki ye matter kyun KAM hai.
+Agar matter me significant judgement ya high risk ho, to KAM banta hai.
+Implementation testing example:
+Financial statements ke kisi item jaise Property, Plant & Equipment par testing karna.
+Agar is testing mein significant judgement involve ho, to ye KAM ho sakta hai.
+Auditor ko disclose karna hota hai ki ye testing kyun KAM hai.
+Disclosure aur heading:
+KAM section mein alag se heading aur explanation zaroori hai.
+Disclosure sahi hona chahiye jahan auditor clear kare ke alagar opinion nahi de raha sirf matter explain kar raha hai.
+Risk aur judgement ki importance:
+Agar kisi transaction ya event mein significant risk ya judgement ho, to auditor ko usse KAM banana chahiye.
+Example: Bank advances ka verification agar complex ho ya risk ho to.
+Practical tips for writing KAM:
+Relevant financial statement item uthao.
+Uske related significant judgement ya risk ko highlight karo.
+Link karo disclosures ke sath.
+Simple aur logical language mein explain karo.
+Complex transactions ko handle karna:
+Agar related party transactions ya complex data transfer hain, to unko KAM banaya ja sakta hai.
+Auditor ko batana hota hai ke ye matter financial statements se related hai aur is mein risk kyun hai.
+KAM section mein repeat na karo jo pehle define kar chuke ho.
+Audit Matters (KAM) par detail sochna:
+KAM ke concepts ko alag alag alag rakhna, jaise “Data Transfer” aur “Risk” ko mix na karna.
+Har ek issue ko clearly identify karo aur uski wajah samjho ke kyun KAM hai.
+Summary banana aur naya pattern sochna:
+Pehle se diye gaye answers ko repeat na karo, naye soch ka pattern develop karo.
+CA Final level par practical case study approach lena zaroori hai.
+KAM ki boundaries aur scope samajhna:
+KAM sirf wahi areas cover karta hai jahan significant risk ya judgement ho.
+Agar question me kaha gaya ho ke KAM banana hai ya nahi, to clear answer do.
+Audit report likhne ka practical tariqa:
+Har ek point ke liye heading do, uske baad uska short description likho.
+Auditor ke procedures aur kaam ko clear karo ke kyu ye matter important hai.
+Verification aur procedures:
+Auditor ko batana hota hai ki kaunse data ya transactions verify kiye, jaise demand, advances, cash etc.
+Verification ki wajah se hi audit matter hota hai.
+Critique aur error detection:
+Agar kisi audit report me heading ya description missing ho, to uski tanqeed karo.
+Jo cheezein report me galat ya incomplete hain, unko point out karo.
+Complex transactions aur estimates:
+Agar estimates ya judgements involved hain, to unko clearly explain karo.
+Example: Insurance claims, jo bahut complex ho sakte hain, unka valuation.
+Case study: Insurance claim valuation:
+Example diya gaya jahan insurance company ke claim ki valuation karni hai, loss estimate karna hai.
+Auditor ne 900 million claim ko verify kiya, actual loss confirm kiya gaya, 1.5 billion ka estimate diya gaya.
+Third party report ki verification bhi important hai.
+IBNR aur Claims Ki Detailed Discussion 🎯
+➡️ IBNR kya hota hai?
+Matlab “Incurred But Not Reported” yani wo claims jo abhi tak report nahi huay, magar honay wale hain.
+Ye insurance companies ke liye bohat important hota hai, kyunki pata hona chahiye kitne claims future mein aane hain.
+➡️ Claim reporting ka timing issue:
+Events kab hote hain, aur claims kab report hote hain, dono alag alag waqt pe hotay hain.
+Example: 2020 mein event hua, magar claim 2021 mein report hua.
+Is delay ko samajhna zaroori hai taake estimate sahi bane.
+➡️ Chain Ladder Method:
+Ye ek mathematical method hai jisme pichlay saalon ke claims data ko analyze karke future claims estimate kiye jate hain.
+Har saal ke reported claims ko use karke ratio banate hain, phir us ratio se estimate nikala jata hai.
+Yeh method claims ka overall trend samajhne mein help karta hai.
+➡️ Historical data ki importance:
+Pichlay saalon ke data ko benchmark ke taur pe use karte hain.
+Agar koi saal mein accidental claim rate 5% se zyada increase ho jaye, to wo ek red flag hota hai.
+➡️ Calculation ka overview:
+Example: 2021 mein 50 million claims, 2022 mein 20 million, phir 2023 mein data analyze karte hain.
+Ye data use karke hum pata lagate hain ke kitne claims abhi tak report nahi huay.
+➡️ Claims ki reporting chain:
+Claims report hone ki ek chain hoti hai — jisme har saal thoda-thoda claims report hote hain.
+Hum is chain ko samajh ke claims ki accurate estimate nikalte hain.
+Lecture- 21
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+📝 Case Discussion: Legal Case & Key Audit Matter (KAM)
+Scenario: Ek legal case company k against, jo kaafi lamba chal raha tha.
+Sawal: Agar yeh Key Audit Matter (KAM) hai, toh audit report me kaise likhna?
+Steps:
+Notice ka reference & relevant details likhni.
+Draft example: “Fully disposal statement – legal case instituted against the company by competitor for corruption of matter & refresh whether matter has been adequately disposed.”
+⚖️ Judgements is case me:
+Applicability – Kya reporting date pe yeh matter applicable hai?
+Impact – Auditor/client ko paisay denay parenge? Agar haan, kitne?
+Outcome – Case jeetne ya harne ka chance.
+📋 Writing ka tariqa:
+Agar clearly KAM diya hua hai → likh do.
+Apni personal opinion na do jaise “mere hisaab se KAM nahi hai” agar question ne bola hai ke hai.
+Relevant factors include karo:
+High significance.
+Material to FS.
+Significant event/transaction.
+💡 Example points:
+Judgement/Estimates → Legal applicability, amount ka impact, probability of loss.
+Events/Transactions → Example: sudden data transfer by company → reconsider matter.
+Materiality → Agar FS me material hai, toh KAM ban sakta hai.
+📚 Practical Examples:
+EFU General Insurance case → high FS materiality ki wajah se KAM.
+Depreciation method change (SL → WDV) → assess karo agar KAM parameters meet karta ho.
+📝 High Estimates & Complex Judgements
+Sir ne IDNR example di to explain high estimates.
+High estimate ka matlab: jab normal historical data + accidental rates + environmental rates sab combine ho, multiple estimates involved.
+Complex judgement tab hota hai jab ek se zyada significant estimates involved hon.
+Example: Projected crop price, yield, market rate — sab estimates.
+Agar ek bhi galat hua → overall calculation impact.
+Har estimate change = KAM nahi hota.
+Example: Building cost change from 50 to another rate → normally expert ki zarurat nahi.
+⚖️ Expert Involvement
+Expert tab hire hoga jab matter company ke knowledge se beyond ho.
+Example:
+Tax case: Import par FTR apply kiya gaya.
+PTCL ne challenge kiya → kaafi complex judgement matter.
+Auditor ne taxation expert hire kiya to conclude sahi/galat.
+Conclusion: Expert only where own expertise insufficient.
+📋 Emphasis of Matter (EoM) Paragraph
+Auditor ki judgement me agar koi matter fundamental to FS users’ understanding ho → EoM.
+ISA 706 ke mutabiq:
+EoM = Additional communication.
+Purpose: Draw user attention to specific disclosed matter.
+Disclosure vs Accounting:
+Agar accounting honi chahiye lekin sirf disclosure di ja rahi hai → pehle accounting correct karo.
+📚 Practical Examples from Lecture
+PTCL pension case:
+Litigation matter, fundamental to user understanding.
+EoM paragraph add kiya.
+Event after reporting date:
+Example: 31 Dec FS, 28 Jan flood → significant inventory loss.
+Auditor may refer via EoM if relevant & fundamental.
+📆 Events After Reporting Date (EARD)
+Definition: Jo events FS date (Financial Statements ki date) aur auditor’s report date ke beech hotay hain.
+Types:
+Adjusting Events – evidence dete hain ke FS date pe condition exist karti thi → FS me adjustment zaroori.
+Non-adjusting Events – FS date ke baad ka condition show karte hain → sirf disclosure ka requirement ho sakta hai.
+Example (Sir ka):
+FS date: 31 Dec 2024.
+28 Jan 2025: Flood ne kaafi inventory destroy kar di.
+Auditor ka kaam: Check karo adjusting hai ya non-adjusting → zyada chance non-adjusting, lekin agar fundamental hai toh EoM lag sakta hai.
+📌 Auditor’s Responsibility for EARD
+Report date tak events monitor karo.
+Management ke saath discuss karo.
+Ensure karo ke accounting/disclosure sahi kiya gaya hai.
+Agar management adjust/disclose karne se refuse kare jab zaroor ho → opinion modify karo.
+🛠 Practical Application
+Case: Auditor ko ek material litigation settlement ka pata FS date ke baad chalta hai.
+Agar ye settlement ka link pre-year-end conditions se hai → adjusting event.
+Agar ye sirf post-year-end originate hua hai → non-adjusting.
+Judgement important hai: Agar material & fundamental hai → EoM consider karo.
+⚖️ Link with ISA Standards
+ISA 560 → Events after reporting date ka poora framework deta hai.
+ISA 706 → Agar koi non-adjusting event properly disclose kiya gaya hai aur fundamental hai, toh EoM paragraph add kiya ja sakta hai.
+🏭 Insurance Claims & Revenue Recognition Logic
+Jo company motor insurance ka kaam karti hai, uske claim history dekho → Expected claims ko pehle se book kar lo, wait mat karo actual claim aane ka.
+Past situation: Pehle revenue ko “night basis” pe book karte the jab policy start hoti thi.
+Ab new method: Revenue se agent ka commission minus karo (jo policy laane ka kaam karta hai).
+Net bacha → Net Service Revenue.
+📅 Policy Term & Future Cash Flows
+Dekho policy kitne saal chalegi (1, 2, 10 years).
+Future cash flows ki present value nikalo.
+Agar policy ke andar financing component hai → Interest income alag record karo (IFRS 15 ka concept).
+Financing component ko revenue se hata ke separate treat karna hai.
+🔄 Early Application of Standards
+IAS/IFRS ka standard agar apni effective date se pehle adopt karein → Iska impact comparative FS pe bhi aata hai.
+Comparability maintain karne ke liye pichle saalon ka data bhi restate karna padega.
+Fundamental change hai to auditor ko user attention draw karni chahiye.
+Early application = judgement call. Kabhi beneficial hoti hai taake market me pehle adapt ho jao.
+⚠️ Loss-Making Contracts
+New standards kehta hai: Agar contract first day se hi loss-making hai → Loss pehle din book karo (onerous contract treatment).
+Insurance segment (e.g., motorcycle policies) agar loss me ho → Immediate recognition.
+Standard ka aim: Future me surprises avoid karna.
+📝 kAM (Key Audit Matters) vs EoM (Emphasis of Matter)
+Agar matter already kAM hai to EoM me repeat nahi karna.
+Early application agar fundamental hai → FS understanding ke liye EoM me mention ho sakta hai.
+📆 Events After Reporting Date (Revisit)
+FS date se report date tak auditor ki responsibility hoti hai events monitor karne ki.
+Example:
+FS date: 31 Dec 2024
+Report sign: 15 Mar 2025 → Auditor ne is date tak ke events consider kiye.
+15 Mar ke baad auditor ki responsibility normally khatam.
+AGM notices ka timeline bhi calculate hota hai (e.g., 21 days rule for dispatch before AGM).
+🏛 Post-Report Date – Facts Become Known to Auditor
+Scenario: FS + Audit Report already issued to shareholders.
+Key Point: Auditor ka role us waqt activate hota hai jab fact (material) auditor ko pata chale after report sign & FS issue.
+Example from lecture:
+Report sign: 6 March.
+FS dispatched & available.
+Baad me pata chala: Case ka decision aaya tha before report sign → management ne account for nahi kiya tha.
+Agar pata hota at sign date → opinion modify hoti.
+🛠 Auditor’s Required Action
+Discuss with Management:
+Event explain karao.
+Management ko bolo: FS revise karo.
+Sab stakeholders ko inform karo (jin ko FS mila).
+SECP ya relevant regulator ko notify karo.
+Revised FS & Audit Report:
+Revised FS me note add karo: > “FS revised due to court case decision prior to report date which was not accounted earlier.”
+New audit report issue karo (modified or updated as per new facts).
+If Management Refuses:
+Auditor ka duty: Governance ko inform karo.
+Legal framework me escalate karo.
+⚖️ ISA 560 Link
+Yeh case Fact Becomes Known to Auditor After Date of Auditor’s Report ka classic example hai.
+Agar fact ka effect FS pe fundamental hai → revision & re-issuance zaroori.
+Agar fact non-fundamental hai → sirf disclosure / EoM ka option.
+🚦 Special Notes from Lecture Discussion
+Agar report abhi sign nahi hui → simple: adjust FS before issue.
+Agar sign ho chuki & dispatch pending → revise report before dispatch.
+“Once issued to users” → auditor ki responsibility only when fact is significant & impacts FS understanding.
+Lecture- 22
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+📌 Key Discussion Points:
+Auditor opinion nahi deta internal control pe; bas findings communicate karta hai management & governance ko, usually via management letter 📨.
+Agar koi control (e.g., budgetary control) approval ke bagair exceed ho jaye → iska matlab control operate nahi kar raha.
+Is tarah ki situation me auditor apni audit strategy me relevant area pe zyada focus karega 🎯.
+Opinion sirf tab modify hota hai jab koi material misstatement ya scope limitation ho; warna sirf procedures ka scope change hota hai ⚖️.
+💡 Examples & Scenarios:
+📅 Event after audit report date
+Agar koi fact auditor ko report date ke baad pata chale aur wo material ho → appropriate steps lena zaroori hai.
+📑 Multiple framework audit
+Same auditor ko agar 2 frameworks ka audit karna ho (e.g., IFRS + local GAAP) → alag-alag reports issue hoti hain, responsibilities clearly defined hoti hain.
+📌 Emphasis of Matter paragraph cases
+Litigation ya koi matter jo user understanding ke liye critical ho.
+Example: PPE impairment before audit completion.
+📜 Scenario Overview: Yahan baat ho rahi hai ke auditor ko audit engagement accept karna chahiye ya nahi jab Financial Reporting Framework (FRF) acceptable na ho — chahe regulator ne audit karne ka keh diya ho. Sir ne clear kiya ke FRF ki acceptability pehle confirm karna zaroori hai, chahe wo general purpose ho ya special purpose framework ✅.
+📌 Key Points:
+FRF Acceptability Sabse Pehle:
+Audit accept karne se pehle check karo ke FRF acceptable hai ya nahi.
+Ye rule dono frameworks (general & special purpose) pe apply hota hai 📊.
+Agar FRF acceptable nahi → audit accept nahi karna 🚫.
+Regulator ka Kehna ≠ Standards Override:
+Agar regulator kahe audit karo, lekin FRF acceptable nahi → standards ke mutabiq reject karo.
+Auditor ko apni reputation protect karni hoti hai aur misleading FS se naam associate nahi karna ⚠️.
+Agar Force Kar Diya Jaye (Regulatory Mandate):
+Engagement letter me likho ke report me koi wording FRF ko acceptable nahi batayegi 📝.
+Ek extra disclosure add karo jo bataye ke agar acceptable FRF hota to FS kaise hoti 📑.
+Ye transparency maintain karne ke liye hota hai.
+Impact on Opinion:
+FRF ke flaws ki wajah se opinion modified hoga ✏️.
+Basis for modification clearly explain karna hoga.
+Sirf disclosure de dena opinion ko normal nahi banata.
+Disclosure vs Modification:
+Sirf batana ke sahi figures kya hote ≠ FRF ka issue solve karna.
+Modification ka base hota hai framework ka flawed hona, sirf numbers ka galat hona nahi.
+Professional Judgment & Ethics:
+Agar management FRF fix na kare, auditor withdraw bhi kar sakta hai 🚪.
+Standards pe compromise nahi karna, chahe regulator ya client pressurize kare 💪.
+📜 Scenario Overview: Is part me focus hai ke auditor jab Special Purpose Framework (SPF) ke saath kaam kare to acceptance ke rules kaise apply hote hain. Sir ne highlight kiya ke SPF bhi acceptable hona chahiye.
+📌 Key Points:
+Special Purpose Framework ka Nature:
+SPF ek specific audience ya purpose ke liye banta hai (e.g., tax return, regulatory reporting).
+Example: Bank ke regulator ke liye banaya gaya FS jo IFRS se different hai 📊.
+Acceptability Criteria SPF ke liye:
+SPF acceptable tab hai jab:
+Intended users ko pata ho ke SPF use ho raha hai.
+SPF unke liye relevant ho.
+SPF ki requirements transparent aur understandable ho 📑.
+Agar SPF Acceptable Nahi:
+Audit accept mat karo 🚫.
+Agar regulator force kare → Part 2 jaisa approach follow karo:
+Engagement letter me safeguards.
+Modified opinion ✏️.
+Extra disclosure.
+SPF Me Opinion Wording:
+Opinion me clearly mention karo ke framework special purpose hai.
+Example phrase: “prepared in accordance with the special purpose framework of XYZ Regulator.”
+Risk of Misunderstanding:
+Agar FS public distribute honi hain to SPF ka use users ko confuse kar sakta hai ⚠️.
+Auditor ka kaam hai clarity dena — taake koi ye na soche ke FS general purpose ke liye hain.
+Professional Ethics SPF Me:
+SPF audit bhi same ethical requirements follow karta hai jo general purpose me hoti hain 💪.
+Auditor ko independence, objectivity, aur transparency maintain karni hoti hai.
+📜 Scenario Overview: Is section me sir ne detail me bataya ke SPF audit report me kya kya extra cheezen highlight karni hoti hain, wording kaise change hoti hai aur kaunse safeguards aur disclosures zaroori hote hain ✅.
+📌 Key Points:
+Report Ka Structure SPF Me:
+Title: “Independent Auditor’s Report” 🏷️
+Addressee: sirf intended users ya regulator.
+Intro paragraph me framework ka naam clearly likhna.
+Management & Auditor Responsibilities:
+Management → FS banani SPF ke mutabiq 📑.
+Auditor → standards follow karke SPF ke context me opinion dena.
+Basis for Opinion:
+SPF acceptable hai → normal basis.
+Acceptable nahi + regulatory pressure → modified basis with explanation ⚠️.
+Opinion Wording:
+Special purpose ka naam opinion me repeat karo.
+Opinion ka type (unmodified/modified) clear likho.
+Extra Disclosures:
+Emphasis of matter → agar FS ka use limited audience ke liye hai 📌.
+Other matter → agar extra context dena ho.
+Restriction on Use:
+Report me clear likho ke sirf intended users ke liye valid hai 🚫.
+Safeguards Agar FRF Weak Ho:
+Engagement letter me limitation mention karo.
+FS me additional notes dalwao taake users confuse na hon 📜.

@@ -1,0 +1,437 @@
+Lecture- 1
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+👉 Start of new chapter: Review Engagement (ISE 2400)
+Engagements ke 2 types hotay hain:
+Audit Engagement → Reasonable Assurance (High Level)
+Review Engagement → Limited Assurance (Lower Level)
+🔹 Audit Engagement (Reasonable Assurance)
+High level assurance milta hai ✅
+Extensive audit evidence gather karna parta hai:
+Documents inspection
+Controls testing
+Substantive procedures (sampling, confirmations, stock count, invoices check, etc.)
+Even going concern factors evaluate kiye jate hain.
+At the end → Positive Opinion diya jata hai (FS prepared in accordance with framework).
+Example: “Opinion on FS” clearly state hota hai.
+💡 High level ≠ Absolute assurance (100% nahi hota, reasonable hota hai).
+🔹 Review Engagement (Limited Assurance)
+Lower level assurance → Limited work kiya jata hai.
+Procedures:
+Inquiry (management se poochna)
+Analytical procedures
+Evidence gathering limited hota hai → sampling, detailed verification nahi hoti.
+Conclusion format: “Nothing has come to our attention that causes us to believe FS not prepared in accordance…”
+Yani agar koi unusual cheez samney aati hai tabhi further investigate karte hain.
+⚖️ Audit vs Review Engagement (Comparison)
+Audit = Extensive testing, sampling, confirmations, stock count, supporting docs → Reasonable assurance.
+Review = Only inquiries & analytical procedures → Limited assurance.
+Audit opinion = Positive opinion.
+Review conclusion = Negative assurance style (Nothing has come to our attention…)
+📝 Example (Sir’s analogy)
+Review = “Limited knowledge” → Jitna dekha, utna bataya (Mustafa ke rishtay ka example 😂)
+Audit = “Personal knowledge & verification” → Har cheez verify ki (Reasonable assurance).
+🔹 Analytical Procedures in Review
+Trend analysis, ratio analysis, monthly comparisons.
+Example: Year-end sales ↑ suddenly → Inquiry from management.
+Mgmt reply: “Marketing scheme thi, discount offer kiya tha.”
+Auditor: Accept if reasonable, no further deep check (unlike audit).
+Related party transactions & unusual transactions bhi inquire ki jati hain.
+⚖️ Audit Engagement vs Review Engagement
+Audit = Reasonable Assurance (High Level)
+Review = Limited Assurance
+Only Inquiries + Analytical Procedures
+No confirmations, no GDN checking, no deep vouching 🚫
+👀 Example:
+Agar client bole end me sales zyada hain → hum check karte hain via analytical procedures (discount schemes, last month sales trends etc.)
+Audit hota to invoices, GDN, confirmations sab check hota.
+Review me bas inquiry aur analysis. ✅
+✍️ Engagement Letter (Review Engagement)
+Objective → To obtain limited assurance that FS are free from MM.
+Scope → Only inquiries + analytical procedures.
+Auditor yeh nahi likhega ke confirmations bhejunga, GDN verify karunga, etc. ❌
+Review ka kaam → Bas review the FS, kuch ajeeb aya → report karo.
+🎯 Example: Government Grant Case
+Company ko Govt Grant related to assets mili thi.
+Engagement = Review Engagement (Limited Assurance)
+🛠️ Work performed:
+FS data ko analytically analyze kiya.
+Grant ki value divide by asset’s life → expected income har saal calculate.
+Compare kiya with actual P&L recognition.
+🔍 Findings:
+BS me grant ka balance zyada tha ❌
+Analytical calculation se kam aana chahiye tha.
+Company ne grant ko apni marzi se deferred rakha aur thoda thoda release karta tha (income smoothing 📉📈).
+Agar audit hota → agreements verify karte, lekin yahan sirf analytical detection hua.
+Lecture- 2
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Intro to ISRE (International Standards on Review Engagements)
+Full form: International Standards on Review Engagement (ISRE)
+Relevant standards:
+ISRE 2410 → When auditor of the company performs review engagement (listed company ke half yearly FS).
+ISRE 2400 → When non-auditor performs review engagement (jab company ka statutory audit required nahi hota).
+⚖️ ISRE 2410 – Applicable Scenario
+Jab auditor already appointed hai as statutory auditor of the company.
+Listed companies ke liye half-yearly FS review required by law 📜.
+Auditor ko review karna hai aur report deni hai according to ISRE 2410.
+Assurance = Limited (Inquiry + Analytical Procedures).
+👀 Example: 6-monthly review of listed company FS → auditor ko ISRE 2410 follow karna hi hoga.
+⚖️ ISRE 2400 – Applicable Scenario
+Jab company ki statutory audit requirement hi nahi hoti (capital threshold se neeche).
+Company khud voluntary review karwana chahe.
+Auditor (ya koi bhi practitioner) → ISRE 2400 follow karega.
+Assurance = Limited hi hogi.
+💡 Capital Threshold for Audit Requirement
+Private companies ko statutory audit tabhi required jab unka paid-up capital ek threshold se zyada ho.
+(Sir ne bola exact figure confirm karenge – approx 1M ya 3M ka discussion tha). 🤔
+Agar threshold se neeche → Audit requirement nahi.
+Usi case me agar review karwana ho → ISRE 2400 apply hoga.
+🧐 Acceptance of Review Engagement (Non-Audit Case)
+Jab auditor ke paas aisi company aaye jiska audit required nahi → auditor ko pehle purpose (“RATIONALE”) samajhna hoga:
+Kyun review chahiye?
+Agar sirf naam associate karna hai (EY review kare to credibility ho) → Risky ⚠️
+Bank loan ke liye review? → Bank sirf audit report pe rely karega, review report pe nahi.
+Matlab → Client’s motive samajhna zaroori hai before accepting.
+🔹 Acceptance vs Engagement Letter
+Step 1: Acceptance decision lena hota hai ✅
+Step 2: Uske baad Engagement Letter issue hota hai (formal written agreement).
+Matlab pehle decide karna hai → “Kya yeh client accept karna bhi chahiye ya nahi?”
+🚫 Kab Accept Nahi Karna?
+Management involved in fraud / NAB cases, integrity issues.
+Independence compromised → Auditor independent nahi hai.
+Data unavailable / poor history of cooperation.
+Client ka objective suspicious ho → e.g., sirf naam associate karna chahta hai.
+💡 Engagement letter tabhi likhna hai jab acceptance ki conditions clear ho jayein.
+🔹 Parent Co. vs Subsidiary Case
+Agar parent company bole ke apni subsidiary ka review karao (auditor of parent being asked to do subsidiary review):
+Possible hai ✅
+Lekin dikkat: Subsidiary ke internal controls & records auditor ko directly nahi maloom.
+⚠️ Risk: Understanding of business aur control testing ka base missing hoga.
+Isliye → Accept sirf rational purpose ke liye karo.
+⚖️ Difference: Auditor of FS vs Non-Auditor
+Auditor of FS (e.g. ISRE 2410 situation):
+Already has knowledge of business.
+Controls test kar chuka hota hai.
+Review me inquiries + analytics easier.
+Non-Auditor (ISRE 2400 situation):
+No prior knowledge of ICFR.
+No understanding of accounting system.
+Hence → Extra cautious acceptance.
+✅ Conditions for Acceptance
+Practitioner shall not accept review engagement unless:
+Rational purpose hai.
+Review engagement us purpose ko fulfil karne ke liye appropriate hai.
+📌 Example:
+Bank Loan case → Rational purpose = Loan lena. BUT ❌ Review acceptable nahi (Bank demands audited FS).
+Shareholder/Board request → Rational purpose valid ✅ Review possible.
+🏛️ Link with Company Law
+First Statutory Meeting (after incorporation, before AGM):
+Company ne apna initial performance shareholders ko present karna hota hai.
+Agar statutory audit requirement nahi hai → Company apni interim FS review report submit kar sakti hai.
+🔹 Purpose & Acceptance
+Engagement accept karne se pehle purpose check karna zaroori hai.
+Ye confirm karna ke kya engagement approach (Review Engagement) purpose achieve karne ke liye appropriate hai.
+Old engagements mandatory nahi, purpose clear hona chahiye.
+Kisi bhi engagement ko accept karte waqt ye ensure karo ke auditor ka name associate na ho client ke decisions se.
+🔹 Financial Reporting Framework
+Financial reporting framework engagement ke liye acceptable hona chahiye.
+Agar framework acceptable nahi → engagement accept nahi karna.
+Review Engagement me auditor ki detailed internal control testing nahi hoti, unlike audit.
+Management ki responsibilities:
+Data provide karna
+Inquiries ka response dena
+Internal controls ka disclosure
+🔹 Ethical Requirements
+Independence aur ethical requirements mandatory.
+Agar management ki integrity pe doubt ho → engagement accept nahi karna.
+Scope limitations ko clearly document karna zaruri.
+🔹 Engagement Letter
+Engagement letter me specify karna:
+Review Engagement hai, audit nahi
+Limited scope aur procedures (inquiries + analytical procedures)
+Management ki responsibilities
+Practitioner responsibilities
+Reporting type aur reference standard (ISE 2400)
+ISE 2410 only apply hota hai agar auditor is appointed for half-year review, not general review.
+Engagement letter se expectation gap close hota hai.
+🔹 Acceptance Decision Factors
+Client ka rational purpose clear ho.
+Auditor independent ho.
+Management ki integrity clear ho.
+Financial reporting framework acceptable ho.
+Scope limitations clearly define ho.
+Legal/regulatory compliance meet ho.
+✅ Agar above conditions nahi meet → engagement accept nahi karna.
+🔹 Practical Examples
+Bank loan case → Review Engagement appropriate hai agar purpose loan obtain karna hai.
+Parent-subsidiary scenario → Auditor of parent cannot perform review for subsidiary if not appointed, to avoid name association.
+New company formation → Statutory meetings (pre-AGM) check karte hain ki company ka performance acceptable hai.
+Lecture- 3
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Recap: Review Engagement vs Audit
+Review Engagement = Limited assurance, mainly inquiries + analytical procedures.
+Audit = Detailed procedures, testing, verification.
+Objective difference: Review focuses on high-level checks, audit on detailed compliance.
+💡 Agar review ka scope limited hai → limited assurance provide hoti hai.
+🔹 Purpose Check Before Acceptance
+Engagement accept karne se pehle purpose samajhna zaroori.
+Check karo: Client ka objective kya hai?
+Example: Loan apply karna, statutory requirement, donor compliance.
+Risk: Agar client sirf auditor ka name use kar ke credibility chahta hai → accept na karein.
+✅ Rational purpose samajhna → engagement acceptance ki key condition.
+🔹 Independence & Ethical Considerations
+Independence = Mandatory
+Agar auditor ki independence compromised ho → engagement reject.
+Agar management ki integrity pe doubt ho → engagement accept nahi karna.
+Practitioner ko ethical standards follow karne honge.
+🔹 Financial Reporting Framework
+Framework engagement ke liye acceptable hona chahiye.
+Agar framework acceptable nahi → engagement accept nahi karna.
+Example: Simple small business loan statement vs complex corporate FS.
+🔹 Practical Examples & Scenarios
+Government Agency Loan
+Small business loan from government agency
+Purpose: Regulatory submission, simple calculations → Review Engagement acceptable
+Bank Loan
+Bank demands audited FS → Review not acceptable
+NPO / Donation Compliance
+Purpose: Report donations to regulatory body → Review engagement acceptable
+High-level review of compliance and statement accuracy
+Parent-Subsidiary Case
+Auditor of parent cannot perform review for subsidiary if not appointed
+Reason: Avoid name association, IC knowledge missing
+🔹 Decision Process for Acceptance
+Determine purpose of engagement
+Evaluate rationality of purpose
+Check independence & integrity
+Verify financial reporting framework is acceptable
+Identify any scope limitations
+Confirm legal/regulatory compliance
+✅ Agar above conditions meet → engagement accept ❌ Agar conditions fail → engagement reject
+🔹 High-Level Risk Consideration
+Agar audit risk zyada hai → Detection risk kam hona chahiye.
+Limited procedures (Review Engagement) me detailed testing nahi hota.
+Result: Limited assurance, high-level detection only.
+💡 Matlab: Review Engagement me kam detection hota, sirf analytics aur inquiries pe depend karta hai.
+🔹 Private Company Review Scenario
+Private company pre-incorporation ya newly incorporated.
+Management chahta hai updated FS for review.
+Agar FS highly complex hai → Review engagement may not capture all risks.
+Conclusion: High-risk, complex FS → review may miss material misstatements.
+🔹 ISRE 2400 Applicability
+Agar practitioner not statutory auditor of company:
+No prior knowledge of ICFR.
+Limited review only.
+Cannot detect all errors/misstatements.
+Statutory auditor for half-year review → better control understanding.
+🔹 Control Testing & Risk Assessment
+Control deficiencies se risk ka idea milta hai.
+Example: Salary calculation error → detected via control review.
+Bad debts → may result from weak control (e.g., approval errors, aging issues).
+Limited review cannot test controls, only analytical procedures.
+💡 Matlab: Review engagement me control weaknesses fully detect nahi hote.
+🔹 Understanding Operations & Environment
+Practitioner must understand operations:
+Key operations and applications.
+Regulatory environment and applicable industry standards.
+Economic factors (e.g., exchange rates impact on exports).
+Ye understanding se relevant inquiries design kar sakte hain.
+📌 Example:
+Export company → check for revenue impact due to foreign exchange rate fluctuations.
+Inquiry: “Has drop in sales occurred due to exchange rate changes?”
+Analytical procedure: Link financial data with operations & environment.
+🔹 Designing Inquiries for Review Engagement
+Identify key performance applications from operations understanding.
+Formulate relevant inquiries to verify:
+Performance allocation.
+Revenue recognition.
+Key transactions (exports, imports, loans, etc.).
+Scenario-dependent: One-size-fits-all approach nahi hota.
+💡 Matlab: Analytical and inquiry procedures must be tailored for each entity & situation.
+🔹 Practical Exercise (Example)
+Examiner asks: “Provide 4-5 examples where you use operations understanding to design inquiries for review engagement under ISRE 2400.”
+Step 1: Understand operations and environment.
+Step 2: Identify key performance applications.
+Step 3: Design specific inquiries.
+Step 4: Link findings with analytical procedures.
+✅ Unique scenario, requires logical thinking outside the standard course outline.
+🔹 Risk Assessment in Review Engagement
+Risk Assessment bhi review engagements me hoti hai, jaise audit me hoti hai.
+Practitioner limited procedures perform karta hai (analytical + inquiry).
+Risk identify karne ke liye:
+Observation
+Inspection
+Analytical procedures
+💡 Example: Samsung ne correctly identify kiya, observation aur analytical procedure ke through.
+🔹 Inquiry Form & Shortcut
+Inquiry ko document karne ke liye short-cut/form use karte hain.
+Inquiry ke responses ko systematically record kiya jata hai.
+💡 Example: Export sales me increase, foreign exchange rate neechay → inquiry sahi hai, response record karna.
+🔹 Comparative Analysis
+Sales increase ya decrease ke liye quantitative comparison zaruri hai.
+Documents check karna: Bills of Lading, export documents, quantities.
+Analytical procedure ke through limited assurance milti hai.
+🔹 Operations & Environment Understanding
+Operations aur environment ka understanding lete hain:
+Company ka operations ka nature
+Export, production, technology use
+Regulatory framework, industry aspects
+Inquiry target: Implementation, performance indicators, technological updates.
+💡 Example: Payment testing → target inquiries on input, process, and future influence.
+🔹 Implementation Testing & Inquiry
+Inquiry target questions:
+Are you aware of any implementation indicators?
+How do you perform payment testing?
+What inputs and calculations are used?
+Practical example: Plant with fire incident → new technology implemented.
+Inquiry shows if implementation testing is done properly.
+🔹 Going Concern Assessment
+Cash flow/Working capital ka understanding limited assurance me assess karte hain.
+Future plans included: allowable in review engagement.
+Cash losses, projections, and business plan ke base pe going concern assessment.
+💡 Example: Provided cash losses used for going concern check.
+Historical cash data aur future projections use kar ke rational conclusion.
+Inquiry aur analytical procedures combined to validate assessment.
+1. Going Concern Assessment:
+Assessment period: 12 months.
+Focus on cash flows, loan obligations, and negative net positions.
+Evaluate management plans for covering deficits (e.g., parent loans, future inflows).
+Important to distinguish between actual cash position and future projections.
+Apply stress testing to cash flows, net position, and debt servicing.
+Use analytical procedures to link cash losses to potential going concern risks.
+Key insight: Future business plans are considered only if they are realistic and supported by evidence.
+2. Audit Inquiry Process:
+Targeted inquiries help identify misstatements or high-risk areas.
+Conduct inquiries based on operations understanding and environment factors.
+Focus on unusual or abnormal transactions.
+Verify responses using available documentation and analytical procedures.
+Track significant events and changes in business operations (e.g., new products, branches, technology).
+Minutes of meetings, management communications, and financial projections are key sources.
+3. Analytical Procedures:
+Compare current period data with prior period for trend analysis.
+Evaluate impact of foreign exchange fluctuations on export sales.
+Cross-check cash flows, loans, and liabilities for consistency.
+Use ratios, net positions, and expected vs. actual outcomes to identify anomalies.
+Apply element-wise and experience-based calculations for precise evaluation.
+4. Related Party Transactions:
+Identify all related parties and their transactions.
+Focus on unusual, non-standard, or outside-the-normal-course-of-business transactions.
+Verify completeness and consistency of related party listings.
+Compare opening balances with current year to identify anomalies.
+Inquiries: Determine responsible personnel and verify the purpose of each transaction.
+5. Linking Understanding to Audit Actions:
+Operations understanding → design inquiries → perform analytical procedures → limited assurance.
+Understand management controls and their design to assess potential risk areas.
+Significant events and conditions are evaluated for their impact on going concern.
+Document all observations and link them to specific audit conclusions.
+Lecture- 4
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Practical Considerations in Review Engagement
+Engagement start: quick assessment & response ki importance.
+Practitioner ko inquiries aur analytical procedures design karni hoti hai situation ke mutabiq.
+Procedures globally standard nahi hoti, har situation ke liye tailored approach chahiye.
+💡 Example: Multiple scenarios diye ja sakte hain practical application test karne ke liye.
+🔹 Inquiry & Analytical Design
+Pehle operations samjho, phir inquiry design karo.
+Analytical procedures depend karti hain operations, environment aur transaction nature par.
+Hamesha going concern perspective mind me rakho, review engagement me bhi.
+📌 Example: 6-month review me next 12 months ke liye going concern consider karo.
+🔹 Reporting Considerations
+Report send/sign karte waqt:
+Company ko going concern declare karo ya nahi.
+Agar zarurat ho to material insert related to going concern include karo.
+Review reports me material insert paragraph usually available nahi hota; EUM ya disclosure statements use karo.
+💡 Basic difference: Audit vs Review reporting – paragraphs, procedures aur assurance levels alag hote hain.
+🔹 Use of Experts in Review Engagement
+Management expert appoint kar sakti hai specific valuation ya computation ke liye.
+Practitioner ka role:
+Expert ka kaam samajhna
+Inquiry aur review karna
+Practitioner ko basic knowledge honi chahiye expert ke field me, taake relevant questions pooch sake.
+💡 Example: Expert appointed for 200 investment properties valuation.
+Practitioner expert se report aur supporting evidence lete hain.
+Practitioner review aur inquiry karta hai, direct valuation nahi karta.
+🔹 Practical Use of Experts & Valuation
+Practitioner expert ko appoint kar sakta hai valuation ya calculations ke liye.
+Expert report aur evidence provide karta hai, practitioner usko review karta hai.
+Practitioner ko samajhna chahiye ke limited assurance purposes ke liye expert kaise appoint karna hai.
+Management specific task ke liye expert hire kar sakta hai; practitioner valuation dobara nahi karta.
+💡 Example: 200 properties ki real estate valuation.
+Practitioner expert ka kaam review karta hai.
+Agar regulator audit question kare to practitioner explain karta hai limited assurance aur expert appointment.
+🔹 Limited Assurance & Reporting
+Practitioner full assurance nahi de sakta agar sirf limited work hua ho.
+Responsibilities engagement letter me clearly document honi chahiye.
+Practitioner ensure karta hai ke financial reporting framework follow ho raha hai.
+💡 Example: Practitioner document karta hai ke management ne complete information di aur relevant suspicions report kiye gaye.
+Limited assurance engagements inquiry aur analytical review pe depend karte hain, detailed valuation pe nahi.
+🔹 Prepaid Expenses & Trace
+Prepaid = future period ke liye advance payment.
+Payments trace karo through bank statements, recalculation as necessary.
+Example: 180 properties ke prepaid tax, total 205 properties me se sirf part review hua.
+📌 Entries:
+Debit: Expense
+Credit: Prepaid
+Recalculate kar ke correct allocation ensure karo.
+Practitioner understanding link karta hai review procedures se.
+Sampling use ho sakti hai due to time limitations.
+🔹 Management Meetings & Legal Claims
+Legal/financial claims management ke saath discuss karo.
+Example: Properties as gift from government, check tax applicability.
+Practitioner ensure karta hai ke claims properly document huye aur responsibility assign hui.
+Meetings me finance aur legal team bhi hoti hai, practitioner aur assistant ke saath.
+🔹 Review Engagement – Practical Walkthrough
+Jab mistakes pakdi jaati hain, purpose ye hota hai ki practical understanding develop ho.
+Practitioner ka goal show-off nahi, balki professional judgment aur evidence collection.
+Work instructions clearly communicate karna zaroori hai, jaise property name, area, jurisdiction, regulatory elements note karna.
+💡 Example: 3,265 properties review karna aur check karna ki tax apply hua ya nahi.
+🔹 Client Interaction & Evidence
+Scope aur limitations client ko clearly explain karna.
+Missing information identify karna aur scope limitation pe highlight karna.
+Practitioner ensures proper supporting evidence collected from client before concluding.
+💡 Example: Karachi ke different areas (Clifton, DHA, Saddar) properties verify karna aur tax records check karna.
+🔹 Retention & Representation
+Practitioner can obtain retained representations from client for evidence.
+Purpose: Evidence ka documentation aur confirmation that client ne saari information provide ki hai.
+Representation ensures accountability aur risk mitigation.
+💡 Note: Client representation ko evidence ke liye use kar sakte hain, but documentation proper hona chahiye.
+🔹 Review vs Audit – Opinion Section
+Audit report mein opinion deta hai; review report mein conclusion based on evidence.
+Key focus areas:
+Accounting errors
+Disclosure issues
+Classification matters
+Materiality consider karte hue conclusion draw ki jaati hai.
+💡 Example: Misstatement aur scope limitations ko identify karke report mein highlight karna.
+🔹 Drafting & Reporting
+Practitioner drafts report section-wise based on collected evidence.
+Report includes:
+Management responsibilities
+Basis for conclusion
+Evidence supporting conclusion
+Drafting ensures consistency aur professional presentation.
+💡 Example: Opinion section draft karna based on review evidence; clearly distinguish audit vs review report sections.
+🔹 Review Engagement Responsibilities
+Management responsibility: Financial statements bananay ka aur framework apply karna.
+Practitioner responsibility: Review aur inquiry karna without full audit.
+Internal control ka test practitioner ke liye optional, focus material misstatements aur risk assessment par.
+💡 Example: Agar management ne internal control prepare kiya hai, practitioner usko test nahi karta, bas understanding aur review karta hai.
+🔹 Property Valuation & Prepaid Expenses
+Properties ka valuation aur tax assessment crucial hai.
+Prepaid expenses (PP): Advance payments ko correctly debit aur credit entries me record karna.
+📌 Example:
+Agar future liability 120 aur prepaid amount 100 hai → 100 debit, 20 negative adjustment aur liability credit.
+Practitioner review karta hai, calculation ya capitalization errors check karta hai.
+🔹 Adjustments & Financial Reporting
+Present value adjustments: Future liabilities ka present value calculate karna.
+CWIP (Construction Work in Progress) ka recording aur adjustment correct hona chahiye.
+Errors in capitalization or depreciation corrected through proper journal entries.
+💡 Example: Agar gross 120 aur net 100 required hai → debit aur credit entries adjust karke net value record karni.
+🔹 Drafting & Reporting
+Review report me opinion nahi hota, sirf conclusions based on evidence.
+Practitioner ensures supporting evidence complete hai.
+Material misstatements ya scope limitations report me note kiye jaate hain.
+💡 Example: Agar property tax disclosure missing hai → scope limitation ya representation note ki jati hai.

@@ -1,0 +1,557 @@
+Lecture- 1
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Main Concept:
+Topic: Selection Techniques in Audit
+Aim: auditor ko guide krna ke kaun se method use krna for sampling & selection taki misstatements detect ki ja saken.
+🔹 Discussion Start:
+Pension ka case → conclusion ye nikla ke public information hai aur management ko properly record krna chahiye.
+Auditor ki responsibility: har condition ko evaluate karna + professional skepticism apply krna.
+🔹 Selection Techniques Overview:
+Selection ka concept har jagah audit me use hota hai:
+Receivables → confirmations bhejni.
+Sales → transactions select krna.
+Fixed Assets → existence verify krna.
+Ye chapter auditor ko 10 selection techniques sikhata hai.
+Important Point: chapter sirf idea deta hai → actual method depend karega situation per.
+👉 Line yaad rakhni hai: “Application situation to situation change hoti hai.”
+🔹 Practical Example (Bank Loan Book)
+Ek bank ka loan book audit ho raha tha.
+Books me saare loans performing show kiye gaye (koi overdue nahi).
+Auditor ko suspicion hua → business knowledge se farmers loans usually default karte hain.
+Auditor ne kya kiya?
+Pura loan book 2019 se uthaya.
+Sampling nahi ki → full population test apply kiya.
+Finding: kuch loans actually Non-Performing Loans (NPLs) thay but performings show kiye gaye.
+🔹 Concept Highlight (NPL)
+Non-Performing Loan (NPL): aisa loan jo borrower wapis time pe repay nahi karta.
+Banks kabhi kabhi NPLs ko performing dikhate hain taki provisioning zyada na lage.
+🔹 Key Learning:
+Auditor ko apni business understanding + professional judgment use krni chahiye.
+Agar suspicion ho → normal sampling ke bajaye full population test karna chahiye.
+Risk: misclassification → material misstatement create karega.
+👉 Example se link: bank loan book case me selection technique auditor ne change ki situation ke hisaab se (from sampling → full population).
+🔹 Practical Example (Loan Book Analysis – Farmers Loans)
+Auditor ne client se 2019–2024 ki loan books mangwai.
+Excel aur unique Loan ID (Customer ID) use karke data track kiya year to year.
+Observation:
+Same Loan ID multiple saalon me chal rahi thi.
+Farmers loans usually max 2 saal ke liye diye jate hain, lekin yahan 5 saal tak extend ho rahe the.
+Maturity Dates bar bar change ho rahi thi (2019 me maturity 2021, phir 2023, phir 2025, hatta ke 2028).
+Finding: management loans ki maturity dates artificially change karke NPL ko performing dikhati thi.
+Result: ek 6 billion ka loan mila jisme provision book nahi hua tha.
+👉 Ye fraud auditor ne 100% population testing se pakra, kyunki high risk tha + CAATs ka use karke cost effective tha.
+🔹 100% Selection Kab?
+High Risk Area → fraud ya misstatement ka chance zyada ho.
+Cost-Effective via CAATs → jab software tools available ho aur pura data analyze karna easy ho.
+Small Number of Large Values → jaise receivables me kuch hi customers 60% balance hold karte hain.
+👉 Example: agar receivables population me 500 customers hain, aur top 50 customers 60% hold karte hain → un sab pe 100% confirmation bhejna justified hai.
+🔹 Specific Selection (Apart from 100%)
+Kabhi auditor specific items select karta hai jo unusual ya high risk lagte hain:
+Items above certain value (e.g., invoices above threshold).
+Items showing special characteristics (e.g., unusual debit balances in sales ledger).
+Transactions near year-end (cut-off testing).
+👉 Example: Sales ledger me agar normally credit balances hain, lekin kuch debit balances mile, to unko specifically select karna hoga.
+Lecture- 2
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Recap from Last Class:
+Last class me auditor ko selection techniques sikhayi gayi thi.
+Sabse pehle check karna hota hai: 100% selection possible hai ya nahi?
+Small number of large values ho → 100% selection.
+Agar cost-effective ho via CAATs → 100% selection.
+Agar high risk ho → 100% selection.
+Lekin har jagah 100% check practical nahi hota (e.g., PTCL revenue – automation bohot zyada → high risk hote hue bhi sampling karna padta hai, lekin bada sample size).
+🔹 Specific Selection (Recap + Detail):
+Auditor kabhi kabhi specific items uthata hai unusual ya risky hone ki wajah se:
+Sales ledger normally credit balances hoti hain, lekin debit balances aaye → specifically select karne hain.
+Fixed asset register me negative items / unusual balances → specifically check karne hain.
+Period-end ke kareeb wali transactions (cut-off testing) → specifically select karne hain.
+👉 Ye sab specific selection ke examples hain.
+🔹 Untested Population:
+Jo items 100% check nahi hue aur jo specifically select nahi hue, wo bachi population kehlati hai = Untested Population.
+Untested population par auditor sampling apply karta hai.
+🔹 Link with Audit Risk:
+Audit ke shuru me auditor audit risk model samajhta hai:
+Audit Risk = Inherent Risk × Control Risk × Detection Risk
+Understanding phase me auditor ko entity aur uske environment ki knowledge leni padti hai.
+Ye knowledge help karti hai inherent risks identify karne me.
+🔹 Inherent Risk (IR):
+Definition: aise risks jo entity ke nature, industry, ya balances ki wajah se naturally exist karte hain.
+Examples:
+Pharmaceutical company: Inventory ka NRV risk high hota hai (expiry issue → inherent risk).
+Bank: Cash balances branch locations pe scattered hote hain → misappropriation ka risk = inherent risk.
+PTCL: Pension note ka risk → disclosure me misstatement ka chance (nature of disclosure → inherent risk).
+👉 Inherent risk ka matlab hai “ye risk exist karega chahe controls ho ya na ho.”
+🔹 Audit Risk Understanding via Examples:
+Industry-based IR → Pharma industry me inventory NRV risk.
+Nature of Balance IR → PTCL ka pension disclosure, ya static balances jo doubtful lagte hain.
+Nature of Operations IR → Bank me cash handling ka risk.
+Going Concern IR → Agar company losses aur borrowings me phase hui ho, to going concern ka disclosure high risk area ban jata hai.
+🔹 Detection Risk (DR):
+DR = chance ke auditor misstatement detect na kar paaye.
+Agar Audit Risk zyada ho jata hai (IR high + Controls weak), to auditor ko apna Detection Risk kam karna parta hai.
+Matlab: auditor ko zyada kaam karna hoga (sample size barhao, procedures strengthen karo).
+👉 Example: Inventory ka NRV Loss.
+NRV Loss inherent risk hai.
+Agar is par koi control nahi hai → Audit Risk high.
+Result: Auditor ka DR kam hona chahiye → zyada testing karo.
+🔹 Detection Risk Manage Karne ke Do Tools:
+Sampling Risk Control
+Risk ke sample me galat item miss ho jaye.
+Mitigate by:
+Sample size increase karna.
+Population ko stratify karna (sub-populations bana lena).
+Example: Inventory aging report me “slow moving items” alag karna.
+Non-Sampling Risk Control
+Jab sample me item aa jaye lekin auditor phir bhi error detect na kare.
+Mitigate by:
+Proper supervision.
+Experienced staff ka use.
+Scepticism maintain karna.
+Example: Farmers loan case – auditor ko client ki justification blindly accept nahi karni.
+🔹 Stratification Example:
+Flood-affected inventory ko alag population treat karna.
+Pure Pakistan ke warehouses audit karne ke bajaye → flood-hit areas specifically stratify karke test karo.
+Is se error detect karne ka chance barhta hai (DR kam hota hai).
+Lecture- 3
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Recap & Link:
+Last class me humne Audit Risk Model discuss kiya tha:
+Audit Risk = IR × CR × DR.
+Ab focus shift hua hai → Detection Risk (DR) ke components aur sampling application.
+🔹 Detection Risk Breakdown:
+DR ke 2 main components:
+Sampling Risk
+Non-Sampling Risk
+Auditor ka kaam: dono risks ko control karna → taake misstatement detect na hone ka chance kam ho jaye.
+🔹 Sampling Risk:
+Sampling risk = jab sample population ko properly represent nahi karta.
+Example:
+Expenses ledger 17,14,000 ka hai.
+Auditor ne 60,000 ka sample select kiya.
+Usme ek invoice 10,250 ki galat nikli (wrong period booked).
+Error rate = 10,250 / 1,21,000 (sample base) ≈ 8.4%.
+Projected to population → ≈ 1,44,895 ki galti ho sakti hai.
+Materiality threshold 1 million hai → yeh error abhi material nahi, lekin agar aur errors mil jayein to ho sakti hai.
+👉 Learning: sampling ka result population par project karna hota hai.
+🔹 Non-Sampling Risk:
+Non-sampling risk = jab auditor ko error mil jata hai sample me lekin wo detect nahi kar pata ya ignore kar deta hai.
+Example:
+Agriculture loan rollover case.
+Client bola “humne loan roll-over kiya hai” → auditor ne blindly accept kar liya.
+Actually wo maturity change karke fraud kar rahe the.
+Error auditor ke saamne tha, lekin detect nahi hua = non-sampling risk.
+👉 Isko mitigate karne ke liye:
+Experienced staff use karo.
+Proper supervision do.
+Professional scepticism apply karo.
+🔹 Stratification in Sampling:
+Population ko homogeneous sub-groups me todna.
+Taake auditor ko representative aur clear picture mile.
+Stratification bases:
+Region-wise (e.g., Punjab vs Sindh).
+Customer class-wise (wholesaler vs retailer).
+Time-period wise (month-wise sales).
+👉 Example: Receivables ko stratify karna based on customer type → wholesalers separately, retailers separately.
+🔹 Homogeneity Concept:
+Sample tabhi reliable hai jab population homogeneous ho.
+Example:
+Sales aur Sales Returns ko same population me include karna galat hoga.
+Kyunki dono ka nature alag hai → population homogeneous nahi.
+🔹 Sampling Error Projection Case:
+Example me auditor ne expenses ledger ka ek sample check kiya.
+Sample me galti detect hui aur phir usko project kiya population par.
+Auditor ka kaam: project karna taake samajh aaye total misstatement kitni ho sakti hai.
+👉 Case 1:
+Ek invoice me error tha = 10,250.
+Sample base ≈ 1,21,000 → error rate ≈ 8.4%.
+Projected error ≈ 1,44,895.
+Materiality = 1 million.
+Result: Error material nahi → opinion unmodified rehta.
+👉 Case 2:
+Agar aur invoices galat hoti (e.g., 2–3 aur detect hoti).
+Sample base barhta aur error % bhi barhta.
+Projected misstatement ≈ 8,96,434 aa sakti thi.
+Ab yeh materiality 5 lakh se upar chali gayi.
+Result: Auditor ko apni audit strategy change karni parti.
+🔹 Learning from Case:
+Agar sampling galat ki gayi (jaise block sampling) → representative picture nahi milti.
+Risk: auditor ka opinion inappropriate ho jata.
+Correct approach = Random Selection (not block).
+Agar projected misstatement materiality se exceed kar jaye → auditor ko:
+Sample size barhana hoga.
+Extended testing karni hogi.
+Audit strategy revise karni hogi.
+🔹 Block Sampling vs Random Sampling:
+Block Sampling = ek sequence ya continuous block of invoices select karna → risk high hai ke population represent na ho.
+Random Sampling = har item ko equal chance dena → zyada reliable.
+👉 Exam me likhna: Auditor ne block sampling use ki jo inappropriate thi, correct method random selection tha.
+🔁 Don’t mix stages (Planning vs Evaluation)
+Planning time: IR × CR dekh kar DR target set hota hai → isi se initial sample size decide hota hai (zyada risk ⇒ bada sample, stratification, CAATs, etc.).
+Evaluation time: Testing ke baad jo misstatements milti hain unko aggregate + project karke performance materiality (PM) / tolerable misstatement se compare karte hain.
+TL;DR: Pehle se bada sample rakhna IR/CR ki wajah se hota hai; baad me agar projected misstatement PM se upar nikal jaye to extended work karna padta hai.
+📈 Jab Projected Misstatement > Performance Materiality
+Extended procedures:
+Sample size increase karo (same stratum par jahan se error nikla).
+Stratify / re‑stratify: high‑risk buckets (e.g., slow‑moving, flood‑hit region, old aging) alag karke targeted testing.
+Actual misstatements (jo sample/specific se mili) + Projected misstatement ko aggregate karo.
+Management se adjustments demand karo.
+Agar adjust nahi karte aur aggregate > materiality:
+Modify opinion (material/pervasive logic ke mutabiq). Scope limitation nahi—ye misstatement case hai.
+✅ Jab Projected Misstatement ≤ Performance Materiality
+Phir bhi identified errors management se correct karwao taake projection aur niche aa jaye.
+Extra testing ki zarurat nahi, agar risk indicators stable hain.
+🎯 Kya Project Karna Hai (and kya nahi)
+Project only:
+Jo homogeneous stratum me sampling se nikla error (e.g., Stationery expense ledger ka sampled bucket).
+Project nahi:
+Specific selection / 100% tested items (e.g., items > PM, unusual debits in sales ledger, period‑end cut‑off items). Inki misstatements actual ke tor par direct add hoti hain, project nahi hoti.
+📌 Kahaan Sample Badhao?
+Ussi remaining stratum me jahan se projection upar gaya hai (“below‑PM remainder”).
+Jo items pehle se 100% check ho chuke (above PM / specific characteristics) — unpar sample nahi badhate; wo already covered hain.
+🧭 Workflow (Cheat‑Sheet)
+Set thresholds: Overall materiality → Performance Materiality (PM) → account‑level tolerable misstatement.
+Specific selection:
+Items > PM or special characteristics (debit balances in sales, negative/abnormal items, period‑end cut‑off) → 100% test.
+Define untested population (homogeneous remainder) → sample (random/systematic/stratified).
+Compute:
+Error rate = (misstatement in sample) / (sample amount).
+Projected misstatement = error rate × population amount (of that stratum).
+Total likely misstatement = projected + actual (specific/100% items) − adjustments accepted by management.
+Compare with PM / tolerable; if > PM → extend work + ask adjustments; else conclude.
+Final aggregation vs Overall Materiality for opinion.
+🔑 Core Concepts:
+Sample Size & Errors
+Jab sample size barhaya, errors nikal aayi → iska matlab sampling se issues trace huwe.
+Agar errors correct kar liye gaye → kahani wahan khatam ho jati hai ✅
+Agar errors correct nahi huwe → phir aur test karna hoga (increase sampling / extend procedures).
+Performance Materiality vs. Materiality Threshold
+Performance Materiality (PM) = materiality se neeche ek buffer line.
+Agar error PM ke neeche hai → immaterial.
+Agar error PM se upar hai → ye important ban jata hai aur Summary of Uncorrected Misstatement me jata hai.
+Projection of Errors (Sample → Population)
+Sample me errors milay → unko project karke pura population ka estimate banta hai.
+Projection sirf homogeneous items par hoti hai.
+Agar projected error bhi materiality threshold se neeche hai → kuch further kaam nahi karna.
+Agar projected error materiality se upar hai → auditor modify opinion / further test karega.
+Types of Misstatements to Consider
+Actual misstatements → jo 100% tested items me directly mile.
+Projected misstatements → sample errors ko project karke population ka estimate.
+Summary of Uncorrected Misstatements (SUOM) = Actual + Projected misstatements.
+Auditor’s Conclusion
+Agar SUOM < Materiality → Opinion = Unmodified
+Agar SUOM ≥ Materiality → Opinion = Qualified/Modified
+Auditor management ko sabhi misstatements (material & immaterial) correct karne ke liye bolega. Lekin agar management refuse kare → conclusion materiality ke comparison se hoga.
+Lecture- 4
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Entry Point (Link from Previous Lecture)
+Pichli class me humne sampling error projection discuss kiya tha.
+Ab focus: Jab misstatement sample me mile aur uska nature samajhna (systematic vs isolated).
+🔹 Management Correction vs Projection
+Auditor ne sample test kiya → error mila.
+Scenario 1: Agar management ne wo specific error correct kar diya (e.g., ek invoice misbooked thi, rectify kar di).
+Tab us error ko project karne ki zarurat nahi. ✅
+Scenario 2: Agar error ek system issue ki wajah se hua (e.g., 4 din ka booking system faulty tha).
+Tab auditor ko further test karna hoga, taake confirm ho jaye ke baaki dinon me bhi same error nahi hua.
+👉 Key: Agar error isolated hai → no projection. Agar error systematic hai → projection / further testing.
+🔹 Example: Salary Tax Deduction
+Population: Tax withheld by system from employees’ salaries (not salaries themselves!).
+Auditor ka objective: Verify kiya system ne correct tax deduct kiya ya nahi.
+Sampling me 4 employees ke tax check kiye → 2 me error tha.
+Case 1:
+Error March & April ke months me tha (jab tax officer leave pe tha).
+Auditor ne verify kiya ke ye sirf 2 months ke liye issue tha.
+Further testing ne confirm kiya → baaki months correct the.
+Result: Projection ki zarurat nahi, sirf March–April errors record kar liye.
+Case 2:
+Agar system error poori saal me consistently hota → to auditor us error ko population par project karta.
+🔹 Performance Materiality vs Actual Errors
+Auditor hamesha errors ko Summarize of Uncorrected Misstatements (SUOM) me daalta hai.
+Chahe error PM se neeche ho, phir bhi note kiya jata hai (documenting requirement).
+Lekin opinion par effect tab hoga jab Aggregate (Actual + Projected) > Materiality.
+🔹 Workflow Recap (for Projection Decision)
+Error mila sample me → pehle dekho ye isolated hai ya systemic.
+Isolated → management correct kare, aur projection ki zarurat nahi.
+Systemic / recurring → projection karo, aur agar projected error > PM → extra testing karo.
+Aggregate actual + projected → SUOM me add karo.
+Compare vs Materiality → opinion decide karo.
+🔹 Sampling Projection vs Management Justification
+Jab auditor sample se error detect karta hai → usko population par project karta hai.
+Lekin agar management justification provide kare (e.g., “yeh error sirf 2 mahine ki anomaly hai”) → auditor ko validate karna hota hai:
+Agar justification valid hai → projection reduce ho sakta hai.
+Agar justification invalid hai → projection as it is population par apply hoga.
+👉 Example: Auditor ne 2 invoices galat payin. Management bola: “Ye sirf flood ke 2 mahine ka effect hai.” Auditor verify karega:
+Valid justification → sirf us 2 month bucket par error project hoga.
+Invalid justification → poore stratum / population par projection apply hoga.
+🔹 Auditor’s Evidence Flow
+Sample test karo → error detect hua.
+Management explanation lo.
+Explanation validate karo:
+Agar valid hai → misstatement restricted rahegi.
+Agar valid nahi hai → error ko project karke population ka estimate banao.
+👉 Har case me auditor sufficient appropriate audit evidence (SAAE) collect karta hai.
+🔹 Population vs Sample Treatment
+Jab auditor 100% population test karta hai → projection ki zarurat nahi.
+Jab auditor sample test karta hai → projection mandatory hai (unless management ne valid justification de di ho).
+🔹 Extended Procedures Scenario
+Agar management justification valid nahi hoti → auditor kya karega?
+Errors ko project karega.
+Aggregate karega with other actual + projected misstatements.
+Compare karega Performance Materiality (PM) se.
+Agar exceed karta hai → aur testing (sample size barhaye, re-stratification, targeted testing) karega.
+👉 Agar management correction kar deti hai:
+Auditor wapas se ledger re-check karega.
+Purane detected errors ko verify karega.
+Fir naya sample select karke check karega.
+Agar phir errors nahi milti → conclude karega ki misstatements corrected hain.
+🔹 Integrity Doubts
+Agar management bar-bar galat justification deta hai ya corrections reliable nahi lagte:
+Auditor ke liye integrity doubt create hota hai.
+Result: Auditor apni testing aur strict karega.
+Agar doubt severe hai → opinion modification tak ja sakta hai.
+🔹 Core Theme
+Auditor ka kaam hai: Sample test → Error detect → Project → Evaluate with Management Explanation.
+Key Question: “Summary of Uncorrected Misstatements (SUOM) mein kya le kar jaoge?”
+Answer: Actual misstatements + Projected misstatements (unless 100% testing ho).
+🔹 Sample Error & Projection
+Sample error detect hota hai → population par project karna mandatory hai.
+Exception: Jab 100% population check hoti hai → projection ki zarurat nahi hoti (sirf actual misstatement record hota hai).
+👉 Example:
+Sample error = 41.
+Population size = large (say 666k).
+Projection = (Sample error ÷ Sample size) × Population size.
+Resulting projected misstatement add hota hai SUOM mein.
+🔹 Management Correction & Projection
+Agar management errors correct kar deti hai → auditor re-check karega.
+Agar re-check ke baad sab sahi nikla → SUOM mein include nahi hoga.
+Agar correction valid nahi hui → auditor projected misstatement include karega.
+👉 Rule:
+Corrected misstatement → SUOM mein nahi jata.
+Uncorrected misstatement (actual + projected) → SUOM mein jata hai.
+🔹 Sampling in Different Tests
+Sampling hoti hai:
+Test of Controls (TOC) → e.g., New customer ki credit limit set hui ya nahi?
+Test of Details (TOD) → e.g., Confirmations bhejna for balances.
+👉 Example:
+TOC: New customer onboarding par credit limit approval check karna.
+Population: New customers onboarded during the year.
+TOD: Debtor confirmations.
+Population: Receivables listing (AR balance schedule).
+🔹 Purpose & Population
+Purpose (Objective): Define karo pehle – TOC or TOD?
+Population: Wo dataset jahan se sample uthana hai.
+Agar population galat select hui → pura sample aur projection galat hoga → audit opinion wrong ho sakta hai.
+Lecture- 5
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+🔹 Core Issue in the Question
+Scenario me auditor ne 25 write-off cases select kiye aur unpe procedures perform kiye (board approval, correspondence check, etc.).
+Lekin yeh approach galat population se sample uthana tha.
+👉 Reason:
+Write-off ho chuke balances to already books se eliminate ho gaye.
+Auditor ka actual objective tha: standing receivables (jo abhi tak recover hone hain) par impairment / provision ki need ko assess karna.
+🔹 Correct Population
+Galat population: Already written-off balances.
+Sahi population: Debtors ledger / AR balance listing (jo balance sheet date par outstanding hai).
+👉 Focus hona chahiye remaining receivables par, kyunki risk yeh hai ke unme se kuch recoverable nahi hain.
+🔹 Correct Audit Procedures
+Aging Analysis
+Outstanding balances ko aging buckets me divide karo (0–30 days, 31–60, 61–90, 90+).
+Jitna purana debt, utna higher risk of non-recovery.
+Subsequent Receipts Testing
+Balance sheet date ke baad (subsequent period) me cash collections check karo.
+Agar debtor ne paisa pay kar diya → receivable recoverable hai.
+Agar nahi pay kiya → impairment ka risk.
+External Confirmations
+Selected debtors ko balance confirmations bhejo.
+Positive confirmations se valuation aur existence dono assess hote hain.
+Financial Condition Review
+Major doubtful receivables ke liye debtor ki financial health assess karo.
+Indicators: bankruptcy filings, liquidity position, payment history.
+🔹 What NOT to Do
+Already written-off balances par testing → sirf authorization/approval check ke liye relevant hota hai, provision assessment ke liye nahi.
+Prior year comparison → valuation test nahi hai, completeness ke liye hota hai.
+🔹 Sampling ka Standardized Design Steps
+Define Purpose (Objective)
+Kya test karna hai? → Test of Controls (TOC) ya Test of Details (TOD).
+Example:
+TOC → Credit approval system functioning?
+TOD → Receivable balances existence/valuation?
+Identify Population
+Purpose ke according relevant population select karo.
+Agar purpose ≠ population → poora sample flawed.
+Define Deviation (TOC) or Misstatement (TOD)
+TOC me deviation = control jaisa design hua tha waise perform nahi hua.
+TOD me misstatement = recorded amount ≠ correct amount.
+Determine Sample Size & Method
+Risk, materiality aur tolerable error dekh kar.
+Random, systematic, stratified methods.
+Perform Testing & Evaluate
+Sample execute karo.
+Errors → project to population.
+Aggregate & Conclude
+Actual + Projected errors → SUOM.
+Compare vs Materiality.
+🔹 Key Distinction
+Control Deficiency: Jab design hi flawed hai → control apne objective achieve nahi kar sakta.
+Control Deviation: Design sahi hai, lekin operation me galti hui.
+👉 Example:
+Sales order me credit approval hona chahiye tha, lekin design hi missing hai → Deficiency.
+Credit approval design tha, lekin ek instance me perform nahi hua → Deviation.
+1. Control Deviation vs Control Deficiency
+Control Deficiency → arises from Design Weakness (control not designed properly for its purpose).
+Control Deviation → arises from Operating Ineffectiveness (control designed properly, but not performed as intended).
+✅ Conclusion:
+If design wrong → deficiency (no point in TOC).
+If operating wrong → deviation (measured through sample testing).
+2. Linking with Misstatements (Analogy)
+Misstatement (amount errors) → compared with Materiality.
+Control Deviations (control errors) → compared with Tolerable Rate of Deviation (TRD).
+So, just like misstatements > materiality → FS materially misstated, control deviations > TRD → control not reliable.
+3. Tolerable Rate of Deviation (TRD)
+Defined: Maximum % of deviations auditor can accept before concluding that control is not operating effectively.
+Key Principle:
+Higher risk area → lower TRD (auditor less tolerant).
+Lower risk area → higher TRD acceptable.
+4. Example Case – Credit Approval
+Population: 50 new customers.
+Sample selected: 20 customers.
+Procedure: Check whether credit limit approved.
+Result:
+Out of 20, 1 deviation found (no approval).
+Deviation rate = 1/20 = 5%.
+Assumption:
+TRD = 10%.
+Comparison:
+Actual deviation rate (5%) < TRD (10%).
+✅ Conclusion: Control is operating effectively (within tolerable range).
+1. TRD (Tolerable Rate of Deviation) & Risk Link
+Higher risk → TRD lower (kam deviation allow hogi)
+Lower risk → TRD higher (zyada deviation allow hogi)
+🔑 Formula-type thinking:
+If Deviation % ≤ TRD → Controls operating effectively → Reliance possible.
+If Deviation % > TRD → Controls not operating effectively → No reliance → Substantive testing ↑.
+2. Risk Equation (Mind Map)
+Inherent Risk (IR) → Pehle assess hota hai (without controls)
+Control Risk (CR) → Depends on design + operating effectiveness
+Audit Risk (AR) = IR × CR × Detection Risk (DR)
+If Controls fail (high CR) → DR ko kam karna padega → More work, bigger sample.
+3. Misstatement vs Deviation Recap
+4. Worked Example (Credit Approval – Recap + Projection)
+Population: 50 new customers
+Sample: 20
+Deviations found: 1
+Sample Deviation Rate = 1/20 = 5%
+Projected Deviation to population = 5% × 50 = 2.5 ≈ 5% (since count-based)
+TRD set = 10%
+Result: 5% < 10% → Reliance possible on control.
+Lecture- 6
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+📌 Concept Breakdown
+Projection in DOC (Deviation Observation Check):
+Jab deviation Google rate se exceed kar jaye → phir projection nahi karni.
+Focus: check karna hai ke population me deviation tolerable limit se zyada to nahi.
+Terminology Clarity:
+“Misstatement” → used jab test of details perform karte hain.
+“Deviation” → used jab test of controls (TOC) karte hain.
+Agar galat terminology exam me likhi → marks cut.
+Tolerable Rate of Deviation (TRD):
+Depend karta hai control design & effectiveness par.
+Agar deviation % zyada → reliance kam ho jati hai → aur zyada tests of details perform karne padte hain.
+Scenarios & Expected Deviation:
+Large workforce (manual timesheet approval):
+Expected deviation: High ✅
+Tolerance: Low ✅
+Large inventory count (semi-notes system):
+Expected deviation: High → tolerance Low
+Diverse portfolio of assets (new fixed asset tracking system):
+Expected deviation: High (errors possible in new system)
+Tolerance: Low
+Cash transactions with multiple approval levels:
+Good control design → expected deviation Low
+Tolerance: High
+Control Design vs. Inherent Risk:
+Inherent risk high ho sakta hai, lekin agar control design strong hai → expected deviation kam hoti hai.
+Example: multiple approval levels (2 lakh ka check ek banda approve, 5 lakh ka 2 log approve etc.) → design strong → expected deviation kam → tolerance zyada.
+📊 Example Matching Table
+Sampling Basics
+Sampling = selection technique to test a portion of population.
+Types of Sampling:
+Statistical Sampling (uses mathematical techniques, avoids human bias).
+Non-Statistical Sampling (relies on auditor’s judgment, bias possible).
+Statistical Sampling
+Based on mathematical/random techniques.
+No human judgment involved → less bias.
+Example: PTCL invoices (millions of customers → millions of line items). Auditor needs a sample.
+Random Sampling
+Use software (e.g., Excel, EY software) to select invoices randomly.
+Formula: =RANDBETWEEN(1, N) where N = population size.
+Example:
+Population = 1 million invoices.
+Required sample = 250 invoices.
+Random generator selects numbers → invoices picked.
+Ensures objectivity (no bias in which invoice is picked).
+Systematic Sampling
+Population arranged in order (ascending/descending).
+Sample size determined by formula:
+Interval (k) = Population ÷ Sample size
+Select first random starting point, then every k-th item.
+Example:
+Branches = 400
+Required sample = 25
+Interval = 400 ÷ 25 = 16
+If first selected branch = 7 → then 7, 23, 39, 55, … (every 16th branch).
+Non-Statistical Sampling
+Based on auditor’s judgment.
+Risk: human bias.
+Example:
+Auditor selects invoices available at head office only (ignores remote branches).
+Auditor picks northern area branches to “enjoy travel.”
+Error detection risk ↑ because not representative.
+1. Systematic Sampling
+Definition: Selection of samples at regular intervals (fixed gap) after choosing the first random item.
+Formula:
+Sampling Interval = Population Size / Sample Size
+Example: 400 branches ÷ 25 samples = interval of 16
+Process:
+Select first item randomly (e.g., branch no. 7)
+Keep adding interval (16) → 7, 23, 39, 55 … until required samples selected
+Key Point: No human judgment → No bias
+2. Random vs. Systematic Sampling
+Random Sampling:
+Every item has equal chance of being selected.
+Most preferred method (eliminates bias).
+Systematic Sampling:
+Uses fixed gaps → efficient, but some items may never be selected.
+Both are Statistical Sampling Techniques.
+3. Block Sampling
+Definition: Selection of a whole block/sequence of items.
+Use: Mainly for checking sequences (e.g., serial numbers).
+Issue: Risk of bias, because selected block may not represent the whole population.
+Improvement: If first item in block is random, bias reduces.
+4. Statistical Sampling Methods
+Random Sampling
+Systematic Sampling
+Block Sampling
+Haphazard Sampling (non-statistical, bias risk)
+5. Sample Size Determination
+Important Distinction:
+Sampling Technique = How to select samples
+Sample Size = How many samples to select
+Factors affecting Sample Size:
+Tolerable Rate of Deviation (TRD):
+Higher tolerance → Smaller sample
+Lower tolerance → Larger sample
+Expected Rate of Deviation (ERD):
+Higher expectation of errors → Larger sample
+Lower expectation → Smaller sample
+Level of Assurance / Reliance on Controls:
+More reliance → Larger sample size
+Analytical Procedures:
+If analytical results already provide assurance, sample size reduces
+Population Size:
+No direct effect on sample size (depends on risk, not population count)

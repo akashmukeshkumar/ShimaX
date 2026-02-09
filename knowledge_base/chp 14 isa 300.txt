@@ -1,0 +1,125 @@
+Lecture- 1
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Concept Breakdown:
+Planning Importance 📌
+Audit start krny sy pehle planning bohot zaroori hai.
+Planning ka matlab: understand karo Applicable Financial Reporting Framework (FRF).
+Understanding Financial Reporting Framework (FRF):
+Example: Agar PTCL ka audit ho raha hai → check karo IFRS apply hota hai ya koi aur.
+IFRS 16 (Leases), IFRS 10 (Consolidation) jaise standards relevant ho skty hain.
+Agar subsidy hai → IFRS 10 apply hoga.
+Why FRF Understanding is Needed?
+Management kehti hai: “Hum ny FS iss framework ky mutabiq banai.”
+Auditor ko bhi verify krna hota hai ke compliance FRF ky according hui hai ya nahi.
+Regulatory & Industry Specific Requirements:
+Insurance, Banking sector → special formats regulator (SBP, SECP) ny define kiye hoty hain.
+Example: Banking sector me NPL (Non-Performing Loan) regulator requirement hai, IFRS ki nahi.
+Nature of Business:
+Auditor ko business samajhna hoga taaky:
+Performance obligations identify ho sken.
+Example: Ufone → Easy load jab hota hai, cash receive hota hai but performance obligation tabhi settle hoti hai jab balance use hota hai.
+Entry: Cash Dr / Contract Liability Cr (Not Revenue).
+Location of Components:
+Agar company ki branches abroad hain → us country ki currency aur regulatory laws ko samjhna hoga.
+Example: USA branch → transactions USD me, Pakistan reporting PKR me → IAS 21 apply.
+Risk Understanding through Business & Location:
+Branch ki assets/PP&E impairment risk ho skti hai.
+Receivables aur inventories evaluate karni hongi according to local business conditions.
+Concept Breakdown:
+Continuation of Planning (Strategy)
+Location, business segments, FRF, regulatory requirements → sab consider krny hain.
+Ye sab planning phase ka part hai taaky auditor ko samajh ajaye kon kon sy factors affect kr skty hain.
+Effect of Information Technology in Audit ⚡
+High-tech companies (e.g., Ufone): revenue automated system se record hota hai.
+Auditor customer se directly verify nahi kr skta.
+Solution: IT controls testing (ID testing) + involvement of IT specialist.
+Planning stage pe hi decide krna hota hai ke IT expert ki need hogi ya nahi.
+Review Engagement vs Audit Engagement 📊
+Review Engagement (Listed companies – Half yearly):
+Procedures: Inquiry + Analytical Procedures.
+Limited Assurance → “Meri nazar me abhi tak aisa kuch nahi aya jo doubt create kre.”
+Example: Revenue sudden increase → auditor inquiry karega customer base ka.
+Conclusion: “Nothing has come to our attention…”
+Audit Engagement (Annual audit):
+Procedures: Detailed testing, vouching, confirmations, substantive tests.
+Reasonable Assurance → Auditor express opinion: “In my opinion, FS give true & fair view.”
+Difference in Assurance Level
+Limited Assurance (Review): Inquiry aur analytical procedures → zyada deep evidence nahi.
+Reasonable Assurance (Audit): Detailed procedures, sufficient evidence gathered.
+Example: Teacher ne student Mustafa ka rishte wali example → Review = “abhi tak kuch negative nahi dekha”, Audit = “poori investigation ke baad strong opinion.”
+Use of Review Work in Audit
+Review me jo evidence mila (inquiries, observations) → Audit me use ho skta hai.
+Example: Half-yearly review me auditor ny dekha student class me regular hai → annual audit me isko reliance ke tor pe use kr skta hai.
+1. Review Report vs Audit Report
+Review report mein bhi qualified opinion aa sakti hai.
+Typical wording: “Nothing has come to our attention except…”
+Agar issues hain → report mein mention hoga.
+Key Point: Review engagement can also be qualified (though limited procedures).
+2. Use of Prior Year Evidence
+Agar second/third year audit hai → last year ka documentation available hai.
+Controls ka design already documented.
+Auditor should update with client inquiry:
+“Any update in controls?”
+If client says “No update” → auditor should still perform walkthrough.
+Walkthrough = validate that controls are still operating as before.
+3. Strategy & Deadlines
+Deadlines matter: Agar management ki reporting deadline tight hai → auditors ko resources zyada lagani parengi.
+Discuss with Those Charged with Governance (TCWG):
+Risk assessment.
+Fraud inquiry.
+Reporting timeline.
+Governance role = oversight, not management.
+4. Team Discussion & Communication
+Auditor apni engagement team ke saath discussion karta hai:
+Identify risks.
+Share fraud risks, significant risks vs normal risks.
+Going concern assessment.
+Team ko guidelines aur responsibilities clear karna zaroori.
+Materiality aur risks sab ko communicate karni hoti hain.
+5. From Strategy → Detailed Audit Plan
+Strategy banane ke baad auditor banata hai:
+Detailed Audit Plan = specific audit procedures.
+Example: Going concern risk ke liye check karna → management plans, shareholder guarantees, bank facilities.
+Audit plan = “kis risk pe kya kaam karna hai.”
+6. ISA 300 (Planning an Audit of Financial Statements)
+High risk areas → more direction, supervision, and review required.
+Auditor needs to assess whether to rely on IT controls or not.
+Strategy ka ek hissa = yeh decide karna ki controls pe rely karna hai ya direct substantive testing karni hai.
+1. Sources of Evidence (Linkages)
+Client Acceptance Procedures → jo info milti hai, woh audit mein use ho sakti hai.
+Review Procedures → jo info milegi, woh bhi audit mein helpful hai.
+Matlab: Har stage ki learning carry forward hoti hai.
+2. Communication & Timing
+Reporting deadlines client se discuss karni hoti hain.
+Errors/Issues (missing data, hiccups, fraud indicators) → timely communicate karni chahiye, end mein nahi.
+Strategy ka hissa:
+Timing of communication.
+Team meetings ka plan (online ya in-person, kab aur kis nature ki discussions hongi).
+3. Starting Audit Before Year-End
+Agar client ki reporting deadline tight hai (e.g., 15 Feb), toh auditors ko kaam year-end (31 Dec) se pehle shuru kar dena chahiye.
+Example: Start in November.
+Possible pre-year-end tasks:
+Understanding internal controls.
+Risk assessment.
+Reading interim FS.
+Reading Board of Directors’ (BOD) minutes.
+Reviewing internal audit reports.
+4. Interim Procedures
+Auditor 9-month data par kaam karke interim procedures perform kar sakta hai.
+Example:
+Risk assessment using interim financials.
+Analytical procedures (e.g., revenue/expenses trends).
+Control testing for 10 months.
+Logic: Agar 10 months ke controls effective hain → assume last 2 months bhi effective (but need some roll-forward procedures).
+5. Effect on Sampling
+Agar interim procedures se evidence mil gaya hai → sample size reduce ho sakta hai.
+But: Auditor must still cover risks for full year.
+Interim testing helps reduce workload, not eliminate it.
+6. Materiality (Interim vs Final)
+Interim planning ke liye materiality 9M profit se calculate hoti hai, then annualize to 12M.
+At final audit → recalc materiality with actual annual profit.
+Cases:
+If final profit ≈ planned profit → no issue.
+If final profit much lower → materiality reduce hogi → auditors may need extra procedures (kyunki chhoti items bhi ab material ho gayi).
+If final profit much higher → no extra work needed (already sufficient testing).

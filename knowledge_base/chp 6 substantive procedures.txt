@@ -1,0 +1,1697 @@
+Lecture 1 – test of detail on trade ReceivableS
+📚 Reference: Book Pages 250
+🧠 Context Setting:
+Sir ne start me bataya ke ab hum verification seekhne wale hain – yaani jo risks pehle identify kiye the (during risk assessment), unko ab verify karna hai ke sach me evidence milta hai ya nahi.
+🔍 Risk Assessment Recap:
+During risk assessment, auditor dekhta hai:
+Entity ka business environment
+Internal control system
+Fraud risk factors
+Related parties
+Ye sab analysis karta hai taake high-risk areas samajh aayein.
+📦 Trade Receivable: (Responses to Assessed Risk)
+🔢 1. Debtor Days Increasing
+📌 Assertion Affected: Valuation, Existence
+❓ Why: yaani ho sakta hai receivable recoverable hi na ho ya actual me exist na karta ho
+⛔ 2. No Recovery Process
+📌 Assertion Affected: Valuation, Rights
+❓ Why: agar follow-up process hi nahi hai toh debtor se paisa milna mushkil ho jata hai yani recoverability doubt mein aa jati hai.
+🕒 3. Ageing Not Updated Timely
+📌 Assertion Affected: Valuation
+❓ Why: time par update na hone se credit limit sai check hy ni hu pai gy to hu skta ha js customer ko sale ni krny thy ab hum kr dy
+🧾 4. Sales Recorded on Sales Order Basis (Not on Dispatch)
+📌 Assertion Affected: Occurrence, Existence, Right
+❓ Why: Sale srf tb record krty ha jb performance obligation settle hu jai yani jb GDN bn jai nah ky sale order ky basis pr
+✅ Substantive Procedures ka Purpose:
+Ab jab risk areas identify ho chuke hain, auditor ka kaam hai: ➡️ Verify karna ke kya sach me wahan galti ya fraud ho sakta hai?
+➡️ Evidence collect karna to support the financial statements
+Isliye ye stage ka naam hai: Substantive Procedures
+(Means evidence collect krny ky lye kuch kaam krny hun gy)
+📌 Assertions Tested While Trade Receivable Audit:
+✅ Completeness
+✅ Existence
+✅ Rights
+✅ Valuation
+✅ Presentation & Disclosure
+🧠 (Har risk ko kisi na kisi assertion se map karna hai taake evidence targeted ho)
+📋 COMPLETENESS
+🛠️ Procedures:
+🧮 Obtain list of debtors from client and check mathematical accuracy and trace total to F/S or G/L. e.g List mey dekha 5 receivables hain aur financial statements (F/S) mey bhi 5 hi show ho rahe hain ✅
+🔁 Compare current year list of debtors with prior year and inspect for usual debtors – whether they are appearing or not. e.g. ab agr list mey 6 hony chahiye aur F/S mey 5 hain – yani ab list ki completeness ki baat ho rahi hai 🔍
+📋 Obtain a system log of new customers onboarded (recorded) for whom the credit limit is approved (set) during the year and trace that log with the customer appearing in the list of debtors. e.g there is  likelyhood ky naya customer aya hu but mgar list of debtor mey miss hu gya ho 💡
+📄 Obtain subsequent bank statement (yani hamary year ky baad), select on a sample basis, subsequent receipts, and trace them back to the general ledger / list of debtors. 🧾 (Log kehtay hain isko “outside the books se books mein aao”)
+💡 e.g. Subsequent bank statement mein XYZ customer se 100,000 rupees aaye thay. Jab mene list of debtor dekhi apne saal ki, to udhar XYZ person ka naam hi nahi tha. Yani hamare saal mein iski sale bhi record nahi hui. Agar sale record nahi hui to receivable bhi record nahi hua hoga. To phir yeh paisay kis cheez ke bheje gaye the usne? 🤔
+(Mangment keh rahi hai ke yeh miss ho gaya hoga — it means yeh cutoff issue hai. Mera risk aur barh gaya hai ke yeh to cash basis par accounting kar rahe hain. Is liye mein apna sample aur barha doon ga kyun ke aur bhi nikal sakte hain!) ⚠️
+📦✨ Provide/select GDNs for sales near period end and inspect whether relevant receivable is appearing in the ledger or not. e.g. 📄 Apny GDN dekha 📌 or kha 🧾 yeh to performance obligation book hu chuky ha 📈 iska receivable to hna chahiye tha 💰 or woh book nahi hua ❌ it means list of debtor complete nahi ha 📉.
+🔑 Key Points:
+Mathematical Accuracy: Total of all individual balances should match GL ya F/S
+Usual Customer: Expected customers appearing or not
+Directional Testing: jha pr pohanchna ha woh kaam kro.
+ITGC : IT ka general control system iska bhy log bna rha hota ha ky program mey ksny kia change kia eg ; agr koi log sy hta dy ksey ko (override kr ky managment) to woh phr bhy ITGC ky testing sy pkra jai ga.
+Cutoff Testing: Means sahi saal ky cheez sahi saal mey record ho.
+💬∴ ap bol rhy hu mey completness sure krny ky lye confirmation bhejta hu bhi pehly yeh to dekhu bnda list of debtor mey ha bhy ya nahi yeh confirmation bhejna sure krta ha existence ko ✅
+📍 EXISTENCE
+Definition: Yeh ensure krna ke debtor real me exist krta hai ya nahi / transaction actually occur hue bhy  ya nahi
+🛠️ Procedures:
+✉️ Select a sample of debtors and circulate external confirmation e.g. ky woh khud hy confirm kr dy ky han meney itny paisy denay ha.
+(Existence, Valuation, Rights – tino assertions verify hoti hain)
+🧩 1. Design of Confirmation (yani bhejny sy pehly yeh check kr lena)
+✅ Appropriate Address
+✅ Confirming Party ki Authority (e.g., Head of Payables ✅ vs Admin Head ❌)
+✅ Balance ka match hona zaroori
+✅ Direct confirmation – reply auditor ko mile
+📊 2. Sampling Criteria
+🧮 Confirmations Sent to:
+Above Testing Threshold:
+📈 sample aisy letay ha pehly reciveable uthai sary,meney materiality nikaly materiality ka half kia uksa bhy half kia aur allocate kr dya ky yeh woh threshold(limit) ha is amount sy upr jitny bhy reciavable hue mey woh sb check kro ga,sb ko confirmation bheju ga us sy mughy sufficent appropriate evidence mil jai ga after confirmation reply.(yeh reciveables Significant ONES ha yani aik hy transaction hue ha debtor sth)
+Specific Risk-Based Sampling:
+⌛ Long Outstanding
+🤝 Related Parties
+🕓 Near Period End
+0️⃣ Zero Balance (hu skta ha isny koi cheez kharedey hu ur hmny is ko record na kia ho)
+Remaining – Random Sampling:
+🎲 jo choty choty bach gye debtor in pr collectively random sample lgai gy ( js mey each n every item has equal chance of selection)
+✉️ 3. Confirmation Process:
+🔁 No Response:
+📩 Reminder Send
+✔️ Response Matches:
+✅ Balance Verified
+❌ Exception (Mismatch):
+🕒 Timing Difference – No Misstatement e.g client btata ha hmny goods dispatch kr dye thy usko bd mey mily ha .
+⚠️ Actual Difference – May lead to material misstatement e.g agr woh sahi nahi krta to yeh materilty ikhaty hty hty jb materilty limit exceed ky to opnion modified hu jai ga audit report mey.
+🧾4. For Unconfirmed Balances:
+Alternative Procedures:
+📥 Check subsequent bank statement – kya payment clear hua?
+🔍 If 50 invoices, 30 cleared, 20 pending – go to client and inspect GDNs for pending 20 takeh mughy yeh jo shaq tha ky exist bhy krty ha ya nahi verify hu jai.
+👉 Yeh process existence, rights, valuation – sab assert karta hai
+📅5. Provisioning via Ageing Report:
+🧓 Obtain ageing report
+🔍 Inspect long-outstanding balances
+📌 Enquire about provisioning
+✅ Assess whether appropriate provision booked
+👉 Even after confirmation, customer may not be capable of paying – provision for doubtful debts required
+Lecture 2- test of detail on inventory
+📚 Reference: Book Pages 252
+Sir ne start me kaha:
+✅ Inventory audit me opening figure usually audited hota hai ✅ Closing inventory verify karni hoti hai
+🔄 Periodic Method Recap:
+Jo companies periodic inventory method follow karti hain, wo mahine ke end me physical inventory count karti hain takeh inventory ky existence ko sure kr sakein khy theft to nahi hu gye.
+Phir purchases ko add karti hain aur closing stock minus karke COGS (Cost of Goods Sold) nikalti hain.
+🌀 Perpetual Method Recap: Jo company perpetual method pe chalti hai, usme jo inventory aayegi wo bhi record hoti hai aur jo chali jaati hai wo bhi.
+🔍 COMPLETENESS Assertion:
+✅ Inventory Listing Completeness:
+Auditor sabse pehle management se inventory report mangta hai 📄
+Is listing ki mathematical accuracy check ki jati hai 🧮
+Total ko GL ya Financial Statements se trace kiya jata hai 📊
+📌 Yani jo items stock report me given hain unki total value GL me reflect honi chahiye.
+✅ Floor to Sheet Testing:
+Auditor floor pe jata hai (warehouse/factory) aur random items pick karta hai 🏭
+In items ko inventory report se match karta hai 📋
+❗ If any item is found on the floor but not on the sheet:
+Management se inquiry ki jati hai:
+“Kya yeh item kisi customer ke behalf pe rakha gaya hai?”
+“Kya yeh item kisi aur third party ka hai jo humne apne warehouse me store kiya hai?”
+✅ Auditor Response (If floor par item hai lekin inventory report me nahi hai):
+Agar item kisi customer ke liye held hai → customer acknowledgement + GDN verify karein
+Agar item third-party ka hai → agreement, confirmation, correspondence inspect karein
+🔄 Completeness Risk (Third-Party Case):
+Agar inventory third-party ke paas rakhi gayi hai, toh high chance hai wo sheet me missed ho jaye
+Auditor ko chahiye:
+Inventory report ko third-party report se compare karein 📊
+Proper documentation inspect karein (agreement/report/correspondence)
+🧍‍♂️ EXISTENCE Assertion:
+👁️ Observation of Inventory Count:
+Auditor 31st December ko client ke inventory count ko observe karta hai 📅
+Controls Observe Karne Hote Hain: ✅
+Pre-numbered sheets
+No pencil use ❌
+Dual counting
+Proper written instructions 📋
+📄 Sheet to Floor Testing:
+Stock sheet se item uthao aur floor pe physically check karo 🔄
+🧾 Existence via Third Party Inventory Confirmation:
+Agar inventory third-party ke paas hai:
+Management se inquiry karo 🔍
+Third party ko confirmation send karo ✉️
+Documentation inspect karo (agreement, GDN, acknowledgement) 📄
+Auditor khud bhi visit karke inspect kar sakta hai 🧳
+👤 Rights Assertion Also Covered:
+Ownership ka proof check karo 📁
+Third-party confirmation bhi verify karo ✅
+📏 Expert Involvement (e.g., petroleum tanks):
+Expert ko involve karo jahan inventory specialized ho (e.g., dip test) 🧪
+💰 VALUATION Assertion (Including NRV):
+📊 Valuation Testing:
+Inventory report se sample select karo
+Purchase invoice inspect karo
+Quantity count sheet se match karo
+Price invoice se verify karo
+Price × Quantity = Value calculate karo 💹
+FS reported value se match karo ✅
+📉 NRV Testing:
+Ageing report check karo (jo 1 year old inventory ha)📆
+Discounted year-end sales ko evaluate karo 🛒
+Damage/obsolete item ka physical inspection karo 🔍
+📉 Rule: If NRV < Cost ⇒ Provision Required
+📋 Assertion-Wise Summary:
+🧠 Reminder by Sir: “Auditor ka kaam sirf quantity verify karna nahi – har assertion pe kaam karna hota hai, structured evidence ke sath.”
+🟩 Lecture 3 – Test of detail on Cash And Bank
+📚 Reference: Book Pages 261
+How to write Answer Format :
+➡️ Risk Find (is mey assertion sy link rakhna hai)
+➡️ Procedure
+➡️ Suggestion
+📋 Lecture Summary:
+💵 Substantive Procedures Related to Cash (Cash in Hand)
+Assertion: Existence
+Observe cash count physically.
+Observe the count via CCTV or WhatsApp call if physical visit isn’t feasible.
+Assertion: Completeness
+Obtain cash listing from the management for each location (if applicable) check mathematical accuracy and trace total to financial statements
+Assertion: Cut-Off
+Perform cut off by obtaining CPV before year end and after year end and check whether they are recorded in the proper period or not
+Assertion: Valuation
+Convert any foreign currency cash using SBP rate as of 31 Dec.
+Assertion: Rights & Obligations
+Obtain acknowledgement of the person on the count sheet as an evidence.
+🏦 Substantive Procedures Related to Bank Balances
+Assertion: Completeness
+Obtain full list of bank accounts from management check mathematical accuracy and trace total to financial statements /general ledger.
+Review BOD meeting minutes for approval of bank account openings.
+Compare current year list of bank account accounts with the last year list of bank accounts.
+Assertion: Existence
+Send confirmation requests to all banks directly.
+Assertion: Rights & Obligations
+Review confirmations for any collateral, liened balances or guarantees.
+Assertion: Completeness & VALUATION(recon.)
+Obtain bank reconciliation for each bank account.
+Match bank statement figure from actual bank statement and balance as per G/L figure from actual general ledger.
+Check mathematical accuracy of the bank reconciliation statements by adding up unpresented cheques and deducting unclear cheques
+Obtain subsequent bank statements and trace:
+Subsequent payments to ensure that unpresented cheques are presented.
+Subsequent credits in the bank statements to ensure that uncleared checks are cleared.
+THE END
+📚 Lecture Full Explanation:
+🪙 Cash Verification
+🏦 Audit Focus: Cash vs Bank Balance
+Jab client ka audit ho, toh cash AND bank balance dono verify krne hote hain.
+Pehle hum cash verify karte hain, phir bank balance.
+🏢 Cash Ki Locations – Multibranch Audit Scenario
+Kuch organizations multiple branches mein operate karte hain (e.g., bank, telecom).
+Example: Final bank audit 31 Dec ko ho raha tha, 410 branches thi.
+🗂️ What We Do:
+Client se cash ki location-wise list mangni hai.
+ATM + Cash in hand = Total cash
+Har branch ka math accuracy check krna hai.
+Excel mein total formula lagake listing ko verify krna.
+📌 Risk (agar yeh na karein to):
+Kuch branches skip ho sakti hain.
+Listing incorrect ho sakti hai.
+✅ Existence Assertion (Kya cash waqai wahan maujood hai?)
+🧭 Process:
+Sir ne kaha: “Pehle batao paisa kahan kahan hai, phir jao.”
+Har location ka physical visit plan banta hai (geo coverage, high risk zones).
+Internal audit report se low-rated branches bhi identify hoti hain.
+Remote areas (e.g. Gilgit, Kashmir) bhi cover karni padti hain.
+🎯 Target:
+55 out of 410 branches visit krni thi on 31 Dec.
+Subah se le kar bank closing time tak cash verify krna tha.
+📹 CCTV & Observation-Based Verification
+Client se kaha: CCTV feeds arrange kro har branch ke ATM & vault ka.
+Live observation hoti hai (e.g. via WhatsApp, CCTV streaming).
+Zrurat padhne pe agent onsite jata hai (remote areas included).
+🎬 Activity:
+Cash count observe karna hota hai, khud count nahi karte.
+Machines cash note count karti hain.
+📄 Cash Count Sheet Documentation
+Each sheet includes:
+Branch name
+Name of person counting
+Name of auditor observing
+Denominations (e.g., 1000 x 150 = 150,000)
+Foreign currency bhi include hoti hai
+💱 Foreign Currency Treatment:
+USD notes etc. bhi agar cash mein hain to:
+Quantity × SBP’s 31 Dec rate = PKR equivalent
+SBP Historical Rate page se verify karo
+📋 Sampling Logic
+Branches select ki gayi:
+Geographical diversity ke basis pe
+Internal audit ki low ratings ko cover karte hue
+Risky branches from past experience
+Yeh non-random but risk-focused selection thi
+⚠️ Key Risk: Key Item Treatment
+Kuch cash balances itne large hote hain ke key item ban jaate hain.
+Inka alag se treatment hota hai: “Yeh toh side mein verify karo hi karo!”
+📄 Acknowledgment on Count Sheet = Evidence
+Jab cash count hota hai, to count sheet par:
+Counter ka naam
+Observer ka naam Denomination-wise breakdown hota hai
+Sir ne kaha: “Sign karke dena ke haan, yeh cash tumne count kiya tha. Yeh ban jata hai audit evidence.”
+✂️ Cut-Off Test – Why It’s Crucial
+🌐 Concept:
+Count 31 December ka hai, but agar koi transaction 1st Jan ka hai aur wo purani date mein reflect ho rahi hai, to cut-off issue hota hai.
+🔁 Example:
+Counted cash: PKR 150,000
+GL (General Ledger) cash showing: PKR 140,000
+Difference: PKR 10,000
+Why? Ek expense ka cash payment voucher (CPV) 1st Jan ko bana, lekin cash physically 31 Dec ko exist karta tha.
+🧠 Sir’s Logic:
+“Agar paisa physically tha 31 Dec ko, to uska expense bhi 31 Dec ka hona chahiye.”
+🧾 Cash Payment Voucher (CPV) – Key Evidence for Cut-Off
+What to check in CPV:
+Date of expense
+Voucher number
+Supporting reason for the transaction
+Entry posted in GL kab hui?
+🧮 Test:
+CPV 1st Jan ka, but cash was with entity on 31 Dec → Cut-off issue
+GL entry check karni hai: recorded in wrong period?
+🔄 Logic:
+“Kya tumne actual cash 31 Dec ko handover kiya tha ya nahi?”
+GL mein entry kis date ki gayi hai?
+📦 Cut-Off Test Logic in Inventory vs Cash
+Sir ne kaha: “Yehi logic inventory pe bhi lagta hai.”
+Inventory Example:
+4 GDNs banay 1st Jan ko
+But goods physically dispatched on 31 Dec
+Agar 1st Jan ko record kiya, to inventory over/under stated ho sakti hai
+🧾 GDN = Goods Dispatch Note
+Inventory ke liye:
+Outward: GDN + Invoice
+Inward: GRN + Purchase invoice
+🧠 Why Cut-Off Matters in Both Cash & Inventory
+Cash: To match actual cash with accounting books
+Inventory: To ensure correct stock position year-end pe
+📌 Sir’s Tip: “Kya yehi logic tum log inventory pe apply karte ho? Haan! Toh phir cut-off ka test cash ke sath bhi karo.”
+💸 Valuation Angle from Cash Count
+Jab auditor cash count karta hai, toh:
+Existence check hoti hai
+Valuation bhi partially test hoti hai (foreign currency rate check, actual note count)
+🧾 Foreign Currency:
+Convert using SBP rate as of 31 Dec
+🏦 Bank Balance Verification Start
+👂 Sir’s Tone: “Ab cash ho gaya clear. Ab aate hain bank balance pe.”
+📋 Step 1: List of Bank Accounts
+Kya karna hota hai?
+Management se List of bank accounts leni hoti hai.
+Har account ka:
+Bank name (e.g., HBL, Meezan, Dubai Islamic, etc.)
+Type (Saving/Current)
+Balance
+Mathematical accuracy check karni hai.
+Total balance ko FS (Financial Statement) se match karna hai.
+🔍 Key Risk:
+Kahi koi account missing to nahi?
+Classification error?
+🧾 Cross-checks for Completeness
+Board of Directors’ Meeting Minutes:
+Kya naya account open karne ki approval di gayi thi?
+Agar di gayi thi, to account open hua ya nahi?
+Comparison with prior year list:
+Last year ka list current year se match karo.
+Kahi aisa to nahi koi account pichle saal tha, is saal gayab hai?
+📌 Pro Tip:
+“Sirf jo client bataye us pe rely nahi karna — apne checks bhi lagao.”
+📄 Bank Statement vs Confirmation
+Important Concept:
+Bank statement reliable hai lekin tamper ho sakti hai.
+Best evidence: Direct confirmation from bank.
+🏁 Sir’s Example:
+“Murree ka audit tha – 250 confirmations bheji sab banks ko.”
+Har account ke liye confirmation request bhejna zaruri hai.
+💬 What to confirm from bank:
+Balance on a specific date (e.g., 31 Dec)
+Any loans, guarantees, or liens
+Property pledged
+Foreign currency holdings
+🧠 Sir’s Note: “Bank confirmation se yeh bhi pata lag jata hai ke kisi balance pe collateral hai ya guarantee di gayi hai.”
+🔍 Existence Assertion (Bank Balances)
+Process:
+Confirm all accounts listed actually exist
+Send confirmation to known and unknown banks
+Trace replies, check if balance matches what FS show
+📑 Step After Sending Confirmations – Reconciliation Time
+Sir’s Practical Insight: “Suno, confirmation bhejna easy hai. Real kaam toh reconciliation ka hota hai – jahan galti pakri jaati hai.”
+📄 Bank Reconciliation – Kya Hota Hai?
+Bank Confirmation vs General Ledger (GL):
+Kabhi kabhi confirmation ka balance aur GL ka balance match nahi karta.
+Difference ko reconcile karna padta hai.
+📊 Example:
+Bank Statement shows: PKR 7,696,800
+GL shows: PKR 7,640,000
+Difference = PKR 56,800
+🔍 Reconciliation Item:
+Jaise hi check issue hota hai, GL me record ho jata hai (Bank credit)
+Lekin wo check abhi tak bank me present nahi hua
+Isko kehte hain: Unpresented Checks
+👨‍🏫 Sir’s Flow:
+GL balance lein
+Unpresented checks add karen (bank ne abhi clear nahi kiye)
+Adjusted GL balance = Bank confirmation balance
+🧪 How to Validate Unpresented Checks?
+Steps:
+Client se unpresented check ki list lo
+Har check ka:
+Amount
+Date
+Check number
+Bank statement se cross-check karo:
+Clear hua ya nahi?
+Kis date pe hua?
+📌 Logic:
+Agar check ab tak clear nahi hua = reconciliation valid hai
+Agar clear ho gaya hai but GL me record nahi = error in books
+Lecture 4 – Test of Detail on PPE
+📚 Reference: Book Pages 246
+📌 Sir’s Short Reminder:
+Substantive procedures = Analytical + Test of Details
+Control test amount verify nahi karta, sirf activity dekhta hai
+Test of Detail amount verify karta hai (e.g. invoice + GDN check)
+📌 Note:
+Substantive procedure mey souchny ka tariqa jo accouting kr ry ho us ko verify kr lo bs.
+📋 Lecture Summary:
+📦 PROPERTY PLANT & EQUIPMENT(PPE)
+Assertion: COMPLETENESS
+Obtain fixed asset register from the client, check mathematical accuracy, and trace total to the financial statements.
+Select a sample of asset from the floor and trace to the fixed asset register. (floor to sheet)
+➕ ADDITIONS
+Assertion: Existence
+For selected sample, inspect whether they physically exist or not. (sheet to floor)
+Assertion: Rights & Obligations / Existence/Valuation
+Select a sample of additions and vouch them to supporting documents such as purchase order, GRN, and invoices.
+Assertion: Valuation
+Ensure that they meet the capitalisation criteria as per IAS 16.
+Inspect payment against asset from the bank statement.
+🗑️ DISPOSAL
+Assertion: Occurrence / Rights & Obligations
+Select a sample of assets disposed and vouch them to supporting documents such as transferred deeds and GDN.
+Assertion: Valuation
+Recalculate carrying amount of the assets disposed and make sure that it is removed from the fixed asset register with appropriate amounts.
+Recalculate gain or loss on disposal by comparing carrying amount with the selling price.
+Inspect cash proceeds from the disposal of PPE from the bank statement.
+🧮 DEPRECIATION
+Assertion: Valuation
+Compare the useful life of the assets with the companies in the industry.
+If there is any technological advancement, consider whether the life revision is required or not.
+Recalculate depreciation expense using appropriate life or depreciation rate.
+THE END
+📚 Lecture Full Explanation:
+🧱 PPE (Property Plant Equipment)
+Balance Sheet mein PPE waise hi show hota hai jaise FAR1 mein  padha tha.
+Example diya: Building, Office Equipment, Vehicle .
+🖥️ Example: PTCL jese institutions
+PTCL ke paas 30,000–35,000 laptops! Har item ka record kaha hota hai? ➤ Fixed Asset Register – Yeh hi audit ka main base banta hai.
+📒 Why Do We Need Fixed Asset Register?
+Kyunki ismein detailed breakdown hoti hai: kis department ko kya diya, kab diya, kis value pe.
+Sir’s Discussion:
+Tag lagta hai, GRN + FAR ban’ti hai, system auto post karta hai.
+📊 Verification Technique: Opening Balance Verification
+Step-by-Step:
+Filter on Class: e.g., sirf Equipment select karo.
+Filter on Date: e.g., sirf 01-Jan-2024 tak ke items.
+Sum: Opening items ka sum nikalo.
+Match: Total opening balance se match hona chahiye.
+📌 “Opening ki relativity check karo, mathematical accuracy trace karo.”
+🔍 Addition Check – Process
+Same filter approach: Class + Date filter lagao.
+Sum of additions nikalo ➤ Match karo additions total se.
+🧾 GL vs FAR (Fixed Asset Register) Mismatch Testing
+Sir’s Technique:
+Date by date check karo – kya sab branches mein asset ki entries properly gayi hain?
+Dekha gaya kuch assets ka depreciation to record hua but acquisition entry hi nahi bani.
+📌 Audit Insight:
+Agar GL mein entry nahi → FAR incomplete hai → Control weakness confirmed.
+📋 Completeness Assertion – Real Test of Audit
+Scenario Discussion:
+Audit ke dauraan kuch assets milte nahi → possibility of incomplete FAR.
+Admin department ko bola gaya: “Yeh tabhi report issue hogi jab aap sign karenge.”
+Sir ne ek aur warning di: “Kal ko agar issue hua, tumhara sign record mein hai.”
+🔍 Key Testing Procedures for Completeness
+Current Date Filter:
+Filter lagao on recent additions.
+Cross-check karo with Board Minutes – kya approval mila tha?
+Floor to Sheet:  Actual item se FAR entry trace karo.
+🧠 Why GL & FAR Link is Important?
+GL se asset ki movement pata chalti hai: addition, disposal, etc.
+FAR aur GL match hona chahiye – warna assertion of completeness breach ho jaata hai.
+🔐 Principal Audit Flow: Always Start with Completeness!
+🧾 Addition Verification – Supporting Documents Match
+Select Sample of Additions from this year only.
+Match with:
+Purchase Order
+Invoice
+Payment voucher
+Bank Statement if needed
+Sir’s Tip:
+Invoices se right of ownership pata chalta hai.
+Physically inspect karo toh existence + condition verify hoti hai.
+📋 Existence Testing – Sheet to Floor / Floor to Sheet
+Sheet to Floor: FAR se physical item check karna
+💸 Payment Testing for Additions
+Check kiya jaata hai ke jo item kharida gaya, uski payment hui ya nahi.
+Bank statement se cross-verify hota hai.
+Helps confirm: Not an inflated or fake purchase.
+🧠 Sir’s Insight:
+If asset condition is poor, it should be impaired → “₹5 lakh ka laptop agar ₹20k mein bikta hai toh problem hai.”
+🌍 Multi-location Assets & Practical Problems
+Sir’s Story:
+PTCL drivers across Pakistan → millions of asset locations.
+“Tum ne lakhon location visit ki? Impossible!”
+Solution:
+Check asset activation logs in client system.
+Use submarine cable + frequency check example to explain smart verification.
+📜 Third-party Locations & Insurance as Evidence
+Agar asset third-party ke pass hai (e.g., remote tower, warehouse), to:
+Inspection possible nahi
+Use insurance policy covering the item/location as evidence
+🔑 Summary of Key Substantive Procedures (PPE)
+Opening Verification → Class/date filter, sum, match with GL
+Additions Check → Verify with PO, Invoice, GRN, Board Approval
+Existence Testing → Sheet to Floor
+Payment Testing → Match with payment voucher and bank statements
+Disposals → Disposal date, invoice, sale agreement, sale proceeds
+Depreciation → Check start date, formula, Excel automation
+Useful Life Reasonableness → Benchmarking with similar industry assets
+Multi-location / Remote Assets → Activation logs, insurance policies
+Completeness Assertion → Ensure nothing is missing from records
+Right & Ownership → Confirm via supplier documents (invoice/title)
+✅ Lecture 5 – Test of Detail on Impairment of PPE
+📚 Reference: Book Pages 247
+📋 Lecture Summary:
+✅ Procedures on Impairment Testing of Property Plant and Equipment or Intangibles
+Obtain an understanding of management process related to identifying, estimating and recording impairments for PPE. 🔍
+Obtain management working related to impairment of PPE, including value in use and its reasonableness 📊
+📌 Check demand of units by obtaining subsequent sales ledger 📈
+📌 Check demand of units by inspecting market research reports 📑
+📌 Evaluate assess reasonableness/accuracy of source data 🔎
+📌 Check quantity by evaluating capacity of the company 🏭
+📌 Check internal consistency of the data 📂
+📌 Check appropriateness of discount rate 💹
+📌 Check mathematical accuracy of the model ✅
+Review the source data used by the management for impairment testing 📋
+Assess the reasonableness of assumptions taken by the management. Such as by checking subsequent period sales (inflows), subsequent cost incurred, discount rate used and fair value assessment etc. 📈
+Consider involving auditor's expert 🧑‍💼
+THE END
+📚 Lecture Full Explanation:
+📌 1.  Impairment Testing
+🚨 Impairment Kab Test Karna Hai:
+Impairment tab test karte hain jab koi trigger event ya indicator ho, jaise ke technological changes ya market ke shifts.
+📊 Segment performance ko samajhna zaroori hota hai aur dekhna ke impairment ka asar kis asset pe ho sakta hai (e.g. telecom, wireless).
+📌 2.  Segment Analysis
+🏢 Segmenting: Organization ko alag parts mein divide karna business nature ke mutabiq.
+📝 Example: PTCL aur subsidiary Ufone— PTCL ke different segments (wireless, banking, etc.) jab accounts consolidate karte hain toh har segment ko separate entity ki tarah treat karte hain.
+📌 3.  Segmenting for Impairment Testing
+🔑 Segment Handling:
+Merger (e.g. PTCL acquiring Ufone) ke case mein, segment performance ko individually review karna zaroori hai before consolidation.
+💡 Har segment pe impairment ko test karna chahiye, unko prematurely combine nahi karna.
+💡 Key Concepts
+📌 Segment: Business ka wo hissa jo financial reporting ke liye alag kiya gaya ho.
+📌 Impairment: Asset ki value ka girna jab wo apne carrying amount se neeche chali jaati hai.
+📌 Test of Detail: Specific transactions aur balances ko financial statements mein verify karna.
+📝 Practical Example
+PTCL Case: Segmenting by business unit (e.g. wireless or banking) impairment testing pe asar dalta hai. Wireless segment impaired ho toh woh alag treat hoga jabke banking unaffected rahega.
+📌 1️⃣ Parent Aur Subsidiary CGU
+🏭 Parent company aur subsidiaries mil kar group banati hain, har CGU independent cash generate karta hai ya cash flow share karta hai.
+Example: College aur divisions (CA college, inter-college) apni cash independent generate karte hain.
+📌 2️⃣ Impairment Indicators Ko Test Karna
+Indicator ho jo bataye asset expected cash flow generate nahi kar raha ho toh impairment test hota hai.
+⚠️ Asset carrying amount se kam income generate kare toh impairment testing zaruri hai.
+📌 3️⃣ CGUs Ki Evaluation for Impairment
+Indicator ho toh impairment testing hoti hai.
+✔️ Check karte hain asset carrying amount se zyada income generate kar raha hai ya nahi.
+📌 4️⃣ Asset Ki Segmentation
+Segment ke andar assets alag se evaluate hote hain.
+Wireless positive cash de raha ho, building mein issue ho sakta hai.
+Naya asset add ho toh assess karte hain existing part banega ya naya segment hoga.
+📌 5️⃣ Practical Example for CGU Testing
+College assets agar carrying amount se zyada profit de rahe ho toh impairment zaruri nahi.
+📌 6️⃣ Assets Ka Connection in CGUs
+Same CGU assets interconnected hote hain, independent test nahi ho sakte.
+📌 7️⃣ Wireless Segment Mein Naye Assets
+Wireless segment mein naye assets ki viability CGU ke part ke taur pe assess karni padti hai.
+💡 Key Concepts
+💡 CGU: Unit ya division jo independent cash generate karta hai.
+💡 Impairment Testing: Asset carrying value ko recoverable amount se compare karna.
+💡 Segmentation: Business ko parts mein divide karna for reporting/testing.
+📝 Practical Example
+College assets profit de rahe ho toh impairment nahi.
+Wireless aur building ka alag testing ho.
+📌 1️⃣ CGU Aur Asset Testing
+Asset independent hai ya combine ho kar cash generate kar raha hai, yeh samajhna zaruri hai.
+📌 2️⃣ Impairment Testing Ka Process
+Unit failure ka impact baki units pe kya hoga dekhte hain.
+Example: Wind turbine band ho jaye phir bhi baaki turbines kaam karte hain.
+📌 3️⃣ Wind Turbine Testing
+Ek turbine failure ka baki pe impact na ho iski testing hoti hai.
+📌 4️⃣ Impairment Calculation
+Kis asset ko individually aur kis ko combined test karna hai yeh decide hota hai.
+📌 5️⃣ Asset Testing Process
+CGU structure samajh kar segment test karte hain.
+Example: PTCL, Ufone network alag alag test hote hain.
+📌 6️⃣ Recording Payments
+Ensure karte hain asset testing sahi ho.
+📌 7️⃣ Impairment Verification
+Physical inspection zaruri hoti hai asset ki condition samajhne ke liye.
+💡 Key Concepts
+CGU, Impairment Testing, Wind Turbine Testing
+📝 Practical Example
+Wind turbine failure ho toh baaki pe impact na ho.
+📌 1️⃣ Payment Process Data Verification
+Financial/sales data verify karte hain.
+Sales: Historical data + growth % dekha jata hai.
+📌 2️⃣ Controls Validation
+Controls data accuracy ensure karte hain.
+📌 3️⃣ Pricing Strategy Impact
+Marketing pricing decide karta hai competitors analysis ke baad.
+📌 4️⃣ Cost Analysis
+Supplier cost negotiation + expansion plan.
+📌 5️⃣ Quantitative Data Check
+Projections, inventory management discrepancies identify karte hain.
+📌 6️⃣ Client Input
+Client data verify karte hain.
+📌 7️⃣ Market Analysis
+Market trends + competitor pricing analyze hoti hai.
+📌 8️⃣ Financial Limits
+Advance payments realistic hain ya nahi check karte hain.
+💡 Key Concepts
+Control Mechanism, Pricing Strategy, Market Analysis
+📝 Practical Example
+Client sales projection verify + pricing strategy competitor analysis pe based.
+✅ Lecture 6– Test of Detail on Revaluation of PPE & Intangible
+📚 Reference: Book Pages 274,267
+📋 Lecture Summary:
+PROCEDURES ON REVALUATION
+1. 📄 Obtain the schedule / working of revaluation from management evidencing:
+   - 🏷️ Asset type
+   - 📊 Carrying amount
+   - 💰 Fair value → We need to verify this
+   - 📈 Surplus balance → Remaining balance after transfer of incremental depreciation
+   Check mathematical accuracy and trace the total to financial statements
+2. 📑 Obtain the management's expert valuation report and check whether the fair value in the expert’s report matches the schedule / working of revaluation
+3. 🧠 Evaluate the management expert’s competence and capabilities (assess qualifications, conduct discussions, review published reports)
+4. 🔍 Evaluate the independence of the management’s expert
+5. ⚖️ Check the reasonableness of fair value by comparing with similar market transactions (if any)
+6. 📝 Consider appointing the auditor’s own expert:
+   - 🧠 Evaluate competence, capabilities, and objectivity
+   - 📚 Obtain understanding of the field of the auditor’s expert
+   - 🤝 Agree on terms of engagement with the expert
+   - 🔎 Review the work of the auditor’s expert
+7. 📊 Compare the report provided by the auditor’s expert with that of the management’s expert
+8. ❓ If differences arise, make inquiries from management / management’s expert
+9. 🤝 Arrange a meeting between the auditor’s expert and the management’s expert
+10. ✅ Ensure the entire class of assets has been revalued
+11. 🧮 Recalculate incremental depreciation and ensure the transfer from revaluation surplus to retained earnings is appropriate
+12. 📌 Ensure disclosures are made as per IAS 16 requirements:
+   - 📝 Historical carrying amount
+   - 🏷️ Name of the valuer
+   - 💵 FSV value
+PROCEDURES ON ACCOUNTING POLICY CHANGE
+1. ⚡ Evaluate whether the accounting policy change results in more reliable and relevant information
+2. 📋 Inspect minutes of the board of directors’ meeting where the accounting policy was approved
+3. 📂 Obtain working of the retrospective adjustment of the accounting policy from management
+4. 🔍 Evaluate whether the accounting policy change has been appropriately accounted for in accordance with IFRS
+5. 📝 Evaluate the appropriateness of disclosures made by management regarding the change in accounting policy
+THE END
+📚 Lecture Full Explanation:
+📌 Scenario: Accounting Policy Change
+🏢 Ek company already revaluation model par ho sakti hai.
+🔄 Ek company apni accounting policy change kar sakti hai (aik model se doosre model par).
+📝 Jab company accounting policy change kare, auditor ka kaam hai is change ka scope samajhna aur appropriate procedures apply karna.
+🕵️ Auditor’s Responsibility
+✅ Auditor ko assess karna hota hai ke policy change par kaise kaam karein.
+📊 Auditor ko policy change ke result mein aane wale surplus par bhi audit procedures design karne hote hain.
+📌 Conditions for Allowable Policy Change ⚠️ Policy change tabhi allow hai jab:
+🌟 Result kare more reliable aur relevant information mein.
+🌟 Information available aur reliable ho.
+🔍 Auditor’s Task: Industry Practice Check
+🌐 Auditor ko dekhna hota hai global telecom sector mein kya practice hai — kya kisi ne tower ki fair value dikhayi?
+👥 Auditor ko user ki zarurat aur industry practice samajhni hoti hai.
+⚡ Important Point (Highlight) 📌 Accounting policy change ka purpose sirf figures ko artificially improve karna nahi hona chahiye; iska maqsad user ko better aur relevant information dena hai.
+📌 Board Approval & Documentation
+✅ Auditor ko sabse pehle Board of Directors ki approval verify karni hoti hai.
+📑 Minutes of Meeting ko inspect kiya jata hai jahan accounting policy change formally approve hui ho.
+📂 Auditor management se working papers mangta hai jisme balance sheet, P&L impact aur prior year ka impact documented ho.
+📝 Procedures on Policy Change
+🔎 Auditor ko evaluate karna hota hai ke policy change se more reliable aur relevant information milegi ya nahi.
+📌 Auditor confirm karta hai ke accounting policy change IFRS/IAS standards ke mutabiq hai.
+📊 Working papers ki calculation accuracy aur assumptions ki appropriateness ko verify kiya jata hai.
+🏗️ Example: PTCL Tower Policy Context
+🏢 Tower ek supporting structure hai jisme devices lagi hoti hain; iski fair value relevant nahi hoti.
+👥 Shareholders ka focus tower ki fair value par nahi balkay operating performance par hota hai.
+🔍 Key Auditor Tasks
+🌐 Global practice aur telecom sector ke norms ko dekhna.
+✔️ Client ki accounting policy ke impact ko verify karna.
+📈 Pichle saal ki comparative information ka assessment karna.
+⚠️ Risk
+⚡ Policy change ka misuse ho sakta hai jisme figures artificially improve ki jayein.
+❗ Calculation errors ya assumptions flawed ho sakte hain jo misleading information create kar sakte hain.
+⚡ Important Point
+✅ Policy change ka purpose figures ko artificially improve karna nahi, balkay user ko better aur relevant information dena hai.
+📌 Verification of Asset Schedule
+✅ Auditor ko ensure karna chahiye ke asset schedule aur fixed asset register reconcile ho.
+📑 Asset ki detailed working management se obtain karni zaruri hai (e.g., 1500 assets behind one line item in notes).
+📋 Asset description aur classification clearly note mein honi chahiye.
+✔️ Asset additions, depreciation, aur disposals already verify kiye jaate hain.
+📌 Valuation by Management’s Expert
+📄 Management expert ki valuation report required hoti hai.
+🔍 Fair value management expert determine karta hai.
+🌐 Agar fair value method allowed ho, toh auditor global practices ko dekhta hai (e.g., telecom towers ka case).
+✅ Auditor ko confirm karna hota hai ke valuation sector practice aur IFRS compliant hai.
+🏗️ Example: Telecom Tower Valuation
+🏢 Telecom towers ki fair value generally relevant nahi hoti, kyunke yeh sirf supporting structures hain.
+🌍 Global practices aur parent company ki policies check karna zaruri hai.
+📌 Completeness Procedure
+📌 Asset register aur asset schedule ko match karna:
+🔢 Equipment ki total count dono jagah same honi chahiye.
+❓ Auditor inquire kare agar kuch items missing hon ya exclude kiye gaye hon (negative value wale assets).
+📌 Information Provided to Expert
+🔎 Auditor ko data accuracy verify karni hoti hai jo expert ko provide kiya gaya hai.
+📧 Auditor management se expert ko bheji gayi email ya data communication verify kare.
+📝 Auditor sample basis par expert ko diye gaye data ko accuracy aur completeness ke liye check kare.
+📌 Expert Qualification & Competency
+🎓 Auditor expert ki qualifications aur previous experience verify kare.
+🌐 Expert ki official website aur published reports ko check karna chahiye.
+📜 Pakistan Engineering Council jaise recognized bodies se expert ki certification aur authenticity verify karni zaruri hai.
+⚠️ Risks
+❗ Management ki taraf se incorrect ya incomplete data expert ko provide kiya ja sakta hai.
+⚠️ Valuation errors aur incomplete asset reporting ho sakti hai.
+⚡ Important Points
+✅ Valuation expert ki report ki integrity aur accuracy ensure karna auditor ki responsibility hai.
+🛡️ Asset completeness aur data accuracy policy change mein critical hain.
+📌 Expert Competence and Qualification
+🎓 Auditor ko expert ki qualifications aur experience verify karna zaruri hai.
+📚 Published reports aur previous valuation experience dekha jata hai.
+🔍 Expert ki methodology aur historical valuation practices check ki jati hain.
+📌 Auditor’s Expert Involvement
+✅ Agar management ka expert competent nahi hai, auditor apna expert appoint karta hai.
+🔒 Auditor expert ko appoint karne se pehle uski independence, objectivity, aur confidentiality confirm karta hai.
+📝 Auditor expert se formal engagement agreement sign karwata hai jisme scope, confidentiality, aur objectives clearly mentioned hote hain.
+🏗️ Example: Valuation of Land and Building
+🏢 Expert historically land aur building ko per acre rate, market comparisons, aur construction details ki base par evaluate karta hai.
+⚠️ Agar expert historically specific asset (e.g., towers) ko value nahi kar sakta, auditor apna expert appoint karega.
+📌 Reviewing Management Expert’s Report
+📑 Auditor management expert ki valuation report thoroughly check karta hai.
+🔎 Report mein expert ki methodology aur assumptions carefully verify ki jati hain.
+📌 Expert ki valuation methodology (Replacement Cost Method) clearly understand karni zaruri hai.
+🛠️ Replacement Cost Method Explanation
+🔄 Replacement cost method se valuation:
+💰 Fresh asset ki current market price calculate ki jati hai.
+📉 Us mein se accumulated depreciation (wear and tear) subtract kiya jata hai to reach actual fair value.
+📝 Expert ki report mein methodology aur assumptions clearly documented honi chahiye.
+📌 Auditor’s Procedures on Expert Report
+✅ Methodology ki clarity aur appropriateness verify karna.
+📋 Expert ko provided data accuracy aur completeness se confirm karna.
+📐 Expert ki assumptions ki reasonableness verify karna.
+🔍 Auditor ka expert independently cross-check aur validate karta hai management expert ki findings ko.
+⚠️ Risks
+❌ Management expert ki incompetence ya biased valuation se inaccurate results aa sakte hain.
+⚡ Auditor ki taraf se expert ki independence aur objectivity confirm na karna risky ho sakta hai.
+⚡ Important Points
+🛡️ Auditor ko apne appointed expert ki independence, confidentiality, aur competence ensure karni zaruri hai.
+✅ Management ki valuation reports critically evaluate karna auditor ki responsibility hai.
+📌 Methodology Assessment
+🔍 Auditor evaluate karta hai ke management ke expert ne kaun sa valuation method use kiya hai.
+🔄 Replacement Cost Method mein fresh asset ki current market price calculate ki jati hai aur us mein se accumulated depreciation minus kiya jata hai.
+💰 Income Method mein future mein asset kitni income generate karega uski present value calculate hoti hai.
+📌 Correct Valuation Method Kaise Choose Karein
+❗ Replacement Cost Method hamesha suitable nahi hota, especially jab asset ki active market na ho ya company asset ko exit karne ki bajaye continue karna chahti ho.
+✅ Income Method zyada suitable hai jab ongoing income generation evaluate kar rahe hon, jaise telecom towers.
+🏗️ Example: Telecom Tower Valuation
+📡 Telecom towers ki valuation Replacement Cost Method se accurate nahi hoti kyunke is mein towers ki income-generating potential ignore hoti hai.
+📈 Actual valuation mein future income streams ko consider karna chahiye.
+📌 Expert Valuation Procedures
+✔️ Expert ko diye gaye data ki accuracy aur completeness confirm karni hai.
+📊 Expert ki assumptions aur projections historical aur industry-standard data ke saath match honi chahiye.
+🔍 Expert ki report ko thoroughly cross-check aur validate karna hai.
+📌 Auditor’s Expert Involvement
+🧐 Agar management expert ki competence ya independence pe doubt ho, auditor apna independent expert hire karega.
+🔎 Auditor ka expert yeh verify karega:
+🛠️ Valuation methodology.
+📋 Management expert ki assumptions.
+📑 Dono experts ko diye gaye data accurate aur matching hon.
+📌 Agreement with Auditor’s Expert
+📝 Formal engagement letter mein scope, objectives, confidentiality terms aur timelines clearly define karna hai.
+📅 Deliverables, reporting deadlines, aur communication protocols clearly set karne hain.
+📌 Dispute Resolution
+⚖️ Agar management aur auditor ke expert mein discrepancies aayen:
+🤝 Direct discussion se differences resolve karne ki koshish karein.
+🎯 Unresolved ho to unbiased third expert involve karein.
+📌 Differences adjustments ya misstatements ki evaluation financial statements mein kar sakte hain.
+⚠️ Risks
+❌ Inappropriate valuation methodology inaccurate asset valuation ka risk hai.
+⚠️ Incorrect assumptions ya misalignment se valuation process mein issues aa sakte hain.
+⚡ Important Points
+✅ Valuation methodology correct honi chahiye aur asset ke intended use (exit vs. continued use) ko reflect karni chahiye.
+✔️ Auditor ko independently valuation assumptions aur data validate karna hai.
+Lecture 7 – Test of Detail on Loans and Accruals
+📚 Reference: Book Pages 262
+📋 Lecture Summary:
+✅ Substantive Procedures on Borrowings/Loans
+Assertion: Completeness
+📄 Obtain the schedule of borrowings and interest at the year-end that includes:
+Name of the lender
+Borrowing date
+Maturity date
+Interest date
+Interest rate
+Balance at the end of the reporting date
+🔁 Reconcile the balance on the schedule to the general ledger.
+📝 Obtain and examine the board minutes relating to new borrowings or repayments.
+Assertion: Existence/Obligation
+📬 Send confirmation to banks/lenders, requiring:
+Details of outstanding balance
+Interest accrued for the year
+Mortgages and charges
+📃 Inspect loan agreements.
+Assertion: Accuracy/Valuation
+📑 Inspect loan agreement to ensure the amount of loan.
+💳 Trace loan received and repayments from the bank statement.
+🧮 Recalculate interest expense.
+Assertion: Presentation and Disclosure
+🗂️ Ensure proper classification of loans:
+Short-term loans → Current liabilities
+Long-term loans → Non-current liabilities
+🕵️ Ensure proper disclosure regarding loan, including:
+Interest rate on loan
+Securities given for loan
+Personal guarantees
+✅ Substantive Procedures on Accruals
+Assertion: Completeness
+🧠 Obtain detailed understanding of the entity and its operations and ensure all relevant accruals have been booked.
+📊 Compare current year accrual with the prior year accrual.
+Assertion: Accuracy/Valuation
+🔍 Select a sample of accruals and inspect subsequent actual invoices.
+🧾 Obtain working of accrual and re-calculate the amount to verify appropriateness.
+THE END
+📚 Lecture Full Explanation:
+1. Loan Financing Overview 💰💸
+o    Company ne multiple banks se financing li hui hai, jaise MCB, UBL, aur JS Bank.
+o    Important: Har bank ka outstanding balance ko track karna aur General Ledger (GL) mein reconcile karna zaroori hai. 💳
+2. Loan Schedule Creation 📊📝
+o    Loan details nikal kar, har bank ka alag schedule banana hota hai, jisme opening balance, interest, payments, aur closing balance included honge.
+o    Mathematical Language Check ➗: Interest calculations ko bank ke schedule se match karna zaroori hai. GL se check karo ke sab kuch sahi hai ya nahi. ✅
+3. Interest and Payment Verification 💸🔍
+o    Monthly interest payments ko verify karna padta hai, aur yeh ensure karna hota hai ke loan schedule ke mutabiq interest calculated ho.
+o    Verification Process: Loan schedule ka interest aur payments ko GL se match karo aur ensure karo ke interest calculations sahi hain. 🧐
+4. Confirmation from Banks 🏦📑
+o    Bank se confirmation request bhejna padta hai, taake loan ke details verify kiye ja sake, jaise facility limit, outstanding balance, interest, aur collateral.
+o    Key Points: Bank se confirmation mein yeh ensure karna hai ke outstanding balance, payment aur collateral correctly mention hain. 🖋️
+5. Collateral Verification 🔑🔒
+o    Client ke dwara diye gaye collateral ko verify karna, aur yeh check karna ke woh properly receive aur bank ke records mein record kiya gaya hai.
+o    Example: Agar loan inventory ke against liya gaya hai, toh yeh ensure karo ke inventory properly valued ho aur bank ke records mein mentioned ho. 📦
+6. Cross-Referencing Financial Statements 📑📊
+o    Jab bank se confirmation mil jaye, toh company ke financial statements se usse cross-reference karo, taake loan balances, interest payments aur collateral ka match ho.
+o    Key Activity: Bank se milne wali information ko company ke financial statements se match karo, taake koi discrepancies na ho. 🔍
+Practical Example 💡🔑
+Loan Verification: Jab multiple banks se loans liye gaye ho, jaise MCB aur UBL, toh har bank ke loan schedule ko company ke records aur financial statements se match karo. Bank se confirmation bhi lena zaroori hai, jisse loan balances aur terms verify ho sakein. 💬
+1. Loan Confirmation and Verification 📝💼
+o    Jab aap bank se confirmation bhejte hain, toh yeh ensure karna padta hai ke loan agreement sahi hai ya nahi.
+o    Verification: Loan amount, interest rate, aur payment frequency ko loan agreement se match karo. Agar koi discrepancy mile toh wo highlight karo.
+2. Interest Rate and Payment Frequency 💸🔍
+o    Interest rate aur payment frequency ko carefully verify karo. Yeh zaroori hai ke loan agreement aur bank statement mein consistency ho.
+o    Practical Step: Interest rate ko loan agreement ke terms se match karo, aur payment frequency ko check karte hue monthly ya quarterly payments ko verify karo.
+3. Verifying Collateral 🔑🏦
+o    Jo collateral loan ke against diya gaya hai, uski verification karni padti hai.
+o    Third-Party Confirmation: Collateral ko third-party se confirm karna zaroori hota hai, jaise kisi external party se, taake authenticity verify ho sake.
+4. Going Concern Issues 🔴⚠️
+o    Jab company ki going concern status ko evaluate karte hain, toh yeh zaroori hota hai ke company ke future plans ko assess kiya jaye.
+o    Example: Agar koi factory band hone ki situation ho, toh uska impact company ke financial health par kaise hoga, yeh dekhna padta hai.
+5. Payment History Verification 📅💳
+o    Company ne jo payments ki hain, unko properly trace aur verify karna padta hai. Yeh ensure karna hai ke payments sahi time pe ki gayi hain.
+o    Important Check: Jo payments schedule ke mutabiq hoti hain, unka verification karna.
+6. Transaction and Journal Entry Checks 📜📊
+o    Har transaction ko verify karna padta hai. Payment schedule ko cross-check karte hue, ensure karo ke interest aur principal payments properly accounted for hain.
+o    Key Process: Journal entries ko match karo aur dekho ke woh loan schedule ke saath accurate hai ya nahi.
+7. Handling Non-Going Concern Situations 🚫📉
+o    Agar company non-going concern hai, toh yeh assess karna padta hai ke company ki future operations kis tarah impact hogi.
+o    Issue Identification: Agar company ka future uncertain ho, toh uska impact financial statements par zaroor reflect hona chahiye.
+8. Legal Rights and Liabilities ⚖️💼
+o    Company ke legal rights aur liabilities ko review karna padta hai, taake financial statements mein unki sahi reflection ho.
+o    Example: Agar company ke paas conditional liabilities hain, toh unko properly reflect karna hota hai.
+Practical Example 💡
+Going Concern Issue: Agar company ko going concern ka issue ho, toh uska impact unke financial reporting pe hona chahiye.
+Collateral Check: Agar company ne loan liya hai aur collateral diya hai, toh collateral ko third-party se verify karna zaroori hai taake loan secure ho.
+1. Loan Verification Process 🔍💵
+o    Jab aap loan verify karte hain, toh sabse pehle loan agreement ko verify karna padta hai. Ismein loan amount, interest rate, payment frequency sab mention hota hai.
+o    Key Check: Ensure karo ke loan amount correctly mentioned ho, aur phir usse bank statement se verify karna zaroori hota hai.
+2. Conditional Rights and Compliance ✅📜
+o    Loan agreement mein jo terms aur conditions hain, unko properly check karna hota hai.
+o    Key Step: Jab bank ki conditions lagti hain, toh yeh ensure karna hota hai ke wo comply ho rahi hain ya nahi.
+3. Credit Monitoring Department 🏦🔄
+o    Credit monitoring department ko yeh dekhna hota hai ke jo terms humne set ki hain, wo properly implement ho rahe hain ya nahi.
+o    Example: Agar koi client bank se loan leta hai, toh bank ki responsibility hoti hai ke wo track kare ke loan terms comply ho rahe hain ya nahi.
+4. Interest Rate and Transaction Verification 💸📊
+o    Interest rate ko accurately check karna padta hai, aur payment frequency ko bhi match karte hue verify karna hota hai.
+o    Step-by-Step Process: Interest rate aur payment frequency ko loan schedule se match karo, aur check karo ke monthly payments correctly account ho rahi hain ya nahi.
+5. Revenue Recognition and Adjustments 💼💡
+o    Jab payments ki baat hoti hai, toh revenue ko accurately recognize karna padta hai.
+o    Example: Pichle saal ki payments ko correctly adjust karte hue, agle saal ke revenue growth ko test karna hota hai.
+6. Going Concern and Business Operations 🚀🔎
+o    Business operations ko dekhte hue, company ka going concern status evaluate karna zaroori hota hai.
+o    Key Concept: Agar company ke future operations uncertain hain, toh uska effect financial statements par bhi hona chahiye.
+7. Verification of Collateral 🔑🏦
+o    Collateral ko verify karna padta hai, aur uske against loan ka proper documentation hona chahiye.
+o    Important Step: Ensure karo ke collateral ka value accurately recorded ho, aur third-party se confirm ho.
+8. Detailed Testing and Approvals 🧑‍💻💼
+o    Test of detail karte waqt, har ek transaction ko inspect karna hota hai aur har element ko verify karna padta hai.
+o    Key Activity: Business knowledge ko use karte hue, ensure karo ke har detail accurately reported ho, jaise loan amount, interest, aur payments.
+Practical Example 💡📚
+Revenue Recognition: Jab payments aur revenue growth ke beech adjustments kiye ja rahe ho, toh ensure karo ke saare changes correctly reflect ho rahe hain, jaise previous year ki payments ko properly adjust karna.
+Collateral Verification: Agar collateral diya gaya ho, toh uska proper documentation aur third-party confirmation zaroori hoti hai.
+1. Loan and Revenue Verification 💼💵
+o    Jab hum loan amount aur revenue ko verify karte hain, toh humein business ki knowledge zaroori hoti hai. Loan agreement mein mention cheezon ko cross-check karna hota hai, jaise interest rate aur payment terms.
+o    Key Check: Interest rate aur payment frequency ko loan agreement aur bank statement se match karo. 🧾🔍
+2. Correct Recognition of Revenue 💰💡
+o    Revenue ko correct period mein record karna hota hai. Agar sales December mein hoti hai, toh usko December mein hi book karna chahiye.
+o    Example: Agar kisi product ki sale October mein book ho gayi thi, toh wo sale December ke financials mein na aaye.
+3. Collateral and Payments Review 🔑💳
+o    Collateral ko review karna aur ensure karna ke wo properly recorded hai. Bank se collateral ki confirmation lene ki zarurat hoti hai.
+o    Transaction Verification: Jo bhi payments aur transactions ho rahi hain, unko verify karna aur ensure karna ke wo sahi period mein reflect ho.
+4. Business Knowledge and Accounting Practices 🧠📚
+o    Business ki operations ko samajhna zaroori hai taake aap verify kar sakein ke financial records sahi hain ya nahi.
+o    Example: Agar company ne commission ke liye payments kiye hain, toh unko accurately account karna padta hai, aur kisi bhi discrepancies ko identify karna hota hai.
+5. Verification of Payment Schedules 🗓️💸
+o    Key Step: Payment schedule ko check karo aur ensure karo ke wo proper accounting practices ke mutabiq book ki gayi ho.
+o    Relevancy: Ensure karo ke saare payments aur receivables relevant accounting period mein book ho rahe ho.
+6. Transaction Adjustments and Recalculation 🔄📊
+o    Agar payments ya adjustments ki recalculation ki zarurat ho, toh unko check karo aur ensure karo ke calculations accurate hain.
+o    Example: Agar commission ka rate change hota hai, toh recalculated amount ko verify karna padta hai.
+7. Verification of Minimum Requirements ✅🔢
+o    Jab company ki performance ya financials ki verification ho rahi ho, toh minimum financial requirements ko ensure karna zaroori hota hai.
+o    Key Concept: Revenue aur sales target ko verify karte hue, unka minimum threshold cross hona zaroori hai.
+8. Complete Verification Process ✔️🔍
+o    Final Verification: Sabhi transactions ko inspect karo, aur ensure karo ke wo book ho rahi hain. Is process mein business knowledge ka hona zaroori hota hai.
+o    Final Step: Jo jo records check kiye hain, unko final approval ke liye review karo aur cross-check karo.
+Practical Example 💡
+Business Knowledge: Agar company ki sales pe commission pay hoti hai, toh wo commission correctly record honi chahiye, aur agar wo sale December mein hui ho toh revenue ko bhi December mein hi record karna hoga.
+✅ Lecture 8 – Test of Detail on litigations
+📚 Reference: Book Pages 262
+📋 Lecture Summary:
+✅ Substantive Procedures on Litigation
+Assertion: Completeness
+🧾 Obtain list of cases and list of legal advisor from client.
+📊 Scan general ledger of legal expenses to ensure that all legal cases have been identified by the client.
+📝 Review minutes of the board meetings.
+Assertion: Existence
+📨 Circulate confirmation to legal advisors of the company.
+Assertion: Valuation
+📋 Evaluate confirmation response to ensure expected amount of liability to be recorded or disclosed.
+📧 Review correspondence between legal advisor and client.
+📐 Verify reasonableness of the assumptions used in recording provision.
+Assertion: Rights and Obligations
+⚖️ Evaluate confirmation response to ensure whether provision should be recognized or disclosed.
+👨‍⚖️ Consider involving Firm’s own legal advisor to assess the probability of outflow.
+Assertion:  Presentation and Disclosures
+📘 Ensure that proper disclosure of contingent liability have been made as per IFRS.
+✅ New case identified not disclosed by legal advisor in confirmation
+💬 Ask management whether they have communicated this case to legal advisor?
+📢 If management says that case have not been communicated to legal advisor, ask management to communicate the case and request legal advisor to send confirmation again.
+📄 Evaluate confirmation response to ensure expected amount of liability to be recorded or disclosed.
+🧐 Review correspondence between legal advisor and client
+📊 Verify reasonableness of the assumptions used in recording provision.
+THE END
+📚 Lecture Full Explanation:
+🔍 Intro – Litigation pe Focus kyun zaroori hai?
+Auditor ka kaam hota hai ensure karna ke agar koi legal case chal raha ho, to uska record/disclosure sahi ho.
+Har litigation case ka financial statements pe asar hota hai – ya to note mey disclose hoga ya expense & liability record hogi.
+⚖️ Case Assessment ke Scenarios
+🧾 Auditor ki Zimmedari
+Ensure karo ke proper recording ya disclosure ho as per risk level.
+Regulatory dispute ke case mein auditor check kare:
+Kya expense record hua hai?
+Management ne disclose kia hai?
+👀 Assertion Hit: Completeness & Valuation
+🚨 Agar Management Ne Cases Chhupa Liye
+Kabhi kabhi management kuch cases batata nahi.
+Auditor ko completeness assess karni hoti hai:
+Total cases poochhna
+Legal records ya external confirmation se compare karna
+📌 Line: “Agar management ne case bataya hi nahi, to aap record nahi kar paoge.”
+🍽️ Example – Restaurant Wala Case
+Expired food serve hua → Legal risk → Fine possible from regulator
+📌 Risk: Penalty + Reputation ka nuksaan 📌 Assertion Hit: Completeness, Occurrence, Valuation
+🧠 PTCL Example (Deep Dive)
+PTCL ke 5000+ cases
+MIS system use hota hai → case detail, status, court name
+170+ lawyers
+Har lawyer ko assign kiya jata hai specific case pe:
+Pension case → Pension expert
+Tax case → Tax expert
+📌 Auditor: - List of Cases lo - List of Legal Advisors lo - Map karo: kaunsa lawyer kaunsa case dekh raha hai - Agar lawyer list me hai but case list me nahi → ❗ Completeness ka issue
+💻 MIS ka Role
+Data Excel ya digital sheet me maintain hota hai
+Include karta hai: court name, lawyer name, status, nature of case
+📌 Assertion Hit: Rights & Obligations, Completeness
+📊 Ledger Review – Legal Expenses
+Dr Legal Expense | Cr Payable
+Cross-check karo ledger entries with case list
+📌 Example: Lawyer ko paisa diya gaya, lekin uska case MIS me nahi mila → Red flag
+📩 Legal Advisor Confirmations
+Auditor legal advisors ko confirmation bhejta hai:
+Total cases ki list mangta hai
+Legal opinion poochta hai (Jeetenge ya Haarenge)
+📌 Compare karo Management wali list vs Lawyers wali list 📌 Assertion Hit: Existence, Rights, Completeness
+🔍 Confirmation Responses ka Analysis
+Agar kisi lawyer ki list me naya case milta hai jo management ne nahi diya:
+Confirm karo
+Phir se confirmation bhejo agar required ho
+📌 Red Flag: MIS ≠ Confirmed cases
+🔄 Comparative Analysis
+Current year ki case list compare karo previous year se
+Legal advisors ki list bhi compare karo
+Board meetings ke minutes read karo (kahi new case discuss to nahi hua?)
+📌 Evidence: Bank payment to lawyers, Meeting Minutes 📌 Risk: Hidden Obligations
+🧠 Expert ka Involvement
+Agar confirmation na aaye ya doubt ho → Auditor apna expert involve kare
+Court websites verify karne ke liye use hoti hain (Sindh High Court, IHC, SC, etc.)
+📌 Example: Court website pe case mil gaya jo lawyer ne bataya nahi
+📬 Final Confirmation – Report Date se Pehle
+Report sign hone se pehle ek aur confirmation jati hai
+Kya koi updated case hai?
+Haan → Report revise karo
+Nahi → Proceed with final
+📌 Yeh confirmation Reporting Date events ko cover karta hai
+🧾 Konse Cases Missing ho Sakte hain?
+MIS me koi case missing ho sakta hai?
+Lawyer confirm karta hai:
+Apne dekhe hue cases
+Har case ka detail
+Agar koi lawyer kisi case ko nahi report karta → Auditor confirm karega management se
+🛠️ Solution for Incomplete Disclosure
+Auditor management se kahega:
+Lawyer ko case ka detail de
+Nayi confirmation bheje
+Agar case report date se pehle discover hua → Adjust karo
+📌 Auditor legally check karega: Kya case properly communicate hua tha?
+📚 Documentation Sources
+Board minutes
+Court websites
+Legal expense ledger
+Confirmation responses
+📋 Summary Table
+✅ Lecture 9 – Test of Detail on Revenue (different performance obligation)
+📚 Reference: Book Pages 263
+📋 Lecture Summary:
+🔍 PROCEDURE ON Revenue (Different Performance Obligation)
+✅ Assertion: Completeness
+Obtain sales report from the management, check mathematical accuracy, and trace total to the financial statements/general ledger.
+Check invoice sequence to ensure there is no missing invoice, and confirm any missing invoice is properly cancelled.
+📌 Assertion: Occurrence
+Select sample sales transactions appearing in the GL/sales report for detailed examination.
+📊 Assertion: Accuracy / Allocation
+Obtain contract for the selected sample and inspect it to identify performance obligations and transaction price.
+Ensure proper allocation of the transaction price to different performance obligations based on standalone market prices.
+⏱️ Assertion: Timing / Cut-off
+Verify revenue recognition by ensuring revenue is recorded when performance obligation is satisfied, through inspection of goods dispatch notes or service delivery notes.
+🧾 Note:
+Balance → Existence hota hai
+ Transaction → Occurrence hota hai
+THE END
+📚 Lecture Full Explanation:
+📌 Main Topic: Revenue ko verify kaisay karte hain jab contract mein multiple cheezein hoti hain (jaise car sale + service).
+🧠 Nature of Entity ko Samajhna
+Sabse pehla kaam: Entity ka nature samajhna.
+Example: Atlas Honda car sell karta hai aur sath mein service bhi deta hai — dono ek hi contract ka part hain.
+Aisi situation mein multiple performance obligations hoti hain.
+📦 Performance Obligations aur Transaction Price
+Har performance obligation (jaise car aur service) ko alag treat karo.
+Total transaction price ko standalone market prices ki base par allocate karo.
+🧮 Example:
+Car ki value: 12 million
+Service ki value: 2 million
+Total value: 14 million
+Actually receive hua: 10 million
+Allocation Formula:
+(Item ka value / Total value) × Received amount
+🧾 Note: Car ka revenue usi waqt record hoga jab delivery ho jaye. Service ka revenue jab actual service milegi tab book hoga.
+🧾 Journal Entry Jab Sale Hoti Hai:
+Dr. Cash/Bank: 10M
+    Cr. Sales Revenue (Car): 8.57M
+    Cr. Contract Liability (Service): 1.43M
+📑 VERIFYING RECOGNITION CONDITIONS
+GDN check karo = Goods delivered?
+SDN (Service Delivery Note) = Service provided?
+📌 Agar dono complete ho gaye hain:
+Then total 10M revenue record karna valid hai
+📌 Agar sirf car deliver hui hai:
+To 8M revenue + 2M contract liability
+🔍 Allocation Procedure Kab Apply Karni Hai?
+Sirf tab jab:
+Entity ne khud bataya ho ke multiple performance obligations hain.
+Contract, pricing difference, ya bundled product ka mention ho.
+🚫 Agar ek simple sale hai jisme service ka koi zikr nahi — to allocation ka procedure apply nahi karna.
+📑 Source Document: Sales Report
+Sales report mein hota hai: Model, price, date, total sale value.
+Is report ko cross-check karo GDN (Goods Dispatch Note) aur General Ledger ke sath.
+✅ Check Karna Hai:
+Sales report ki mathematical accuracy
+Kya sales total GL se match karta hai?
+✅ COMPLETENESS 🔍
+Jani yeh check karna hai ke jo sales report mein hai wo complete hai ya nahi.
+Invoice numbers aise hain ke sequence maintain hai ya kahi missing invoices to nahi?
+Example: Invoice 1026 ke baad 1027 honi chahiye — agar beech mein koi number miss hai, to investigate karo.
+🛠️ CONTROL TEST vs TEST OF DETAILS
+Agar invoice sequence maintain hai to control effective hai.
+Agar nahi hai to Test of Details apply karo:
+Random GDNs uthao
+Dekho kya unka record sales report mein hai?
+🧠 Control testing ka example:
+Entity ke system mein automatic sequential invoicing set hai = Good Control
+Agar manual hai aur sequence break ho raha hai = Test Required
+📄 SALES REPORT CHECKING
+Sales report mein: GDN, Quantity, Model, Value, Date etc.
+Ye verify karo ke GDN report se match karta hai?
+GL ke andar jitni sales hain, kya wo yahin se originate hui hain?
+📌 Benchmark document kya hai? — Sales Report
+📆 CUT-OFF TEST FOR COMPLETENESS
+Year end ke aas paas ke GDN uthao (last 2–3 din of year & first 2–3 days of next year)
+Dekho:
+Jo GDNs 30 June ke hain, kya wo June ke sale mein aaye?
+Jo GDNs 1 July ke hain, wo new year mein record hue?
+📤 SAMPLE SELECTION FROM SALES REPORT
+Invoices ka sample lo from Sales Report
+Unke corresponding contracts uthao
+Contract se dekho:
+Kitni performance obligations hain?
+Transaction price kya hai?
+Standalone prices kya hain?
+💡 Final Note: Yeh poora procedure batata hai ke kaise Revenue recognition check karte hain — specially jab entity multiple goods/services provide karti ho.
+✅ Lecture 10 – Test of Detail on Revenue (stage of completion basis)
+– Test of Detail on Trade Payable
+📚 Reference: Book Pages 263,258
+📋 Lecture Summary:
+🔍 PROCEDURE ON Revenue (Long Term Construction Contracts)
+Ensure that revenue is recorded based on the stage of completion of the contract. ✅
+Inspect overall contract sales amount. 📋
+Obtain estimate of total cost from management and assess its reasonableness by: 🧾
+Comparing with other recently completed projects.
+Inspecting subsequent actual expenditures.
+Assessing cost elements (labour, overheads, material).
+Considering appointment of expert for cost reasonableness evaluation.
+Comparing management’s historical estimates with actuals to check precision.
+For cost to date, select a sample of incurred costs and vouch to supporting documents:
+Labour cost paid.
+Material cost (inspect goods issuance notes/purchase invoices).
+Assess overhead reasonableness by checking if they are directly attributable.
+Assess allocation mechanism (e.g., electricity/depreciation apportioned on hours worked).
+Calculate stage of completion by dividing cost to date with total estimated cost. 📐
+Determine revenue to be booked by multiplying stage of completion % with total revenue and trace it to sales report. 💰
+🧾 PROCEDURE ON Trade Payables
+Obtain list of supplier account payable listing, check mathematical accuracy and trace total to FS.
+Obtain subsequent bank statement and inspect subsequent payments and trace it back to GL.
+Select sample of GRN near period and trace it back to invoice details appearing in supplier subsidiary ledger.
+Compare current year suppliers with last year suppliers and inspect for usual suppliers.
+Select a sample of suppliers statements and trace it back to the general ledger.
+Circulate external confirmation to sample of suppliers.
+THE END
+📚 Lecture Full Explanation:
+🔹 Basic Concept Start
+🏗️ Jab kisi construction company ka audit hota hai, jaise koi customer ke liye all-weather house banaya ja raha ho, toh revenue recognition depend karta hai:
+➤ 📍 Point in Time → Agar apni land pe building banai aur baad mein bechi ➤ 📍 Over Time → Agar customer ki jagah pe asset ban raha ho (i.e. customer ne control le liya)
+🔸 Example: Own Land vs Customer Land
+📌 Own Land (Point in Time)
+🧱 Company apni khareedi hui land pe building banaye
+📦 Jab tak sell nahi hoti, inventory hoti hai
+📅 Revenue kab record? → Jab fully build kar ke sell kare → “Point in Time”
+📌 Customer Controlled Premises (Over Time)
+📍 Customer ki jagah pe kaam ho raha ho
+🔁 Control already transfer ho chuka ho
+📅 Revenue kab record? → Jaise jaise construction complete hoti hai → “Stage of Completion”
+🔍 Construction Contract Example
+📄 Contract Data:
+💰 Total Contract Price = Rs. 500 million
+🧾 Estimated Total Cost = Rs. 200 million
+💹 Profit = Rs. 300 million (Contract Level Profit)
+📆 Year 1:
+💸 Cost Incurred = Rs. 50 million
+🧮 % Completion = 50 / 200 = 25%
+📈 Revenue = 25% x 500 million = Rs. 125 million
+📊 Profit = Revenue - Cost = 125M - 50M = Rs. 75 million
+✅ Audit Understanding Required
+📑 Agar auditor kisi construction company ka audit kar raha hai, toh sales report mein revenue stage of completion pe book hua hoga.
+🕵️‍♂️ Auditor ko yeh verify karna hoga: ➤ 📜 Contract exist karta hai ➤ 🏗️ Work customer ki jagah pe ho raha hai ➤ 💵 Contract price fix hai ➤ 📏 Completion % correct hai (based on actual cost incurred)
+🧠 Verification Working
+📌 Stage of Completion = Cost Incurred ÷ Estimated Total Cost
+📌 Revenue = Completion % x Contract Price
+📊 Example:
+Cost = 50M, Estimated = 200M → % = 25%
+Revenue = 25% × 500M = 125M
+⚠️ Key Risks (Audit Point of View)
+🧮 Estimated total cost = Judgmental Area → subject to manipulation
+🔼 Overstated % completion = Overstated revenue
+📌 → CAM (Key Audit Matter) ban sakta hai agar judgment high ho
+📊 Summary Table
+🔍 Estimation Verification & Comparison Techniques
+📊 Compare recent completed project 🏗️ of similar nature with current project for estimation validation
+📌 Auditor Focus:
+⚠️ Total estimated cost verify karo
+❌ Revenue verify karna pehle year mein premature ho sakta hai
+✅ Sabse pehle contract ka cost estimate evaluate karo
+🛠️ Techniques for Verifying Estimated Cost
+📈 Comparison with Recent Similar Projects
+🏗️ Amar ke 4 towers ka example
+Ek tower complete ho gaya → compare cost with ongoing project
+🌍 Industry Benchmarking
+📍 Market knowledge use kar ke compare karo similar projects ki cost
+🧠 Auditor can rely on industry understanding
+🔍 Breakdown of Estimated Costs
+👷‍♂️ Labour cost
+🧱 Material cost
+⚡ Overheads (e.g. electricity, supervision)
+📌 Compare Components:
+Labour rate from previous similar projects
+Material purchase invoice, PO & GRN check karo
+Market rate & inflation ka effect evaluate karo
+👨‍🔧 Appointing Expert (if needed)
+🧑‍🔧 Civil Engineer or PEC-certified expert
+📌 Expert ki zarurat kab?
+Jab auditor khud se verify na kar sake
+High judgment involved ho
+🧾 Supporting Documents & Procedures
+📌 Auditor should inspect:
+📃 Total sales amount from contract
+📄 Estimated total cost by management
+📌 Match with historical trends
+📌 Compare Actual vs Estimated:
+📊 Budgeted vs Actual → consistent accuracy check
+🛠️ Poor historical estimation → current estimate doubtful
+💵 Cost to Date Verification (CTD)
+📦 Cost to Date = Ledger of accumulated cost
+📌 Includes:
+🧾 Inventory issued to site
+💸 Labour payments
+🔌 Electricity used(OH)
+📌 Accounting Treatment:
+🎯 Inventory credited → Contract cost debited (when issued)
+🔄 Transfer to COGS only when revenue is booked
+🔹 Ledger & COGS Verification Process
+📘 Contract cost ledger ke andar jitne bhi debit balances hain, wo sab project ki cost dikha rahe hote hain
+🔁 Ek credit entry pass ki jaati hai to transfer cost into COGS
+📉 Final entry: Contract Cost zero ho jata hai, COGS debit ho jata hai
+🔎 Mechanism Verification
+✅ Auditor ka kaam: ➤ Verify karo costs incurred (debits) ➤ Jab cost complete ho jaye, COGS credit verify karo ➤ 🔁 Same ledger me debit & credit dono verify hotay hain
+📦 Inventory purchases kaha verify karenge? → Inventory module
+🚚 Jab inventory issue hoti hai contract ko, woh contract cost me debit hoti hai
+⚙️ Allocation Basis Verification
+📌 Total cost ko project-wise allocate karo: ➤ Electricity by area or machine hour ➤ Machinery depreciation by usage hour
+❌ Agar basis galat ho, toh cost ledger bhi galat ho sakta hai
+🔍 Cost to Date Calculation
+🧾 Total cost verify hone ke baad: ➤ Use formula: Cost to Date / Estimated Total Cost ➤ Ye percentage use hoga to calculate revenue
+🧮 Revenue = % x Contract Price ➤ Compare with sales report
+💸 Receivable Verification
+📥 Revenue ke against receivable bhi hona chahiye
+🧾 Match karo: ➤ Revenue booked (Credit) ➤ Cash/Receivable (Debit)
+📊 Gross Sales Presentation (Companies Act Compliant)
+🧮 Revenue Calculation: ➤ Revenue = 125M x 1.17 = Rs. 146.25M ➤ Less: Sales Tax = Rs. 21.25M ➤ Net Revenue = Rs. 125M
+📋 Presentation: ➤ Gross Sales ➤ Less: Sales Tax, Discounts ➤ Net Revenue shown in books
+🔹 Starting Point: Understanding Trade Payables
+📦 Trade payables ka matlab hai: amounts payable to multiple suppliers
+💡 Sabse pehle: Open Supplier Ledger
+📋 Supplier Ledger Verification
+🔄 Cross-Verification from Payment Side
+🏦 Obtain bank statement
+🔁 Select random payments → Trace back to: ➤ Supplier → ➤ Invoice → ➤ PO
+📌 Traceability ensures recorded liabilities are valid.
+🧾 Supplier Statement Matching
+📤 Suppliers often send monthly statements for reconciliation
+🧪 Select sample supplier statements → Match with company’s payable ledger
+📌 Third-party evidence → Strong audit evidence for completeness assertion
+📧 Supplier Confirmation Process (Simplified)
+📌 Ensure payable actually exists and is accurate
+🌍 Foreign Supplier Verification
+🌐 If supplier is overseas → Payables may be in foreign currency
+🔄 Use SBP exchange rate to translate to PKR
+🔍 Check invoice value × rate = booked amount
+📊 Summary Table
+✅
+Lecture 11 – Test of Detail on INCOME TAX
+📚 Reference: Book Pages 264
+📋 Lecture Summary:
+🔍 PROCEDURE ON Income Tax
+📥 Obtain calculation of current tax from the management
+📊 Match profit before tax from the financial statements
+🧾 Ensure adjustments in profit before tax are made as per Income Tax Ordinance 2001
+✅ Check mathematical accuracy of adjustments to arrive at taxable income
+📚 Verify tax rate from Income Tax Ordinance 2001
+🔢 Re-calculate current tax expense by applying tax rate on taxable income
+🧮 Check whether deferred tax has been appropriately booked on all temporary differences
+THE END
+📚 Lecture Full Explanation:
+📌 Basic Concept: PBT se Taxable Income tak ka Safar
+PBT aata hai financial accounts se, lekin Taxable Income calculate hoti hai Income Tax Ordinance 2001 ke mutabiq, with changes from Finance Act.
+Dono mein difference hota hai due to:
+Disallowed expenses
+Adjustments
+Different treatment in tax vs accounting
+🧠 Adjustments to PBT (Roman Urdu Style)
+Provision for Bad Debts ❌
+Jab tak actual write-off na ho, tax authority accept nahi karti.
+Ye banata hai Permanent Difference → Ho sakta hai Deferred Tax Asset (DTA) create ho.
+Disallowed Payments ❌
+Kuch kharche allowable nahi hote tax law ke mutabiq.
+Jaise:
+Non-verified payments
+Cash limit exceed hona
+Separate Block Incomes 💼
+Example: Capital Gains – alag rate se tax hota hai.
+Inko normal taxable income se alag rakhna zaroori hai.
+📊 Taxable Income Calculate Karne ka Step-by-Step Table:
+🔍 Auditor ka Kaam – Tax Adjustments ka Audit
+Dekhna hai ke kya client ne sahi PBT liya hai ya galat number use kiya hai?
+Adjustments properly apply ki gayi hain ya nahi, Income Tax Ordinance ke mutabiq.
+Calculations mathematically accurate hain ya nahi.
+Deferred tax assets/liabilities properly recognized hain ya nahi.
+🏦 Deferred Tax – Important Points
+Deferred Tax Asset (DTA) sirf tab record karo jab future mein taxable profit hone ke chances strong hon.
+Agar losses hain, toh DTA sirf utne amount pe record karo jitna carry-forward period (jaise 3 saal) mein recoverable ho.
+🧮 Example:
+Tax Loss = Rs. 5 billion
+Future taxable profit estimate = Rs. 1.2 billion
+✅ Toh DTA sirf Rs. 1.2 billion pe record hoga
+Lecture 12 – Test of Detail on Investment
+📚 Reference: Book Pages 272
+📋 Lecture Summary:
+🔍 PROCEDURE ON Investment
+See Under Pic 1
+THE END
+📚 Lecture Full Explanation:
+🏢 Company Investments ka Audit Angle
+Jab auditor kisi company ka audit karne jaye aur balance sheet mein investments nazar aayein, sabse pehla sawal yeh hoga:
+Kya investment Equity Securities mein hai? 📈
+Ya Debt Securities mein hai? 💳
+🔍 Equity vs Debt Securities
+Equity Securities = Company ke shares kharidna.
+Debt Securities = Bonds, Debentures, TFCs, etc.
+Agar shares hain toh unki Fair Value:
+Ya toh P&L (Profit & Loss) mein jaayegi
+Ya OCI (Other Comprehensive Income) mein
+Debt Securities ki valuation:
+FVTOCI (Fair Value Through OCI)
+FVTPL (Fair Value Through P&L)
+Amortised Cost
+📈 Investment Register – Auditor ka Tool
+Auditor kehte hain: “Bhai Investment Register dikhao”
+Usme hoti hain:
+Equity securities 🔹
+Debt securities 🔸
+🧠 Key Audit Checks
+FV Through P&L wali Investments
+Check karo: Kya entity in securities ke saath regular trading karti hai? ➡️ Trading intention proof hona chahiye.
+SPPI Test (Solely Payments of Principal & Interest)
+Portfolio movement check karna hoga 📊
+SPPI test se classification validate hoti hai
+📊 Investment Register Detail Format
+✅ Audit Focus – Mathematical Accuracy & Completeness
+Auditor check karta hai:
+Closing Qty × Closing Price = Total Value
+Ye value Financials mein shown value se match karti hai ya nahi?
+Filter by P&L or OCI and sum values for reconciliation
+🔄 Completeness vs Verification
+Completeness: Ensure all investments from register reflect in financials 📑
+Verification: Baad mein hoti hai — data, prices, and quantity documents se check karna
+🏦 Investment in Debt Securities – Audit Focus
+Investment Register ki Demand:
+Auditor client se keh raha: “Ek aur Investment Register dedo jisme debt securities ki detail ho.”
+Purpose: Verify karna ke client ne kis kis company ke debt instruments purchase kiye hain.
+Accounting Entries Understanding:
+Example: Auditor PTCL audit kar raha hai.
+PTCL ne agar apne sukuk issue kiye: Entry → Cash Dr, Liability Cr.
+Auditor ne agar PTCL ke sukuk purchase kiye: Entry → Investment Dr, Cash Cr.
+Movement Picture Banani:
+Opening balance → Additions (purchase) → Interest → Closing.
+Auditor ye full movement samajhta hai taake closing value verify ho sake.
+Multiple Securities = Multiple Schedules:
+Example: 15 jagah investments hain → 15 schedules banenge.
+Har schedule ka closing total match karna hoga register ke closing se.
+📋 Verification through CDC (Central Depository Company)
+CDC ka Role:
+CDC = Custodian of electronic shares.
+Har shareholding electronically registered hoti hai CDC mein.
+Shareholder register bhi CDC handle karta hai.
+Confirmation from CDC:
+Auditor CDC ko confirmation letter bhejta hai for client’s account.
+CDC confirm karta hai 31 Dec ko client ke account mein kaun kaun se securities hain.
+CDC statement + quantity check.
+Matching with Issuer’s Books:
+Example: Client ne PTCL ke shares liye hain → PTCL ki books mein bhi uska naam hona chahiye.
+📈 Valuation of Securities at Year-End
+Closing Valuation Steps:
+CDC se quantity li.
+PSX (Pakistan Stock Exchange) se 31 Dec ka closing rate nikala.
+Quantity × Rate = Closing Value.
+Sample Testing:
+Large volume of securities → Full testing possible nahi.
+Sample select karo → Sample securities ke:
+Quantity verify karo (CDC/BO Advice se).
+Rate verify karo (PSX se).
+Multiply karke value verify karo.
+Purchase Price Verification:
+BO advice (Broker’s Note) se verify karo:
+Purchase date
+Quantity
+Rate
+🧠 Sample Testing Steps
+Sample ka Selection
+Sample kisi bhi date ka ho sakta hai.
+Random selection hone chahiye with audit logic.
+Testing the Sampled Investment
+Quantity check karo ✅
+Bank se paisa gaya ya nahi – confirm via bank statement ✅
+Purchase price & transaction date verify karo ✅
+Projection
+Sample correct hone ka matlab: Entire population reasonably correct
+Yehi sampling ka principle hai (projection of result).
+💹 Sales of Investments (Disposal Testing)
+Register Check
+Investment jitne pe aayi thi, utne pe hi jaani chahiye (register tracking)
+Sample Selection for Disposal
+Har sale transaction ka sample nahi test karte
+Smart sample pick kar ke:
+Quantity match karo
+sale price verify karo
+Sale ke din ki market price confirm karo
+Gain/Loss Calculation
+Sampled transactions pe gain/loss calculate karo
+Ye figure project hota hai on total sales
+🏦 Custodian, Trustee, & Physical Verification
+Custodian = CDC ya bank
+Trustee confirm karta hai transaction hua ya nahi
+Physical term sheet bhi exist karti hai
+Confirmation directly custodian ko bheji ja sakti hai
+💰 Coupon Interest / Bonds / Fixed Investments
+Interest income verify karne ke liye:
+Agreement se coupon rate nikaalo
+Term sheet read karo (bond terms, dates, etc.)
+Confirmation from bank or issuer
+Lecture 13 – Test of Detail on  Intangible
+– Test of Detail on Share Capital
+– Chap audit evidence
+📚 Reference: Book Pages 264, 228
+📋 Lecture Summary:
+🔍 PROCEDURE ON  Intangible
+See Under Pic 1
+🔍 PROCEDURE ON  Share Capital
+See Under Pic 2
+THE END
+📚 Lecture Full Explanation:
+🧠 Understanding Intangible Assets (IA) – Audit POV
+Yeh topic PPE jaisa hi hai, lekin thoda focused aur specific approach chahiye.
+Jaise Fixed Asset Register hota hai, waise hi yahan chahiye Intangible Register 📋
+📒 Structure of Intangible Register
+Class of Asset: Software, Brand, Trademark, etc.
+Description: Har IA ka detail (e.g., module ka naam, version, model)
+Multiple classes ho sakti hain ek hi software ke andar
+SERP-based tracking hosakti hai (e.g., Hospital software)
+🧪 R&D Expense Classification
+Research Phase ➡️ Expense
+Development Phase ➡️ Capitalise if conditions met:
+Technical feasibility
+Intention to complete
+Resources available
+Ability to use/sell
+Future economic benefits
+Cost measurable
+🔍 Audit Procedures – Intangibles
+Register ka format PPE jaisa:
+Additions
+Disposals
+Amortisation
+Mathematical accuracy + Completeness check
+Board minutes for disposal verification
+Floor to sheet verification via random agreement selection
+Supporting documents: Agreement, invoice, bank payment proof
+🏗️ CWIP (Intangibles under Development)
+Sample select kro Additions se and check:
+Supporting docs (agreement, cost sheets)
+Research vs development phase ka bifurcation
+Conditions met for capitalisation?
+🏢 Business Combination Involvement
+Jab koi subsidiary acquire ki ho:
+Check holding % and purchase consideration
+Verify: Assets acquired mein IA include hai ya nahi
+Use latest FS or expert valuation report
+Goodwill calc: Fair value of consideration - Net Assets
+📌 Concept Breakdown
+Pehla Step: “Mujhe jo CWIP ka schedule mila hai, usko alag se lena hai.” → Expenditure ke neeche aata hai.
+Auditor ka kaam:
+CWIP ka schedule obtain karo.
+Isko inspect karo to see if koi expenditures hain jo verify karne hain.
+Alternative research, visa cost, search fee — yeh sab CWIP mein aa sakte hain agar relevant hon.
+🌟 Important Line (Must Remember):
+“Main schedule of CWIP obtain karunga, inspect karunga whether there is any expenditure.”
+📎 Assertion Hit:
+Procedure ka hissa banega:
+“I inspected the CWIP schedule and obtained relevant details.”
+“Verified whether development conditions have been met or not.”
+⚠️ Risk (Implied):
+CWIP mein galat ya unsupported expenditures ho sakte hain agar schedule properly inspect na kiya jaye.
+🧾 Example:
+“Development nature ka ek expenditure schedule mein mila.”
+Auditor ne development conditions ko inspect kiya.
+Supporting documents se verify kiya.
+Concept: Legal Confirmation for Share Capital and Related Parties 📜🔍📎
+1. Context:
+Topic continues from International Job, moving into Share Capital understanding.
+Step-by-Step Breakdown: 🪜🧾📑
+Q: Jab client kehta hai shareholding theek hai, toh auditor kya kare?
+[Must Remember] Auditor should not rely blindly.
+1. Obtain Legal Document (Form-A):
+Regulatory Return hoti hai
+Annually submit hoti hai
+Update hoti hai with current information
+✅ Assertion hit: Legal confirmation needed before concluding.
+✅ Risk: Agar Form-A na lia toh auditor incomplete picture pe rely kar sakta hai.
+2. Two Key Documents to Ask From Client: 📝📂🔐
+Legal Filing with Regulator (Form-A)
+Supporting Evidence (e.g., Board resolution / communication)
+[Important Line] “Main client se legal document mangta hu — koi kaam ka Form-A dey de.”
+Example: 💡📄🧾
+Auditor ne Form-A check kiya → pata chala related party me koi naye directors hain jinka mention pehle nahi tha.
+Concept: Audit Evidence & Its Sufficiency 🔍📄📚
+1. Understanding Audit Evidence: 🧠📑✅
+Auditor ko sufficient aur appropriate audit evidence lena hota hai.
+Ye evidence client ke claims verify karne ke liye hota hai.
+Sirf kehne se auditor satisfy nahi hota — proof hona chahiye.
+2. Sources of Audit Evidence: 🔎🧾📤
+Observation (Observe karna)
+Inspection (Legal documents dekhna)
+Re-calculation (Mathematical checking)
+Re-performance (Khud se process repeat karna)
+Inquiry (Management se poochhna)
+Confirmation (External confirmation lena)
+3. Kya sab procedures use kiye gaye? 🧪🗂️🔁
+Haan, sare methods apply kiye gaye: confirmation, inquiry, observation, inspection.
+Example: Depreciation re-calculate kiya, related parties confirm kiye.
+4. How much evidence is enough? ⚖️📏📌
+It depends on:
+Risk level
+Nature of item
+Complexity
+Auditor’s past experience
+Auditor ko professional judgment use karna padta hai.
+5. Quality of Evidence: 🎯📚🧾
+Appropriate = Relevant + Reliable
+External confirmation > Internal data
+Original document > Copy
+6. Concept of “Sufficient Appropriate Evidence” (SAE): 📐📋📦
+Sufficient: Quantity (Kitna evidence chahiye)
+Appropriate: Quality (Evidence kaisa hona chahiye)
+7. Importance of Professional Skepticism: 🚫👀🤔
+Auditor blindly rely nahi karta.
+Har claim ko verify karta hai.
+8. Linking Assertions: 🔗📈📌
+Evidence directly relate karta hai to assertions:
+Existence
+Completeness
+Rights and obligations
+Accuracy
+Valuation
+Lecture 14 – Test of Detail on  Expenses (general Expenses)
+📚 Reference: Book Pages 265
+📋 Lecture Summary:
+🔍 PROCEDURE on  Expenses
+See Book
+THE END
+📚 Lecture Full Explanation:
+✅ Important: PPE kis jagah use ho raha hai?
+Hamesha yeh pocho: PPE ka use kis department mein ho raha hai?
+Agar Selling Dept mein ho raha hai → Selling Expense.
+Agar Admin Dept mein ho raha hai → Admin Expense.
+🔸 Example: Selling dept ka computer → clearly Selling Asset.
+✅ Concept: Normal Expense ka Recording
+Normal Expenses = Regular bills like chai, pani, patti waghera.
+Invoices ko simple basis pe record karte hain.
+Examiner pooch sakta hai: “Chai ka bill kab record hoga?”
+Jawaab: Jis month ka bill hai, usi month mein cut-off ke basis pe record hoga.
+🔸 Example: Electricity bill December ka hai → December mein hi record karo.
+✅ Expense Verification ka Tareeqa
+Jaise Painting, Stationery, Utilities, Entertainment:
+Unko match karo Ledger, Reports, aur Maths Recalculation ke sath.
+Saath hi journal entries bhi check karo.
+🔹 Kya karna hai:
+Samples lo
+Cut-off, Supporting Documents, aur Bank Se Traceability check karo.
+✅ Salary Expense: Alag Treatment
+Salary ko alag is liye treat karte hain kyun ke ismein multiple checks hote hain:
+Basic Pay → Time sheets aur Attendance se link hoti hai.
+Supervisor sign-off zaroori.
+Bonus → Must be Board of Directors approved.
+Overtime → Approval ke sath hota hai.
+Income Tax deductions → Ordinance ke according.
+📌 Is wajah se salary ka treatment normal expenses se alag hota hai.
+✅ Real-Life Example: Entertainment Expense Spike
+2023 mein Entertainment Expenses mein sudden 150% increase dekha gaya.
+School audit mein pata chala reason tha:
+Halloween event ki wajah se expenses barh gaye.
+Auditor ne proper inquiry ki aur root cause identify kiya.
+Lecture 15 – Test of Detail on  Salary Expense
+📚 Reference: Book Pages 265
+📋 Lecture Summary:
+🔍 PROCEDURE ON  Salary Expense
+See Under Pic 1
+THE END
+📚 Lecture Full Explanation:
+🔹 Salary Cycle Basics
+Har saal 12 salary payments hoti hain (monthly basis).
+Salary ke basic components:
+Basic Pay
+Allowances
+Bonus
+Tax Deduction
+Net Pay
+➡️ In sab ko mila kar banta hai Payroll Register ya Payroll Data
+🔹 Payroll Register Verification
+Auditor client se 12 months ka payroll register mangta hai.
+Kya check karein?
+Mathematical Accuracy
+Traceability to Financial Statements
+Source documents se match (e.g., attendance, approval, tax rules)
+✅ Assertion Hit: Accuracy & Cut-off
+🔹 Salary Ledger vs Bank Verification
+Jo bhi salary ledger mein aa raha hai, usko Bank Statement se match karo.
+Salary ledger ka Net Payment hi bank se niklega — full gross nahi.
+➡️ Entry example:
+Dr. Salary Expense (100%)
+Cr. Tax Payable to Govt
+Cr. Net Payable to Employees
+🔹 Analytical Procedures Setup
+Auditor perform karta hai:
+Analytical Procedures
+Expectation develop karna
+Deviation ka reason samajhna
+✅ Parameters Required:
+Number of employees
+Monthly salary structure
+Increments (if any)
+New joiners / Leavers
+🔹 Practical Expectation Build Karna
+🧠 Scenario:
+December 2023 salary unusual lag rahi hai
+Auditor checks for:
+New joiners
+Leavers
+Increment impact
+➡️ Agar client kahta hai increment 12.5% laga:
+Apply 12.5% on old employees only
+New joiners ko nahi milta (unless 1 year complete)
+Leavers ko bhi nahi milta
+📌 Important: Jo employees increment date pe exist nahi karte, unko adjust karo using Panel Data Filters
+🔹 Bonus, Allowances & Salary Components
+Bonus hamesha one-time hota hai, aur Basic Pay ka part nahi hota.
+Bonus ko salary structure se alag treat kiya jata hai.
+Auditor ko ensure karna hota hai:
+Bonus is approved separately (Board/HR approval)
+Bonus ka impact salary se separately analyze kiya jaye
+Bonus, Overtime, Allowances ka proper breakup ho
+➡️ Assertion Hit: Occurrence & Completeness
+🔹 FS Figures Match Karna
+Auditor Payroll Summary + Bonus + Allowances ko Financial Statements se match karta hai
+Agar mismatch aaye, reasons analyze karein:
+Late salary disbursement?
+Prepaid salary?
+Understatement/Overstatement?
+✅ FS figure se match hone ka matlab hai auditor ka confidence level high hai
+🔹 Analytical Procedures: Core Concept
+Analytical vs Test of Detail:
+Analytical: Trend analysis, ratio-based, high-level view
+ToD: Sample uthana, detail verification
+➡️ Agar analytical mein clue mil jaye, toh ToD follow-up mein use hota hai
+🔹 Real Life Twist Example
+👀 Auditor ne dekha ek company mein 5 log same address wale hain:
+Salary: 1.2 million+
+Tax slab mismatch
+Intentional splitting to reduce tax
+➡️ Auditor ne filter lagaya, mismatch detect kiya, management se pucha, reasoning mili
+Lesson: Pattern recognition + questioning = evidence
+🔹 Verification Techniques (Test of Detail)
+Employment Contract Review
+Sample se contract uthao
+Salary + Allowance + Joining terms check karo
+Payroll Data Match
+System record se match karo
+Payroll system ke andar se salary slips verify karo
+Bonus Approval Validation
+Bonus slip ya HR approval letter verify karo
+Tax Deduction Recalculation
+Income Tax Ordinance 2001 ke mutabiq
+Recalculate tax on selected employees
+Tax slabs ke hisaab se verify karo
+Bank Statement Cross Check
+Net salary bank se gaya?
+Correct month ka payment hua?
+Lecture 16 – Test of Detail on  LEASES - IFRS 16
+📚 Reference: Book Pages 268
+📋 Lecture Summary:
+🔍 PROCEDURE ON  LEASES
+See Book
+THE END
+📚 Lecture Full Explanation:
+🔹 Introduction to Lease Audit 🏢📝🔍
+Agar kisi entity ki multiple branches hoon jo rent pe operate kar rahi hain (like banks), toh auditor ko IFRS 16 ka impact samajhna hota hai. Jab client ne kaha ke “lease arrangement hai,” toh auditor ke dimaag mein IFRS 16 ka bulb on ho jana chahiye. ⚡🧠📘
+🔹 Risk Identification 🔍⚠️📌
+Completeness Risk: Ho sakta hai kuch leases properly record na hui hoon.
+Classification Risk: Short-term ya low-value leases ko galat classify kar diya gaya ho.
+Measurement Risk: Present value calculation galat hui ho (discount rate issue).
+🔹 Procedure Overview 🛠️🧾✅
+Audit procedures hamesha kisi risk ke response mein perform hoti hain.
+Example:
+Agar info milay ke branch rent pe hai, toh auditor IFRS 16 impact check karega.
+🔄 Pehla kaam hoga: Lease Schedule Management se lena
+Obtain Lease Schedule from client
+Ensure schedule mein:
+Opening ROU
+Additions
+Depreciation
+Closing Balance
+➡️ Total lease schedule ka FS ke Lease figure se match hona chahiye
+🔹 New Lease Identification 🆕📂🔎
+Inspect Board Minutes for approval of new lease arrangements 📑🏛️🖊️
+Scan Vendor Ledger to spot any new rental entries
+Check Rental Payment Trend: 10 leases dikh rahi hain, toh 12 months mein payment honi chahiye
+🔁 Completeness check through cross-verification
+🔹 Sample Based Verification 🔬📄✔️
+Sample lease pick kar ke following cheezein verify karo:
+Lease Agreement: Rental, Discount Rate, Tenure
+Board Approval: Exists or not
+Discount Rate Appropriateness: Agar rate missing hai, toh borrowing rate lagaya gaya?
+Lease Life Reasonability: Kya useable life realistic hai?
+🔹 Recalculation of Lease Liability & ROU Asset 🧮📉📊
+Parameters verify karo (rental, tenure, discount rate)
+Recalculate Present Value (PV) of lease payments
+Match with client-provided ROU & Liability
+➡️ Discrepancy aaye toh reason pucho, ya correction suggest karo
+🔹 Payment Verification 💳📆📂
+Inspect Bank Statements
+Rental payment hui ya nahi?
+Correct period mein hui?
+➡️ Payment trace karo Lease Schedule ke sath
+🔹 Disclosure in FS 📘📢🧾
+Lease liability & ROU asset properly disclose hua?
+Notes to FS mein maturity profile diya gaya?
+✅ Ensure presentation complies with IFRS 16
+🔹 Real-life Logic Example 🧠🏠📊
+Agar koi lease last year exist karti thi, magar iss saal nahi dikhaayi gayi:
+Auditor ko puchna chahiye: Lease terminate hui? Kya documentation hai?
+Lesson: Har change ka proper reasoning aur documentation hona chahiye
+Lecture 17 – Practice Questions📋

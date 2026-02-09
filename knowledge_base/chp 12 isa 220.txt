@@ -1,0 +1,121 @@
+Lecture- 1
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Topic: Quality Control under ISA 220 ✅
+1. Overview:
+ISA 220 ka main purpose: Maintain high quality in audit 🏆.
+Quality maintain karne ka responsibility auditor pe hai 👨‍💼, taake client professional quality services receive kare 🏢✨.
+2. Practical Example:
+Agar organization ne control lagaya hai ⚙️, jaise sales cycle mein credit limit before selling 💳:
+Purpose: avoid bad debts 💸, ensure proper transaction processing 🔄.
+Auditor ka role: Check, test aur evaluate controls 🔍🛠️.
+Agar controls nahi lagaye: firm non-compliant ho jaati hai with International Standards in Auditing (ISA) ❌.
+3. Framework of Quality Control:
+Step 1: Control establish karna by the firm 🏢.
+Step 2: Control ko assess karna 📊.
+Step 3: Control ko test karna 🧪.
+Step 4: Audit accordingly 🗂️.
+4. Responsibilities:
+Engagement Partner (Partner in charge of engagement) 👤:
+Ensure quality control ✅.
+Verify compliance with ISA and professional standards 📜.
+Perform client background investigation 🔎:
+Governance check 🏛️
+Fraud involvement check 🚨
+Senior personnel review 👔
+5. Outcome:
+Properly maintained quality control ensures:
+Accurate audit conclusions 📑✔️
+Professional service to client 💼🤝
+Compliance with ISA 220 requirements 📘✅
+Topic: Client Acceptance & Engagement Partner Responsibilities under Quality Control ✅
+1. Client Acceptance & Engagement Letter:
+Engagement letter tab tak sign nahi hota jab tak Partner ensure na kare ke client acceptance process complete ho 💌.
+Partner pehle sign karega, phir client ko send karega 📤.
+Team members ko background investigation karna hota hai 🕵️‍♂️.
+Check news, blacklists, fraud cases ❌
+Global watch lists / MIS system reports 📊
+2. Background Investigation & Documentation:
+Purpose: Ensure client aur owners ka integrity check ✅
+Documentation: Upload sab details in Canvas system 💻
+Include experience of partner, manager, and team members 👥
+Ensure proper MIS reporting aur data management 🗂️
+3. Partner Responsibilities:
+Partner review karta hai engagement team ka kaam 🔍
+Ensure compliance with Independence requirements ⚖️
+Supervision & guidance: Set direction, review work, approve conclusions 🧭
+Decision making includes: Consultation if needed 🗣️
+Final sign off by partner before sending letter to client 🖊️
+4. Team & Resource Management:
+Hiring competent staff with industry knowledge 👨‍💼
+Assign tasks & responsibilities based on expertise 🏷️
+Supervise work, review conclusions, ensure quality standards met ✅
+5. Consultation Process:
+High judgment or complex issues require consultation with other partners or experts 👩‍⚖️
+Ensures material matters are properly assessed 📑
+Outcomes documented for audit trail 📝
+6. Quality Control Linkage:
+Partner ensures documentation, supervision, consultation, and review are all performed before client acceptance 🏆
+Continuous monitoring & review of engagement team performance 📊
+Maintain quality control throughout the engagement 🔧
+Lecture- 2
+📚 Reference: Book Pages -
+📚 LECTURE FULL EXPLANATION:
+Topic: Quality Control under ISA 220 & Partner Review Process ✅
+1. Overview:
+ISQC (International Standards on Quality Control) aur ISA 220 ka purpose: Ensure high-quality audit performance globally 🌍.
+Engagement Partner ko Quality Control Review appoint karna hota hai for every audit engagement 🔍.
+2. Appointment of Quality Control Reviewer:
+Required for listed companies aur public interest entities 🏦.
+Reviewer assess karega engagement team’s work aur ensure karega accuracy aur compliance 📊.
+Late appointments possible hain agar one-year lapse ho gaya ho ya delay ho 💡.
+3. Role of Quality Control Review:
+Review complete hota hai before client acceptance 📜.
+Reviewer verify karega:
+Work performed correctly ✅
+Audit conclusions accurate 📝
+Engagement Partner ke views align ho 👥
+Documentation: All review actions aur working papers record kiye jaate hain 💻
+4. Engagement Partner Responsibilities:
+Ensure quality maintained throughout engagement 🏆
+Discuss views with Quality Control Reviewer to prevent bias ⚖️
+Approve final conclusions based on reviewer feedback 🖊️
+Supervision includes direction, guidance, and ensuring proper audit performance 🧭
+5. Public Interest Considerations:
+Banks ya entities holding public funds considered public interest entities 🏦💰
+High public involvement requires stricter quality control aur additional review steps 👀
+Reviewer ensures that audit assessment is thorough aur material matters properly evaluated 📑
+6. Documentation & Audit Trail:
+Saari decisions, reviews, aur consultations document ki jaati hain 📝
+Ensure karta hai transparency aur accountability 🔐
+Reviewer confirm karta hai ki engagement team ke actions aur conclusions sahi hain aur professional standards follow ho rahe hain ✅
+7. Consultation & Complex Judgements:
+High judgement cases mein consultation required hoti hai with other partners ya experts 👩‍⚖️
+Documentation ensures audit trail for decisions aur assessments 🗂️
+Independence maintain hoti hai aur bias in conclusions avoid kiya jata hai ⚖️
+Topic: Engagement Quality Control Review & Audit Report Sign-Off ✅
+1. Listed Companies & Audit Report:
+Pehle listed companies ki process nahi sikhai thi, aj sikhaya ja raha hai 📚
+Audit report ko go-ahead sign nahi milta jab tak Quality Control Review complete na ho ✔️
+Example: Canvas software me documents attach karte hain for response, control testing aur conclusion 💻
+2. Engagement Quality Control (EQC) Process:
+EQC ko tick karna hota hai in the system for sign-off ✍️
+Sign-off ka matlab: EQC ne document review kiya aur approve kiya ✅
+File tab tak close nahi ho sakti jab tak sign-off nahi hota 🚫
+3. Engagement Partner Responsibilities:
+Engagement partner appoint karta hai EQC partner 🧑‍💼
+EQC partner audit judgements ko assess karega, issues discuss karega aur confirmation dega before report sign-off 📝
+Ensures objective evaluation aur proper documentation of all conclusions 🗂️
+4. EQC Role in Review:
+Objective evaluation of audit judgements made by the engagement team 👀
+Questions about anomalies, salary, employee counts, interest calculations, provisions etc. 💡
+Ensures conclusions drawn in audit report are accurate aur supported by working papers ✅
+5. Consultation & Complex Judgements:
+EQC may consult third parties if needed 📞
+Consultation documented aur decisions traceable 🔍
+Maintains independence aur avoids bias between engagement partner aur EQC 👥
+6. Control & Monitoring:
+Monitoring process ensures proper audit execution aur independent checks 🛡️
+Audit Committee monitors internal audit department reports 📑
+Ensures system aur control processes properly operate even after initial review ⚙️
+Note: Maximum theory questions can be asked from this topic.

@@ -3,289 +3,207 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ShimaX Labs | Enterprise EdTech Infrastructure</title>
+    <title>ShimaX Labs | Sovereign EdTech Infrastructure</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@300;400;500;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
     
     <style>
-        :root {
-            --bg-dark: #030303;
-            --border-glass: rgba(255, 255, 255, 0.08);
-            --bg-glass: rgba(255, 255, 255, 0.02);
-        }
-
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: var(--bg-dark);
-            color: #ffffff;
-            overflow-x: hidden;
-            -webkit-font-smoothing: antialiased;
-        }
-
-        h1, h2, h3, .heading-font { font-family: 'Space Grotesk', sans-serif; }
+        :root { --bg: #000; --accent: #fff; --glass: rgba(255,255,255,0.02); --border: rgba(255,255,255,0.06); }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: #fff; overflow-x: hidden; }
+        h1, h2, h3, h4 { font-family: 'Space Grotesk', sans-serif; }
         
-        /* Lenis Smooth Scroll Fix */
+        /* Lenis Makkhan Scroll */
         html.lenis { height: auto; }
         .lenis.lenis-smooth { scroll-behavior: auto !important; }
 
-        /* Premium Text Gradients (Monochrome/Silver) */
-        .text-gradient {
-            background: linear-gradient(180deg, #ffffff 0%, #737373 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+        /* Premium Transitions */
+        .glass-card {
+            background: var(--glass);
+            border: 1px solid var(--border);
+            border-radius: 40px;
+            backdrop-filter: blur(20px);
+            transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+            position: relative;
+            overflow: hidden;
         }
-        .text-gradient-subtle {
-            background: linear-gradient(90deg, #a1a1aa 0%, #d4d4d8 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
+        .glass-card:hover { border-color: rgba(255,255,255,0.15); transform: translateY(-12px); box-shadow: 0 40px 80px -20px rgba(0,0,0,0.8); }
 
-        /* Video Overlay */
-        .hero-vignette {
-            background: radial-gradient(circle at center, transparent 0%, var(--bg-dark) 80%);
-        }
+        /* GPT Hover Reveal Effect */
+        .img-reveal-container { position: relative; width: 100%; height: 100%; overflow: hidden; border-radius: 20px; }
+        .secondary-img { opacity: 0; position: absolute; inset: 0; transform: scale(1.1); transition: all 0.8s ease; }
+        .glass-card:hover .secondary-img { opacity: 1; transform: scale(1); }
+        .glass-card:hover .primary-img { transform: scale(1.05); opacity: 0.3; }
 
-        /* Glass Panels */
-        .glass-panel {
-            background: var(--bg-glass);
-            border: 1px solid var(--border-glass);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            border-radius: 24px;
-            transition: all 0.4s ease;
-        }
-        .glass-panel:hover {
-            border-color: rgba(255, 255, 255, 0.2);
-            background: rgba(255, 255, 255, 0.04);
-            transform: translateY(-4px);
-        }
+        /* Text Shine Effect */
+        .text-shine { background: linear-gradient(180deg, #fff 0%, #444 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        
+        /* Floating WhatsApp */
+        .wa-float { position: fixed; bottom: 30px; right: 30px; z-index: 100; transition: transform 0.3s; }
+        .wa-float:hover { transform: scale(1.1); }
 
-        /* Infinite Marquee */
-        .marquee-container { overflow: hidden; white-space: nowrap; width: 100%; border-top: 1px solid var(--border-glass); border-bottom: 1px solid var(--border-glass); padding: 16px 0; background: var(--bg-dark); }
-        .marquee-track { display: inline-block; animation: marquee 30s linear infinite; }
-        @keyframes marquee { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
-
-        /* Horizontal Scroll Wrapper */
-        .horizontal-scroll-wrapper { width: 300vw; height: 100vh; display: flex; flex-wrap: nowrap; }
-        .horizontal-panel { width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: center; padding: 0 5vw; }
-
-        /* Custom Scrollbar for a cleaner look */
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: var(--bg-dark); }
-        ::-webkit-scrollbar-thumb { background: #333; border-radius: 10px; }
-        ::-webkit-scrollbar-thumb:hover { background: #555; }
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: #000; }
+        ::-webkit-scrollbar-thumb { background: #222; border-radius: 10px; }
     </style>
 </head>
 <body>
 
-    <nav class="fixed w-full top-0 z-50 bg-[#030303]/80 backdrop-blur-md border-b border-white/10">
-        <div class="max-w-7xl mx-auto px-6 py-5 flex justify-between items-center">
-            <div class="text-xl font-bold tracking-tight heading-font flex items-center gap-2">
-                <div class="w-2 h-2 bg-white rounded-full"></div> ShimaX Labs.
+    <a href="https://wa.me/923164156249" target="_blank" class="wa-float">
+        <div class="bg-[#25D366] p-4 rounded-full shadow-[0_0_20px_rgba(37,211,102,0.4)]">
+            <svg class="w-7 h-7 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.414 0 .004 5.412.004 12.049c0 2.123.547 4.197 1.59 6.042L0 24l6.135-1.61a11.782 11.782 0 005.91 1.586h.005c6.632 0 12.042-5.413 12.042-12.051a11.8 11.8 0 00-3.528-8.521z"/></svg>
+        </div>
+    </a>
+
+    <nav class="fixed w-full top-0 z-50 bg-black/40 backdrop-blur-xl border-b border-white/5">
+        <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+            <div class="text-2xl font-bold tracking-tighter">ShimaX<span class="text-gray-500 font-light italic">Labs</span></div>
+            <div class="hidden md:flex gap-10 text-[10px] font-black uppercase tracking-[0.3em] text-gray-500">
+                <a href="#infra" class="hover:text-white transition">Infrastructure</a>
+                <a href="#eco" class="hover:text-white transition">Ecosystem</a>
+                <a href="#security" class="hover:text-white transition">Security Protocol</a>
             </div>
-            <div class="hidden md:flex gap-8 text-sm font-medium text-gray-400">
-                <a href="#infrastructure" class="hover:text-white transition">Infrastructure</a>
-                <a href="#ecosystem" class="hover:text-white transition">Ecosystem</a>
-                <a href="#security" class="hover:text-white transition">Security</a>
-            </div>
-            <a href="#" class="bg-white text-black px-5 py-2.5 rounded-full text-sm font-semibold hover:bg-gray-200 transition">Deploy Now</a>
+            <a href="mailto:shiamzasghar1@gmail.com" class="bg-white text-black px-6 py-2 rounded-full font-bold text-xs uppercase tracking-widest hover:invert transition">Contact Founder</a>
         </div>
     </nav>
 
-    <section class="relative h-screen flex flex-col justify-center items-center text-center px-4 overflow-hidden" id="hero">
-        
-      <video autoplay loop muted playsinline class="absolute inset-0 w-full h-full object-cover opacity-30 z-0 scale-105">
-            <source src="start.mp4" type="video/mp4">
+    <section class="relative h-screen flex flex-col justify-center items-center text-center px-4 overflow-hidden">
+        <video autoplay loop muted playsinline class="absolute inset-0 w-full h-full object-cover opacity-20 z-0">
+            <source src="gpt.mp4" type="video/mp4">
         </video>
-        <div class="absolute inset-0 hero-vignette z-10"></div>
-        <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-[#030303] z-10"></div>
+        <div class="absolute inset-0 bg-gradient-to-b from-transparent via-black/20 to-black z-10"></div>
 
-        <div class="relative z-20 w-full max-w-5xl mx-auto mt-16">
-            <div class="hero-chip inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-white/10 bg-white/5 mb-8 text-xs font-semibold tracking-wide uppercase text-gray-400">
-                <span class="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse"></span>
-                System v2.0 Live
-            </div>
-            
-            <h1 class="hero-title text-6xl md:text-8xl lg:text-[100px] font-bold tracking-tighter mb-6 text-gradient" style="line-height: 1;">
+        <div class="relative z-20 max-w-6xl mx-auto">
+            <h1 class="text-7xl md:text-[130px] font-bold tracking-tighter leading-[0.85] mb-10 text-shine">
                 Architecting <br>Digital Monopolies.
             </h1>
-            
-            <p class="hero-subtitle text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10 font-light">
-                We build fully managed, piracy-proof Operating Systems and AI Tutors for elite CA, ACCA, and Medical institutes. Stop teaching. Start simulating.
+            <p class="text-xl md:text-2xl text-gray-400 max-w-3xl mx-auto mb-14 font-light leading-relaxed">
+                Elite tech infrastructure for CA, ACCA, and Medical institutes. We convert legacy teaching into a 
+                <span class="text-white font-bold border-b border-white/20">Sovereign Digital OS.</span>
             </p>
-            
-            <div class="hero-buttons flex justify-center gap-4">
-                <a href="#" class="bg-white text-black px-8 py-4 rounded-full font-semibold hover:bg-gray-200 transition flex items-center gap-2">
-                    Initialize Setup <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
-                </a>
+            <div class="flex gap-6 justify-center">
+                <a href="#infra" class="bg-white text-black px-12 py-5 rounded-full font-bold text-lg hover:bg-gray-200 transition">Explore Platform</a>
             </div>
         </div>
     </section>
 
-    <div class="marquee-container relative z-20 shadow-2xl">
-        <div class="marquee-track text-gray-500 font-medium tracking-[0.2em] uppercase text-xs md:text-sm">
-            &nbsp; • 125+ Premium Lectures Secured • Grok/HuggingFace API Integration • Military-Grade IP Protection • Dynamic JSON Data Sync • Live Firm Simulators • Custom Rate-Limited AI 
-            &nbsp; • 125+ Premium Lectures Secured • Grok/HuggingFace API Integration • Military-Grade IP Protection • Dynamic JSON Data Sync • Live Firm Simulators • Custom Rate-Limited AI 
+    <div class="marquee relative z-20">
+        <div class="marquee-inner text-[10px] font-black uppercase tracking-[0.4em] text-gray-600">
+            • Secured by ShimaX Protocol • Dynamic JSON Sync • Grok API Infrastructure • Firebase Auth Gateway • Private GitHub Vaults • Zero Piracy Tolerance • Faisalabad Engineered • secured by ShimaX Protocol • Dynamic JSON Sync • Grok API Infrastructure • Firebase Auth Gateway • Private GitHub Vaults • Zero Piracy Tolerance • Faisalabad Engineered
         </div>
     </div>
 
-    <section id="infrastructure" class="py-32 px-6 max-w-7xl mx-auto">
-        <div class="mb-20 max-w-3xl gs-reveal">
-            <h2 class="text-SM font-bold tracking-widest text-gray-500 uppercase mb-4">The Infrastructure</h2>
-            <h3 class="text-4xl md:text-5xl font-bold mb-6 text-gradient">Built for Scale. <br>Engineered for Dominance.</h3>
-            <p class="text-xl text-gray-400">A robust microservices architecture leveraging Firebase, GitHub, and custom LLMs. Completely white-labeled for your brand.</p>
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-12 gap-6 auto-rows-[minmax(300px,_auto)]">
+    <section id="infra" class="py-40 px-6 max-w-7xl mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-10">
             
-            <div class="glass-panel col-span-1 md:col-span-8 p-10 flex flex-col justify-between gs-reveal relative overflow-hidden group">
-                <div class="absolute top-0 right-0 w-64 h-64 bg-white opacity-5 rounded-full blur-3xl group-hover:opacity-10 transition"></div>
-                <div class="relative z-10">
-                    <div class="w-12 h-12 rounded-lg bg-white/10 flex items-center justify-center mb-6">💻</div>
-                    <h4 class="text-3xl font-bold mb-3">Live Firm Simulators</h4>
-                    <p class="text-gray-400 max-w-lg text-lg">Give students the exact interface of an Audit Firm or Medical Clinic. Real-time data fetched securely from private JSON repositories. Time-bound, high-pressure environments.</p>
+            <div class="glass-card col-span-1 md:col-span-8 group cursor-pointer" onclick="window.open('https://wa.me/923164156249')">
+                <div class="p-12 pb-0">
+                    <div class="flex justify-between items-start mb-10">
+                        <div>
+                            <h3 class="text-5xl font-bold mb-4 tracking-tighter">Firm Operating System</h3>
+                            <p class="text-gray-400 text-xl max-w-md">Experience Audit Management in real-time. Hover to see the GPT integration.</p>
+                        </div>
+                        <span class="px-5 py-2 bg-white/5 border border-white/10 rounded-full text-[10px] font-bold tracking-widest text-gray-400">01 // LIVE SIMULATOR</span>
+                    </div>
+                </div>
+                <div class="img-reveal-container h-[500px] px-12 pb-12">
+                    <img src="firm-simulator.jpg" class="primary-img w-full h-full object-cover object-top rounded-3xl transition-all duration-1000">
+                    <img src="gptboth.jpg" class="secondary-img w-full h-full object-cover object-top rounded-3xl">
                 </div>
             </div>
 
-            <div class="glass-panel col-span-1 md:col-span-4 p-10 flex flex-col justify-between gs-reveal">
-                <div class="relative z-10">
-                    <div class="w-12 h-12 rounded-lg bg-white/10 flex items-center justify-center mb-6">🤖</div>
-                    <h4 class="text-2xl font-bold mb-3">Rate-Limited AI TAs</h4>
-                    <p class="text-gray-400">Powered by HuggingFace & Grok APIs. Strict prompt-guards ensure the AI only teaches your curriculum and never hallucinates.</p>
+            <div class="glass-card col-span-1 md:col-span-4 p-12 flex flex-col justify-between">
+                <div>
+                    <h3 class="text-3xl font-bold mb-6 tracking-tighter">AI Case <br>Grader</h3>
+                    <p class="text-gray-400 leading-relaxed mb-10">Powered by Grok. Grades assignments based on marking schemes with 100% logic accuracy.</p>
+                    <div class="img-reveal-container h-48">
+                        <img src="mcq.jpg" class="w-full h-full object-cover rounded-2xl opacity-60">
+                    </div>
                 </div>
+                <div class="mt-10 font-mono text-[10px] text-green-500 uppercase tracking-widest animate-pulse">> Grok_API_Status: Optimal</div>
             </div>
 
-            <div class="glass-panel col-span-1 md:col-span-4 p-10 flex flex-col justify-between gs-reveal">
-                <div class="relative z-10">
-                    <div class="w-12 h-12 rounded-lg bg-white/10 flex items-center justify-center mb-6">🧠</div>
-                    <h4 class="text-2xl font-bold mb-3">The Smart Codex</h4>
-                    <p class="text-gray-400">Students highlight any complex book line, and the system instantly pulls a practical, real-world scenario to explain it.</p>
-                </div>
+            <div class="glass-card col-span-1 md:col-span-5 p-12 group">
+                <h3 class="text-3xl font-bold mb-6 tracking-tighter">The Smart Codex</h3>
+                <p class="text-gray-400 mb-10 leading-relaxed">Students highlight logic, our system explains it "Asaan Lafzon Mein" instantly.</p>
+                <img src="smart-codex.jpg" class="w-full rounded-2xl grayscale group-hover:grayscale-0 transition-all duration-700 shadow-2xl">
             </div>
 
-            <div class="glass-panel col-span-1 md:col-span-8 p-10 flex flex-col justify-between gs-reveal relative overflow-hidden">
-                <div class="absolute right-0 bottom-0 opacity-20 p-10">
-                    <svg width="200" height="100" viewBox="0 0 200 100"><path d="M10,50 L50,50 M50,50 A10,10 0 1,1 70,50 A10,10 0 1,1 50,50 M70,50 L130,50 M130,50 A10,10 0 1,1 150,50 A10,10 0 1,1 130,50 M150,50 L190,50" stroke="white" stroke-width="4" fill="none"/></svg>
+            <div class="glass-card col-span-1 md:col-span-7 group">
+                <div class="p-12 relative z-20">
+                    <h3 class="text-4xl font-bold mb-4 tracking-tighter">Netflix-Style Journey</h3>
+                    <p class="text-gray-400 text-lg mb-10">Standards transformed into "Seasons". Learning is now a binge-watching saga.</p>
                 </div>
-                <div class="relative z-10">
-                    <div class="w-12 h-12 rounded-lg bg-white/10 flex items-center justify-center mb-6">🔄</div>
-                    <h4 class="text-3xl font-bold mb-3">Dynamic Cloud Delivery</h4>
-                    <p class="text-gray-400 max-w-lg text-lg">No more outdated portals. Content is driven by private GitHub Repositories and JSON files. We update the data, and your platform evolves in real-time without server restarts.</p>
+                <div class="h-64 overflow-hidden px-12">
+                    <img src="netflix-ui.jpg" class="w-full rounded-t-3xl border-t border-x border-white/10 group-hover:translate-y-[-20px] transition-transform duration-1000">
                 </div>
             </div>
 
         </div>
     </section>
 
-    <section id="ecosystem" class="relative bg-[#050505] border-y border-white/5 py-20 overflow-hidden">
-        <div class="px-6 max-w-7xl mx-auto mb-10 relative z-10">
-            <h2 class="text-4xl md:text-5xl font-bold text-gradient">The Netflix of Education.</h2>
-            <p class="text-xl text-gray-400 mt-4 max-w-2xl">A binge-worthy ecosystem designed to keep students hooked. No boring PDFs allowed.</p>
+    <section id="eco" class="py-40 bg-[#020202]">
+        <div class="px-6 max-w-7xl mx-auto mb-24">
+            <h2 class="text-7xl font-bold tracking-tighter text-shine">The Ecosystem.</h2>
+            <p class="text-gray-500 mt-6 text-xl">Bespoke modules engineered for high-density learning.</p>
         </div>
-
-        <div class="horizontal-container relative w-full h-[600px] flex items-center">
-            <div class="horizontal-track flex gap-8 px-6 md:px-20 w-max">
-                
-                <div class="glass-panel w-[350px] md:w-[500px] h-[400px] p-8 flex flex-col justify-between shrink-0">
-                    <h4 class="text-2xl font-bold">Cinematic Podcasts</h4>
-                    <p class="text-gray-400">Google LLM Notebook generated audio. 125+ detailed lectures transformed into interactive, on-the-go podcast episodes.</p>
-                    <div class="w-full h-32 bg-white/5 rounded-lg border border-white/10 flex items-center justify-center text-gray-600 font-medium">Audio Visualizer Graphic</div>
-                </div>
-
-                <div class="glass-panel w-[350px] md:w-[500px] h-[400px] p-8 flex flex-col justify-between shrink-0">
-                    <h4 class="text-2xl font-bold">Interactive Mindmaps</h4>
-                    <p class="text-gray-400">Deep interconnectivity of concepts. Expand and collapse logic trees that drill down into 110+ practical scenarios.</p>
-                    <div class="w-full h-32 bg-white/5 rounded-lg border border-white/10 flex items-center justify-center text-gray-600 font-medium">Mindmap Graphic</div>
-                </div>
-
-                <div class="glass-panel w-[350px] md:w-[500px] h-[400px] p-8 flex flex-col justify-between shrink-0">
-                    <h4 class="text-2xl font-bold">Past Paper Engine</h4>
-                    <p class="text-gray-400">Real-time JSON databases mimicking actual exam pressure. 15-min reading time, categorized choices, and ninja-techniques attached.</p>
-                    <div class="w-full h-32 bg-white/5 rounded-lg border border-white/10 flex items-center justify-center text-gray-600 font-medium">Exam UI Graphic</div>
-                </div>
-
-                 <div class="glass-panel w-[350px] md:w-[500px] h-[400px] p-8 flex flex-col justify-between shrink-0 flex items-center justify-center text-center">
-                    <h4 class="text-3xl font-bold text-white mb-2">And 50+ More Modules</h4>
-                    <a href="#" class="text-gray-400 hover:text-white underline underline-offset-4">Request Full Demo</a>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-    <section id="security" class="py-32 px-6 max-w-7xl mx-auto">
-        <div class="flex flex-col md:flex-row gap-16 items-center">
+        <div class="flex gap-10 px-10 overflow-x-auto pb-20 no-scrollbar">
             
-            <div class="w-full md:w-1/2 gs-reveal">
-                <h2 class="text-4xl md:text-5xl font-bold mb-6 text-gradient">Military-Grade IP Guard.</h2>
-                <p class="text-xl text-gray-400 mb-8">Your intellectual property is your most valuable asset. We treat it like Fort Knox. We built a custom security layer that makes content theft virtually impossible.</p>
-                
-                <ul class="space-y-6">
-                    <li class="flex gap-4">
-                        <div class="w-6 h-6 rounded-full bg-white/10 flex items-center justify-center shrink-0 mt-1">✓</div>
-                        <div>
-                            <h5 class="text-lg font-bold">Firebase Authentication</h5>
-                            <p class="text-gray-400 text-sm mt-1">Strict login gateways. Direct URL access to HTML files is blocked. Unauthorized users are instantly redirected to auth screens.</p>
-                        </div>
-                    </li>
-                    <li class="flex gap-4">
-                        <div class="w-6 h-6 rounded-full bg-white/10 flex items-center justify-center shrink-0 mt-1">✓</div>
-                        <div>
-                            <h5 class="text-lg font-bold">Developer Tools Locked</h5>
-                            <p class="text-gray-400 text-sm mt-1">Right-click disabled. F12 (Inspect Element) blocked. Network tab obfuscation prevents scraping of your JSON files.</p>
-                        </div>
-                    </li>
-                    <li class="flex gap-4">
-                        <div class="w-6 h-6 rounded-full bg-white/10 flex items-center justify-center shrink-0 mt-1">✓</div>
-                        <div>
-                            <h5 class="text-lg font-bold">Private Repositories</h5>
-                            <p class="text-gray-400 text-sm mt-1">All core logic and student assignment data reside in highly secure, private GitHub repositories, isolated from the front-end.</p>
-                        </div>
-                    </li>
-                </ul>
+            <div class="glass-card w-[550px] shrink-0 p-10 group">
+                <img src="podcast-player.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all">
+                <h4 class="text-3xl font-bold mb-4">Cinematic Masterclasses</h4>
+                <p class="text-gray-500 text-lg">Detailed lectures transformed into interactive, cinematic audio series.</p>
             </div>
 
-            <div class="w-full md:w-1/2 gs-reveal">
-                <div class="glass-panel p-6 font-mono text-sm text-gray-400 overflow-hidden relative h-[400px]">
-                    <div class="absolute inset-0 bg-gradient-to-b from-transparent to-var(--bg-glass) z-10"></div>
-                    <p class="text-green-500 mb-2">// SECURITY.JS - INITIALIZING PROTOCOLS</p>
-                    <p>const authState = await firebase.auth().currentUser;</p>
-                    <p>if (!authState) {</p>
-                    <p class="pl-4">window.location.replace('/login');</p>
-                    <p class="pl-4">throw new Error('Unauthorized access blocked.');</p>
-                    <p>}</p>
-                    <p class="mt-4 text-green-500">// DISABLING DEV TOOLS</p>
-                    <p>document.addEventListener('contextmenu', event => event.preventDefault());</p>
-                    <p>document.onkeydown = function(e) {</p>
-                    <p class="pl-4">if(e.keyCode == 123) return false; // F12</p>
-                    <p class="pl-4">if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) return false;</p>
-                    <p>}</p>
-                    <p class="mt-4 text-green-500">// API RATE LIMITER ACTIVATED</p>
-                    <p>const limits = await checkGrokQuota(userId);</p>
-                    <p>...</p>
-                </div>
+            <div class="glass-card w-[550px] shrink-0 p-10 group">
+                <img src="exam-engine.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all">
+                <h4 class="text-3xl font-bold mb-4">Past Paper Engine</h4>
+                <p class="text-gray-500 text-lg">Real-time examination pressure simulator with dynamic JSON logic.</p>
+            </div>
+
+            <div class="glass-card w-[550px] shrink-0 p-10 group">
+                <img src="procedure-sprint.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all">
+                <h4 class="text-3xl font-bold mb-4">Procedure Sprints</h4>
+                <p class="text-gray-500 text-lg">Analyze real-world scenarios and formulate procedures without spoon-feeding.</p>
             </div>
 
         </div>
     </section>
 
-    <footer class="border-t border-white/10 bg-[#020202] pt-32 pb-10">
-        <div class="max-w-4xl mx-auto px-6 text-center mb-24 gs-reveal">
-            <h2 class="text-5xl md:text-7xl font-bold tracking-tighter mb-8 text-gradient">The future belongs to those who build it.</h2>
-            <p class="text-xl text-gray-400 mb-10 font-light">Join the elite tier of educators using ShimaX Labs to fully automate and scale their institutes.</p>
-            <div class="flex flex-col sm:flex-row justify-center gap-4">
-                <a href="#" class="bg-white text-black px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-200 transition">Book Architecture Call</a>
-                <a href="#" class="px-10 py-4 rounded-full border border-white/20 text-white font-bold text-lg hover:bg-white/5 transition">View Pricing</a>
+    <section id="security" class="py-40 px-6 max-w-7xl mx-auto border-t border-white/5">
+        <div class="flex flex-col md:flex-row gap-20 items-center">
+            <div class="w-full md:w-1/2">
+                <h2 class="text-6xl font-bold mb-10 tracking-tighter text-shine">Military-Grade IP Guard.</h2>
+                <p class="text-xl text-gray-400 leading-relaxed mb-10">Your lectures, notes, and methodology are fully encrypted. We built a security layer that makes content theft impossible.</p>
+                <div class="space-y-6">
+                    <div class="flex items-center gap-4 text-gray-300 font-bold"><span class="w-2 h-2 bg-white rounded-full"></span> Inspect Element Disabled</div>
+                    <div class="flex items-center gap-4 text-gray-300 font-bold"><span class="w-2 h-2 bg-white rounded-full"></span> Firebase Access Gateways</div>
+                    <div class="flex items-center gap-4 text-gray-300 font-bold"><span class="w-2 h-2 bg-white rounded-full"></span> Private Repo Obfuscation</div>
+                </div>
+            </div>
+            <div class="w-full md:w-1/2 bg-[#050505] border border-white/10 rounded-[40px] p-12 font-mono text-sm leading-loose">
+                <p class="text-green-500 mb-6">// SHIMAX_SECURITY_PROTOCOL_v4.0</p>
+                <p><span class="text-blue-400">const</span> vault = <span class="text-purple-400">await</span> ShimaX.vault.lock();</p>
+                <p><span class="text-blue-400">if</span> (user.attempt_piracy) {</p>
+                <p class="pl-6">vault.banUser(user.id);</p>
+                <p class="pl-6">console.error(<span class="text-red-400">"Access Denied: IP Blocked"</span>);</p>
+                <p>}</p>
+                <p class="mt-8 text-gray-600 animate-pulse">> Monitoring_Traffic...</p>
             </div>
         </div>
+    </section>
 
-        <div class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center text-sm text-gray-600 border-t border-white/10 pt-8">
-            <p>© 2026 ShimaX Labs. All rights reserved.</p>
-            <div class="flex gap-6 mt-4 md:mt-0">
-                <a href="#" class="hover:text-white transition">Privacy Policy</a>
-                <a href="#" class="hover:text-white transition">Terms of Service</a>
-                <a href="#" class="hover:text-white transition">System Status</a>
-            </div>
+    <footer class="py-40 text-center border-t border-white/5 bg-[#010101]">
+        <h2 class="text-8xl font-bold mb-10 tracking-tighter text-shine">Scale with ShimaX.</h2>
+        <p class="text-gray-500 text-xl mb-16 max-w-2xl mx-auto leading-relaxed">
+            Ready to deploy your sovereign digital infrastructure? Contact our founder directly.
+        </p>
+        <div class="flex flex-col items-center gap-8">
+            <a href="mailto:shiamzasghar1@gmail.com" class="text-3xl font-bold hover:text-gray-400 transition underline underline-offset-8">shiamzasghar1@gmail.com</a>
+            <a href="tel:+923164156249" class="text-2xl font-light tracking-widest text-gray-400 hover:text-white transition">+92 316 4156249</a>
+        </div>
+        <div class="mt-40 text-[10px] uppercase tracking-[0.5em] text-gray-800">
+            © 2026 ShimaX Labs • Engineered in Faisalabad • All Rights Reserved
         </div>
     </footer>
 
@@ -294,74 +212,21 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
 
     <script>
-        // 1. Initialize Lenis (Makkhan Scroll)
-        const lenis = new Lenis({
-            duration: 1.2,
-            easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), // Apple-like easing curve
-            smooth: true,
-        });
-
-        function raf(time) {
-            lenis.raf(time);
-            requestAnimationFrame(raf);
-        }
+        const lenis = new Lenis({ duration: 1.5, smooth: true });
+        function raf(time) { lenis.raf(time); requestAnimationFrame(raf); }
         requestAnimationFrame(raf);
 
-        // 2. Register GSAP Plugins
         gsap.registerPlugin(ScrollTrigger);
 
-        // 3. Hero Load Animation (Peechay se aage aana)
-        // Set initial states to prevent FOUC (Flash of unstyled content)
-        gsap.set(".hero-chip, .hero-title, .hero-subtitle, .hero-buttons", { opacity: 0 });
+        // Hero Scale In
+        gsap.from(".hero-content", {
+            scale: 0.85, opacity: 0, duration: 2, ease: "power4.out"
+        });
 
-        const tl = gsap.timeline({ defaults: { ease: "power4.out" } });
-        
-        tl.fromTo(".hero-chip", { y: -20, opacity: 0 }, { y: 0, opacity: 1, duration: 1, delay: 0.3 })
-          // Title scales UP from 0.8 to 1 (peechay se aage)
-          .fromTo(".hero-title", { scale: 0.85, opacity: 0, y: 50 }, { scale: 1, opacity: 1, y: 0, duration: 1.5 }, "-=0.6")
-          .fromTo(".hero-subtitle", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 1 }, "-=1")
-          .fromTo(".hero-buttons", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 1 }, "-=0.8");
-
-        // 4. Hero Parallax Scroll
-        gsap.to(".hero-title", {
+        // Parallax scroll for Hero
+        gsap.to(".hero-content", {
             y: -150, opacity: 0, scale: 0.9,
             scrollTrigger: { trigger: "#hero", start: "top top", end: "bottom top", scrub: true }
-        });
-        gsap.to(".hero-subtitle", {
-            y: -100, opacity: 0,
-            scrollTrigger: { trigger: "#hero", start: "top top", end: "bottom top", scrub: true }
-        });
-
-        // 5. General Section Reveal (Standard Fade & Slide up)
-        gsap.utils.toArray('.gs-reveal').forEach(function(elem) {
-            gsap.fromTo(elem, 
-                { y: 50, opacity: 0 },
-                {
-                    y: 0, opacity: 1, duration: 1, ease: "power3.out",
-                    scrollTrigger: {
-                        trigger: elem,
-                        start: "top 85%", // Triggers when top of element hits 85% of screen height
-                    }
-                }
-            );
-        });
-
-        // 6. The Premium Horizontal Scroll (Ecosystem Section)
-        let horizontalTrack = document.querySelector('.horizontal-track');
-        let horizontalAmountToScroll = horizontalTrack.offsetWidth - window.innerWidth + 100; // Calculate scroll distance
-
-        gsap.to(horizontalTrack, {
-            x: -horizontalAmountToScroll,
-            ease: "none",
-            scrollTrigger: {
-                trigger: ".horizontal-container",
-                start: "top center", // Starts pinning when container is in middle of screen
-                end: () => "+=" + horizontalAmountToScroll, // Scrolls for the exact length of the track
-                pin: true, // PINS the screen (locks scroll vertically)
-                animation: gsap.to(horizontalTrack, {x: -horizontalAmountToScroll, ease: "none"}),
-                scrub: 1, // Smooth scrub effect
-                invalidateOnRefresh: true
-            }
         });
     </script>
 </body>

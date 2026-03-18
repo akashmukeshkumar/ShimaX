@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
     
     <style>
-        :root { --bg: #000; --accent: #fff; --glass: rgba(255,255,255,0.02); --border: rgba(255,255,255,0.06); }
+        :root { --bg: #000; --border: rgba(255,255,255,0.06); }
         body { font-family: 'Inter', sans-serif; background: var(--bg); color: #fff; overflow-x: hidden; }
         h1, h2, h3, h4 { font-family: 'Space Grotesk', sans-serif; }
         
@@ -18,7 +18,7 @@
 
         /* The "Sovereign" Glass Card */
         .glass-card {
-            background: var(--glass);
+            background: rgba(255,255,255,0.01);
             border: 1px solid var(--border);
             border-radius: 40px;
             backdrop-filter: blur(25px);
@@ -26,21 +26,22 @@
             position: relative;
             overflow: hidden;
         }
-        .glass-card:hover { 
-            border-color: rgba(255,255,255,0.15); 
-            transform: translateY(-12px); 
-            background: rgba(255,255,255,0.04);
-        }
+        .glass-card:hover { border-color: rgba(255,255,255,0.15); transform: translateY(-12px); background: rgba(255,255,255,0.03); }
 
         /* GPT Hover Switch Logic */
-        .hover-img-container { position: relative; width: 100%; height: 100%; overflow: hidden; }
-        .img-secondary { opacity: 0; position: absolute; inset: 0; transition: all 0.7s ease; transform: scale(1.1); }
+        .hover-img-container { position: relative; width: 100%; height: 100%; overflow: hidden; border-radius: 20px; }
+        .img-secondary { opacity: 0; position: absolute; inset: 0; transition: all 0.8s ease; transform: scale(1.1); }
         .glass-card:hover .img-secondary { opacity: 1; transform: scale(1); }
         .glass-card:hover .img-primary { opacity: 0.2; transform: scale(1.05); }
 
-        /* Text Effects */
-        .text-shine { background: linear-gradient(180deg, #fff 0%, #444 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        /* Text Gradients (Apple/Vercel Style) */
+        .text-shine { background: linear-gradient(180deg, #fff 0%, #737373 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
         
+        /* Video Blending Overlay */
+        .video-overlay {
+            background: radial-gradient(circle at center, transparent 0%, var(--bg) 90%);
+        }
+
         .no-scrollbar::-webkit-scrollbar { display: none; }
     </style>
 </head>
@@ -48,58 +49,63 @@
 
     <nav class="fixed w-full top-0 z-50 bg-black/40 backdrop-blur-xl border-b border-white/5">
         <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
-            <div class="text-2xl font-bold tracking-tighter">ShimaX Labs</div>
+            <div class="text-2xl font-bold tracking-tighter">ShimaX<span class="text-gray-600 font-light italic">Labs</span></div>
             <div class="hidden md:flex gap-10 text-[10px] font-black uppercase tracking-[0.3em] text-gray-500">
                 <a href="#infra" class="hover:text-white transition">Platform</a>
                 <a href="#eco" class="hover:text-white transition">Ecosystem</a>
-                <a href="#security" class="hover:text-white transition">Security</a>
+                <a href="#security" class="hover:text-white transition">Security Protocol</a>
             </div>
-            <div class="flex items-center gap-6">
-                <a href="mailto:shiamzasghar1@gmail.com" class="text-xs font-bold text-gray-400 hover:text-white transition">EMAIL</a>
-                <a href="https://wa.me/923164156249" class="bg-white text-black px-6 py-2 rounded-full font-bold text-[10px] uppercase tracking-widest hover:invert transition">WhatsApp</a>
-            </div>
+            <a href="https://wa.me/923164156249" class="bg-white text-black px-6 py-2 rounded-full font-bold text-[10px] uppercase tracking-widest hover:invert transition">Request Infrastructure</a>
         </div>
     </nav>
 
     <section class="relative h-screen flex flex-col justify-center items-center text-center px-4 overflow-hidden">
-        <video autoplay loop muted playsinline class="absolute inset-0 w-full h-full object-cover opacity-20 z-0">
-            <source src="gpt.mp4" type="video/mp4">
+        
+        <video autoplay loop muted playsinline class="absolute inset-0 w-full h-full object-cover opacity-30 z-0">
+            <source src="start.mp4" type="video/mp4">
         </video>
+        <div class="absolute inset-0 video-overlay z-10"></div>
         <div class="absolute inset-0 bg-gradient-to-b from-transparent via-black/20 to-black z-10"></div>
 
-        <div class="relative z-20 max-w-6xl mx-auto">
-            <h1 class="text-7xl md:text-[110px] font-bold tracking-tighter leading-[0.9] mb-10 text-shine">
+        <div class="relative z-20 w-full max-w-5xl mx-auto hero-content">
+            <h1 class="hero-title text-7xl md:text-[120px] lg:text-[140px] font-bold tracking-tighter leading-[0.85] mb-10 text-shine">
                 Architecting <br>Digital Monopolies.
             </h1>
-            <p class="text-xl md:text-2xl text-gray-400 max-w-3xl mx-auto mb-14 font-light leading-relaxed">
-                We build fully managed tech infrastructure for elite institutes. <br>
-                <span class="text-white border-b border-white/10">Zero Tech Headache. Military-Grade Security. Maximum Scale.</span>
+            <p class="hero-subtitle text-lg md:text-2xl text-gray-400 max-w-3xl mx-auto mb-14 font-light leading-relaxed">
+                We build fully managed tech infrastructure for elite institutes. Conversion from 
+                <span class="text-white border-b border-white/10">Legacy Teaching to a Sovereign Digital OS.</span>
             </p>
-            <div class="flex gap-6 justify-center">
-                <a href="#infra" class="bg-white text-black px-12 py-5 rounded-full font-bold text-lg hover:invert transition">View Infrastructure</a>
+            <div class="hero-buttons flex gap-6 justify-center">
+                <a href="#infra" class="bg-white text-black px-12 py-5 rounded-full font-bold text-lg hover:scale-105 transition">Explore Sovereign Platform</a>
             </div>
         </div>
     </section>
 
-    <section id="infra" class="py-40 px-6 max-w-7xl mx-auto">
+    <div class="marquee relative z-20 border-t border-b border-white/5 py-5 bg-[#010101] overflow-hidden">
+        <div class="marquee-track text-[10px] font-black uppercase tracking-[0.4em] text-gray-700 whitespace-nowrap animate-marquee">
+            &nbsp; • Zero Piracy Tolerance • Dynamic JSON Sync • Grok API Infrastructure • Firebase Access Gateways • Private GitHub Repositories • Secured by ShimaX Protocol • Faisalabad Engineered • Zero Piracy Tolerance • Dynamic JSON Sync • Grok API Infrastructure • Firebase Access Gateways • Private GitHub Repositories • Secured by ShimaX Protocol • Faisalabad Engineered
+        </div>
+    </div>
+
+    <section id="infra" class="py-40 px-6 max-w-7xl mx-auto relative z-20">
         <div class="mb-24 gs-reveal">
             <h2 class="text-[10px] font-black uppercase tracking-[0.5em] text-gray-600 mb-6">The Infrastructure</h2>
             <h3 class="text-6xl font-bold tracking-tighter text-shine">Engineered for Dominance.</h3>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-12 gap-10">
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-10 auto-rows-[450px]">
             
             <div class="glass-card col-span-1 md:col-span-8 group cursor-pointer">
-                <div class="p-12 pb-0">
+                <div class="p-12 pb-0 relative z-20">
                     <div class="flex justify-between items-start mb-10">
                         <div>
                             <h4 class="text-4xl font-bold mb-4 tracking-tighter">Live Firm Simulator</h4>
-                            <p class="text-gray-400 text-lg max-w-md italic">Experience real-world audit scenarios. Hover to see GPT Logic Integration.</p>
+                            <p class="text-gray-400 text-lg max-w-md italic">Experience real-world audit manager dashboard. Hover to see GPT integration.</p>
                         </div>
-                        <span class="text-[10px] font-bold text-gray-600 border border-white/10 px-4 py-1 rounded-full uppercase">Simulator v4.0</span>
+                        <span class="text-[10px] font-bold text-gray-600 border border-white/10 px-4 py-1 rounded-full uppercase">01 // Simulation Engine</span>
                     </div>
                 </div>
-                <div class="hover-img-container h-[500px] px-12 pb-12">
+                <div class="hover-img-container h-full px-12 pb-12">
                     <img src="firm-simulator.jpg" class="img-primary w-full h-full object-cover object-top rounded-3xl transition-all duration-700">
                     <img src="gptboth.jpg" class="img-secondary w-full h-full object-cover object-top rounded-3xl">
                 </div>
@@ -108,82 +114,64 @@
             <div class="glass-card col-span-1 md:col-span-4 p-12 flex flex-col justify-between group">
                 <div>
                     <h4 class="text-3xl font-bold mb-6 tracking-tighter">AI Case <br>Grader</h4>
-                    <p class="text-gray-400 leading-relaxed mb-10">24/7 student support with Grok-powered automated checking.</p>
+                    <p class="text-gray-400 leading-relaxed mb-10">Powered by Grok API. strict prompt-guards ensure the AI only checks marking schemes.</p>
                     <img src="mcq.jpg" class="w-full rounded-2xl opacity-40 group-hover:opacity-100 transition duration-700">
                 </div>
-                <div class="mt-10 font-mono text-[10px] text-green-500 uppercase tracking-widest animate-pulse">> Grok_Sync_Active</div>
+                <div class="mt-10 font-mono text-[10px] text-green-500 uppercase tracking-widest animate-pulse">> Grok_API_Sync: Active</div>
             </div>
 
             <div class="glass-card col-span-1 md:col-span-5 p-12 group">
                 <h4 class="text-3xl font-bold mb-6 tracking-tighter">The Smart Codex</h4>
-                <p class="text-gray-400 mb-10 leading-relaxed italic">Highlight logic, get instant practical explanations in "Asaan Lafzon Mein".</p>
+                <p class="text-gray-400 mb-10 leading-relaxed italic">Students highlight any tough book line, get instant practical scenarios in "Asaan Lafzon Mein".</p>
                 <img src="smart-codex.jpg" class="w-full rounded-2xl grayscale group-hover:grayscale-0 transition-all duration-1000">
             </div>
 
             <div class="glass-card col-span-1 md:col-span-7 group">
                 <div class="p-12">
-                    <h4 class="text-4xl font-bold mb-4 tracking-tighter">Netflix-Style Journey</h4>
-                    <p class="text-gray-400 text-lg">Standards transformed into seasons. Binge-worthy professional education.</p>
+                    <h4 class="text-4xl font-bold mb-4 tracking-tighter"> Dynamic Cloud Delivery</h4>
+                    <p class="text-gray-400 text-lg max-w-2xl leading-relaxed"> No outdated portals. Content driven by private GitHub Repos. When you update JSON data, your platform evolves in real-time.</p>
                 </div>
-                <div class="h-64 overflow-hidden px-12">
-                    <img src="netflix-ui.jpg" class="w-full rounded-t-3xl border-t border-x border-white/5 group-hover:translate-y-[-10px] transition-transform duration-1000">
-                </div>
+                <div class="absolute right-0 bottom-0 p-12 text-gray-800 font-bold text-sm italic">syncing_content...</div>
             </div>
 
         </div>
     </section>
 
-    <section id="eco" class="py-40 bg-[#020202] border-y border-white/5">
+    <section id="eco" class="py-40 bg-[#020202] border-t border-white/5 reltaive z-20">
         <div class="px-6 max-w-7xl mx-auto mb-20">
             <h2 class="text-7xl font-bold tracking-tighter text-shine">The Ecosystem.</h2>
         </div>
         <div class="flex gap-10 px-10 overflow-x-auto pb-20 no-scrollbar">
             
-            <div class="glass-card w-[500px] shrink-0 p-10 group">
-                <img src="podcast-player.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all">
+            <div class="glass-card w-[550px] shrink-0 p-10 group">
+                <img src="podcast-player.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all duration-700">
                 <h4 class="text-3xl font-bold mb-4 tracking-tighter">Audio Masterclasses</h4>
-                <p class="text-gray-500 text-lg">Google LLM generated cinematic audio series for CA/ACCA.</p>
+                <p class="text-gray-500 text-lg leading-relaxed">Google LLM generated audio series based on 125+ detailed lectures.</p>
             </div>
 
-            <div class="glass-card w-[500px] shrink-0 p-10 group">
-                <img src="mindmap-logic.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all">
-                <h4 class="text-3xl font-bold mb-4 tracking-tighter">Logic Mindmaps</h4>
-                <p class="text-gray-500 text-lg">Deep interconnectivity of 110+ audit scenarios.</p>
+            <div class="glass-card w-[550px] shrink-0 p-10 group">
+                <img src="mindmap-logic.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all duration-700">
+                <h4 class="text-3xl font-bold mb-4 tracking-tighter">Interactive Mindmaps</h4>
+                <p class="text-gray-500 text-lg leading-relaxed">Expand and collapse logic trees that drill down into 110+ practical scenarios.</p>
             </div>
 
-            <div class="glass-card w-[500px] shrink-0 p-10 group">
-                <img src="exam-engine.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all">
+            <div class="glass-card w-[550px] shrink-0 p-10 group">
+                <img src="exam-engine.jpg" class="w-full h-64 object-cover rounded-3xl mb-10 grayscale group-hover:grayscale-0 transition-all duration-700">
                 <h4 class="text-3xl font-bold mb-4 tracking-tighter">Exam Engine</h4>
-                <p class="text-gray-500 text-lg">Real-time examination pressure simulator with dynamic JSON sync.</p>
+                <p class="text-gray-500 text-lg leading-relaxed">Real-time dynamic JSON databases mimicking actual ICAP exam pressure.</p>
             </div>
 
         </div>
     </section>
 
-    <section class="py-40 px-6 max-w-5xl mx-auto text-center">
-        <h2 class="text-5xl font-bold mb-10 tracking-tighter text-shine">Scale According to Your Budget.</h2>
-        <p class="text-xl text-gray-500 mb-20">We offer Phase-wise Deployment. Start with core features and scale as your admissions grow.</p>
-        
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div class="p-10 border border-white/5 rounded-[40px] bg-white/[0.01]">
-                <h5 class="text-xl font-bold mb-4 italic">Phase 01</h5>
-                <p class="text-gray-500 text-sm italic">Core Infrastructure & Smart Codex Setup.</p>
-            </div>
-            <div class="p-10 border border-white/5 rounded-[40px] bg-white/[0.01]">
-                <h5 class="text-xl font-bold mb-4 italic">Phase 02</h5>
-                <p class="text-gray-500 text-sm italic">AI Case Grader & Ecosystem Integration.</p>
-            </div>
-            <div class="p-10 border border-white/5 rounded-[40px] bg-white/[0.01]">
-                <h5 class="text-xl font-bold mb-4 italic">Phase 03</h5>
-                <p class="text-gray-500 text-sm italic">Firm Simulator & Advanced Gamification.</p>
-            </div>
+    <footer class="py-40 text-center border-t border-white/5 bg-[#010101]">
+        <h2 class="text-8xl font-bold mb-10 tracking-tighter text-shine">Architect Your Sovereign Future.</h2>
+        <p class="text-gray-500 text-xl mb-16 max-w-2xl mx-auto leading-relaxed">Contact our founder directly to discuss deployment.</p>
+        <div class="flex flex-col items-center gap-6">
+            <a href="mailto:shiamzasghar1@gmail.com" class="text-2xl font-bold hover:text-gray-400 transition underline underline-offset-8">shiamzasghar1@gmail.com</a>
+            <a href="tel:+923164156249" class="text-xl font-light text-gray-600 hover:text-white transition">+92 316 4156249</a>
         </div>
-    </section>
-
-    <footer class="py-40 text-center border-t border-white/5">
-        <h2 class="text-8xl font-bold mb-10 tracking-tighter text-shine">Deploy Your Monopoly.</h2>
-        <a href="mailto:shiamzasghar1@gmail.com" class="text-2xl font-light tracking-widest text-gray-400 hover:text-white transition">shiamzasghar1@gmail.com</a>
-        <p class="mt-40 text-[10px] uppercase tracking-[0.5em] text-gray-800">© 2026 ShimaX Labs • Faisalabad Engineered</p>
+        <p class="mt-40 text-[10px] uppercase tracking-[0.5em] text-gray-800">© 2026 ShimaX Labs • Engineered in Faisalabad</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.29/bundled/lenis.min.js"></script>
@@ -191,9 +179,39 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
 
     <script>
+        // 1. Makkhan Scroll
         const lenis = new Lenis({ duration: 1.5, smooth: true });
         function raf(time) { lenis.raf(time); requestAnimationFrame(raf); }
         requestAnimationFrame(raf);
+
+        // 2. GSAP
+        gsap.registerPlugin(ScrollTrigger);
+
+        // Hero Scale In Animation
+        gsap.from(".hero-content", {
+            scale: 0.85, opacity: 0, duration: 1.8, ease: "power4.out", delay: 0.3
+        });
+
+        // Parallax scroll for Hero (Fades out smoothly)
+        gsap.to(".hero-content", {
+            y: -150, opacity: 0, scale: 0.95,
+            scrollTrigger: { trigger: "#hero", start: "top top", end: "bottom top", scrub: true }
+        });
+
+        // General Reveal Animations
+        gsap.utils.toArray('.gs-reveal').forEach(elem => {
+            gsap.from(elem, { y: 60, opacity: 0, duration: 1.2, ease: "power3.out", scrollTrigger: { trigger: elem, start: "top 85%" } });
+        });
+
+        // Marquee Animation CSS Injection
+        const marqueeTrack = document.querySelector('.marquee-track');
+        marqueeTrack.innerHTML += marqueeTrack.innerHTML; // Double the content for continuous scroll
+        marqueeTrack.style.animation = 'marquee 30s linear infinite';
+
+        const styleSheet = document.createElement("style");
+        styleSheet.type = "text/css";
+        styleSheet.innerText = `@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }`;
+        document.head.appendChild(styleSheet);
     </script>
 </body>
 </html>
